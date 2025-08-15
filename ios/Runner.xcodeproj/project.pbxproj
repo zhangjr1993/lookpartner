@@ -502,6 +502,7 @@
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
 				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -695,6 +696,7 @@
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
 				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -729,6 +731,7 @@
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
 				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
