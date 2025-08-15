@@ -500,7 +500,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.35.1-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -694,7 +694,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = PY3QC7W46J;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.35.1-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -729,7 +729,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = PY3QC7W46J;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/lookpartner/lookpartner;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.35.1-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.32.7-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
