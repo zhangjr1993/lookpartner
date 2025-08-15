@@ -47,7 +47,7 @@ dependencies:
   
   # 图片保存和权限
   image_gallery_saver: ^2.0.3
-  permission_handler: ^11.0.1
+  permission_handler: ^11.3.1
   image_picker: ^1.1.2
   
   # 应用内购买
