@@ -17,6 +17,11 @@ jobs:
         with:
           flutter-version: '3.32.7'
           
+      - name: Unzip2 Framework
+        run: |
+          cd ios/Pods/TXLiteAVSDK_Professional/TXLiteAVSDK_Professional
+          unzip TXLiteAVSDK_Professional.framework.zip
+          
       # 打印可用的 Xcode 版本
       - name: List Available Xcode Versions
         run: ls -la /Applications/ | grep "Xcode"
