@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAgainstLevel</key>
+	<string>viewDuringLevel</string>
+	<key>discardedTickerRate</key>
+	<string>semanticsByFlyweight</string>
+	<key>drawerStateInterval</key>
+	<string>commandFacadeIndex</string>
+	<key>radioFacadeStatus</key>
+	<string>radiusTaskSkewy</string>
+	<key>sceneFrameworkFlags</key>
+	<string>otherTechniqueTransparency</string>
+	<key>scrollParamSize</key>
+	<string>usedGroupBottom</string>
+	<key>sliderDespiteActivity</key>
+	<string>groupStrategyVelocity</string>
+	<key>storageWorkVisibility</key>
+	<string>factoryAboutVisitor</string>
+</dict>
+</plist>

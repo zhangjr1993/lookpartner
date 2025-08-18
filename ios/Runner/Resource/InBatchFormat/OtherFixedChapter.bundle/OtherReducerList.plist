@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationIncludeMediator</key>
+	<string>geometricBehaviorBound</string>
+	<key>invisibleRadiusEdge</key>
+	<string>smartStepCoord</string>
+	<key>materialHandlerDirection</key>
+	<string>grainExceptContext</string>
+	<key>primaryPlateRight</key>
+	<string>parallelMomentumType</string>
+	<key>resilientLossDepth</key>
+	<string>textUntilBridge</string>
+	<key>shaderVariableBottom</key>
+	<string>persistentCharacterForce</string>
+	<key>stateChainAcceleration</key>
+	<string>overlayForVisitor</string>
+	<key>sustainableApertureInterval</key>
+	<string>composableMasterHead</string>
+</dict>
+</plist>

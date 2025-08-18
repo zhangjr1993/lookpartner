@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiBlocSize</key>
+	<string>spriteOutsideOperation</string>
+	<key>radioEnvironmentBehavior</key>
+	<string>effectParameterTransparency</string>
+	<key>responsiveCubitBottom</key>
+	<string>blocCycleTint</string>
+	<key>sizeProcessAppearance</key>
+	<string>featureWithPrototype</string>
+	<key>stateKindSkewy</key>
+	<string>animationForBuffer</string>
+</dict>
+</plist>

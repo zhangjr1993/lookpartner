@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorAmongMode</key>
+	<string>heapCompositeContrast</string>
+	<key>methodAmongSingleton</key>
+	<string>explicitInjectionCenter</string>
+	<key>positionAndPhase</key>
+	<string>curveWorkBorder</string>
+	<key>rectNearNumber</key>
+	<string>normalBlocFormat</string>
+	<key>resultForKind</key>
+	<string>checkboxFlyweightHead</string>
+	<key>sceneAsVisitor</key>
+	<string>containerVersusParam</string>
+	<key>tappableResponseShape</key>
+	<string>primaryLogarithmVelocity</string>
+	<key>usageParamRotation</key>
+	<string>unaryPhaseCoord</string>
+</dict>
+</plist>

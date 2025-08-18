@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstInterpreter</key>
+	<string>inheritedManagerHue</string>
+	<key>brushThroughStrategy</key>
+	<string>secondRowFeedback</string>
+	<key>bufferObserverFeedback</key>
+	<string>expandedMethodFlags</string>
+	<key>consultativeControllerBound</key>
+	<string>intermediateStoreBorder</string>
+	<key>coordinatorScopeDelay</key>
+	<string>sineWithoutActivity</string>
+	<key>grainWithStyle</key>
+	<string>titleKindMargin</string>
+	<key>indicatorChainInset</key>
+	<string>projectionContextBorder</string>
+	<key>kernelMethodTag</key>
+	<string>providerTypeSkewx</string>
+	<key>priorViewTheme</key>
+	<string>protocolLayerInset</string>
+	<key>subscriptionBesideParam</key>
+	<string>alignmentBufferTheme</string>
+</dict>
+</plist>

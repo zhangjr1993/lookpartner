@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorAdapterPadding</key>
+	<string>robustStampStyle</string>
+	<key>intuitiveRouteBorder</key>
+	<string>textureBeyondPattern</string>
+	<key>routeProxyMargin</key>
+	<string>interactiveIntensityCenter</string>
+	<key>singletonOutsideOperation</key>
+	<string>tableAroundStage</string>
+	<key>textureInterpreterColor</key>
+	<string>radiusChainTint</string>
+	<key>timerOutsideState</key>
+	<string>crucialIntensityVisible</string>
+	<key>vectorOrMediator</key>
+	<string>eagerViewAppearance</string>
+</dict>
+</plist>

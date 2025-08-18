@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValueFrequency</key>
+	<string>dependencyMediatorShade</string>
+	<key>cosineViaOperation</key>
+	<string>subpixelPlatformVisible</string>
+	<key>eagerOptimizerBehavior</key>
+	<string>timerActionScale</string>
+	<key>interfaceLevelResponse</key>
+	<string>painterExceptParameter</string>
+	<key>listenerStructureMode</key>
+	<string>heapMementoAlignment</string>
+	<key>popupOutsidePrototype</key>
+	<string>unactivatedInteractorInset</string>
+	<key>rectAroundForm</key>
+	<string>transformerContainStrategy</string>
+</dict>
+</plist>

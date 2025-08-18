@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentChainRate</key>
+	<string>asyncAmongVariable</string>
+	<key>featureVersusBuffer</key>
+	<string>offsetExceptSystem</string>
+	<key>futureByTask</key>
+	<string>serviceJobDistance</string>
+	<key>gridAmongBuffer</key>
+	<string>statefulActivityVelocity</string>
+	<key>gridInsideBridge</key>
+	<string>requestPatternFeedback</string>
+	<key>groupFunctionState</key>
+	<string>profileMediatorStyle</string>
+	<key>lazyTaskMode</key>
+	<string>sharedObserverShade</string>
+	<key>marginAdapterSaturation</key>
+	<string>threadStyleTransparency</string>
+</dict>
+</plist>

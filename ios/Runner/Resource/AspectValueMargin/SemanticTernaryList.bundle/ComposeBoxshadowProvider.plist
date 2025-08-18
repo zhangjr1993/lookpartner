@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusCycle</key>
+	<string>widgetStageScale</string>
+	<key>dependencyTierCoord</key>
+	<string>apertureFrameworkSpeed</string>
+	<key>groupCycleInteraction</key>
+	<string>errorProcessResponse</string>
+	<key>inkwellTempleFlags</key>
+	<string>observerViaShape</string>
+	<key>mainAnimationDensity</key>
+	<string>transitionVisitorRotation</string>
+	<key>rowModeFlags</key>
+	<string>alertVersusCommand</string>
+	<key>sizeMethodKind</key>
+	<string>tickerAdapterColor</string>
+	<key>statePhaseEdge</key>
+	<string>eagerBufferDirection</string>
+</dict>
+</plist>

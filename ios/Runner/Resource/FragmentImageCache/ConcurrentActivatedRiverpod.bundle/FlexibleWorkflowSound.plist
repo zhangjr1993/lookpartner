@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTextureIndex</key>
+	<string>timerMediatorPadding</string>
+	<key>localProviderFlags</key>
+	<string>hashDuringFramework</string>
+	<key>nibViaVisitor</key>
+	<string>graphStageForce</string>
+	<key>opaqueGridOffset</key>
+	<string>firstEffectFlags</string>
+	<key>pinchableProgressbarHue</key>
+	<string>monsterVariableFlags</string>
+	<key>tickerNearFlyweight</key>
+	<string>sortedNavigationVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureOutsideMethod</key>
+	<string>channelShapeDensity</string>
+	<key>isolateWithoutAction</key>
+	<string>deferredPainterBrightness</string>
+	<key>positionValueTint</key>
+	<string>routeAwayLevel</string>
+	<key>queryIncludeProxy</key>
+	<string>mediumTransformerBottom</string>
+	<key>reusableStatefulOrientation</key>
+	<string>protectedProjectionFlags</string>
+	<key>skinNumberShape</key>
+	<string>dynamicMissionBorder</string>
+	<key>transitionActionHue</key>
+	<string>anchorInShape</string>
+</dict>
+</plist>

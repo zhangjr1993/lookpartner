@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContextBrightness</key>
+	<string>documentParameterKind</string>
+	<key>cursorBeyondOperation</key>
+	<string>cubitAdapterCoord</string>
+	<key>custompaintVersusStyle</key>
+	<string>completerPerStrategy</string>
+	<key>ephemeralScreenInterval</key>
+	<string>layoutInMemento</string>
+</dict>
+</plist>

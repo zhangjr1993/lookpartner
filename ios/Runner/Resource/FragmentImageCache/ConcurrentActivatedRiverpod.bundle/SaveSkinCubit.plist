@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitServiceVisible</key>
+	<string>sceneByFunction</string>
+	<key>gridviewCompositeBottom</key>
+	<string>timerAlongTemple</string>
+	<key>navigatorEnvironmentFrequency</key>
+	<string>advancedImageOffset</string>
+	<key>responsiveEventShape</key>
+	<string>mediocreTextureAlignment</string>
+	<key>singletonLayerPadding</key>
+	<string>cubeContainLayer</string>
+	<key>streamStageOpacity</key>
+	<string>customizedFrameOpacity</string>
+</dict>
+</plist>

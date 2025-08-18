@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisObserverVelocity</key>
+	<string>basicDimensionState</string>
+	<key>nativeCompositionValidation</key>
+	<string>hardBaseOrientation</string>
+	<key>newestHandlerOpacity</key>
+	<string>sizeLikeComposite</string>
+	<key>nextLayoutShape</key>
+	<string>spotStyleSpeed</string>
+	<key>petSingletonColor</key>
+	<string>displayableTangentName</string>
+	<key>statelessParameterTop</key>
+	<string>synchronousUsecaseAppearance</string>
+	<key>storageThroughDecorator</key>
+	<string>grainBufferSpeed</string>
+	<key>streamInterpreterPadding</key>
+	<string>subscriptionAdapterTheme</string>
+	<key>tangentDuringPrototype</key>
+	<string>textureAgainstScope</string>
+</dict>
+</plist>

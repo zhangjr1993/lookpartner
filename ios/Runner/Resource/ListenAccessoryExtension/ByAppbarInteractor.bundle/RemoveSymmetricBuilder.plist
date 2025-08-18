@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFrameName</key>
+	<string>lazyScrollLocation</string>
+	<key>associatedViewFrequency</key>
+	<string>taskWithVar</string>
+	<key>constraintVarBottom</key>
+	<string>oldGetxBorder</string>
+	<key>crudeMediaqueryShape</key>
+	<string>matrixAndLayer</string>
+	<key>ignoredStateTheme</key>
+	<string>menuWorkSaturation</string>
+	<key>reductionWorkValidation</key>
+	<string>euclideanToolAppearance</string>
+	<key>robustManagerOffset</key>
+	<string>opaqueWidgetSpacing</string>
+	<key>spineActionName</key>
+	<string>basicCanvasSpacing</string>
+	<key>subpixelSinceShape</key>
+	<string>hashFromChain</string>
+</dict>
+</plist>

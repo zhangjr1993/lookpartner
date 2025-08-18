@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRichtextInset</key>
+	<string>tappableOverlayHue</string>
+	<key>desktopSingletonValidation</key>
+	<string>durationFrameworkDuration</string>
+	<key>diffableSampleBehavior</key>
+	<string>workflowFacadeInset</string>
+	<key>grayscaleOrMode</key>
+	<string>responsiveResultSkewx</string>
+	<key>nibCompositeKind</key>
+	<string>commonDocumentBottom</string>
+	<key>numericalRouterScale</key>
+	<string>previewCommandDirection</string>
+	<key>robustResourceAppearance</key>
+	<string>characterAwayTier</string>
+	<key>roleSingletonDistance</key>
+	<string>publicRemainderCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRouteType</key>
+	<string>providerWithoutKind</string>
+	<key>baseIncludePattern</key>
+	<string>concreteShaderLocation</string>
+	<key>beginnerGrayscaleBound</key>
+	<string>bufferTypeLeft</string>
+	<key>draggableMatrixDistance</key>
+	<string>smartLocalizationFeedback</string>
+	<key>frameBufferResponse</key>
+	<string>chartTypeHead</string>
+	<key>iconStageCenter</key>
+	<string>respectiveResponsePadding</string>
+	<key>managerCommandInset</key>
+	<string>concurrentInjectionBrightness</string>
+	<key>modalStageShape</key>
+	<string>mediaqueryFormBottom</string>
+	<key>temporaryResultCount</key>
+	<string>signAgainstFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTaskDelay</key>
+	<string>basicConstraintColor</string>
+	<key>actionForState</key>
+	<string>entropyWithParam</string>
+	<key>blocStyleFrequency</key>
+	<string>reactiveGetxName</string>
+	<key>delegateActivityOffset</key>
+	<string>smallButtonFlags</string>
+	<key>discardedSkinBehavior</key>
+	<string>gridviewThroughFlyweight</string>
+	<key>disparateSinkRotation</key>
+	<string>seamlessProtocolInteraction</string>
+	<key>lossStageSpeed</key>
+	<string>controllerProxyHue</string>
+	<key>momentumInInterpreter</key>
+	<string>respectiveCapacitiesColor</string>
+	<key>queueStateRotation</key>
+	<string>extensionVersusState</string>
+</dict>
+</plist>

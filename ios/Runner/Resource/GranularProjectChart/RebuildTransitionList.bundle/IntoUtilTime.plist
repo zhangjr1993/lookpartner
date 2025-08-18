@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInsideScope</key>
+	<string>animationWithoutVariable</string>
+	<key>discardedSemanticsScale</key>
+	<string>observerExceptOperation</string>
+	<key>labelViaContext</key>
+	<string>inkwellValuePadding</string>
+	<key>observerPhaseSpacing</key>
+	<string>remainderPlatformOffset</string>
+	<key>segueActivityDistance</key>
+	<string>hyperbolicAllocatorBehavior</string>
+	<key>viewContainParam</key>
+	<string>serviceOfCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFormDistance</key>
+	<string>offsetCommandBrightness</string>
+	<key>scrollableProtocolFrequency</key>
+	<string>flexAsState</string>
+	<key>singletonStateShape</key>
+	<string>accessibleRequestAcceleration</string>
+	<key>sizeShapeOrientation</key>
+	<string>lastEqualizationFeedback</string>
+	<key>uniformTopicAppearance</key>
+	<string>tweenScopeTail</string>
+	<key>variantProcessKind</key>
+	<string>eventActivitySkewy</string>
+</dict>
+</plist>

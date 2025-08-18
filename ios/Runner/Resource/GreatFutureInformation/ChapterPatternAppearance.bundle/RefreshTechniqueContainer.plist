@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineNumberStyle</key>
+	<string>immediateAnchorDuration</string>
+	<key>builderBesideFunction</key>
+	<string>dependencyForMode</string>
+	<key>customizedBaselineShade</key>
+	<string>groupModeSaturation</string>
+	<key>eagerSingletonTheme</key>
+	<string>independentDecorationFlags</string>
+	<key>permanentSensorBehavior</key>
+	<string>layoutEnvironmentLeft</string>
+	<key>sceneMethodOrigin</key>
+	<string>certificateContainChain</string>
+	<key>toolOrForm</key>
+	<string>delegatePerScope</string>
+</dict>
+</plist>

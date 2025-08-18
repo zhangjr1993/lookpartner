@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStyleStatus</key>
+	<string>activatedBufferIndex</string>
+	<key>criticalTextIndex</key>
+	<string>directGridLeft</string>
+	<key>diffableAlignmentPadding</key>
+	<string>graphicTaskFrequency</string>
+	<key>oldConstraintMomentum</key>
+	<string>alertBufferScale</string>
+	<key>responsiveServicePadding</key>
+	<string>subsequentSizeInteraction</string>
+	<key>unactivatedErrorBound</key>
+	<string>statefulActionLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelActivityResponse</key>
+	<string>parallelTweenCenter</string>
+	<key>groupStructurePressure</key>
+	<string>columnIncludeStrategy</string>
+	<key>localRequestBound</key>
+	<string>nodeSingletonAlignment</string>
+	<key>navigationStyleDirection</key>
+	<string>storeMethodHue</string>
+	<key>navigatorBesidePrototype</key>
+	<string>sceneVarTint</string>
+	<key>sceneCommandValidation</key>
+	<string>loopDecoratorAlignment</string>
+	<key>sequentialInteractorAlignment</key>
+	<string>widgetVisitorAcceleration</string>
+	<key>streamInStrategy</key>
+	<string>typicalSliderLocation</string>
+	<key>transitionOrStructure</key>
+	<string>errorStrategyInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionWithWork</key>
+	<string>parallelViewForce</string>
+	<key>cupertinoReferenceState</key>
+	<string>statelessAndState</string>
+	<key>curveVarOpacity</key>
+	<string>reactiveAssetShape</string>
+	<key>decorationActivityBrightness</key>
+	<string>robustCustompaintSize</string>
+	<key>tickerPatternFrequency</key>
+	<string>multiplicationThroughEnvironment</string>
+	<key>tickerThroughType</key>
+	<string>adaptiveAxisDuration</string>
+	<key>transitionProxyMode</key>
+	<string>pointCommandInterval</string>
+</dict>
+</plist>

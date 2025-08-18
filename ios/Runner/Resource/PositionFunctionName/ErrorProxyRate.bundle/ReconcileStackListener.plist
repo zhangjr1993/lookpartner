@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalTaskVisibility</key>
+	<string>nextEventScale</string>
+	<key>otherRouteBehavior</key>
+	<string>actionDespiteTier</string>
+	<key>roleDecoratorBorder</key>
+	<string>dynamicMomentumInterval</string>
+	<key>usedDecorationTint</key>
+	<string>navigatorCompositePosition</string>
+</dict>
+</plist>

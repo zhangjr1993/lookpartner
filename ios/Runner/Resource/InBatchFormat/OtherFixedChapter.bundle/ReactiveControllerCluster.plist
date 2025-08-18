@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnThanFramework</key>
+	<string>functionalLocalizationMode</string>
+	<key>controllerPatternTransparency</key>
+	<string>keyLayoutShape</string>
+	<key>explicitModelBound</key>
+	<string>hierarchicalSubscriptionSize</string>
+	<key>exponentUntilCommand</key>
+	<string>signFlyweightHue</string>
+	<key>modalStageTheme</key>
+	<string>sharedBuilderDuration</string>
+	<key>singletonFlyweightVelocity</key>
+	<string>curveCommandMomentum</string>
+	<key>singletonIncludeStructure</key>
+	<string>stateAwayStructure</string>
+	<key>sliderCompositeKind</key>
+	<string>textAgainstValue</string>
+	<key>synchronousHeroVisibility</key>
+	<string>buttonScopePosition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLabelType</key>
+	<string>certificateShapeBorder</string>
+	<key>gridActionShape</key>
+	<string>resizableKernelLeft</string>
+	<key>iconInFlyweight</key>
+	<string>viewLikeMethod</string>
+	<key>interactorNearMemento</key>
+	<string>sinkContainKind</string>
+	<key>interpolationTempleTop</key>
+	<string>custompaintAsWork</string>
+	<key>prevMethodHue</key>
+	<string>grayscaleMethodLocation</string>
+	<key>promiseParameterPosition</key>
+	<string>rolePerTask</string>
+	<key>routePerObserver</key>
+	<string>timerPerSingleton</string>
+	<key>textureVisitorSpacing</key>
+	<string>notifierLayerMode</string>
+</dict>
+</plist>

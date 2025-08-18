@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryFacadeBorder</key>
+	<string>primaryAnimationSaturation</string>
+	<key>observerPhaseHue</key>
+	<string>commandThroughLevel</string>
+	<key>resourceAtLevel</key>
+	<string>resilientTechniqueVisible</string>
+	<key>transitionBeyondTemple</key>
+	<string>buttonOfCycle</string>
+</dict>
+</plist>

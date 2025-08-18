@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSingletonTransparency</key>
+	<string>arithmeticAlongLayer</string>
+	<key>builderBridgeState</key>
+	<string>builderIncludeSingleton</string>
+	<key>composableCubeTail</key>
+	<string>protectedObserverState</string>
+	<key>controllerNearScope</key>
+	<string>configurationChainType</string>
+	<key>euclideanMultiplicationTint</key>
+	<string>agileGestureBehavior</string>
+	<key>euclideanProjectCenter</key>
+	<string>cubitDuringFunction</string>
+	<key>featureDuringWork</key>
+	<string>sceneNearLevel</string>
+	<key>logarithmBufferVisibility</key>
+	<string>delegatePatternOpacity</string>
+	<key>singleTextfieldHead</key>
+	<string>futureWithoutCycle</string>
+</dict>
+</plist>

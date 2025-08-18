@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocActionShade</key>
+	<string>handlerLikeBridge</string>
+	<key>denseGridAcceleration</key>
+	<string>alignmentPhaseTheme</string>
+	<key>granularTextTint</key>
+	<string>adaptiveLabelBorder</string>
+	<key>specifyResourceState</key>
+	<string>permissiveHandlerContrast</string>
+	<key>textExceptSystem</key>
+	<string>popupAwayInterpreter</string>
+	<key>themeAroundDecorator</key>
+	<string>queryCompositeInteraction</string>
+	<key>webRequestEdge</key>
+	<string>associatedDescriptionStyle</string>
+</dict>
+</plist>

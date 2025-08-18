@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTierTheme</key>
+	<string>imageContextFormat</string>
+	<key>curveBufferShade</key>
+	<string>iterativeBorderTail</string>
+	<key>liteBorderFrequency</key>
+	<string>progressbarContextLocation</string>
+	<key>primaryStampBehavior</key>
+	<string>handlerJobColor</string>
+	<key>providerMethodDensity</key>
+	<string>denseTaskHue</string>
+</dict>
+</plist>

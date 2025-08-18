@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDuringFacade</key>
+	<string>spineWithoutMode</string>
+	<key>switchScopeLeft</key>
+	<string>baseTaskTransparency</string>
+	<key>synchronousStreamSpacing</key>
+	<string>grayscaleScopeRate</string>
+	<key>unactivatedCoordinatorFlags</key>
+	<string>directSineSaturation</string>
+	<key>uniqueTernaryStyle</key>
+	<string>buttonProxyHead</string>
+	<key>utilFromScope</key>
+	<string>columnViaWork</string>
+</dict>
+</plist>

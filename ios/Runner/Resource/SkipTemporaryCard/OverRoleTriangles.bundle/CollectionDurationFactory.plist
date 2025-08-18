@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInsideValue</key>
+	<string>seamlessIntegerKind</string>
+	<key>elasticLabelMargin</key>
+	<string>radiusCompositeMargin</string>
+	<key>normalNavigatorFeedback</key>
+	<string>progressbarForLevel</string>
+	<key>touchNumberTop</key>
+	<string>declarativeDurationMargin</string>
+	<key>unactivatedGraphRotation</key>
+	<string>offsetProcessStyle</string>
+</dict>
+</plist>

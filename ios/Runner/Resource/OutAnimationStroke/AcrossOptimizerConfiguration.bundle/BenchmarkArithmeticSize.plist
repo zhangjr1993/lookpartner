@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerUntilContext</key>
+	<string>injectionAwayTask</string>
+	<key>coordinatorAtScope</key>
+	<string>scaleOutsideBuffer</string>
+	<key>directPaddingOffset</key>
+	<string>durationPerCommand</string>
+	<key>monsterDuringCycle</key>
+	<string>draggableThemeDelay</string>
+	<key>navigatorAwayScope</key>
+	<string>screenMediatorInterval</string>
+	<key>shaderInFunction</key>
+	<string>movementTempleSaturation</string>
+	<key>tensorMovementInteraction</key>
+	<string>configurationDespiteCycle</string>
+	<key>uniqueMediaHue</key>
+	<string>originalApertureSkewy</string>
+</dict>
+</plist>

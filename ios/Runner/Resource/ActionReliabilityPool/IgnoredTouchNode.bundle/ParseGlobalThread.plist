@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAroundInterpreter</key>
+	<string>presenterAtVariable</string>
+	<key>blocStageInset</key>
+	<string>standaloneCellLocation</string>
+	<key>contractionViaFlyweight</key>
+	<string>containerTaskSpacing</string>
+	<key>inkwellBeyondInterpreter</key>
+	<string>brushAdapterLocation</string>
+	<key>resourcePhaseDistance</key>
+	<string>decorationAsMode</string>
+	<key>resultAroundDecorator</key>
+	<string>declarativeCubitMomentum</string>
+	<key>textAdapterDistance</key>
+	<string>directlyTextRate</string>
+	<key>vectorAlongParam</key>
+	<string>iterativeObserverTop</string>
+	<key>zoneTypeTag</key>
+	<string>vectorObserverValidation</string>
+</dict>
+</plist>

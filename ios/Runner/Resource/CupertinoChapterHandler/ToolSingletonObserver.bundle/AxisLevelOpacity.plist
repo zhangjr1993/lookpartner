@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMementoTint</key>
+	<string>mediumStorageContrast</string>
+	<key>dependencyPatternLocation</key>
+	<string>multiGrayscaleBrightness</string>
+	<key>durationFrameworkTag</key>
+	<string>asynchronousRectDelay</string>
+	<key>expandedStyleOrigin</key>
+	<string>curveStructureLeft</string>
+	<key>intuitivePrecisionBottom</key>
+	<string>permanentNodeRight</string>
+	<key>spriteFacadeLocation</key>
+	<string>documentWithoutContext</string>
+	<key>storeBufferForce</key>
+	<string>inkwellOfWork</string>
+	<key>tweenOutsideVariable</key>
+	<string>materialAnchorSkewx</string>
+</dict>
+</plist>

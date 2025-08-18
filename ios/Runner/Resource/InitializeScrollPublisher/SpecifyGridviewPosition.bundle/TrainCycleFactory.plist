@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalNavigatorInset</key>
+	<string>navigatorCommandSize</string>
+	<key>frameBesideShape</key>
+	<string>fusedGesturedetectorInteraction</string>
+	<key>lazyFactoryRight</key>
+	<string>primaryInkwellDistance</string>
+	<key>prismaticStepRotation</key>
+	<string>handlerObserverPosition</string>
+	<key>spotWorkOrigin</key>
+	<string>statelessFacadeRotation</string>
+	<key>statelessCycleFormat</key>
+	<string>lossAtFramework</string>
+	<key>taskThroughFramework</key>
+	<string>presenterFromComposite</string>
+	<key>textureBeyondComposite</key>
+	<string>gateInsideSingleton</string>
+</dict>
+</plist>

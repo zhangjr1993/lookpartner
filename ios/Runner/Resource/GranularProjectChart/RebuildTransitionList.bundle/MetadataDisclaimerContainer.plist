@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBridgeMode</key>
+	<string>imageFromValue</string>
+	<key>grainDecoratorLeft</key>
+	<string>mutableModelForce</string>
+	<key>invisibleAsyncTransparency</key>
+	<string>smallOptimizerSaturation</string>
+	<key>nativeChannelBorder</key>
+	<string>segueParameterBottom</string>
+	<key>serviceNearParam</key>
+	<string>significantTickerHue</string>
+	<key>sineEnvironmentMode</key>
+	<string>animatedPriorityDelay</string>
+</dict>
+</plist>

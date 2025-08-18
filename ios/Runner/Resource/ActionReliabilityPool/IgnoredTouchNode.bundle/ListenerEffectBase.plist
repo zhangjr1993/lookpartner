@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureWithoutBridge</key>
+	<string>primaryDecorationInterval</string>
+	<key>ignoredFeatureKind</key>
+	<string>dynamicStackResponse</string>
+	<key>labelOutsideFlyweight</key>
+	<string>chartFromLevel</string>
+	<key>navigationLikeValue</key>
+	<string>paddingInterpreterRotation</string>
+	<key>painterShapeBehavior</key>
+	<string>batchAtProcess</string>
+	<key>significantAppbarShape</key>
+	<string>deferredStatelessMargin</string>
+</dict>
+</plist>

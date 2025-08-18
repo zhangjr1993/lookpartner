@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFunctionBorder</key>
+	<string>storyboardAgainstStrategy</string>
+	<key>effectVisitorVelocity</key>
+	<string>directlyNavigatorMode</string>
+	<key>flexDuringActivity</key>
+	<string>spotExceptSingleton</string>
+	<key>prevMatrixTint</key>
+	<string>curveExceptMethod</string>
+	<key>reducerParameterVisibility</key>
+	<string>constraintNearPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAboutFlyweight</key>
+	<string>lastContractionFormat</string>
+	<key>callbackCompositeEdge</key>
+	<string>bulletOfVar</string>
+	<key>channelsVarBehavior</key>
+	<string>displayableCustompaintOpacity</string>
+	<key>concurrentTextValidation</key>
+	<string>layoutPlatformSpeed</string>
+	<key>dependencyAdapterKind</key>
+	<string>tweenLevelInterval</string>
+	<key>labelStructureSpeed</key>
+	<string>newestCacheAcceleration</string>
+	<key>modelForOperation</key>
+	<string>euclideanResponseMargin</string>
+</dict>
+</plist>

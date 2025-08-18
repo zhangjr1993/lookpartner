@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitShapeCenter</key>
+	<string>skinForInterpreter</string>
+	<key>cupertinoOffsetOffset</key>
+	<string>materialCallbackCoord</string>
+	<key>customManagerOffset</key>
+	<string>playbackPerValue</string>
+	<key>equipmentViaVar</key>
+	<string>mediaqueryPrototypeTop</string>
+	<key>metadataViaFlyweight</key>
+	<string>imageAwayMode</string>
+</dict>
+</plist>

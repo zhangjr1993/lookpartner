@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIncludeParameter</key>
+	<string>responsePrototypeDistance</string>
+	<key>bitrateUntilActivity</key>
+	<string>cardActionHue</string>
+	<key>completerSystemInteraction</key>
+	<string>mediocreMapDepth</string>
+	<key>decorationAsVar</key>
+	<string>taskFromMediator</string>
+	<key>easyCompositionIndex</key>
+	<string>invisibleErrorStatus</string>
+	<key>scrollVariableOpacity</key>
+	<string>sliderPerParameter</string>
+</dict>
+</plist>

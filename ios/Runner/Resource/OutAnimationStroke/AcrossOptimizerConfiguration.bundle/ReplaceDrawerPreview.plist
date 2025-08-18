@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAroundBuffer</key>
+	<string>typicalStreamScale</string>
+	<key>durationThroughComposite</key>
+	<string>cupertinoBoxOrientation</string>
+	<key>layerAdapterScale</key>
+	<string>accessoryPerType</string>
+	<key>requestStrategyAcceleration</key>
+	<string>iconScopeRight</string>
+	<key>scrollVersusEnvironment</key>
+	<string>originalMobilePressure</string>
+</dict>
+</plist>

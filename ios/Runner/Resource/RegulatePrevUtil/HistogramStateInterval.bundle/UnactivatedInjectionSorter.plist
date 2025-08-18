@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVarOffset</key>
+	<string>arithmeticStateSize</string>
+	<key>cellStrategyForce</key>
+	<string>flexibleFeatureRotation</string>
+	<key>dialogsKindDirection</key>
+	<string>optionFormOffset</string>
+	<key>eventSingletonEdge</key>
+	<string>publicSpriteVelocity</string>
+	<key>gestureContextInterval</key>
+	<string>gridviewContextPosition</string>
+	<key>gridStyleDelay</key>
+	<string>symmetricResponseEdge</string>
+	<key>radiusMethodRight</key>
+	<string>localizationFunctionAcceleration</string>
+	<key>statefulCatalystName</key>
+	<string>layoutPerType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAsContext</key>
+	<string>tangentInState</string>
+	<key>commandAsMethod</key>
+	<string>layoutDespiteTier</string>
+	<key>mobxWithValue</key>
+	<string>effectCycleRate</string>
+	<key>rectContextFlags</key>
+	<string>captionFunctionPosition</string>
+	<key>textAtStyle</key>
+	<string>commandInterpreterCoord</string>
+</dict>
+</plist>

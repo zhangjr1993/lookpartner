@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondBuffer</key>
+	<string>handlerPatternShade</string>
+	<key>canvasFlyweightTail</key>
+	<string>multiplicationSinceJob</string>
+	<key>containerWithoutActivity</key>
+	<string>arithmeticProfilePosition</string>
+	<key>customHistogramFlags</key>
+	<string>navigationBridgeTail</string>
+	<key>grainBufferScale</key>
+	<string>curveWithoutState</string>
+	<key>hardExceptionStatus</key>
+	<string>fragmentLevelMomentum</string>
+	<key>isolateAndFacade</key>
+	<string>callbackViaForm</string>
+	<key>navigationMethodTension</key>
+	<string>errorAsContext</string>
+	<key>particleFlyweightOrigin</key>
+	<string>buttonThroughSingleton</string>
+	<key>stackProxyDirection</key>
+	<string>directDelegateBehavior</string>
+</dict>
+</plist>

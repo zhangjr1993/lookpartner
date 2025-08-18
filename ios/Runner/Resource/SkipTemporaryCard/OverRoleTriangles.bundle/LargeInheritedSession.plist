@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAgainstProcess</key>
+	<string>nativeIntensityFlags</string>
+	<key>channelIncludeLayer</key>
+	<string>channelProxyStyle</string>
+	<key>fixedControllerName</key>
+	<string>tensorContainerCoord</string>
+	<key>missedAnchorPressure</key>
+	<string>pivotalGridStyle</string>
+	<key>significantSlashForce</key>
+	<string>errorShapePressure</string>
+	<key>storyboardAndShape</key>
+	<string>transitionAboutStage</string>
+	<key>tabviewAroundShape</key>
+	<string>reducerActivityBrightness</string>
+	<key>titleExceptAction</key>
+	<string>navigatorEnvironmentPressure</string>
+	<key>uniformSlashRotation</key>
+	<string>richtextAtTier</string>
+</dict>
+</plist>

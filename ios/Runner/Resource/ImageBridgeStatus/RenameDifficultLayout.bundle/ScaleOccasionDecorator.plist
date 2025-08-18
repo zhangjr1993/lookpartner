@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludePrototype</key>
+	<string>commonBaselineTheme</string>
+	<key>concreteNodeScale</key>
+	<string>missedBorderCount</string>
+	<key>containerShapeOffset</key>
+	<string>nodeNearLayer</string>
+	<key>cupertinoTransformerDistance</key>
+	<string>mobxLayerRight</string>
+	<key>denseMetadataIndex</key>
+	<string>subsequentTickerStatus</string>
+	<key>iconVersusCycle</key>
+	<string>storeSingletonInteraction</string>
+	<key>integerParamOpacity</key>
+	<string>reductionAmongActivity</string>
+	<key>scrollCompositeFrequency</key>
+	<string>cubitAboutStyle</string>
+	<key>textModeRight</key>
+	<string>delegateShapeBehavior</string>
+</dict>
+</plist>

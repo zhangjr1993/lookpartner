@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionModeFlags</key>
+	<string>alertVarHead</string>
+	<key>constraintVisitorFeedback</key>
+	<string>usageDespiteKind</string>
+	<key>interfaceFromParameter</key>
+	<string>fusedFactoryMode</string>
+	<key>responseTaskFlags</key>
+	<string>labelVisitorVelocity</string>
+	<key>stackBeyondVisitor</key>
+	<string>instructionVersusVisitor</string>
+	<key>streamStrategyFlags</key>
+	<string>associatedInteractorKind</string>
+	<key>subscriptionBesideEnvironment</key>
+	<string>originalSpineBound</string>
+	<key>transformerProxySpeed</key>
+	<string>arithmeticSwiftKind</string>
+</dict>
+</plist>

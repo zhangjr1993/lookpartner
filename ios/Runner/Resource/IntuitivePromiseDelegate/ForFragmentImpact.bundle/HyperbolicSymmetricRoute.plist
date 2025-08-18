@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFeatureFormat</key>
+	<string>checkboxAsDecorator</string>
+	<key>captionSystemHue</key>
+	<string>gridviewStateAppearance</string>
+	<key>checkboxValueSpeed</key>
+	<string>lossDuringPhase</string>
+	<key>consultativeUnaryPadding</key>
+	<string>significantStateFormat</string>
+	<key>cubitUntilPattern</key>
+	<string>storeMementoMomentum</string>
+	<key>delegateStageBrightness</key>
+	<string>unsortedDocumentSaturation</string>
+	<key>dimensionScopeDuration</key>
+	<string>numericalStackFlags</string>
+	<key>persistentSignVisible</key>
+	<string>missedParticleTop</string>
+	<key>tappableAnimationAppearance</key>
+	<string>sizeIncludeState</string>
+</dict>
+</plist>

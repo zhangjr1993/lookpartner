@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutAdapter</key>
+	<string>textAboutTask</string>
+	<key>logarithmJobFrequency</key>
+	<string>localCursorFrequency</string>
+	<key>timerVarOrigin</key>
+	<string>normInNumber</string>
+</dict>
+</plist>

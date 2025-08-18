@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludePattern</key>
+	<string>widgetFunctionBehavior</string>
+	<key>asyncCurveSpacing</key>
+	<string>specifyClipperDensity</string>
+	<key>completerBesideMode</key>
+	<string>textDespiteSingleton</string>
+	<key>dependencyThroughVar</key>
+	<string>dependencyCycleRotation</string>
+	<key>durationUntilPhase</key>
+	<string>numericalRowContrast</string>
+	<key>offsetActionLeft</key>
+	<string>segmentAmongSystem</string>
+	<key>skinUntilActivity</key>
+	<string>signatureSinceMediator</string>
+	<key>spriteParameterTop</key>
+	<string>temporaryClipperFeedback</string>
+	<key>symmetricUsageFormat</key>
+	<string>localizationPerParameter</string>
+	<key>unactivatedPainterDelay</key>
+	<string>listenerTaskSpacing</string>
+</dict>
+</plist>

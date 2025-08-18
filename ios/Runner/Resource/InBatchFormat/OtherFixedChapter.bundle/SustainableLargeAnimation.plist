@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSingletonDelay</key>
+	<string>signDespiteActivity</string>
+	<key>displayableRowStyle</key>
+	<string>graphVersusOperation</string>
+	<key>methodThroughInterpreter</key>
+	<string>custompaintProxyDistance</string>
+	<key>navigatorInDecorator</key>
+	<string>lossViaAction</string>
+	<key>navigatorLikePhase</key>
+	<string>frameFrameworkDistance</string>
+	<key>parallelNibDirection</key>
+	<string>mutableTitlePadding</string>
+	<key>positionContextPressure</key>
+	<string>iterativeViewDensity</string>
+	<key>signContainVariable</key>
+	<string>comprehensiveGroupMode</string>
+	<key>utilSingletonDepth</key>
+	<string>semanticButtonState</string>
+</dict>
+</plist>

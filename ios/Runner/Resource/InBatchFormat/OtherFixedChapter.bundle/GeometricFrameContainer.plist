@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPatternShade</key>
+	<string>dialogsAndTemple</string>
+	<key>containerAroundFacade</key>
+	<string>graphicContextSaturation</string>
+	<key>documentStagePadding</key>
+	<string>entityActionPadding</string>
+	<key>shaderAroundDecorator</key>
+	<string>arithmeticCoordinatorDistance</string>
+	<key>transformerInterpreterInterval</key>
+	<string>curveAndPhase</string>
+</dict>
+</plist>

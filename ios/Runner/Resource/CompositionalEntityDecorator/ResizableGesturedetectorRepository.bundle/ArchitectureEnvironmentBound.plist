@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDespiteMode</key>
+	<string>substantialCursorVelocity</string>
+	<key>customizedIndicatorLeft</key>
+	<string>gridAgainstDecorator</string>
+	<key>hierarchicalFeatureValidation</key>
+	<string>missedChannelCoord</string>
+	<key>providerCompositeFeedback</key>
+	<string>themeExceptState</string>
+	<key>signPerFacade</key>
+	<string>navigatorTierTint</string>
+</dict>
+</plist>

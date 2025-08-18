@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFeatureMode</key>
+	<string>memberOutsideFunction</string>
+	<key>intuitiveCheckboxFrequency</key>
+	<string>cupertinoPhasePosition</string>
+	<key>layerOrScope</key>
+	<string>commandTierContrast</string>
+	<key>observerKindAcceleration</key>
+	<string>advancedTitleBrightness</string>
+	<key>viewCycleTransparency</key>
+	<string>prevGroupSkewx</string>
+</dict>
+</plist>

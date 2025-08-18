@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWorkRate</key>
+	<string>protectedAccessoryVisible</string>
+	<key>desktopZoneState</key>
+	<string>scenePerBridge</string>
+	<key>localSegueTag</key>
+	<string>buttonActivityDelay</string>
+	<key>pageviewAwayMediator</key>
+	<string>criticalVariantName</string>
+	<key>protectedRemainderFrequency</key>
+	<string>featureViaPlatform</string>
+	<key>sliderNumberFlags</key>
+	<string>permanentNormOffset</string>
+	<key>spriteSinceScope</key>
+	<string>rapidMomentumStatus</string>
+	<key>stateForMediator</key>
+	<string>futureViaAdapter</string>
+</dict>
+</plist>

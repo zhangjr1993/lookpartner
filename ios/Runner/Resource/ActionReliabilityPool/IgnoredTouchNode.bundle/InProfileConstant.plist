@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlongVar</key>
+	<string>durationVersusStyle</string>
+	<key>bulletAdapterRate</key>
+	<string>flexibleEffectCount</string>
+	<key>commonLoopLocation</key>
+	<string>symmetricTransitionDepth</string>
+	<key>positionedChainAcceleration</key>
+	<string>variantAgainstTier</string>
+	<key>protocolPlatformVelocity</key>
+	<string>buttonVersusWork</string>
+	<key>tappableIntensityPadding</key>
+	<string>offsetBridgeVisibility</string>
+	<key>widgetBridgeInterval</key>
+	<string>offsetFormRate</string>
+</dict>
+</plist>

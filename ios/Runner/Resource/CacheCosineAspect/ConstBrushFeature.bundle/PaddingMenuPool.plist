@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBoxPressure</key>
+	<string>requiredSpineForce</string>
+	<key>crudeMarginInset</key>
+	<string>cardOrEnvironment</string>
+	<key>effectAlongChain</key>
+	<string>pinchableServiceShade</string>
+	<key>ephemeralResourceBound</key>
+	<string>metadataObserverAlignment</string>
+	<key>layoutContainPrototype</key>
+	<string>materialWorkBehavior</string>
+	<key>projectionStrategyDensity</key>
+	<string>heapMementoBrightness</string>
+	<key>textPlatformEdge</key>
+	<string>coordinatorActionCenter</string>
+</dict>
+</plist>

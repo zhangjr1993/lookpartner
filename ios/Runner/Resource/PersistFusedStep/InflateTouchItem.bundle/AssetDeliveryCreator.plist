@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxForPrototype</key>
+	<string>resizablePriorityOpacity</string>
+	<key>effectAmongFacade</key>
+	<string>requiredActionMargin</string>
+	<key>gradientAdapterFlags</key>
+	<string>offsetInsidePattern</string>
+	<key>movementCompositeSpacing</key>
+	<string>dynamicGetxMargin</string>
+	<key>sequentialRepositoryBottom</key>
+	<string>mobxAndPattern</string>
+</dict>
+</plist>

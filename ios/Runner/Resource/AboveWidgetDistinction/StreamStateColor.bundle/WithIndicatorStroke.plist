@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAgainstSystem</key>
+	<string>singletonProxyRight</string>
+	<key>drawerVariableInterval</key>
+	<string>draggableSignForce</string>
+	<key>futureBridgeTheme</key>
+	<string>visibleNavigatorSkewy</string>
+	<key>futurePerEnvironment</key>
+	<string>queueAmongTask</string>
+	<key>kernelAmongType</key>
+	<string>animatedcontainerStageCenter</string>
+	<key>popupAgainstStage</key>
+	<string>originalGraphicDirection</string>
+</dict>
+</plist>

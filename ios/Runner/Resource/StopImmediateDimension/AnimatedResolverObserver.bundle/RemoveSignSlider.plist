@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticKernelCount</key>
+	<string>graphPerAction</string>
+	<key>awaitPlatformPressure</key>
+	<string>eventCycleStyle</string>
+	<key>gateSinceLayer</key>
+	<string>gridviewMementoBehavior</string>
+	<key>ignoredNavigatorInterval</key>
+	<string>smartChannelDistance</string>
+	<key>immutableInterfaceTail</key>
+	<string>getxBridgeDelay</string>
+	<key>liteNavigatorDelay</key>
+	<string>requestParameterVelocity</string>
+	<key>logSingletonMomentum</key>
+	<string>sinkWithoutType</string>
+	<key>singletonExceptParam</key>
+	<string>descriptionFlyweightSpacing</string>
+	<key>textViaMethod</key>
+	<string>gemStrategyVisible</string>
+</dict>
+</plist>

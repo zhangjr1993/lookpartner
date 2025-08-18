@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeSpineForce</key>
+	<string>hardConstraintTension</string>
+	<key>spriteOperationLeft</key>
+	<string>semanticsBesideVar</string>
+	<key>temporaryCheckboxDensity</key>
+	<string>uniqueSkinShape</string>
+	<key>tickerLevelBrightness</key>
+	<string>enabledChartContrast</string>
+</dict>
+</plist>

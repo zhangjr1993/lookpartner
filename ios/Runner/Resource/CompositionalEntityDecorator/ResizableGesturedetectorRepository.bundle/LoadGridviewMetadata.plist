@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainType</key>
+	<string>sequentialAxisLeft</string>
+	<key>cardVersusPlatform</key>
+	<string>directZoneTint</string>
+	<key>concreteSliderStyle</key>
+	<string>segmentAmongFacade</string>
+	<key>entityOutsideFunction</key>
+	<string>inheritedStoreSaturation</string>
+	<key>mediocreAsyncDensity</key>
+	<string>resourceMediatorTension</string>
+	<key>navigationOfFlyweight</key>
+	<string>normalPainterSkewx</string>
+	<key>resourceMementoTransparency</key>
+	<string>rowBridgeCoord</string>
+	<key>seamlessParticleStatus</key>
+	<string>providerFacadeRight</string>
+	<key>taskAgainstChain</key>
+	<string>matrixLayerBottom</string>
+	<key>timerAroundProxy</key>
+	<string>stateChainDensity</string>
+</dict>
+</plist>

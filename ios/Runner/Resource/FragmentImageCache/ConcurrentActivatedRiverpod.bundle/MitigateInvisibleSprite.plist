@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVariableBehavior</key>
+	<string>gridDecoratorResponse</string>
+	<key>cupertinoBuilderHue</key>
+	<string>adaptiveTabbarVisible</string>
+	<key>intermediatePainterColor</key>
+	<string>movementActivityDensity</string>
+	<key>multiplicationMediatorFlags</key>
+	<string>fixedLocalizationBottom</string>
+	<key>profileContainMode</key>
+	<string>modelWithoutBridge</string>
+	<key>reactiveResultDuration</key>
+	<string>reactiveLabelDensity</string>
+	<key>titleStageStatus</key>
+	<string>sineTierRight</string>
+</dict>
+</plist>

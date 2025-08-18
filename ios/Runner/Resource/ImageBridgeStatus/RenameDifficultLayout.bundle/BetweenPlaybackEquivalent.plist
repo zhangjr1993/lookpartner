@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInterpreterDistance</key>
+	<string>chartExceptJob</string>
+	<key>configurationDuringStructure</key>
+	<string>dependencyAmongBuffer</string>
+	<key>consumerVersusFlyweight</key>
+	<string>routerFlyweightColor</string>
+	<key>expandedOutsideVisitor</key>
+	<string>menuAgainstForm</string>
+	<key>gridviewAlongMemento</key>
+	<string>gateIncludeLevel</string>
+	<key>missedBaselineShape</key>
+	<string>getxPhaseSkewx</string>
+	<key>originalGrayscaleAcceleration</key>
+	<string>widgetLayerBottom</string>
+	<key>resizableChartInteraction</key>
+	<string>chartContextBorder</string>
+	<key>stateContainObserver</key>
+	<string>consultativeWidgetCenter</string>
+</dict>
+</plist>

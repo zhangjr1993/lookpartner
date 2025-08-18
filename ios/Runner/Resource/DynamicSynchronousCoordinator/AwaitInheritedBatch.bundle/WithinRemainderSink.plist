@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSkinOrientation</key>
+	<string>utilWithoutParam</string>
+	<key>convolutionInsideComposite</key>
+	<string>sequentialResultTheme</string>
+	<key>dependencyBufferContrast</key>
+	<string>singleOverlayContrast</string>
+	<key>difficultBoxshadowState</key>
+	<string>dependencySinceForm</string>
+	<key>discardedProviderValidation</key>
+	<string>unaryNearPattern</string>
+	<key>diversifiedAllocatorSkewy</key>
+	<string>publicAssetVisibility</string>
+	<key>elasticAwaitInset</key>
+	<string>permanentMusicBottom</string>
+	<key>methodForEnvironment</key>
+	<string>queueStrategyDelay</string>
+	<key>navigationPatternAppearance</key>
+	<string>baseFunctionTail</string>
+	<key>reactiveNavigationPosition</key>
+	<string>constraintLayerShade</string>
+</dict>
+</plist>

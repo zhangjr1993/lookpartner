@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDespiteInterpreter</key>
+	<string>lastClipperRotation</string>
+	<key>grayscaleSystemSkewx</key>
+	<string>accordionSpriteBrightness</string>
+	<key>resultAdapterSize</key>
+	<string>storeAndTemple</string>
+	<key>webSampleSkewy</key>
+	<string>frameCycleDelay</string>
+</dict>
+</plist>

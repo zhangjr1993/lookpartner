@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSliderInteraction</key>
+	<string>dedicatedCubeDuration</string>
+	<key>exponentSystemVisible</key>
+	<string>immediateSubpixelShape</string>
+	<key>managerStyleRotation</key>
+	<string>sortedAssetDensity</string>
+	<key>matrixOutsideFlyweight</key>
+	<string>prismaticMethodOrigin</string>
+	<key>observerFacadeOrigin</key>
+	<string>stackThanPlatform</string>
+	<key>previewUntilLayer</key>
+	<string>grainOutsideMode</string>
+	<key>signBufferOrientation</key>
+	<string>navigatorOfValue</string>
+</dict>
+</plist>

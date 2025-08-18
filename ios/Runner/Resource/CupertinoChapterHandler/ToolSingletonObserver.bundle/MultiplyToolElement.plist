@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSwitchIndex</key>
+	<string>pointAwayMode</string>
+	<key>gradientBufferCenter</key>
+	<string>bulletFlyweightScale</string>
+	<key>hardTopicTransparency</key>
+	<string>particleChainAcceleration</string>
+	<key>protectedMomentumSize</key>
+	<string>multiColumnSpeed</string>
+	<key>subscriptionNumberType</key>
+	<string>anchorLayerOrientation</string>
+</dict>
+</plist>

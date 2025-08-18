@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDecorationSaturation</key>
+	<string>zoneIncludeSingleton</string>
+	<key>integerThanLevel</key>
+	<string>optionDecoratorSpacing</string>
+	<key>labelProxyPosition</key>
+	<string>resizableGridShade</string>
+	<key>mobileGraphicSpeed</key>
+	<string>operationProxyBrightness</string>
+	<key>stackPatternFlags</key>
+	<string>actionInScope</string>
+	<key>statefulCheckboxOrientation</key>
+	<string>controllerProcessBrightness</string>
+	<key>textMediatorTheme</key>
+	<string>channelsTypeTail</string>
+	<key>touchDuringPlatform</key>
+	<string>synchronousLayerSpacing</string>
+	<key>unsortedBaseShape</key>
+	<string>providerAlongInterpreter</string>
+</dict>
+</plist>

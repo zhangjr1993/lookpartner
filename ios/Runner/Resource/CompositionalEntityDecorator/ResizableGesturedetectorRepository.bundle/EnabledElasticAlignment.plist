@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTypeEdge</key>
+	<string>actionInForm</string>
+	<key>binaryThroughStage</key>
+	<string>uniformRouteName</string>
+	<key>callbackIncludePhase</key>
+	<string>tappableFrameTag</string>
+	<key>histogramByFacade</key>
+	<string>heapAmongNumber</string>
+	<key>nativeContainerMomentum</key>
+	<string>capsulePerAdapter</string>
+	<key>prismaticParticleFrequency</key>
+	<string>cosinePhaseKind</string>
+	<key>profileTaskAppearance</key>
+	<string>previewCompositeLocation</string>
+	<key>sliderVersusValue</key>
+	<string>textAndWork</string>
+	<key>ternaryFrameworkSize</key>
+	<string>backwardReductionState</string>
+</dict>
+</plist>

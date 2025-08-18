@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStructureOrientation</key>
+	<string>radiusAwayCycle</string>
+	<key>buttonInterpreterStyle</key>
+	<string>dropdownbuttonAgainstScope</string>
+	<key>cellValueCenter</key>
+	<string>indicatorInAdapter</string>
+	<key>firstCapsuleInteraction</key>
+	<string>widgetSinceState</string>
+	<key>intermediateGraphicCenter</key>
+	<string>loopBridgePressure</string>
+	<key>metadataAmongVariable</key>
+	<string>lostCursorDirection</string>
+	<key>positionedInsideDecorator</key>
+	<string>iconPhaseShape</string>
+	<key>repositoryJobLeft</key>
+	<string>adaptiveChapterOpacity</string>
+	<key>timerEnvironmentTop</key>
+	<string>projectOfStructure</string>
+	<key>titleForContext</key>
+	<string>gateJobSpeed</string>
+</dict>
+</plist>

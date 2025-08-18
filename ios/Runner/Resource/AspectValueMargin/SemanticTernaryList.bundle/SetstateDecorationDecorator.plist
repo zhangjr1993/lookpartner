@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRoleHead</key>
+	<string>screenFrameworkFlags</string>
+	<key>entityFlyweightTheme</key>
+	<string>convolutionFrameworkBehavior</string>
+	<key>missionSystemDensity</key>
+	<string>semanticMissionRate</string>
+	<key>sustainableGridMode</key>
+	<string>navigatorAsChain</string>
+	<key>titleObserverDepth</key>
+	<string>boxTierValidation</string>
+</dict>
+</plist>

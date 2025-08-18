@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParameterMomentum</key>
+	<string>managerTypeMomentum</string>
+	<key>commandOfAction</key>
+	<string>typicalConstraintPosition</string>
+	<key>dependencyAgainstPrototype</key>
+	<string>ephemeralFlexDuration</string>
+	<key>eagerTransformerName</key>
+	<string>arithmeticUntilScope</string>
+	<key>effectPhaseValidation</key>
+	<string>localCursorVisibility</string>
+	<key>listviewStructureValidation</key>
+	<string>keyBatchDirection</string>
+	<key>reducerMementoEdge</key>
+	<string>coordinatorAlongInterpreter</string>
+</dict>
+</plist>

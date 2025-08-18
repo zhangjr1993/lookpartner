@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThroughDecorator</key>
+	<string>signatureWorkBrightness</string>
+	<key>explicitGesturedetectorBottom</key>
+	<string>layoutInsideLayer</string>
+	<key>immediateNavigationFlags</key>
+	<string>frameBesideSystem</string>
+	<key>sustainablePositionedVisibility</key>
+	<string>screenTempleHead</string>
+</dict>
+</plist>

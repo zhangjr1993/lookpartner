@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideActivity</key>
+	<string>chartAdapterInset</string>
+	<key>commandIncludeChain</key>
+	<string>batchForMode</string>
+	<key>dynamicEquipmentInterval</key>
+	<string>futureStructureSize</string>
+	<key>eventIncludeKind</key>
+	<string>deferredEquipmentOrigin</string>
+	<key>heroOutsideComposite</key>
+	<string>viewActivitySkewy</string>
+	<key>hierarchicalBoxshadowState</key>
+	<string>originalSinkBorder</string>
+	<key>instructionAsStage</key>
+	<string>resilientBorderType</string>
+	<key>managerDespiteKind</key>
+	<string>streamChainScale</string>
+	<key>mobileAgainstMediator</key>
+	<string>aspectratioTaskSkewx</string>
+</dict>
+</plist>

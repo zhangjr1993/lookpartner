@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBeyondDecorator</key>
+	<string>mapFromSystem</string>
+	<key>hyperbolicAnimatedcontainerHead</key>
+	<string>uniformTabbarDensity</string>
+	<key>injectionContextValidation</key>
+	<string>interactorActionSkewy</string>
+	<key>mapInMediator</key>
+	<string>concurrentControllerSaturation</string>
+	<key>standaloneEventKind</key>
+	<string>checklistCycleStatus</string>
+	<key>themeWithoutFramework</key>
+	<string>textureOrActivity</string>
+	<key>tickerAndActivity</key>
+	<string>activityMediatorPosition</string>
+	<key>unactivatedLabelCenter</key>
+	<string>largeResponseTop</string>
+</dict>
+</plist>

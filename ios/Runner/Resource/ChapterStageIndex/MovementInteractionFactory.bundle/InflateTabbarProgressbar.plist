@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFrameworkBorder</key>
+	<string>curveMediatorOrientation</string>
+	<key>dropdownbuttonFormSkewy</key>
+	<string>easyGesturedetectorDensity</string>
+	<key>immutableDurationKind</key>
+	<string>aspectWithoutValue</string>
+	<key>isolateInterpreterShape</key>
+	<string>querySinceLayer</string>
+	<key>sharedSpineInset</key>
+	<string>transformerVisitorBorder</string>
+	<key>subtlePositionAppearance</key>
+	<string>alphaScopeBrightness</string>
+</dict>
+</plist>

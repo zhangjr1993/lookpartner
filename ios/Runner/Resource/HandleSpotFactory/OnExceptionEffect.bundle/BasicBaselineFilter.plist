@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandLevelFeedback</key>
+	<string>immediateMenuFormat</string>
+	<key>spriteStructureHead</key>
+	<string>singletonWithoutContext</string>
+	<key>tappableBaseHue</key>
+	<string>capsuleAroundCommand</string>
+	<key>vectorAtState</key>
+	<string>gemThroughSystem</string>
+</dict>
+</plist>

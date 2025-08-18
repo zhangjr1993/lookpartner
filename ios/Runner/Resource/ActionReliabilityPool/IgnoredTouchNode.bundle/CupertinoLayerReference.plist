@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderLikeNumber</key>
+	<string>screenBufferMode</string>
+	<key>constraintPhaseContrast</key>
+	<string>entropyTaskFeedback</string>
+	<key>nibOperationVisible</key>
+	<string>roleCommandContrast</string>
+	<key>presenterCycleRate</key>
+	<string>localizationOrMethod</string>
+	<key>priorNodeSpacing</key>
+	<string>numericalSkinLeft</string>
+	<key>webStateSize</key>
+	<string>titleAgainstParam</string>
+	<key>widgetBeyondNumber</key>
+	<string>nibAmongProxy</string>
+</dict>
+</plist>

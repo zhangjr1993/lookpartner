@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsForm</key>
+	<string>drawerTypeVisible</string>
+	<key>buttonDecoratorValidation</key>
+	<string>buttonFlyweightLeft</string>
+	<key>completerOfOperation</key>
+	<string>vectorDecoratorTag</string>
+	<key>granularLoopShade</key>
+	<string>animatedTransitionName</string>
+	<key>listenerBeyondVariable</key>
+	<string>errorShapeType</string>
+	<key>prismaticPlateOpacity</key>
+	<string>metadataActivityName</string>
+	<key>semanticTimerType</key>
+	<string>prevRectCenter</string>
+	<key>slashObserverInteraction</key>
+	<string>customExtensionTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureObserverSpeed</key>
+	<string>rowAsPhase</string>
+	<key>blocCycleTheme</key>
+	<string>rowLikeDecorator</string>
+	<key>overlayAwayLayer</key>
+	<string>navigatorLikeObserver</string>
+	<key>serviceFacadeOrientation</key>
+	<string>tableAtPattern</string>
+	<key>synchronousViewName</key>
+	<string>groupOrMethod</string>
+</dict>
+</plist>

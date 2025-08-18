@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvePhaseBorder</key>
+	<string>usageOfStructure</string>
+	<key>firstZoneIndex</key>
+	<string>equipmentNumberDepth</string>
+	<key>frameAgainstProxy</key>
+	<string>ignoredErrorTheme</string>
+	<key>queueOutsideKind</key>
+	<string>disabledTabbarShape</string>
+	<key>resultKindDepth</key>
+	<string>effectForForm</string>
+	<key>serviceVarHue</key>
+	<string>inkwellBridgePadding</string>
+	<key>synchronousVectorAcceleration</key>
+	<string>hardNormVisible</string>
+	<key>tabviewLayerName</key>
+	<string>aspectLevelEdge</string>
+</dict>
+</plist>

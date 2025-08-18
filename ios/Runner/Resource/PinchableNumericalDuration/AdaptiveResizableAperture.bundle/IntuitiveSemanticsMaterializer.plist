@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNearJob</key>
+	<string>plateLevelSkewy</string>
+	<key>certificateChainBehavior</key>
+	<string>tappableLabelTheme</string>
+	<key>delegateBufferMode</key>
+	<string>loopDecoratorMargin</string>
+	<key>effectLevelOrigin</key>
+	<string>similarAnimationBound</string>
+	<key>localScreenFrequency</key>
+	<string>constLabelIndex</string>
+	<key>responseVisitorPosition</key>
+	<string>arithmeticUntilCycle</string>
+	<key>transformerProxyAlignment</key>
+	<string>logTypeHead</string>
+</dict>
+</plist>

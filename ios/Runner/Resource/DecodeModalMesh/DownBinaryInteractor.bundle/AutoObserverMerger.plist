@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGrayscaleFlags</key>
+	<string>controllerActionCenter</string>
+	<key>behaviorTempleSaturation</key>
+	<string>smartGemRate</string>
+	<key>gestureInsideKind</key>
+	<string>alphaFacadeTension</string>
+	<key>scrollStrategyValidation</key>
+	<string>tappableSliderTag</string>
+	<key>sensorExceptContext</key>
+	<string>textWorkVisibility</string>
+</dict>
+</plist>

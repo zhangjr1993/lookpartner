@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateLikeInterpreter</key>
+	<string>injectionAlongMethod</string>
+	<key>finalSessionPosition</key>
+	<string>metadataStyleTheme</string>
+	<key>mutableExpandedInset</key>
+	<string>sinkDuringBridge</string>
+	<key>permissiveFeatureOrigin</key>
+	<string>metadataInsideSystem</string>
+</dict>
+</plist>

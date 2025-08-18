@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsideFramework</key>
+	<string>iterativeSegueName</string>
+	<key>lastTextBehavior</key>
+	<string>storyboardAboutPattern</string>
+	<key>notificationFacadeContrast</key>
+	<string>basicKernelDirection</string>
+	<key>optionAgainstSingleton</key>
+	<string>constraintJobBorder</string>
+	<key>repositoryMethodTheme</key>
+	<string>basicDelegateHue</string>
+	<key>semanticsAroundSingleton</key>
+	<string>entropyFlyweightRight</string>
+</dict>
+</plist>

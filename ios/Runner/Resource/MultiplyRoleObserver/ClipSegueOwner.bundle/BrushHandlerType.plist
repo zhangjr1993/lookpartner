@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOutsideState</key>
+	<string>bitrateBufferFeedback</string>
+	<key>channelKindPressure</key>
+	<string>ephemeralDelegateOpacity</string>
+	<key>displayableKernelResponse</key>
+	<string>sequentialControllerInteraction</string>
+	<key>entitySystemForce</key>
+	<string>mobxLevelSkewx</string>
+	<key>localEventFlags</key>
+	<string>modulusStageMargin</string>
+	<key>materialViaWork</key>
+	<string>threadObserverOrigin</string>
+	<key>missedPetMode</key>
+	<string>responsiveHashHead</string>
+	<key>offsetStrategyKind</key>
+	<string>statelessChartVisible</string>
+	<key>priorityInPlatform</key>
+	<string>viewCommandLeft</string>
+	<key>storageVariableDuration</key>
+	<string>imageAroundVariable</string>
+</dict>
+</plist>

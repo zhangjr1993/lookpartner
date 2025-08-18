@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeShade</key>
+	<string>animationVersusComposite</string>
+	<key>directIntegerTheme</key>
+	<string>vectorStyleDensity</string>
+	<key>interactiveMovementAcceleration</key>
+	<string>lostMatrixColor</string>
+	<key>nativeActionValidation</key>
+	<string>assetMediatorPadding</string>
+	<key>offsetUntilMediator</key>
+	<string>basicUsageMode</string>
+	<key>sortedTabbarFormat</key>
+	<string>draggableGroupStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameTierStyle</key>
+	<string>agileAccessoryBottom</string>
+	<key>granularManagerFrequency</key>
+	<string>gridviewOrStructure</string>
+	<key>multiPlateColor</key>
+	<string>containerAtVar</string>
+	<key>resolverFacadeType</key>
+	<string>subtleSpecifierSize</string>
+	<key>sliderLikeShape</key>
+	<string>usecaseWithTier</string>
+</dict>
+</plist>

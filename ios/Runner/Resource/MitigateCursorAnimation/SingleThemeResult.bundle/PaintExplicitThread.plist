@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleInteraction</key>
+	<string>titleInProcess</string>
+	<key>asynchronousOptionAppearance</key>
+	<string>chapterViaStrategy</string>
+	<key>chartNearParam</key>
+	<string>equipmentExceptStyle</string>
+	<key>consumerUntilNumber</key>
+	<string>interpolationContainFunction</string>
+	<key>movementAgainstSingleton</key>
+	<string>mobxDespiteStyle</string>
+	<key>rapidMobileCoord</key>
+	<string>containerAndFacade</string>
+	<key>sequentialAllocatorSkewy</key>
+	<string>marginInterpreterSpeed</string>
+	<key>sliderBufferTag</key>
+	<string>adaptiveListenerCount</string>
+	<key>streamEnvironmentFrequency</key>
+	<string>denseCharacterAcceleration</string>
+</dict>
+</plist>

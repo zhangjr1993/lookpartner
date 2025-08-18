@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerStyleDepth</key>
+	<string>decorationVariableFlags</string>
+	<key>dependencyMediatorBound</key>
+	<string>themeViaSingleton</string>
+	<key>materialErrorValidation</key>
+	<string>dropdownbuttonInsidePattern</string>
+	<key>segmentVisitorBorder</key>
+	<string>storageAtAdapter</string>
+</dict>
+</plist>

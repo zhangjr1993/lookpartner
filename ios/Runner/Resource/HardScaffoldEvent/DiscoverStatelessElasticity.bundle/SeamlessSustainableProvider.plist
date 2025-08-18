@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCellTension</key>
+	<string>effectStyleTint</string>
+	<key>bufferVisitorVisible</key>
+	<string>composableKernelTransparency</string>
+	<key>gateValueEdge</key>
+	<string>groupFrameworkBorder</string>
+	<key>hyperbolicAwaitSkewy</key>
+	<string>threadStateValidation</string>
+	<key>interfaceOutsideContext</key>
+	<string>repositoryMethodTransparency</string>
+	<key>optimizerProcessSkewy</key>
+	<string>convolutionAdapterCount</string>
+	<key>storageLayerVisible</key>
+	<string>textureBesideProcess</string>
+	<key>textfieldObserverTension</key>
+	<string>storageWithAction</string>
+	<key>visibleWorkflowColor</key>
+	<string>tickerAgainstProxy</string>
+</dict>
+</plist>

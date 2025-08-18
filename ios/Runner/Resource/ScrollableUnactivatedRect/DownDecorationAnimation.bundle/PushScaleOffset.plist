@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitLikeType</key>
+	<string>awaitWorkBound</string>
+	<key>awaitModeContrast</key>
+	<string>screenWithoutVariable</string>
+	<key>errorStrategyOpacity</key>
+	<string>instructionNumberBehavior</string>
+	<key>layoutExceptTask</key>
+	<string>contractionAgainstCycle</string>
+	<key>mediumOptimizerSkewy</key>
+	<string>drawerBridgeDensity</string>
+	<key>normalTextureSaturation</key>
+	<string>graphAdapterDistance</string>
+	<key>uniqueGraphicDelay</key>
+	<string>composableDrawerVisible</string>
+</dict>
+</plist>

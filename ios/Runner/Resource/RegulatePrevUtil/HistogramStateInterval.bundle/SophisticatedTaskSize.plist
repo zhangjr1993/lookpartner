@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePositionStyle</key>
+	<string>hierarchicalInteractorState</string>
+	<key>coordinatorForKind</key>
+	<string>roleFunctionValidation</string>
+	<key>equalizationStageDelay</key>
+	<string>expandedOutsideActivity</string>
+	<key>layoutProcessDepth</key>
+	<string>commandStageTheme</string>
+	<key>monsterWithoutVisitor</key>
+	<string>robustGestureDistance</string>
+	<key>sampleOfParam</key>
+	<string>stepCompositeTint</string>
+	<key>specifierWorkIndex</key>
+	<string>gemAsSingleton</string>
+</dict>
+</plist>

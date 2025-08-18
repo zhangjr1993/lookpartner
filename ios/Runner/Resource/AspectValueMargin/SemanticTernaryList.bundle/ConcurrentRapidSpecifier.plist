@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedDespiteLayer</key>
+	<string>scaleBesidePrototype</string>
+	<key>fragmentTempleDensity</key>
+	<string>popupModeInset</string>
+	<key>overlayStrategyContrast</key>
+	<string>statefulAgainstVisitor</string>
+	<key>smallGateTop</key>
+	<string>repositoryTierBehavior</string>
+	<key>uniformLocalizationShade</key>
+	<string>statefulMemberDirection</string>
+	<key>widgetFrameworkOrigin</key>
+	<string>flexibleExpandedBrightness</string>
+</dict>
+</plist>

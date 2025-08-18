@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineActionDistance</key>
+	<string>operationOutsideOperation</string>
+	<key>liteCoordinatorBottom</key>
+	<string>scrollableRowShade</string>
+	<key>otherTouchPadding</key>
+	<string>standaloneEquipmentValidation</string>
+	<key>queryIncludeMemento</key>
+	<string>baseStateAlignment</string>
+	<key>rectVersusAdapter</key>
+	<string>smartAlignmentOpacity</string>
+	<key>rowSingletonCoord</key>
+	<string>responseAgainstVar</string>
+	<key>singleIntensityTransparency</key>
+	<string>momentumInsideAction</string>
+</dict>
+</plist>

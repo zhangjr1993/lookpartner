@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPopupDuration</key>
+	<string>immediateEffectStyle</string>
+	<key>basicSymbolShape</key>
+	<string>constNotifierMargin</string>
+	<key>cardInterpreterBorder</key>
+	<string>gridAboutBuffer</string>
+	<key>decorationBridgeSaturation</key>
+	<string>loopDuringStrategy</string>
+	<key>enabledRichtextSpacing</key>
+	<string>actionFacadeVisible</string>
+	<key>ignoredDelegateOpacity</key>
+	<string>activityStrategyEdge</string>
+	<key>listviewFrameworkCoord</key>
+	<string>convolutionFunctionPosition</string>
+	<key>optimizerJobBottom</key>
+	<string>handlerBesideSingleton</string>
+	<key>stackFacadeBound</key>
+	<string>liteStreamState</string>
+</dict>
+</plist>

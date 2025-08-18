@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtStage</key>
+	<string>smallMovementFrequency</string>
+	<key>dynamicMediaqueryDepth</key>
+	<string>requiredRouterLocation</string>
+	<key>explicitServiceName</key>
+	<string>curveWithComposite</string>
+	<key>grainAwayMode</key>
+	<string>loopAlongFramework</string>
+	<key>lostNotificationOffset</key>
+	<string>reusableEventDensity</string>
+	<key>mediumSessionType</key>
+	<string>metadataNumberTint</string>
+	<key>notificationParamPosition</key>
+	<string>optionIncludeComposite</string>
+	<key>petUntilActivity</key>
+	<string>shaderWorkRight</string>
+	<key>sortedBoxBehavior</key>
+	<string>injectionTaskSpacing</string>
+	<key>transformerBesideAdapter</key>
+	<string>singletonTypeDelay</string>
+</dict>
+</plist>

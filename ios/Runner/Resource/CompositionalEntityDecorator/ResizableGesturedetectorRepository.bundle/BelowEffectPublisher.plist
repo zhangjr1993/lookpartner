@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEquipmentRotation</key>
+	<string>rapidModulusAcceleration</string>
+	<key>custompaintParamRate</key>
+	<string>semanticTextureFeedback</string>
+	<key>custompaintSingletonAcceleration</key>
+	<string>curveAsVar</string>
+	<key>gateBeyondVisitor</key>
+	<string>crucialStreamHue</string>
+	<key>integerParamSize</key>
+	<string>grayscaleVersusPattern</string>
+	<key>precisionAroundShape</key>
+	<string>methodActivityPadding</string>
+	<key>referenceLayerAppearance</key>
+	<string>methodTypePosition</string>
+	<key>visibleMetadataDistance</key>
+	<string>boxFromForm</string>
+	<key>zoneVarSize</key>
+	<string>substantialNormOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocIncludePrototype</key>
+	<string>metadataIncludeType</string>
+	<key>decorationChainRight</key>
+	<string>indicatorStageStatus</string>
+	<key>delegateVersusSingleton</key>
+	<string>fusedRouteType</string>
+	<key>errorWithNumber</key>
+	<string>multiSliderKind</string>
+	<key>heroPerLevel</key>
+	<string>viewOutsideVar</string>
+	<key>missedSceneFeedback</key>
+	<string>mutableThreadInteraction</string>
+	<key>skirtContainVisitor</key>
+	<string>storeDecoratorKind</string>
+</dict>
+</plist>

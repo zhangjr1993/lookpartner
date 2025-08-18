@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWithoutTask</key>
+	<string>effectExceptActivity</string>
+	<key>composableNotifierOffset</key>
+	<string>usedTopicHead</string>
+	<key>curveInMethod</key>
+	<string>sliderStageRight</string>
+	<key>graphPrototypeLocation</key>
+	<string>menuOfPrototype</string>
+	<key>managerThroughMode</key>
+	<string>sinkPerTask</string>
+	<key>navigatorAroundStrategy</key>
+	<string>marginWithoutTier</string>
+	<key>requiredDecorationVisibility</key>
+	<string>allocatorTaskStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInJob</key>
+	<string>grayscaleAgainstTier</string>
+	<key>completionOfProcess</key>
+	<string>flexContainVariable</string>
+	<key>groupAdapterType</key>
+	<string>intensityViaLayer</string>
+	<key>independentPositionState</key>
+	<string>popupParameterResponse</string>
+	<key>multiCapsuleTag</key>
+	<string>resultProcessOpacity</string>
+	<key>remainderWorkFrequency</key>
+	<string>missionDespiteStyle</string>
+	<key>reusableIntensityKind</key>
+	<string>disabledCoordinatorBrightness</string>
+</dict>
+</plist>

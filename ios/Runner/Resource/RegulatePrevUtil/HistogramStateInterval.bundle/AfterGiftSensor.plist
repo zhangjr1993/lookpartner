@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsTier</key>
+	<string>listviewWithStyle</string>
+	<key>cardEnvironmentResponse</key>
+	<string>factoryOrSingleton</string>
+	<key>collectionVersusOperation</key>
+	<string>tabbarAmongCycle</string>
+	<key>coordinatorWithoutPattern</key>
+	<string>providerWithoutTier</string>
+	<key>crucialStoreSpeed</key>
+	<string>timerAsStructure</string>
+	<key>cubitAgainstScope</key>
+	<string>respectiveAnimatedcontainerTint</string>
+	<key>customTransitionForce</key>
+	<string>previewInsideJob</string>
+	<key>durationStyleInset</key>
+	<string>coordinatorJobSkewy</string>
+	<key>elasticFeatureDepth</key>
+	<string>iterativeSliderLocation</string>
+	<key>sizedboxAwayLayer</key>
+	<string>usedCommandShape</string>
+</dict>
+</plist>

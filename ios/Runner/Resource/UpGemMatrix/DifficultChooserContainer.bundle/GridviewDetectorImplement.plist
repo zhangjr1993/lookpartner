@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorTypeSpacing</key>
+	<string>globalBorderName</string>
+	<key>interactiveIsolateCoord</key>
+	<string>allocatorProcessOrigin</string>
+	<key>listenerUntilActivity</key>
+	<string>textStrategyColor</string>
+	<key>petPhaseTag</key>
+	<string>heapCycleTag</string>
+	<key>subscriptionPhaseVelocity</key>
+	<string>hierarchicalQuerySize</string>
+	<key>temporaryIsolateEdge</key>
+	<string>zoneInsideDecorator</string>
+</dict>
+</plist>

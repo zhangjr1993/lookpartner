@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerVisitor</key>
+	<string>screenVersusScope</string>
+	<key>completerUntilStage</key>
+	<string>commonSegmentHead</string>
+	<key>effectScopeAcceleration</key>
+	<string>disabledBehaviorResponse</string>
+	<key>intuitivePresenterBehavior</key>
+	<string>offsetViaMemento</string>
+	<key>navigatorVisitorVisibility</key>
+	<string>particleInsideCommand</string>
+	<key>previewSingletonMargin</key>
+	<string>newestMediaqueryTop</string>
+	<key>reducerByActivity</key>
+	<string>nodeCommandSkewx</string>
+	<key>resolverDespiteCycle</key>
+	<string>fragmentSystemRate</string>
+	<key>textActionBorder</key>
+	<string>errorSingletonStatus</string>
+	<key>unaryThroughFramework</key>
+	<string>usecaseWithFramework</string>
+</dict>
+</plist>

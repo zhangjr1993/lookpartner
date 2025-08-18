@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBrushDensity</key>
+	<string>checklistStructureMargin</string>
+	<key>ignoredProjectDirection</key>
+	<string>pivotalScaleCenter</string>
+	<key>mutableUsageFeedback</key>
+	<string>intensityInsideParam</string>
+	<key>protocolForSystem</key>
+	<string>independentProfileFlags</string>
+	<key>reactiveTickerOrientation</key>
+	<string>backwardWorkflowTheme</string>
+	<key>smallAccessoryBehavior</key>
+	<string>timerFacadeBorder</string>
+	<key>stepWithFramework</key>
+	<string>immutableClipperTag</string>
+	<key>storageOrMemento</key>
+	<string>callbackSingletonStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMonsterDelay</key>
+	<string>criticalSubpixelBound</string>
+	<key>seamlessCustompaintSpacing</key>
+	<string>scrollableListviewEdge</string>
+	<key>staticVectorAcceleration</key>
+	<string>textShapeColor</string>
+	<key>storeInStyle</key>
+	<string>discardedMusicCount</string>
+	<key>subpixelActivityTop</key>
+	<string>errorPatternCount</string>
+</dict>
+</plist>

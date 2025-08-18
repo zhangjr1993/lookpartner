@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSpriteStatus</key>
+	<string>presenterIncludeLevel</string>
+	<key>cubitCompositeVisibility</key>
+	<string>accessibleBaselineValidation</string>
+	<key>entityViaLevel</key>
+	<string>playbackScopePosition</string>
+	<key>exceptionAtFacade</key>
+	<string>disabledCardMomentum</string>
+	<key>oldCubitKind</key>
+	<string>subscriptionStageState</string>
+	<key>queryMementoBehavior</key>
+	<string>asynchronousContainerContrast</string>
+	<key>subscriptionLikeContext</key>
+	<string>retainedNavigationLocation</string>
+</dict>
+</plist>

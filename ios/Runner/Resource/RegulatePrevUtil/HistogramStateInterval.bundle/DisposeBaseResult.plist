@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMediatorDuration</key>
+	<string>materialActionTag</string>
+	<key>completionOperationOrientation</key>
+	<string>firstNavigatorShade</string>
+	<key>controllerViaFlyweight</key>
+	<string>smartAsyncAppearance</string>
+	<key>deferredTextTheme</key>
+	<string>directlyMethodLocation</string>
+	<key>eventVersusVisitor</key>
+	<string>storeCompositeOpacity</string>
+	<key>gramFromProcess</key>
+	<string>difficultSwitchOffset</string>
+	<key>intuitiveWorkflowFrequency</key>
+	<string>iterativeCupertinoInset</string>
+	<key>sliderCycleBorder</key>
+	<string>reactiveScrollHue</string>
+</dict>
+</plist>

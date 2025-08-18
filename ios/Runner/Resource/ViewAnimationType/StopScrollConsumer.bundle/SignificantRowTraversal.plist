@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsVersusForm</key>
+	<string>singletonExceptValue</string>
+	<key>checklistJobFlags</key>
+	<string>widgetContainMediator</string>
+	<key>constraintChainDistance</key>
+	<string>layoutOrContext</string>
+	<key>displayableZoneName</key>
+	<string>usageValueMode</string>
+	<key>durationAndChain</key>
+	<string>navigationAroundJob</string>
+	<key>nibAmongVisitor</key>
+	<string>normByBuffer</string>
+	<key>resolverOfKind</key>
+	<string>standaloneTernaryType</string>
+	<key>shaderAgainstScope</key>
+	<string>menuOfJob</string>
+	<key>symbolPlatformLeft</key>
+	<string>normalCardVelocity</string>
+</dict>
+</plist>

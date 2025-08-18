@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBridgeVelocity</key>
+	<string>iconVisitorRotation</string>
+	<key>interactiveStateDepth</key>
+	<string>granularSkirtSkewy</string>
+	<key>referenceStrategyBehavior</key>
+	<string>immediateCustompaintInteraction</string>
+	<key>reusableTweenVisibility</key>
+	<string>rectSingletonTop</string>
+	<key>richtextWorkMode</key>
+	<string>taskLikeMemento</string>
+	<key>scrollableActivityPressure</key>
+	<string>alignmentViaEnvironment</string>
+	<key>tangentNearFacade</key>
+	<string>tweenAgainstAction</string>
+</dict>
+</plist>

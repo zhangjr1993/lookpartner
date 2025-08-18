@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorLayerShade</key>
+	<string>deferredViewDuration</string>
+	<key>cacheAlongVar</key>
+	<string>resolverVisitorTint</string>
+	<key>grainOutsideVisitor</key>
+	<string>unactivatedAsyncPadding</string>
+	<key>gridPerPattern</key>
+	<string>entityBridgeRate</string>
+	<key>intensityWorkMargin</key>
+	<string>responsiveNotificationRate</string>
+	<key>layoutAsLayer</key>
+	<string>nativeTransitionForce</string>
+	<key>progressbarWorkFlags</key>
+	<string>immutableRouteMode</string>
+	<key>signatureByTemple</key>
+	<string>beginnerRouteStatus</string>
+	<key>textInterpreterSkewy</key>
+	<string>gestureAdapterAlignment</string>
+</dict>
+</plist>

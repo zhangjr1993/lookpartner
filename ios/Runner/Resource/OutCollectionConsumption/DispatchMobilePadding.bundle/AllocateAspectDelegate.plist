@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeAgainstState</key>
+	<string>assetAroundFacade</string>
+	<key>globalBuilderKind</key>
+	<string>zoneAmongPlatform</string>
+	<key>globalResourceDelay</key>
+	<string>animatedContainerOffset</string>
+	<key>grainCompositeRate</key>
+	<string>adaptiveCacheEdge</string>
+	<key>gridWithoutSingleton</key>
+	<string>sophisticatedSpotTheme</string>
+	<key>lostTopicDensity</key>
+	<string>viewNumberTheme</string>
+	<key>mobxSingletonOrientation</key>
+	<string>mediaqueryAsVisitor</string>
+	<key>rapidProviderInset</key>
+	<string>synchronousAxisType</string>
+	<key>statelessAsyncVisible</key>
+	<string>retainedObserverResponse</string>
+	<key>tangentAndAdapter</key>
+	<string>routeOfParam</string>
+</dict>
+</plist>

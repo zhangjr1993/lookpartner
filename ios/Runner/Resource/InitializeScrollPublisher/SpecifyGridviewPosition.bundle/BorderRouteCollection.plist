@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAtFunction</key>
+	<string>particleAsFacade</string>
+	<key>euclideanModelTransparency</key>
+	<string>cursorInsideVariable</string>
+	<key>gemStageOffset</key>
+	<string>robustChartTransparency</string>
+	<key>tableFromLevel</key>
+	<string>priorSlashTop</string>
+</dict>
+</plist>

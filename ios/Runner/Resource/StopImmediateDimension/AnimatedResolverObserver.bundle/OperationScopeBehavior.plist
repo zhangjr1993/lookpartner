@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryProcessTheme</key>
+	<string>localizationFrameworkContrast</string>
+	<key>movementDuringMediator</key>
+	<string>clipperFlyweightSkewy</string>
+	<key>observerModeType</key>
+	<string>rowForForm</string>
+	<key>roleBesideStyle</key>
+	<string>providerInDecorator</string>
+	<key>sliderContextOrigin</key>
+	<string>handlerFromType</string>
+	<key>transformerAgainstMode</key>
+	<string>autoTweenDuration</string>
+	<key>transformerThroughStage</key>
+	<string>mediumSwiftSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsFunctionOffset</key>
+	<string>routeAwayState</string>
+	<key>handlerAdapterBottom</key>
+	<string>transformerOutsideBridge</string>
+	<key>loopForAdapter</key>
+	<string>unactivatedRadiusDirection</string>
+	<key>mainTextVisible</key>
+	<string>rowOutsideMediator</string>
+	<key>stepAgainstMediator</key>
+	<string>stateLevelMargin</string>
+	<key>zoneJobState</key>
+	<string>heapModeStyle</string>
+</dict>
+</plist>

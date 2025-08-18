@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePaddingCount</key>
+	<string>navigationParamMargin</string>
+	<key>controllerBesideStructure</key>
+	<string>buttonMediatorAppearance</string>
+	<key>futureActivityFeedback</key>
+	<string>roleSystemHead</string>
+	<key>gemSingletonVisibility</key>
+	<string>coordinatorParamValidation</string>
+	<key>keyResultFormat</key>
+	<string>resolverBeyondOperation</string>
+	<key>sensorBridgeLocation</key>
+	<string>checklistAdapterCoord</string>
+	<key>significantRadiusOpacity</key>
+	<string>staticTickerTheme</string>
+	<key>smartStreamInset</key>
+	<string>providerFrameworkName</string>
+</dict>
+</plist>

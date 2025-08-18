@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTouchRight</key>
+	<string>themeAgainstAction</string>
+	<key>descriptorCycleType</key>
+	<string>apertureLikePlatform</string>
+	<key>frameStrategySize</key>
+	<string>singletonAmongBuffer</string>
+	<key>graphSingletonName</key>
+	<string>completionMediatorVisible</string>
+	<key>nodeWorkForce</key>
+	<string>equipmentFunctionOffset</string>
+	<key>progressbarIncludeInterpreter</key>
+	<string>metadataProxyStatus</string>
+	<key>uniqueDropdownbuttonResponse</key>
+	<string>reusableMarginContrast</string>
+</dict>
+</plist>

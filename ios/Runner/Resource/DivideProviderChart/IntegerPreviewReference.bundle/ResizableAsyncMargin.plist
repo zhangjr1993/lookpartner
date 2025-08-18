@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTypeBrightness</key>
+	<string>actionTemplePadding</string>
+	<key>curvePerVariable</key>
+	<string>directlyControllerMargin</string>
+	<key>curveSystemRotation</key>
+	<string>aspectratioFromBuffer</string>
+	<key>denseOverlayTransparency</key>
+	<string>agileCubitBound</string>
+	<key>optimizerAwayComposite</key>
+	<string>localFrameFrequency</string>
+	<key>rowVisitorSpeed</key>
+	<string>comprehensiveDependencyOrientation</string>
+</dict>
+</plist>

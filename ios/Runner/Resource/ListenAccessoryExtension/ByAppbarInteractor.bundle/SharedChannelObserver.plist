@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstDelegateOffset</key>
+	<string>flexWithCommand</string>
+	<key>mediumBlocBehavior</key>
+	<string>hashDuringContext</string>
+	<key>previewContainObserver</key>
+	<string>hardBehaviorInteraction</string>
+	<key>tweenContainFlyweight</key>
+	<string>cubeVisitorCoord</string>
+</dict>
+</plist>

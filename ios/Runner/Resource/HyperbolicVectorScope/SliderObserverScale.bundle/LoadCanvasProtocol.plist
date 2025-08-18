@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainState</key>
+	<string>vectorSingletonDensity</string>
+	<key>decorationChainShape</key>
+	<string>animationAboutOperation</string>
+	<key>elasticAnimationPressure</key>
+	<string>criticalTweenAcceleration</string>
+	<key>positionedCycleDelay</key>
+	<string>drawerLevelAppearance</string>
+	<key>responseOfFacade</key>
+	<string>callbackFormAppearance</string>
+	<key>storageLayerRotation</key>
+	<string>riverpodAndPrototype</string>
+	<key>timerPerPrototype</key>
+	<string>constraintScopeOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInterpolationMode</key>
+	<string>extensionVersusParameter</string>
+	<key>cubitObserverAcceleration</key>
+	<string>effectAgainstAdapter</string>
+	<key>currentSampleResponse</key>
+	<string>actionMementoOpacity</string>
+	<key>disparateAwaitFeedback</key>
+	<string>nodeBesideState</string>
+	<key>listenerOrMemento</key>
+	<string>nextAspectRate</string>
+	<key>nibCompositeBottom</key>
+	<string>futureFormSpeed</string>
+	<key>positionSinceFramework</key>
+	<string>methodViaStyle</string>
+	<key>sizeMethodSkewy</key>
+	<string>accordionRouterDirection</string>
+</dict>
+</plist>

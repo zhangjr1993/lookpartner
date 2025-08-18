@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticImageTheme</key>
+	<string>publicCellValidation</string>
+	<key>commandFunctionRotation</key>
+	<string>navigatorExceptContext</string>
+	<key>desktopActivityDuration</key>
+	<string>inkwellBufferValidation</string>
+	<key>imperativeTableName</key>
+	<string>accordionRemainderMargin</string>
+	<key>interfaceDuringPhase</key>
+	<string>beginnerResolverAppearance</string>
+	<key>progressbarDuringAdapter</key>
+	<string>commandProxyPadding</string>
+	<key>sophisticatedSignatureName</key>
+	<string>materialGridVelocity</string>
+	<key>titleContextSpacing</key>
+	<string>descriptorSingletonName</string>
+	<key>transitionNearAction</key>
+	<string>chartStyleOrientation</string>
+</dict>
+</plist>

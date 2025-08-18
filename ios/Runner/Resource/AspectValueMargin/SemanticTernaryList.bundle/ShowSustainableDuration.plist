@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPlatformBehavior</key>
+	<string>responsiveGrayscaleVisible</string>
+	<key>checklistDuringBuffer</key>
+	<string>optimizerCommandLocation</string>
+	<key>controllerMediatorTop</key>
+	<string>baselineFormVisibility</string>
+	<key>directlyErrorSkewx</key>
+	<string>mobileAccessoryScale</string>
+	<key>independentAspectShape</key>
+	<string>repositoryViaActivity</string>
+	<key>injectionOperationFormat</key>
+	<string>immutableSpriteAlignment</string>
+</dict>
+</plist>

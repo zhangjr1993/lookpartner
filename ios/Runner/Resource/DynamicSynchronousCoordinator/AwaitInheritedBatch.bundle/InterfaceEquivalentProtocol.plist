@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalMetadataFormat</key>
+	<string>apertureBeyondDecorator</string>
+	<key>resilientEffectCenter</key>
+	<string>desktopProjectOrigin</string>
+	<key>specifierPlatformOrigin</key>
+	<string>substantialResourceBehavior</string>
+	<key>variantStyleAcceleration</key>
+	<string>deferredWorkflowName</string>
+	<key>viewVarInset</key>
+	<string>smallSampleColor</string>
+</dict>
+</plist>

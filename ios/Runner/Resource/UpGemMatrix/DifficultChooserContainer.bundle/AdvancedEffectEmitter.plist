@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartProxyBorder</key>
+	<string>tweenPrototypeRight</string>
+	<key>dialogsProxyType</key>
+	<string>cubeAlongStage</string>
+	<key>inactiveExceptionColor</key>
+	<string>cubitLayerTint</string>
+	<key>materialGridPressure</key>
+	<string>flexWithPlatform</string>
+	<key>smallRepositoryForce</key>
+	<string>textureBesideVisitor</string>
+	<key>subpixelPhaseFormat</key>
+	<string>tabbarFunctionFrequency</string>
+	<key>subscriptionViaBridge</key>
+	<string>signatureParamScale</string>
+	<key>tabviewObserverSkewy</key>
+	<string>taskInStage</string>
+</dict>
+</plist>

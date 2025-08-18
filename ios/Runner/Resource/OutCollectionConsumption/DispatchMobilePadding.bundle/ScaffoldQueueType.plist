@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPositionedOffset</key>
+	<string>skinPrototypeInteraction</string>
+	<key>cardAgainstStrategy</key>
+	<string>featureWithTier</string>
+	<key>contractionFromLevel</key>
+	<string>desktopMobileInteraction</string>
+	<key>criticalAsyncDuration</key>
+	<string>temporaryCursorBound</string>
+	<key>easyConvolutionDepth</key>
+	<string>eventAwayPrototype</string>
+	<key>elasticDescriptionAlignment</key>
+	<string>bitrateIncludePhase</string>
+	<key>mediaqueryThroughValue</key>
+	<string>grainByAdapter</string>
+	<key>projectionContextTransparency</key>
+	<string>screenAroundCycle</string>
+	<key>semanticsStageBehavior</key>
+	<string>functionalCanvasType</string>
+</dict>
+</plist>

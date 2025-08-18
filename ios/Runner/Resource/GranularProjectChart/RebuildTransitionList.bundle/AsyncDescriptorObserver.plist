@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localMapOrigin</key>
+	<string>secondSingletonKind</string>
+	<key>mapPhaseDensity</key>
+	<string>agileTitleTransparency</string>
+	<key>mobileDescriptorFormat</key>
+	<string>scrollableStampSkewy</string>
+	<key>multiplicationInterpreterMargin</key>
+	<string>operationActionDirection</string>
+	<key>responseFormMargin</key>
+	<string>permanentIconRotation</string>
+	<key>specifyModulusBrightness</key>
+	<string>stepBeyondState</string>
+	<key>streamWithEnvironment</key>
+	<string>providerWorkOrigin</string>
+	<key>symmetricTransformerFlags</key>
+	<string>heapDuringCommand</string>
+	<key>titleNumberFormat</key>
+	<string>flexNearNumber</string>
+</dict>
+</plist>

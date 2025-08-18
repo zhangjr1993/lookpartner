@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerWithoutStage</key>
+	<string>invisibleRichtextDelay</string>
+	<key>firstRepositoryMode</key>
+	<string>requiredMenuFormat</string>
+	<key>materialPrototypeTransparency</key>
+	<string>anchorAdapterDistance</string>
+	<key>specifyDescriptionLocation</key>
+	<string>dedicatedDocumentInteraction</string>
+	<key>touchViaForm</key>
+	<string>normalInterpolationKind</string>
+	<key>usageAtScope</key>
+	<string>allocatorTierIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedHandlerState</key>
+	<string>currentGateRotation</string>
+	<key>ephemeralTextEdge</key>
+	<string>directTweenRate</string>
+	<key>futureShapeInset</key>
+	<string>musicProxyEdge</string>
+	<key>labelAsStage</key>
+	<string>parallelNormEdge</string>
+	<key>parallelUnarySpacing</key>
+	<string>hyperbolicPrecisionSpeed</string>
+	<key>stepThroughStructure</key>
+	<string>inheritedAnimationDepth</string>
+</dict>
+</plist>

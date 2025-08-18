@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCompositeStyle</key>
+	<string>intermediateIndicatorInset</string>
+	<key>cupertinoSubpixelForce</key>
+	<string>discardedSliderRotation</string>
+	<key>factoryIncludeNumber</key>
+	<string>textMediatorStatus</string>
+	<key>fixedProviderMomentum</key>
+	<string>normalScrollFeedback</string>
+	<key>materialThemeFormat</key>
+	<string>responsiveCubitPressure</string>
+	<key>routerInsidePrototype</key>
+	<string>semanticsVisitorHead</string>
+</dict>
+</plist>

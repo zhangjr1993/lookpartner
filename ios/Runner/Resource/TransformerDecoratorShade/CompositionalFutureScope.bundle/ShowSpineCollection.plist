@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLocalizationMargin</key>
+	<string>numericalAccessoryTheme</string>
+	<key>curveStyleInteraction</key>
+	<string>riverpodShapeSpacing</string>
+	<key>interpolationOrBridge</key>
+	<string>beginnerResourceFlags</string>
+	<key>respectiveStoreType</key>
+	<string>keyRichtextFlags</string>
+</dict>
+</plist>

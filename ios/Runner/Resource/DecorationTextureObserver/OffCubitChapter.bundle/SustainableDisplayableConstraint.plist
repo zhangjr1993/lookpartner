@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartByState</key>
+	<string>builderPerPattern</string>
+	<key>sequentialTweenShape</key>
+	<string>commandInShape</string>
+	<key>shaderAwayProxy</key>
+	<string>chartStructureAppearance</string>
+	<key>spriteJobPosition</key>
+	<string>resourceBridgeFeedback</string>
+	<key>transitionAdapterBorder</key>
+	<string>appbarDespitePhase</string>
+	<key>viewAwayVisitor</key>
+	<string>widgetViaType</string>
+</dict>
+</plist>

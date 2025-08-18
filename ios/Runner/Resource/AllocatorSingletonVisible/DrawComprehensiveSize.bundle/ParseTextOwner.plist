@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveButtonName</key>
+	<string>progressbarTierName</string>
+	<key>animatedScrollFlags</key>
+	<string>ternaryPlatformSkewx</string>
+	<key>axisStructureShape</key>
+	<string>extensionThroughDecorator</string>
+	<key>layoutOrMethod</key>
+	<string>navigationLayerBrightness</string>
+	<key>radiusStateLocation</key>
+	<string>widgetBesideContext</string>
+</dict>
+</plist>

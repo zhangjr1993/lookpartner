@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedLabelRight</key>
+	<string>viewInsideComposite</string>
+	<key>draggableTransitionPadding</key>
+	<string>dimensionVariablePadding</string>
+	<key>extensionProcessForce</key>
+	<string>observerContainComposite</string>
+	<key>globalTextSize</key>
+	<string>catalystPrototypeResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBridgeRotation</key>
+	<string>transformerAroundSingleton</string>
+	<key>commonPointVisibility</key>
+	<string>heapKindInteraction</string>
+	<key>flexPerJob</key>
+	<string>getxAgainstJob</string>
+	<key>isolateObserverFrequency</key>
+	<string>graphicContextScale</string>
+	<key>relationalGridOrigin</key>
+	<string>handlerTypeVelocity</string>
+	<key>standaloneBehaviorDepth</key>
+	<string>groupDuringWork</string>
+</dict>
+</plist>

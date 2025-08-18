@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInstructionDepth</key>
+	<string>durationFormTop</string>
+	<key>alignmentFunctionTag</key>
+	<string>checkboxOrNumber</string>
+	<key>animationProcessBehavior</key>
+	<string>dynamicChannelHead</string>
+	<key>buttonDespiteBuffer</key>
+	<string>pageviewChainIndex</string>
+	<key>consumerThroughCycle</key>
+	<string>batchAlongJob</string>
+	<key>handlerNumberMode</key>
+	<string>groupActivityScale</string>
+	<key>mobxOrInterpreter</key>
+	<string>controllerByKind</string>
+	<key>seamlessRouterTail</key>
+	<string>independentMultiplicationSkewx</string>
+	<key>staticViewName</key>
+	<string>persistentCompositionRate</string>
+	<key>tickerExceptPrototype</key>
+	<string>streamAdapterTransparency</string>
+</dict>
+</plist>

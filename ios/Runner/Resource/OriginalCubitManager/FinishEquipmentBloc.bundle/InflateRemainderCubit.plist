@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyParameterKind</key>
+	<string>handlerContainMemento</string>
+	<key>diffableDelegateColor</key>
+	<string>titleViaPrototype</string>
+	<key>entropyAlongFramework</key>
+	<string>instructionParameterAlignment</string>
+	<key>materialInFramework</key>
+	<string>descriptionAroundBuffer</string>
+	<key>subtleAspectBehavior</key>
+	<string>mediaqueryInStage</string>
+	<key>switchStateShade</key>
+	<string>publicApertureTransparency</string>
+	<key>transformerAtShape</key>
+	<string>backwardRectHead</string>
+	<key>viewActivityPadding</key>
+	<string>completerPlatformDirection</string>
+</dict>
+</plist>

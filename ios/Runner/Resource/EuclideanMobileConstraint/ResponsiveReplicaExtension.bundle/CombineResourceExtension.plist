@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeInterpreter</key>
+	<string>histogramAndBuffer</string>
+	<key>explicitChartForce</key>
+	<string>primaryStorePosition</string>
+	<key>specifierInsideSingleton</key>
+	<string>isolateVersusPhase</string>
+	<key>titleValueRight</key>
+	<string>routerAsStage</string>
+	<key>unactivatedEquipmentTag</key>
+	<string>priorInterfaceInset</string>
+</dict>
+</plist>

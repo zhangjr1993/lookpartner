@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongPhase</key>
+	<string>actionOutsideCommand</string>
+	<key>enabledViewDuration</key>
+	<string>asynchronousResultPosition</string>
+	<key>finalDescriptionFormat</key>
+	<string>dynamicExponentStyle</string>
+	<key>getxWithStructure</key>
+	<string>sizeStageType</string>
+	<key>painterEnvironmentPosition</key>
+	<string>chartLevelMargin</string>
+	<key>tweenOutsideFramework</key>
+	<string>fusedContainerIndex</string>
+	<key>tweenWithoutFramework</key>
+	<string>memberViaType</string>
+</dict>
+</plist>

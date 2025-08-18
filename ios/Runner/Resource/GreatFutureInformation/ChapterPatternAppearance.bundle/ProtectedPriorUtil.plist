@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterVarRotation</key>
+	<string>marginForSystem</string>
+	<key>entityOperationVisible</key>
+	<string>seamlessViewBound</string>
+	<key>graphicWorkEdge</key>
+	<string>unaryExceptWork</string>
+	<key>ignoredProjectionSpeed</key>
+	<string>equipmentAsType</string>
+	<key>monsterLayerSkewy</key>
+	<string>rectMediatorSize</string>
+	<key>precisionAgainstMethod</key>
+	<string>comprehensiveCubitVisibility</string>
+	<key>prismaticSemanticsRotation</key>
+	<string>euclideanStorageCount</string>
+	<key>transitionAgainstMethod</key>
+	<string>significantRouterIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResultVisibility</key>
+	<string>labelViaVar</string>
+	<key>listenerForScope</key>
+	<string>activityDuringVisitor</string>
+	<key>scaleAmongState</key>
+	<string>constUtilFlags</string>
+	<key>taskAdapterVisible</key>
+	<string>intuitiveProfileStyle</string>
+	<key>transitionUntilOperation</key>
+	<string>transitionChainAppearance</string>
+</dict>
+</plist>

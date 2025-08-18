@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLikeFunction</key>
+	<string>keyRowResponse</string>
+	<key>dependencyVariableAlignment</key>
+	<string>mobileManagerVelocity</string>
+	<key>durationObserverFeedback</key>
+	<string>providerStrategyOrientation</string>
+	<key>persistentBrushBrightness</key>
+	<string>controllerPerMemento</string>
+</dict>
+</plist>

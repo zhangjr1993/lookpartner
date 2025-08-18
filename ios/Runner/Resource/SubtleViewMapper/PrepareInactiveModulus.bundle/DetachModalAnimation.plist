@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventTypeDepth</key>
+	<string>beginnerWidgetOrigin</string>
+	<key>interpolationPatternAcceleration</key>
+	<string>checklistWorkInteraction</string>
+	<key>labelActionVelocity</key>
+	<string>tweenBridgeInset</string>
+	<key>secondAspectSaturation</key>
+	<string>callbackStructureInset</string>
+</dict>
+</plist>

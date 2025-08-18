@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAlongFramework</key>
+	<string>heroBufferPadding</string>
+	<key>disabledPopupFormat</key>
+	<string>builderIncludeBridge</string>
+	<key>metadataFromFlyweight</key>
+	<string>crudeDrawerStyle</string>
+	<key>requiredAwaitTop</key>
+	<string>futurePerSystem</string>
+</dict>
+</plist>

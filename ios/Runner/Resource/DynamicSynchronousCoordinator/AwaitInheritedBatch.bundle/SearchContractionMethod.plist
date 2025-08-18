@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentAndStrategy</key>
+	<string>hashAtInterpreter</string>
+	<key>immutableStreamAlignment</key>
+	<string>lostTaskDistance</string>
+	<key>labelBesideStrategy</key>
+	<string>viewMediatorSkewx</string>
+	<key>seamlessMetadataDirection</key>
+	<string>visibleNavigatorShape</string>
+	<key>textureMethodCenter</key>
+	<string>multiTransformerEdge</string>
+</dict>
+</plist>

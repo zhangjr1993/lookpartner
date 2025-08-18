@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDuringJob</key>
+	<string>missionByPhase</string>
+	<key>localizationOutsideKind</key>
+	<string>curveAsInterpreter</string>
+	<key>resourceEnvironmentKind</key>
+	<string>gestureFlyweightCount</string>
+	<key>richtextByProcess</key>
+	<string>multiChecklistPosition</string>
+</dict>
+</plist>

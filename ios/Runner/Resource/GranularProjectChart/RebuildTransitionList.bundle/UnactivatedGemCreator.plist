@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageByActivity</key>
+	<string>usecasePerScope</string>
+	<key>layoutObserverForce</key>
+	<string>serviceJobForce</string>
+	<key>popupFunctionSkewy</key>
+	<string>persistentPositionedValidation</string>
+	<key>usecaseMediatorMomentum</key>
+	<string>permanentNavigationMode</string>
+</dict>
+</plist>

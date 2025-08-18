@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnExceptDecorator</key>
+	<string>allocatorStructureShade</string>
+	<key>curveVisitorInteraction</key>
+	<string>parallelConvolutionIndex</string>
+	<key>dependencyLevelVisible</key>
+	<string>alertMethodOpacity</string>
+	<key>independentConfigurationFormat</key>
+	<string>mediocreCheckboxFlags</string>
+	<key>signatureVersusScope</key>
+	<string>boxshadowExceptStyle</string>
+</dict>
+</plist>

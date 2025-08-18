@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorMementoDelay</key>
+	<string>keyMovementSkewy</string>
+	<key>enabledRoleState</key>
+	<string>interactiveButtonOrigin</string>
+	<key>marginMethodOrientation</key>
+	<string>cubitFunctionCenter</string>
+	<key>menuFlyweightCenter</key>
+	<string>paddingWithScope</string>
+</dict>
+</plist>

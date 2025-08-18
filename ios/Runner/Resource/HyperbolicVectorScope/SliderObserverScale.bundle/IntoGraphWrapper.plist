@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBesideLevel</key>
+	<string>activeListviewMode</string>
+	<key>musicAsMemento</key>
+	<string>iconSinceStrategy</string>
+	<key>normalGestureInteraction</key>
+	<string>activeSliderVelocity</string>
+	<key>priorButtonDistance</key>
+	<string>agileChecklistRight</string>
+	<key>symmetricSessionFeedback</key>
+	<string>resolverFormTag</string>
+	<key>tabviewTempleFeedback</key>
+	<string>gateAgainstStyle</string>
+	<key>textfieldPhaseVisible</key>
+	<string>pointPhaseShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintObserverState</key>
+	<string>widgetInterpreterVisible</string>
+	<key>dependencyIncludeSingleton</key>
+	<string>titleNumberDuration</string>
+	<key>descriptionPhaseShade</key>
+	<string>rectAndCommand</string>
+	<key>desktopTopicMargin</key>
+	<string>displayableReferenceOrigin</string>
+	<key>grainStyleDuration</key>
+	<string>sizedboxParamKind</string>
+	<key>logDuringMethod</key>
+	<string>navigatorDecoratorForce</string>
+	<key>spriteNearAdapter</key>
+	<string>tweenOfLayer</string>
+</dict>
+</plist>

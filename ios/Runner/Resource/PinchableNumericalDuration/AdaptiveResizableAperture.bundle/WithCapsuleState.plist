@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableEventStyle</key>
+	<string>smartTransformerVelocity</string>
+	<key>dialogsAndForm</key>
+	<string>explicitNotifierRate</string>
+	<key>navigationTierSize</key>
+	<string>custompaintPrototypeDistance</string>
+	<key>sineJobInteraction</key>
+	<string>isolateFunctionHue</string>
+	<key>skinMementoDelay</key>
+	<string>progressbarTaskInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShapeVisible</key>
+	<string>difficultLayoutShade</string>
+	<key>commonChannelShade</key>
+	<string>navigationThroughMediator</string>
+	<key>ignoredRowDuration</key>
+	<string>seamlessScrollAlignment</string>
+	<key>lazyModelTail</key>
+	<string>inkwellVarMargin</string>
+	<key>methodSingletonTheme</key>
+	<string>channelSinceWork</string>
+	<key>notificationThroughProxy</key>
+	<string>menuWithoutParam</string>
+	<key>precisionThroughVariable</key>
+	<string>bitrateThroughVisitor</string>
+	<key>progressbarActionFlags</key>
+	<string>allocatorFlyweightSaturation</string>
+	<key>usageAboutLevel</key>
+	<string>gridFlyweightCount</string>
+</dict>
+</plist>

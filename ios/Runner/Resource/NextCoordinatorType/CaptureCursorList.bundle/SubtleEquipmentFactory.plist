@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionAtMemento</key>
+	<string>requiredEventBottom</string>
+	<key>injectionOrComposite</key>
+	<string>statefulCustompaintCount</string>
+	<key>lossForShape</key>
+	<string>observerSinceTask</string>
+	<key>positionParameterVisible</key>
+	<string>assetProcessLocation</string>
+	<key>queryActionInterval</key>
+	<string>loopActionColor</string>
+	<key>scrollableAnimatedcontainerFeedback</key>
+	<string>durationAroundFramework</string>
+	<key>symmetricResourceCoord</key>
+	<string>segmentStructureFlags</string>
+</dict>
+</plist>

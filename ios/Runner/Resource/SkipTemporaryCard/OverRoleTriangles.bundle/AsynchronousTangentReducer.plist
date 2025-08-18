@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOfVisitor</key>
+	<string>largeUsecaseOrientation</string>
+	<key>gemSystemRotation</key>
+	<string>binaryTypeTransparency</string>
+	<key>injectionShapeSpacing</key>
+	<string>injectionLikeShape</string>
+	<key>interactorMediatorScale</key>
+	<string>elasticRouteCoord</string>
+	<key>interpolationThanMethod</key>
+	<string>multiplicationAsValue</string>
+	<key>presenterProcessType</key>
+	<string>queueDecoratorAcceleration</string>
+	<key>sineContextVelocity</key>
+	<string>materialCertificateCenter</string>
+	<key>timerParamStyle</key>
+	<string>providerOperationType</string>
+</dict>
+</plist>

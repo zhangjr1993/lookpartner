@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSkirtDistance</key>
+	<string>layoutScopeInset</string>
+	<key>autoStreamTheme</key>
+	<string>streamBridgeCenter</string>
+	<key>eagerTableBottom</key>
+	<string>liteTopicRotation</string>
+	<key>temporaryHashBehavior</key>
+	<string>lostAssetSaturation</string>
+	<key>topicAtComposite</key>
+	<string>tensorCoordinatorBehavior</string>
+</dict>
+</plist>

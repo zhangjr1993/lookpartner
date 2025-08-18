@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncErrorLocation</key>
+	<string>isolateUntilCommand</string>
+	<key>exceptionAtProxy</key>
+	<string>resourceTaskAlignment</string>
+	<key>invisibleSwitchShape</key>
+	<string>petMethodCenter</string>
+	<key>offsetModeSize</key>
+	<string>textureChainMode</string>
+	<key>requestTempleBound</key>
+	<string>riverpodExceptCycle</string>
+	<key>specifierWithProxy</key>
+	<string>specifyMethodBottom</string>
+</dict>
+</plist>

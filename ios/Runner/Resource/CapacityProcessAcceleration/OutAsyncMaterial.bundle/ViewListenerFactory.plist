@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOfWork</key>
+	<string>cupertinoAmongChain</string>
+	<key>curveBeyondStage</key>
+	<string>reusableNotifierAcceleration</string>
+	<key>diffableKernelShade</key>
+	<string>discardedModelTag</string>
+	<key>hardProviderIndex</key>
+	<string>interfaceBridgeHead</string>
+	<key>immutableProviderTheme</key>
+	<string>instructionValueTail</string>
+	<key>managerNumberInteraction</key>
+	<string>cupertinoPainterFrequency</string>
+</dict>
+</plist>

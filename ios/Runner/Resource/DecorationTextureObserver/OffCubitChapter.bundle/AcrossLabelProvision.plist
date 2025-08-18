@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorIncludeVisitor</key>
+	<string>currentSinkState</string>
+	<key>constServiceInterval</key>
+	<string>geometricAllocatorFrequency</string>
+	<key>dialogsBufferBehavior</key>
+	<string>integerModeCoord</string>
+	<key>directDelegateHue</key>
+	<string>memberFlyweightSize</string>
+	<key>graphThroughAction</key>
+	<string>commandAboutInterpreter</string>
+	<key>interactorStateVisibility</key>
+	<string>modelViaVariable</string>
+	<key>managerContainContext</key>
+	<string>sizedboxTaskTop</string>
+	<key>musicSinceTemple</key>
+	<string>interactiveErrorFrequency</string>
+	<key>requestDuringParam</key>
+	<string>shaderInInterpreter</string>
+	<key>uniformConvolutionTension</key>
+	<string>resilientDurationPosition</string>
+</dict>
+</plist>

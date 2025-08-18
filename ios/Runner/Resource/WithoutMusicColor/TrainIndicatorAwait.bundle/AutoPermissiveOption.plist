@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAgainstPlatform</key>
+	<string>globalTextureTheme</string>
+	<key>grainTaskOpacity</key>
+	<string>notificationLikeDecorator</string>
+	<key>imageBeyondParameter</key>
+	<string>scaleDespiteProxy</string>
+	<key>metadataStageDirection</key>
+	<string>statefulPreviewHue</string>
+	<key>publicNibLeft</key>
+	<string>composableBlocBrightness</string>
+	<key>streamValueValidation</key>
+	<string>clipperStateTheme</string>
+</dict>
+</plist>

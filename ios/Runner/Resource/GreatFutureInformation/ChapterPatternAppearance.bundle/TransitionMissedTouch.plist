@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGrainInset</key>
+	<string>symmetricIsolateDepth</string>
+	<key>bufferDuringVisitor</key>
+	<string>previewWorkDepth</string>
+	<key>capacitiesAboutFramework</key>
+	<string>navigationContainType</string>
+	<key>clipperWithComposite</key>
+	<string>gateFromObserver</string>
+	<key>progressbarParamSpeed</key>
+	<string>mobileStyleInteraction</string>
+	<key>repositoryPhaseTheme</key>
+	<string>pivotalHandlerCoord</string>
+	<key>resourceAdapterHead</key>
+	<string>alignmentForAdapter</string>
+	<key>routerInsideJob</key>
+	<string>responsiveCubitAcceleration</string>
+	<key>sharedTransitionMomentum</key>
+	<string>builderOutsideCycle</string>
+	<key>viewAndMemento</key>
+	<string>modalWithoutCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaPhaseShape</key>
+	<string>storagePrototypePadding</string>
+	<key>menuThroughForm</key>
+	<string>actionShapeScale</string>
+	<key>offsetWorkSaturation</key>
+	<string>dedicatedSpriteSaturation</string>
+	<key>stampUntilTemple</key>
+	<string>dimensionShapeSpeed</string>
+</dict>
+</plist>

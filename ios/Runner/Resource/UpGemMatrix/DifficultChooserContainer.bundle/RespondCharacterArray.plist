@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAdapterName</key>
+	<string>enabledSizeVisibility</string>
+	<key>consultativePreviewTheme</key>
+	<string>navigatorExceptStructure</string>
+	<key>factoryWithoutProxy</key>
+	<string>smallTaskDirection</string>
+	<key>groupViaState</key>
+	<string>asyncIncludeInterpreter</string>
+	<key>progressbarAlongShape</key>
+	<string>rectInState</string>
+	<key>specifierAgainstObserver</key>
+	<string>factoryPerCycle</string>
+</dict>
+</plist>

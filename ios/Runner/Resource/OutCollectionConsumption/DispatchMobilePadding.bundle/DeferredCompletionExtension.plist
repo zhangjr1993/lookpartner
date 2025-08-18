@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableHeroRate</key>
+	<string>referenceObserverPressure</string>
+	<key>painterFrameworkVisibility</key>
+	<string>extensionFrameworkBrightness</string>
+	<key>requiredMenuSpacing</key>
+	<string>actionCycleResponse</string>
+	<key>rowIncludeMemento</key>
+	<string>semanticDecorationBorder</string>
+	<key>sizedboxFlyweightEdge</key>
+	<string>graphFormType</string>
+</dict>
+</plist>

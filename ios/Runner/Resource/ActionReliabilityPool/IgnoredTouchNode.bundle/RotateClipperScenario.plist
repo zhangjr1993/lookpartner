@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleNearActivity</key>
+	<string>errorStateShade</string>
+	<key>diversifiedBulletPosition</key>
+	<string>decorationStateBorder</string>
+	<key>exceptionSystemDelay</key>
+	<string>smartCubitTheme</string>
+	<key>functionalCompleterInset</key>
+	<string>petEnvironmentLeft</string>
+	<key>invisibleMenuPosition</key>
+	<string>granularEffectBehavior</string>
+	<key>prevLabelValidation</key>
+	<string>subscriptionActionPosition</string>
+	<key>previewOperationName</key>
+	<string>statelessTableHead</string>
+	<key>queryBeyondAction</key>
+	<string>ephemeralModalAlignment</string>
+</dict>
+</plist>

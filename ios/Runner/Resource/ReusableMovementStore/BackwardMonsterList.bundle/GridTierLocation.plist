@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGrainOpacity</key>
+	<string>cupertinoValueEdge</string>
+	<key>ignoredWidgetForce</key>
+	<string>popupFacadeAcceleration</string>
+	<key>menuNumberSpacing</key>
+	<string>hardChartHue</string>
+	<key>popupCycleInteraction</key>
+	<string>listviewDecoratorOrientation</string>
+	<key>sizedboxIncludeFacade</key>
+	<string>cupertinoInstructionSaturation</string>
+	<key>sortedSizeShade</key>
+	<string>diversifiedBulletForce</string>
+</dict>
+</plist>

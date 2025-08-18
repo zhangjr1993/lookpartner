@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusComposite</key>
+	<string>concreteTextureBehavior</string>
+	<key>arithmeticAsDecorator</key>
+	<string>progressbarContextFlags</string>
+	<key>beginnerExpandedInterval</key>
+	<string>radioActionBound</string>
+	<key>convolutionAwayCycle</key>
+	<string>sliderCommandFeedback</string>
+	<key>delicateHistogramDepth</key>
+	<string>checkboxBridgeHue</string>
+	<key>entityBesideParam</key>
+	<string>beginnerSamplePressure</string>
+	<key>petFunctionSaturation</key>
+	<string>configurationCycleValidation</string>
+	<key>rapidCursorDensity</key>
+	<string>positionedNumberDuration</string>
+	<key>scrollAlongBuffer</key>
+	<string>difficultTitleColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderMediatorAppearance</key>
+	<string>dependencyNumberLeft</string>
+	<key>disabledCoordinatorSpacing</key>
+	<string>oldZoneStyle</string>
+	<key>draggableAlignmentAcceleration</key>
+	<string>directlyModulusState</string>
+	<key>featureForStage</key>
+	<string>axisExceptSingleton</string>
+	<key>hashIncludeFramework</key>
+	<string>dynamicResultForce</string>
+	<key>largeTaskCoord</key>
+	<string>fusedWorkflowForce</string>
+	<key>positionAlongEnvironment</key>
+	<string>ternaryShapeTail</string>
+	<key>subscriptionNumberIndex</key>
+	<string>dynamicConvolutionCoord</string>
+	<key>webZoneDistance</key>
+	<string>buttonNumberTag</string>
+</dict>
+</plist>

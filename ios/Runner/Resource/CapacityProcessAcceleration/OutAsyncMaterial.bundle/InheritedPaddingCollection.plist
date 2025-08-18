@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelCacheInterval</key>
+	<string>graphicFacadeTail</string>
+	<key>roleAroundSystem</key>
+	<string>accessibleTouchOrientation</string>
+	<key>standaloneTextureTheme</key>
+	<string>metadataAmongSingleton</string>
+	<key>taskStructureAcceleration</key>
+	<string>ternaryAsTier</string>
+	<key>transformerStrategyTension</key>
+	<string>injectionInterpreterBehavior</string>
+	<key>transitionPhaseColor</key>
+	<string>repositoryCommandValidation</string>
+</dict>
+</plist>

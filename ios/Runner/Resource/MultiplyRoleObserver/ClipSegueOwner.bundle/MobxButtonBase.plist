@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBridgeRotation</key>
+	<string>deferredRadioSpeed</string>
+	<key>effectSystemDuration</key>
+	<string>cupertinoVarInterval</string>
+	<key>entitySingletonDelay</key>
+	<string>retainedOperationInset</string>
+	<key>entropyStyleVisibility</key>
+	<string>substantialMethodDistance</string>
+	<key>inactiveLocalizationSpeed</key>
+	<string>cubePerFunction</string>
+	<key>momentumMethodSpeed</key>
+	<string>interfaceAroundSystem</string>
+	<key>pointBeyondFlyweight</key>
+	<string>previewBeyondCycle</string>
+	<key>scrollableUsageHue</key>
+	<string>accessorySinceAdapter</string>
+	<key>tableCycleMargin</key>
+	<string>awaitOutsideStyle</string>
+</dict>
+</plist>

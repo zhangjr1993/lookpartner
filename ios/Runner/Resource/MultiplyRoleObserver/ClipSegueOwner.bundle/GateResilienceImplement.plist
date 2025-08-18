@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAboutFacade</key>
+	<string>eagerAlignmentRight</string>
+	<key>dropdownbuttonAmongDecorator</key>
+	<string>deferredSegmentRight</string>
+	<key>graphicTierDistance</key>
+	<string>metadataOrBuffer</string>
+	<key>notifierStateBrightness</key>
+	<string>optionFacadeShade</string>
+	<key>riverpodThanProcess</key>
+	<string>singletonExceptParam</string>
+	<key>staticRadioCenter</key>
+	<string>intensityPlatformDirection</string>
+	<key>visibleMultiplicationHead</key>
+	<string>appbarBeyondBuffer</string>
+</dict>
+</plist>

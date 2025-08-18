@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedServiceDuration</key>
+	<string>staticRowFrequency</string>
+	<key>cellStrategyType</key>
+	<string>columnForFramework</string>
+	<key>graphicStrategyStatus</key>
+	<string>labelForType</string>
+	<key>labelThanParameter</key>
+	<string>textfieldAndStyle</string>
+</dict>
+</plist>

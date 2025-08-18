@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDuringDecorator</key>
+	<string>composableTextBorder</string>
+	<key>inheritedSegueAlignment</key>
+	<string>checklistMediatorFeedback</string>
+	<key>invisibleTransformerStatus</key>
+	<string>mobileProjectionTheme</string>
+	<key>modelActionTransparency</key>
+	<string>reusableButtonSpacing</string>
+</dict>
+</plist>

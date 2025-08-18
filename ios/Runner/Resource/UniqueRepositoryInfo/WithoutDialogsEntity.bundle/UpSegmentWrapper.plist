@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSystemKind</key>
+	<string>constReductionKind</string>
+	<key>numericalInkwellState</key>
+	<string>groupInsideSystem</string>
+	<key>resourceStageKind</key>
+	<string>signatureIncludeSystem</string>
+	<key>taskStrategyInteraction</key>
+	<string>fixedVectorDepth</string>
+</dict>
+</plist>

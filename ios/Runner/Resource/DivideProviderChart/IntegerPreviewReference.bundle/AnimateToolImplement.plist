@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAwayMethod</key>
+	<string>alignmentExceptProxy</string>
+	<key>gemLikeCycle</key>
+	<string>challengeLayerLeft</string>
+	<key>managerBufferMargin</key>
+	<string>queueAtFunction</string>
+	<key>offsetAlongStage</key>
+	<string>pinchableAlignmentDelay</string>
+	<key>resourceCommandContrast</key>
+	<string>inheritedDelegateFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAboutActivity</key>
+	<string>primaryMethodIndex</string>
+	<key>directLocalizationAcceleration</key>
+	<string>disabledFutureDelay</string>
+	<key>otherContractionFeedback</key>
+	<string>declarativePreviewShade</string>
+	<key>standalonePositionScale</key>
+	<string>priorityPhaseBottom</string>
+	<key>temporaryHeroCenter</key>
+	<string>titleShapeOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyChartSpacing</key>
+	<string>cardAsFacade</string>
+	<key>globalSliderState</key>
+	<string>tableLikeNumber</string>
+	<key>memberSingletonVisible</key>
+	<string>interactiveScreenPosition</string>
+	<key>textureChainSpacing</key>
+	<string>sineWithAction</string>
+	<key>usecaseParameterTint</key>
+	<string>crucialProjectionScale</string>
+</dict>
+</plist>

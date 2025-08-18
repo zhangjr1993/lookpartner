@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSystemPosition</key>
+	<string>mediaqueryInJob</string>
+	<key>integerPhaseDuration</key>
+	<string>transitionAgainstCycle</string>
+	<key>intensityTierDirection</key>
+	<string>canvasDespiteStyle</string>
+	<key>mediaLayerBottom</key>
+	<string>smallGrayscaleHue</string>
+	<key>priorityLevelHead</key>
+	<string>directlyExpandedRate</string>
+	<key>progressbarFlyweightOrientation</key>
+	<string>exceptionDespiteInterpreter</string>
+	<key>widgetVisitorStyle</key>
+	<string>effectBesideAction</string>
+</dict>
+</plist>

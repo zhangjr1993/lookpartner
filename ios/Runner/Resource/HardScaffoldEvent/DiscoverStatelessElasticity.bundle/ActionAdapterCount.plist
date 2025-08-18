@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOperationSpacing</key>
+	<string>sequentialSpecifierOrientation</string>
+	<key>alignmentWithoutSystem</key>
+	<string>stateKindDepth</string>
+	<key>cardPerStyle</key>
+	<string>constMethodVisibility</string>
+	<key>curveModeLocation</key>
+	<string>autoNodeInset</string>
+	<key>equalizationEnvironmentEdge</key>
+	<string>multiplicationStyleScale</string>
+	<key>firstUsageFormat</key>
+	<string>liteDelegateInteraction</string>
+	<key>flexibleStorageName</key>
+	<string>isolateWithPrototype</string>
+	<key>layerThroughSingleton</key>
+	<string>animatedcontainerAwayTemple</string>
+	<key>lazyOperationInset</key>
+	<string>projectionLikeStyle</string>
+</dict>
+</plist>

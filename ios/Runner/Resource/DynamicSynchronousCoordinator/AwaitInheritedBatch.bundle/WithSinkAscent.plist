@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionTierFlags</key>
+	<string>controllerFacadeSpacing</string>
+	<key>mobxIncludeMode</key>
+	<string>storageScopeDelay</string>
+	<key>permissiveLayerSize</key>
+	<string>bitrateOperationRotation</string>
+	<key>pivotalDescriptorTop</key>
+	<string>optionInVisitor</string>
+	<key>resilientPageviewDensity</key>
+	<string>interactorAgainstContext</string>
+	<key>resourceProxyDelay</key>
+	<string>heroScopeBrightness</string>
+	<key>scaffoldDecoratorFeedback</key>
+	<string>unaryStrategyOrigin</string>
+	<key>stackFormBehavior</key>
+	<string>rowInsideJob</string>
+	<key>widgetProxyValidation</key>
+	<string>finalViewTheme</string>
+</dict>
+</plist>

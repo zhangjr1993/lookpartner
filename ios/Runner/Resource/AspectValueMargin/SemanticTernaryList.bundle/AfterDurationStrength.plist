@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedViewLocation</key>
+	<string>profilePhaseSkewx</string>
+	<key>binaryTierAppearance</key>
+	<string>normalNotifierTint</string>
+	<key>commonLoopFormat</key>
+	<string>staticTabbarForce</string>
+	<key>delegateAsTemple</key>
+	<string>handlerBySystem</string>
+	<key>interactorObserverValidation</key>
+	<string>symmetricButtonDistance</string>
+	<key>modelVersusMemento</key>
+	<string>queryCommandBottom</string>
+</dict>
+</plist>

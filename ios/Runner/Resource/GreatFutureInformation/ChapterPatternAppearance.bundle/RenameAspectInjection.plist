@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileQueryFormat</key>
+	<string>fixedSliderSpeed</string>
+	<key>brushWithStrategy</key>
+	<string>semanticUsageTransparency</string>
+	<key>custompaintViaParam</key>
+	<string>publicSymbolBehavior</string>
+	<key>effectFromAdapter</key>
+	<string>euclideanGrainPosition</string>
+	<key>interactiveDecorationBehavior</key>
+	<string>painterInterpreterAppearance</string>
+	<key>labelParamOffset</key>
+	<string>customInterfaceShade</string>
+	<key>webModelCoord</key>
+	<string>movementInShape</string>
+</dict>
+</plist>

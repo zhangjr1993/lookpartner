@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOutsideStrategy</key>
+	<string>delegateAroundState</string>
+	<key>exponentUntilFramework</key>
+	<string>batchSingletonSize</string>
+	<key>gridCycleSize</key>
+	<string>managerTypeAlignment</string>
+	<key>interpolationNearNumber</key>
+	<string>sinkTaskFeedback</string>
+	<key>switchAndJob</key>
+	<string>appbarFromTier</string>
+	<key>variantFrameworkTag</key>
+	<string>alignmentParamShape</string>
+</dict>
+</plist>

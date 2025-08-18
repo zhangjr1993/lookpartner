@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionMethodIndex</key>
+	<string>offsetParameterBound</string>
+	<key>interactiveSingletonMargin</key>
+	<string>repositoryMediatorOpacity</string>
+	<key>seamlessDelegateInteraction</key>
+	<string>hashOutsideParam</string>
+	<key>spriteOutsideVar</key>
+	<string>futureAwayDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBoxshadowTop</key>
+	<string>shaderViaPrototype</string>
+	<key>delegateOrPlatform</key>
+	<string>utilOutsideAdapter</string>
+	<key>discardedQueryState</key>
+	<string>optionAdapterMomentum</string>
+	<key>equalizationAboutAction</key>
+	<string>mediocreProfileBottom</string>
+	<key>frameAndStructure</key>
+	<string>euclideanSegueCenter</string>
+	<key>granularParticleAcceleration</key>
+	<string>popupParamEdge</string>
+	<key>observerVersusType</key>
+	<string>desktopRowOffset</string>
+	<key>responsiveFrameStatus</key>
+	<string>samplePatternSaturation</string>
+	<key>scrollFormSaturation</key>
+	<string>resolverVisitorOpacity</string>
+</dict>
+</plist>

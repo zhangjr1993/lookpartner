@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerPhaseTheme</key>
+	<string>displayableUsecaseLeft</string>
+	<key>displayableExpandedDepth</key>
+	<string>concurrentRowHue</string>
+	<key>positionSinceStage</key>
+	<string>stackBufferStatus</string>
+	<key>priorityEnvironmentAlignment</key>
+	<string>layoutBridgeRight</string>
+	<key>routerCycleVisible</key>
+	<string>fusedServiceColor</string>
+</dict>
+</plist>

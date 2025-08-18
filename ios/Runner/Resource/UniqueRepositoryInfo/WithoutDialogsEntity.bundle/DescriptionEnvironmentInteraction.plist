@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAwayType</key>
+	<string>inactiveBaseVelocity</string>
+	<key>contractionDuringMediator</key>
+	<string>textfieldCycleDelay</string>
+	<key>cubitPrototypeFlags</key>
+	<string>displayableErrorStyle</string>
+	<key>rowAndPlatform</key>
+	<string>delicateGraphKind</string>
+	<key>textureExceptOperation</key>
+	<string>resultFromPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInsidePlatform</key>
+	<string>skirtInsideStage</string>
+	<key>autoResourceFrequency</key>
+	<string>masterOperationMode</string>
+	<key>checklistNumberDensity</key>
+	<string>uniformDescriptorAppearance</string>
+	<key>delegateAmongAdapter</key>
+	<string>backwardScrollOpacity</string>
+	<key>nextDurationVisibility</key>
+	<string>radiusOperationType</string>
+	<key>opaqueEffectOffset</key>
+	<string>usecaseTaskLeft</string>
+	<key>optionModeTag</key>
+	<string>coordinatorOperationFrequency</string>
+	<key>radiusTempleMargin</key>
+	<string>bulletOperationBrightness</string>
+	<key>subsequentPositionedName</key>
+	<string>cubitAdapterMode</string>
+</dict>
+</plist>

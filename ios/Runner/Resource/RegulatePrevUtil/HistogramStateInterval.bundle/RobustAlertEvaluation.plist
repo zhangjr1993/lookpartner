@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtStrategy</key>
+	<string>equalizationAndCommand</string>
+	<key>cartesianProviderPosition</key>
+	<string>euclideanStoreFrequency</string>
+	<key>cubeShapeInterval</key>
+	<string>isolateExceptAdapter</string>
+	<key>optimizerViaFlyweight</key>
+	<string>topicUntilComposite</string>
+	<key>sliderOfLevel</key>
+	<string>requiredVectorDelay</string>
+	<key>staticGraphicCoord</key>
+	<string>ignoredBlocDistance</string>
+	<key>temporaryExceptionBorder</key>
+	<string>missionAtMethod</string>
+	<key>unsortedCoordinatorInset</key>
+	<string>reductionFromStage</string>
+</dict>
+</plist>

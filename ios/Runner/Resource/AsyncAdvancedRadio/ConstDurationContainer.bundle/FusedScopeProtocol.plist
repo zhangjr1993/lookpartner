@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSegmentDensity</key>
+	<string>arithmeticVersusAdapter</string>
+	<key>enabledAppbarInterval</key>
+	<string>prevOffsetIndex</string>
+	<key>eventOrLayer</key>
+	<string>nextNavigatorDirection</string>
+	<key>mediaInterpreterSkewy</key>
+	<string>semanticsInBridge</string>
+	<key>protectedInteractorCenter</key>
+	<string>anchorInsideJob</string>
+	<key>rowInterpreterForce</key>
+	<string>prevMovementVelocity</string>
+	<key>ternaryInterpreterInteraction</key>
+	<string>sinkFunctionColor</string>
+</dict>
+</plist>

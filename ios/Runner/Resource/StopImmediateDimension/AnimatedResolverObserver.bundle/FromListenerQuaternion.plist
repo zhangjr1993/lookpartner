@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsMediatorKind</key>
+	<string>textfieldModeMode</string>
+	<key>dynamicDecorationResponse</key>
+	<string>currentBorderHue</string>
+	<key>easyReductionVisibility</key>
+	<string>intensityExceptParameter</string>
+	<key>effectForShape</key>
+	<string>storeWithType</string>
+	<key>keyCurveBrightness</key>
+	<string>coordinatorStageType</string>
+	<key>prismaticBehaviorRate</key>
+	<string>crudeLogFeedback</string>
+	<key>smallAnimationInset</key>
+	<string>subscriptionLikeComposite</string>
+	<key>tableInsideScope</key>
+	<string>allocatorNumberColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPopupTail</key>
+	<string>zoneFromComposite</string>
+	<key>draggableRadiusName</key>
+	<string>descriptorBridgeDelay</string>
+	<key>ephemeralLocalizationTop</key>
+	<string>geometricDelegateBehavior</string>
+	<key>injectionActionShade</key>
+	<string>queryModeInterval</string>
+	<key>loopLayerCount</key>
+	<string>usedChannelsValidation</string>
+	<key>radiusThroughJob</key>
+	<string>cupertinoPerFramework</string>
+	<key>resourceOfCommand</key>
+	<string>statelessEventDirection</string>
+	<key>subscriptionOutsideStrategy</key>
+	<string>musicScopeBrightness</string>
+	<key>variantVersusVar</key>
+	<string>stackProxyRotation</string>
+</dict>
+</plist>

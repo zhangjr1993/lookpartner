@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAwayCommand</key>
+	<string>giftIncludeComposite</string>
+	<key>delegatePatternScale</key>
+	<string>constraintPatternSize</string>
+	<key>displayableAxisStyle</key>
+	<string>gridOrActivity</string>
+	<key>equalizationPatternAppearance</key>
+	<string>immutableDelegateShade</string>
+	<key>imageFunctionSpeed</key>
+	<string>tappableBatchDelay</string>
+	<key>localizationMethodVisibility</key>
+	<string>specifierAwayShape</string>
+	<key>modulusIncludeMediator</key>
+	<string>lossTypeFrequency</string>
+	<key>sampleOfMemento</key>
+	<string>mediocreDelegateAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxByPlatform</key>
+	<string>opaqueDialogsLocation</string>
+	<key>constraintEnvironmentPosition</key>
+	<string>controllerCycleLocation</string>
+	<key>desktopEffectResponse</key>
+	<string>nativeTernaryTheme</string>
+	<key>directDropdownbuttonMargin</key>
+	<string>routerKindType</string>
+	<key>disabledContainerEdge</key>
+	<string>smallPrecisionTheme</string>
+	<key>equipmentProxyTint</key>
+	<string>workflowCompositeRate</string>
+	<key>projectAtBridge</key>
+	<string>storeWithoutFunction</string>
+	<key>tableParameterPosition</key>
+	<string>movementMediatorVelocity</string>
+	<key>uniformCallbackVelocity</key>
+	<string>momentumLevelBorder</string>
+	<key>uniqueDelegateSpeed</key>
+	<string>usecaseSinceVariable</string>
+</dict>
+</plist>

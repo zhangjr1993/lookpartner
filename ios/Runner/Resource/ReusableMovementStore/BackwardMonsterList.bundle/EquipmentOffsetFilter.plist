@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInsideEnvironment</key>
+	<string>eventThroughStructure</string>
+	<key>diffableBorderCoord</key>
+	<string>missionSingletonMargin</string>
+	<key>disabledGridviewDistance</key>
+	<string>sensorVariableOffset</string>
+	<key>matrixAmongComposite</key>
+	<string>intensityAtLayer</string>
+	<key>positionAmongFlyweight</key>
+	<string>draggableNotificationTint</string>
+	<key>priorPrecisionAppearance</key>
+	<string>transformerParameterDirection</string>
+	<key>sliderLikePlatform</key>
+	<string>capsuleAwayStyle</string>
+</dict>
+</plist>

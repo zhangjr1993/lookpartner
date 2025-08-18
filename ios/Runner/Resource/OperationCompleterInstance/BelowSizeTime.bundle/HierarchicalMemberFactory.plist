@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFormBrightness</key>
+	<string>projectionInsideStyle</string>
+	<key>effectOrFunction</key>
+	<string>cubitTierShade</string>
+	<key>lossTypeDistance</key>
+	<string>petAgainstChain</string>
+	<key>mobileSingletonResponse</key>
+	<string>eagerStorageOffset</string>
+	<key>multiSliderFlags</key>
+	<string>independentBitrateSkewy</string>
+	<key>storyboardTierAppearance</key>
+	<string>sinkVariableTheme</string>
+	<key>widgetMementoTag</key>
+	<string>topicDuringDecorator</string>
+</dict>
+</plist>

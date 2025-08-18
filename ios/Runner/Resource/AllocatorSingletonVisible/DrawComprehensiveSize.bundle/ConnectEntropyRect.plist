@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChapterInteraction</key>
+	<string>sharedPresenterHead</string>
+	<key>reducerAmongVisitor</key>
+	<string>cacheModeDuration</string>
+	<key>smallTaskValidation</key>
+	<string>descriptorProcessSize</string>
+	<key>textureVarSkewy</key>
+	<string>otherProjectLeft</string>
+	<key>widgetFromPlatform</key>
+	<string>easySingletonPressure</string>
+</dict>
+</plist>

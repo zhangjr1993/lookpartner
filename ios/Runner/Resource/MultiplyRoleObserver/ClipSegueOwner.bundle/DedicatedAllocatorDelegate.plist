@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customOverlayVisible</key>
+	<string>playbackShapeVisible</string>
+	<key>diversifiedTickerMargin</key>
+	<string>roleStageName</string>
+	<key>fixedCollectionRotation</key>
+	<string>popupStyleResponse</string>
+	<key>localizationInsideTask</key>
+	<string>iconFacadeRight</string>
+	<key>prevToolFormat</key>
+	<string>layerFormTension</string>
+	<key>segueAsAction</key>
+	<string>playbackByParam</string>
+	<key>uniformFactoryScale</key>
+	<string>enabledExceptionColor</string>
+</dict>
+</plist>

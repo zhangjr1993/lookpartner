@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentPerMediator</key>
+	<string>enabledRequestType</string>
+	<key>menuPlatformCount</key>
+	<string>controllerWithoutScope</string>
+	<key>queryStyleVisibility</key>
+	<string>topicActionRight</string>
+	<key>webControllerTint</key>
+	<string>segueWithoutStrategy</string>
+</dict>
+</plist>

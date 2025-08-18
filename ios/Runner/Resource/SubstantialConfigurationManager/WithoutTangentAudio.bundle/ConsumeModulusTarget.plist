@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTabbarSize</key>
+	<string>criticalAnchorBehavior</string>
+	<key>columnInScope</key>
+	<string>webBrushBound</string>
+	<key>indicatorTempleShape</key>
+	<string>pageviewInsideValue</string>
+	<key>materialGateFeedback</key>
+	<string>hardIndicatorVelocity</string>
+	<key>uniqueBlocShape</key>
+	<string>flexibleCubeTag</string>
+</dict>
+</plist>

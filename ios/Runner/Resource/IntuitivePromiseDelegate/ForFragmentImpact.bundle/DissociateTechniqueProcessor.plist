@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSignatureBorder</key>
+	<string>statefulGraphStyle</string>
+	<key>commandTierFrequency</key>
+	<string>concurrentNodeOrigin</string>
+	<key>concurrentLayoutFrequency</key>
+	<string>activeHandlerFeedback</string>
+	<key>equipmentStageFormat</key>
+	<string>observerExceptParameter</string>
+	<key>graphicExceptLayer</key>
+	<string>concreteBoxInteraction</string>
+	<key>skinOutsideSingleton</key>
+	<string>customContainerAlignment</string>
+	<key>symmetricMasterDistance</key>
+	<string>activitySingletonKind</string>
+	<key>widgetOfProcess</key>
+	<string>reducerEnvironmentAcceleration</string>
+</dict>
+</plist>

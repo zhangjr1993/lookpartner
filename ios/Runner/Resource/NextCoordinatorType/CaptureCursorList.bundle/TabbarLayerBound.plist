@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAnimationLocation</key>
+	<string>functionalAnimationLeft</string>
+	<key>dropdownbuttonFrameworkCoord</key>
+	<string>rectFrameworkStyle</string>
+	<key>indicatorAtStyle</key>
+	<string>localCommandAlignment</string>
+	<key>injectionOutsideLayer</key>
+	<string>elasticDependencyState</string>
+	<key>layoutStructureTail</key>
+	<string>queueFunctionRight</string>
+	<key>respectiveManagerDensity</key>
+	<string>loopCommandFormat</string>
+	<key>storeContainProcess</key>
+	<string>diffableMetadataSkewy</string>
+	<key>tappableCoordinatorTint</key>
+	<string>boxAwayMediator</string>
+</dict>
+</plist>

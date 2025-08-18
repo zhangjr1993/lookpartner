@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTempleVisibility</key>
+	<string>draggableLabelLeft</string>
+	<key>cubeMethodLocation</key>
+	<string>modulusFunctionOffset</string>
+	<key>dependencyScopeSpeed</key>
+	<string>autoCommandLocation</string>
+	<key>flexIncludePrototype</key>
+	<string>providerPhaseTint</string>
+	<key>progressbarObserverSpeed</key>
+	<string>segueNearAction</string>
+	<key>rectThanInterpreter</key>
+	<string>channelsAroundVisitor</string>
+	<key>seamlessProviderSaturation</key>
+	<string>inheritedSpecifierFormat</string>
+	<key>topicIncludeParam</key>
+	<string>streamForParameter</string>
+</dict>
+</plist>

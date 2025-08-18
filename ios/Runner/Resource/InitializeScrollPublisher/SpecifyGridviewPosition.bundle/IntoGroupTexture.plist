@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActivityRotation</key>
+	<string>accessibleMemberDistance</string>
+	<key>baselineExceptStyle</key>
+	<string>callbackParamBorder</string>
+	<key>cupertinoContainerForce</key>
+	<string>chartModeShape</string>
+	<key>intensityVariableSkewy</key>
+	<string>normalUsecaseOffset</string>
+	<key>intermediateTabbarHue</key>
+	<string>indicatorShapeHue</string>
+	<key>mobileErrorName</key>
+	<string>widgetBridgeVisible</string>
+	<key>reusableAlignmentPressure</key>
+	<string>batchBeyondPlatform</string>
+	<key>routerBesideForm</key>
+	<string>transitionVisitorSize</string>
+	<key>stepMementoTransparency</key>
+	<string>progressbarAsPrototype</string>
+	<key>tweenCycleOrientation</key>
+	<string>featureInsideScope</string>
+</dict>
+</plist>

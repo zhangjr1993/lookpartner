@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultStoreEdge</key>
+	<string>mobileViaObserver</string>
+	<key>flexibleTextVisibility</key>
+	<string>heroProcessOpacity</string>
+	<key>graphFromPlatform</key>
+	<string>actionObserverHead</string>
+	<key>interfaceSystemDistance</key>
+	<string>standaloneVariantFrequency</string>
+	<key>isolateMementoScale</key>
+	<string>desktopPreviewBehavior</string>
+	<key>profileCommandMomentum</key>
+	<string>intensityFormShade</string>
+	<key>subtleCheckboxValidation</key>
+	<string>documentDespiteFramework</string>
+</dict>
+</plist>

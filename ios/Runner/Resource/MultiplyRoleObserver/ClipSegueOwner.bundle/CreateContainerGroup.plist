@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedUsageInteraction</key>
+	<string>usecaseInterpreterVelocity</string>
+	<key>allocatorFromDecorator</key>
+	<string>timerModeCenter</string>
+	<key>discardedMovementDuration</key>
+	<string>layoutInterpreterSaturation</string>
+	<key>geometricErrorOrientation</key>
+	<string>tickerCompositeTop</string>
+	<key>grainFromProxy</key>
+	<string>nativeSubscriptionBorder</string>
+	<key>isolateAgainstStage</key>
+	<string>backwardAlphaTint</string>
+	<key>isolateDecoratorTag</key>
+	<string>cacheOrPattern</string>
+	<key>requiredPositionedStatus</key>
+	<string>previewThroughBuffer</string>
+	<key>statefulGemDirection</key>
+	<string>synchronousTickerOrigin</string>
+</dict>
+</plist>

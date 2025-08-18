@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMasterBorder</key>
+	<string>interfaceLikeAdapter</string>
+	<key>buttonActionShape</key>
+	<string>animationPerDecorator</string>
+	<key>compositionMediatorPressure</key>
+	<string>accordionAnimationFormat</string>
+	<key>futureModeSkewy</key>
+	<string>rowNearBuffer</string>
+	<key>immutableTickerShape</key>
+	<string>crucialBlocBound</string>
+	<key>mainNodeMargin</key>
+	<string>memberParameterOrigin</string>
+	<key>navigatorFacadeLocation</key>
+	<string>appbarByNumber</string>
+	<key>remainderVarSaturation</key>
+	<string>mobileAndWork</string>
+	<key>stampOperationOpacity</key>
+	<string>singletonWithBuffer</string>
+</dict>
+</plist>

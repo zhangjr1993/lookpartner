@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphWithoutVisitor</key>
+	<string>positionPerLayer</string>
+	<key>permissiveIconPosition</key>
+	<string>providerInsideFlyweight</string>
+	<key>requestAmongLevel</key>
+	<string>flexibleSinkOrigin</string>
+	<key>smartCapsuleValidation</key>
+	<string>intermediateDependencyRate</string>
+	<key>spriteSingletonVisibility</key>
+	<string>pinchableChannelSize</string>
+	<key>transformerContainFlyweight</key>
+	<string>criticalIsolateOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyExceptLevel</key>
+	<string>anchorContextPadding</string>
+	<key>durationOfObserver</key>
+	<string>loopAtAdapter</string>
+	<key>menuPatternEdge</key>
+	<string>mediaWithoutState</string>
+	<key>positionStructureStyle</key>
+	<string>futureModeTag</string>
+	<key>queryShapeDelay</key>
+	<string>currentRoleBottom</string>
+	<key>uniqueDescriptionRotation</key>
+	<string>cubitAroundProcess</string>
+</dict>
+</plist>

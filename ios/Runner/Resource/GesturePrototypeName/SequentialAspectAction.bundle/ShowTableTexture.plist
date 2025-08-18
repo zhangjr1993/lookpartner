@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescriptionKind</key>
+	<string>gesturedetectorDuringComposite</string>
+	<key>awaitActivityInteraction</key>
+	<string>lazySpriteVelocity</string>
+	<key>groupAtAdapter</key>
+	<string>entityPhaseRight</string>
+	<key>heapAroundVariable</key>
+	<string>explicitReducerDirection</string>
+	<key>promiseJobVisible</key>
+	<string>cubitVersusPhase</string>
+	<key>screenTaskDirection</key>
+	<string>sequentialTitleInterval</string>
+	<key>transformerFrameworkDistance</key>
+	<string>tangentContextFlags</string>
+</dict>
+</plist>

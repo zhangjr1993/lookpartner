@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerPopupVisibility</key>
+	<string>enabledSliderSpeed</string>
+	<key>indicatorWithState</key>
+	<string>sortedLocalizationIndex</string>
+	<key>kernelOrEnvironment</key>
+	<string>channelIncludeInterpreter</string>
+	<key>lossJobRotation</key>
+	<string>baselineBeyondTask</string>
+	<key>numericalButtonSkewx</key>
+	<string>webColumnCenter</string>
+	<key>presenterBesideBuffer</key>
+	<string>delegateForBuffer</string>
+	<key>remainderModeMargin</key>
+	<string>webDependencyType</string>
+	<key>skirtAsDecorator</key>
+	<string>checkboxStructureMode</string>
+	<key>statelessMediaOpacity</key>
+	<string>resilientProjectCenter</string>
+	<key>subtleContainerVisibility</key>
+	<string>indicatorOutsideCycle</string>
+</dict>
+</plist>

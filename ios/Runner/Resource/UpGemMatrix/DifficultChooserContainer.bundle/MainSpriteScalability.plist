@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSinePadding</key>
+	<string>similarGraphicLeft</string>
+	<key>compositionalCapsuleMode</key>
+	<string>kernelVersusMediator</string>
+	<key>ignoredSinkBrightness</key>
+	<string>sceneBufferSize</string>
+	<key>sessionWithScope</key>
+	<string>animationAgainstStructure</string>
+	<key>shaderBufferLeft</key>
+	<string>timerFromCommand</string>
+</dict>
+</plist>

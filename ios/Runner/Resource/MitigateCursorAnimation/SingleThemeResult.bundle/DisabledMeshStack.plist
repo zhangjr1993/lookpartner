@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTitleVisible</key>
+	<string>matrixActivityHead</string>
+	<key>coordinatorInsideState</key>
+	<string>newestBlocRate</string>
+	<key>interactorFunctionFormat</key>
+	<string>usageOutsideBuffer</string>
+	<key>resizableMenuScale</key>
+	<string>materialTierSkewx</string>
+	<key>secondCellStyle</key>
+	<string>instructionStructureDuration</string>
+	<key>widgetAtFunction</key>
+	<string>progressbarParamDistance</string>
+</dict>
+</plist>

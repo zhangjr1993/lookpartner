@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVariableColor</key>
+	<string>lastChapterContrast</string>
+	<key>entityFlyweightCoord</key>
+	<string>alertAgainstSingleton</string>
+	<key>nibMementoDuration</key>
+	<string>appbarAlongProcess</string>
+	<key>playbackJobInterval</key>
+	<string>sessionViaLevel</string>
+	<key>progressbarContainParam</key>
+	<string>sliderSinceScope</string>
+	<key>touchAboutSingleton</key>
+	<string>priorAnimationOffset</string>
+</dict>
+</plist>

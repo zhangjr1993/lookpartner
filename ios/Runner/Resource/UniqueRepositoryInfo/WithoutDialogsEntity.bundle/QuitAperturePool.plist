@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureModeAlignment</key>
+	<string>labelAsStyle</string>
+	<key>grainProcessValidation</key>
+	<string>injectionIncludeParam</string>
+	<key>imperativeResolverTint</key>
+	<string>specifyWorkflowValidation</string>
+	<key>lossInsideTask</key>
+	<string>subscriptionTempleAlignment</string>
+	<key>mediaqueryPlatformLeft</key>
+	<string>densePrecisionAcceleration</string>
+	<key>prismaticReferenceEdge</key>
+	<string>painterScopeType</string>
+	<key>stateVariableCount</key>
+	<string>symmetricFeatureInset</string>
+	<key>tappableShaderFormat</key>
+	<string>groupLikeType</string>
+	<key>tensorPositionedBrightness</key>
+	<string>serviceSingletonAlignment</string>
+</dict>
+</plist>

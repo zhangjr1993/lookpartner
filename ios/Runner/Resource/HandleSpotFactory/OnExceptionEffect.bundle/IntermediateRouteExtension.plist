@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCardRotation</key>
+	<string>axisLevelShape</string>
+	<key>fixedChapterRotation</key>
+	<string>animationThroughStage</string>
+	<key>gramEnvironmentPadding</key>
+	<string>queryFlyweightSaturation</string>
+	<key>gramOutsideMethod</key>
+	<string>decorationVariableSize</string>
+	<key>resolverForType</key>
+	<string>playbackStateSpeed</string>
+	<key>statefulEntityBottom</key>
+	<string>semanticPresenterAppearance</string>
+</dict>
+</plist>

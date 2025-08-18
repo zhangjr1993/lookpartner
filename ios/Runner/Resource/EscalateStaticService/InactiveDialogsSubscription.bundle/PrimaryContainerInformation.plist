@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContextInteraction</key>
+	<string>canvasVersusMode</string>
+	<key>completionByScope</key>
+	<string>listviewWithoutTier</string>
+	<key>cubeInterpreterAcceleration</key>
+	<string>axisWithoutProcess</string>
+	<key>declarativeGroupSpeed</key>
+	<string>previewContextDirection</string>
+	<key>lossChainOrientation</key>
+	<string>paddingAroundComposite</string>
+	<key>notifierThroughParameter</key>
+	<string>multiSubpixelForce</string>
+	<key>overlayVarOrigin</key>
+	<string>largeControllerCoord</string>
+	<key>resultBeyondPlatform</key>
+	<string>cycleWithMediator</string>
+	<key>shaderAmongFlyweight</key>
+	<string>positionAboutPattern</string>
+	<key>uniformSceneCount</key>
+	<string>resourceCycleLocation</string>
+</dict>
+</plist>

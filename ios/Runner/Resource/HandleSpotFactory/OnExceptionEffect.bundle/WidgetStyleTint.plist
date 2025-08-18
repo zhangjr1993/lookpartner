@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayoutHue</key>
+	<string>builderOrProxy</string>
+	<key>alignmentFunctionPadding</key>
+	<string>commonBlocMargin</string>
+	<key>baselineAgainstShape</key>
+	<string>actionFrameworkSize</string>
+	<key>callbackUntilSystem</key>
+	<string>painterIncludeComposite</string>
+	<key>declarativeQueryDistance</key>
+	<string>commandThroughSingleton</string>
+	<key>intensityContextAcceleration</key>
+	<string>momentumLikeCommand</string>
+	<key>playbackLayerType</key>
+	<string>notifierOfCycle</string>
+	<key>visibleCollectionName</key>
+	<string>grainOfCommand</string>
+</dict>
+</plist>

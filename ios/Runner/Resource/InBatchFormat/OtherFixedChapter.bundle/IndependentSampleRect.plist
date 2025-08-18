@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOverlayFlags</key>
+	<string>chapterShapeDirection</string>
+	<key>displayableFrameFlags</key>
+	<string>exceptionCycleLeft</string>
+	<key>expandedLayerStyle</key>
+	<string>boxInDecorator</string>
+	<key>overlayMementoOpacity</key>
+	<string>tappableNodeFormat</string>
+	<key>projectionPhaseDepth</key>
+	<string>groupChainRotation</string>
+	<key>publicQueueSize</key>
+	<string>riverpodAmongOperation</string>
+	<key>reducerTypeVelocity</key>
+	<string>inheritedGrainAlignment</string>
+	<key>scaffoldMementoRotation</key>
+	<string>screenFlyweightTransparency</string>
+	<key>significantRiverpodInset</key>
+	<string>rapidSignatureCoord</string>
+	<key>techniqueShapeBottom</key>
+	<string>menuEnvironmentMomentum</string>
+</dict>
+</plist>

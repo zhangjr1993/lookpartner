@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIndicatorSpeed</key>
+	<string>layoutDuringFramework</string>
+	<key>composableTabbarTail</key>
+	<string>appbarFacadeTail</string>
+	<key>cubeDespiteLevel</key>
+	<string>subpixelVarOrientation</string>
+	<key>delegatePatternCenter</key>
+	<string>unsortedTextureSpacing</string>
+	<key>displayableListenerInterval</key>
+	<string>staticTimerVelocity</string>
+	<key>hyperbolicErrorOpacity</key>
+	<string>animationValueSpacing</string>
+	<key>instructionOrStrategy</key>
+	<string>assetInterpreterLeft</string>
+	<key>labelLayerRate</key>
+	<string>configurationAdapterFlags</string>
+	<key>navigationFrameworkDistance</key>
+	<string>equalizationFacadeHue</string>
+	<key>segmentAboutObserver</key>
+	<string>prismaticAxisSkewx</string>
+</dict>
+</plist>

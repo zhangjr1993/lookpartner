@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTypeDelay</key>
+	<string>functionalCycleDistance</string>
+	<key>exceptionAtSystem</key>
+	<string>reactiveIntegerCount</string>
+	<key>graphScopeName</key>
+	<string>agileTitleVisibility</string>
+	<key>observerLikeParameter</key>
+	<string>rowContainChain</string>
+	<key>resolverAsVar</key>
+	<string>promiseDecoratorOrigin</string>
+	<key>usageMediatorDirection</key>
+	<string>typicalExceptionBottom</string>
+</dict>
+</plist>

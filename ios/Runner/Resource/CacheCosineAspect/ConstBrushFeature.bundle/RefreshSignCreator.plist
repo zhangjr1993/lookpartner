@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInstructionDelay</key>
+	<string>entityFlyweightVisibility</string>
+	<key>dependencyVarTint</key>
+	<string>modelForVariable</string>
+	<key>errorExceptScope</key>
+	<string>relationalChapterOrientation</string>
+	<key>fixedMusicOffset</key>
+	<string>symbolParameterValidation</string>
+	<key>mobileValueDuration</key>
+	<string>reductionInStrategy</string>
+	<key>scrollableProgressbarVisible</key>
+	<string>textureBufferFormat</string>
+	<key>sizePerKind</key>
+	<string>monsterThroughMediator</string>
+	<key>stateDuringVisitor</key>
+	<string>routeTaskStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetParameterSpacing</key>
+	<string>fixedPointDuration</string>
+	<key>coordinatorAmongVariable</key>
+	<string>nodeCycleIndex</string>
+	<key>decorationInsideObserver</key>
+	<string>mediaqueryAroundSingleton</string>
+	<key>descriptionOfInterpreter</key>
+	<string>sequentialSpriteDistance</string>
+	<key>observerAtVariable</key>
+	<string>statefulLayerVisible</string>
+	<key>playbackInterpreterAcceleration</key>
+	<string>viewBeyondBuffer</string>
+	<key>projectTypeSkewy</key>
+	<string>completionFunctionDensity</string>
+	<key>repositoryTypeTop</key>
+	<string>responseBridgeDirection</string>
+</dict>
+</plist>

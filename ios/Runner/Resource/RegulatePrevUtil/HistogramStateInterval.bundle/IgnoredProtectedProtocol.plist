@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChartScale</key>
+	<string>storeAsTier</string>
+	<key>cubitPatternDuration</key>
+	<string>pivotalPopupShade</string>
+	<key>cupertinoAndPattern</key>
+	<string>activityCycleMargin</string>
+	<key>dedicatedReductionTop</key>
+	<string>resizableStampKind</string>
+	<key>displayableBlocDensity</key>
+	<string>singletonSinceMediator</string>
+	<key>fixedChapterName</key>
+	<string>customizedGridSize</string>
+	<key>futureContainContext</key>
+	<string>mediumTextHead</string>
+	<key>textureIncludePhase</key>
+	<string>sizeThroughFlyweight</string>
+</dict>
+</plist>

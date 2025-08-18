@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionHue</key>
+	<string>lastRadioOpacity</string>
+	<key>immediateHistogramSize</key>
+	<string>spriteWithoutValue</string>
+	<key>taskThanMode</key>
+	<string>viewModeInterval</string>
+</dict>
+</plist>

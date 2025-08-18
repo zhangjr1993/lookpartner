@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOutsideMemento</key>
+	<string>autoSpriteInteraction</string>
+	<key>asyncTopicHead</key>
+	<string>popupInOperation</string>
+	<key>builderContextBorder</key>
+	<string>descriptorBeyondBridge</string>
+	<key>cupertinoTabbarSpacing</key>
+	<string>segueCommandSize</string>
+	<key>cursorDespiteStage</key>
+	<string>contractionViaBridge</string>
+	<key>fragmentAndChain</key>
+	<string>hardCatalystDirection</string>
+	<key>fusedChallengeTint</key>
+	<string>cartesianChallengeDistance</string>
+	<key>granularMarginEdge</key>
+	<string>delicateTangentSpeed</string>
+	<key>resilientContractionStyle</key>
+	<string>sliderWithoutStyle</string>
+	<key>rowBridgeHead</key>
+	<string>mobileNibCoord</string>
+</dict>
+</plist>

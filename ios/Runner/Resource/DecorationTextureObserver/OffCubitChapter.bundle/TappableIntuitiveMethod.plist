@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioWorkShape</key>
+	<string>singleRowScale</string>
+	<key>constHeapMode</key>
+	<string>actionOutsideKind</string>
+	<key>cursorInterpreterSpeed</key>
+	<string>vectorVarBrightness</string>
+	<key>documentPerChain</key>
+	<string>backwardTouchDepth</string>
+	<key>usageTempleDelay</key>
+	<string>providerAsTask</string>
+</dict>
+</plist>

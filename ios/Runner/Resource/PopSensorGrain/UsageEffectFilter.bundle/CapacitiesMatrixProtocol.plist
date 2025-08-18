@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedProcessOpacity</key>
+	<string>isolateOutsideCycle</string>
+	<key>particleLikeComposite</key>
+	<string>statefulWidgetAlignment</string>
+	<key>radiusTierStyle</key>
+	<string>anchorExceptKind</string>
+	<key>responsiveSkinVisible</key>
+	<string>canvasIncludeCommand</string>
+</dict>
+</plist>

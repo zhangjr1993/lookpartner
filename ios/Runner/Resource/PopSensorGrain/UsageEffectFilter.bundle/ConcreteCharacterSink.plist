@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAdapterPosition</key>
+	<string>primaryRemainderDelay</string>
+	<key>largeBinaryDelay</key>
+	<string>borderActionEdge</string>
+	<key>localizationModeKind</key>
+	<string>inkwellDespiteActivity</string>
+	<key>nextCommandVisible</key>
+	<string>cacheMementoSpeed</string>
+	<key>observerFromEnvironment</key>
+	<string>lazyTopicRight</string>
+	<key>richtextStageVelocity</key>
+	<string>reductionFrameworkState</string>
+	<key>sliderIncludeStage</key>
+	<string>elasticHandlerStyle</string>
+	<key>storeByAdapter</key>
+	<string>memberFacadeTheme</string>
+</dict>
+</plist>

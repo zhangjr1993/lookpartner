@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPrototypeAppearance</key>
+	<string>draggableGraphicBrightness</string>
+	<key>crudeGraphValidation</key>
+	<string>alignmentObserverBrightness</string>
+	<key>cupertinoCubitVisibility</key>
+	<string>mediocreSingletonColor</string>
+	<key>hierarchicalTangentMode</key>
+	<string>scrollBeyondChain</string>
+	<key>methodSingletonRate</key>
+	<string>inactiveIntensityHead</string>
+	<key>notificationWithoutEnvironment</key>
+	<string>asyncRiverpodVisible</string>
+	<key>resourceNearCycle</key>
+	<string>unactivatedBulletEdge</string>
+</dict>
+</plist>

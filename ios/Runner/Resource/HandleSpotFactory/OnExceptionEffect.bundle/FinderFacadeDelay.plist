@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataAmongChain</key>
+	<string>paddingBufferValidation</string>
+	<key>multiplicationContainLevel</key>
+	<string>queueAroundAction</string>
+	<key>rectAgainstShape</key>
+	<string>permanentPageviewOrigin</string>
+	<key>resizableSegueRotation</key>
+	<string>hyperbolicAsyncOrientation</string>
+	<key>routerInsideFacade</key>
+	<string>navigatorUntilLevel</string>
+	<key>sliderProxyPadding</key>
+	<string>cupertinoEqualizationOpacity</string>
+</dict>
+</plist>

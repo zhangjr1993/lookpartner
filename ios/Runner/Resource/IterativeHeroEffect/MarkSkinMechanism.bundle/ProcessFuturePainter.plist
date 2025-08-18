@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryViaJob</key>
+	<string>dialogsAmongFacade</string>
+	<key>batchValueFrequency</key>
+	<string>animatedAlignmentTransparency</string>
+	<key>capacitiesNumberFeedback</key>
+	<string>responseStructureBrightness</string>
+	<key>dialogsProcessDepth</key>
+	<string>newestLabelShade</string>
+	<key>diffableQueueOrientation</key>
+	<string>dialogsAmongTask</string>
+	<key>largeAsyncAlignment</key>
+	<string>topicAlongChain</string>
+	<key>nativePaddingName</key>
+	<string>requestActivityMode</string>
+	<key>skirtMementoShape</key>
+	<string>independentDependencyTheme</string>
+</dict>
+</plist>

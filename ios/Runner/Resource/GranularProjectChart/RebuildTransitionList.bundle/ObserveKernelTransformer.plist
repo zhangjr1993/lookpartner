@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFacadeSpacing</key>
+	<string>deferredDecorationRate</string>
+	<key>frameProcessAcceleration</key>
+	<string>indicatorMediatorInset</string>
+	<key>immediateBorderOrientation</key>
+	<string>scrollableDurationVisibility</string>
+	<key>layerAsFlyweight</key>
+	<string>zoneStateFlags</string>
+	<key>nativeCoordinatorIndex</key>
+	<string>localContainerHead</string>
+	<key>positionTempleContrast</key>
+	<string>resizableMultiplicationVisible</string>
+</dict>
+</plist>

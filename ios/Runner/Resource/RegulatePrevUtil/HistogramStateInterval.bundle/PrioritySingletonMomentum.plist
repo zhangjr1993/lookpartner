@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMissionTheme</key>
+	<string>switchLevelTint</string>
+	<key>constMapTail</key>
+	<string>effectFacadeVisibility</string>
+	<key>gramAgainstFlyweight</key>
+	<string>immutableLoopTheme</string>
+	<key>iconTypeSaturation</key>
+	<string>allocatorNearTask</string>
+	<key>usagePlatformState</key>
+	<string>disparateInterfaceDirection</string>
+	<key>zonePatternInteraction</key>
+	<string>graphStageForce</string>
+</dict>
+</plist>

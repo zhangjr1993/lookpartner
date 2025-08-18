@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStrategyAcceleration</key>
+	<string>tableContextStatus</string>
+	<key>completerAmongActivity</key>
+	<string>concurrentSubscriptionAcceleration</string>
+	<key>cosineStructureTint</key>
+	<string>missedAnimationIndex</string>
+	<key>exponentFormCount</key>
+	<string>transitionLayerRate</string>
+	<key>observerFacadeFlags</key>
+	<string>enabledTweenInteraction</string>
+	<key>subtleTextureIndex</key>
+	<string>statelessPlaybackSize</string>
+	<key>timerPerChain</key>
+	<string>activatedResourceTheme</string>
+	<key>widgetProxyValidation</key>
+	<string>materialNumberPressure</string>
+</dict>
+</plist>

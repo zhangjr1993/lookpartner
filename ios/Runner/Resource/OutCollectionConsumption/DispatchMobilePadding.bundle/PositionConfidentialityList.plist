@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSingletonRight</key>
+	<string>skinObserverSpeed</string>
+	<key>decorationPatternSize</key>
+	<string>batchFrameworkFrequency</string>
+	<key>disabledInterfaceFlags</key>
+	<string>spotAsForm</string>
+	<key>nextGrainPadding</key>
+	<string>rowSinceMode</string>
+	<key>parallelAsyncSpeed</key>
+	<string>activeGraphLeft</string>
+	<key>secondDelegateType</key>
+	<string>projectionVarBorder</string>
+	<key>singletonOperationBrightness</key>
+	<string>giftVariableFeedback</string>
+	<key>sliderAroundChain</key>
+	<string>iconMementoFlags</string>
+	<key>smallStreamAlignment</key>
+	<string>composableSpriteShape</string>
+</dict>
+</plist>

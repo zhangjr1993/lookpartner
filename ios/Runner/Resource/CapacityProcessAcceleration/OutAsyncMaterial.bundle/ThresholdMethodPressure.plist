@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDelegateTension</key>
+	<string>nextFragmentBound</string>
+	<key>effectWithoutSingleton</key>
+	<string>columnObserverOpacity</string>
+	<key>euclideanResolverResponse</key>
+	<string>seamlessDimensionBottom</string>
+	<key>interfaceExceptParameter</key>
+	<string>semanticSizeForce</string>
+	<key>multiplicationPerFacade</key>
+	<string>themeContextSpacing</string>
+	<key>sortedViewMode</key>
+	<string>widgetOrFacade</string>
+	<key>threadBufferDuration</key>
+	<string>sortedProjectionInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBridgeAcceleration</key>
+	<string>disabledCharacterOrientation</string>
+	<key>asyncFunctionColor</key>
+	<string>consumerWithoutNumber</string>
+	<key>effectIncludeParam</key>
+	<string>pinchableCanvasContrast</string>
+	<key>elasticCubitSkewx</key>
+	<string>flexibleOffsetDistance</string>
+	<key>inheritedLayoutAlignment</key>
+	<string>observerInterpreterTail</string>
+	<key>mediaqueryAroundStructure</key>
+	<string>boxFlyweightAcceleration</string>
+	<key>platePlatformSkewx</key>
+	<string>rowOrPrototype</string>
+	<key>resultAwayScope</key>
+	<string>menuFlyweightValidation</string>
+	<key>semanticBrushFormat</key>
+	<string>globalScaleBehavior</string>
+</dict>
+</plist>

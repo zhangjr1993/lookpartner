@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAwayFacade</key>
+	<string>zoneInsideFacade</string>
+	<key>cupertinoRowInteraction</key>
+	<string>futureBufferAcceleration</string>
+	<key>dedicatedInterfacePosition</key>
+	<string>mutableAspectratioInteraction</string>
+	<key>interfaceFromMode</key>
+	<string>interpolationExceptParam</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleParticleStyle</key>
+	<string>criticalShaderSkewy</string>
+	<key>customizedLogHue</key>
+	<string>hierarchicalMonsterRate</string>
+	<key>delegateThroughFunction</key>
+	<string>iconTypeSpeed</string>
+	<key>heroOperationResponse</key>
+	<string>builderModeDelay</string>
+	<key>imageScopeOffset</key>
+	<string>frameOperationAcceleration</string>
+	<key>materialAdapterColor</key>
+	<string>baseContextBrightness</string>
+	<key>queueFrameworkColor</key>
+	<string>callbackCompositeEdge</string>
+	<key>storageTempleAlignment</key>
+	<string>tickerDuringKind</string>
+</dict>
+</plist>

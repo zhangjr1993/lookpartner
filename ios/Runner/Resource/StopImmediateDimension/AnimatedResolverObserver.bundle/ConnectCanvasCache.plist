@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSinkFlags</key>
+	<string>optionSystemBrightness</string>
+	<key>collectionVisitorCenter</key>
+	<string>uniqueModulusAcceleration</string>
+	<key>interactorFormFormat</key>
+	<string>textfieldBufferBorder</string>
+	<key>interactorValueTop</key>
+	<string>statefulObserverLocation</string>
+	<key>localAlertFeedback</key>
+	<string>timerParameterAcceleration</string>
+	<key>resizableLayerShade</key>
+	<string>dynamicTextPadding</string>
+	<key>retainedNavigatorCount</key>
+	<string>configurationNearVar</string>
+	<key>seguePhaseInteraction</key>
+	<string>greatAssetSize</string>
+</dict>
+</plist>

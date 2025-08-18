@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationValueValidation</key>
+	<string>geometricTaskRight</string>
+	<key>smallRoleVisibility</key>
+	<string>offsetVisitorFrequency</string>
+	<key>stampScopeOrientation</key>
+	<string>tickerCommandMode</string>
+</dict>
+</plist>

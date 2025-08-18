@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStageFlags</key>
+	<string>equipmentParameterShape</string>
+	<key>controllerParamRate</key>
+	<string>usedToolHue</string>
+	<key>finalLocalizationResponse</key>
+	<string>mainStoreAcceleration</string>
+	<key>intuitiveSineSize</key>
+	<string>seamlessRouteCount</string>
+	<key>projectVarPadding</key>
+	<string>eventValueEdge</string>
+	<key>queryBeyondActivity</key>
+	<string>visibleServiceTop</string>
+	<key>radiusFromLevel</key>
+	<string>reactiveNodeVisibility</string>
+	<key>sinkCommandFeedback</key>
+	<string>widgetObserverSkewy</string>
+	<key>sophisticatedProgressbarBehavior</key>
+	<string>challengeStructureDuration</string>
+</dict>
+</plist>

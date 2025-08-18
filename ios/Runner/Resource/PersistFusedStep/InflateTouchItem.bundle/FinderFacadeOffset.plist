@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleScale</key>
+	<string>otherBlocInset</string>
+	<key>asyncDespiteComposite</key>
+	<string>groupInMediator</string>
+	<key>collectionVarHue</key>
+	<string>storyboardNearTask</string>
+	<key>mediaqueryAwayNumber</key>
+	<string>spotParamRotation</string>
+	<key>offsetProcessAlignment</key>
+	<string>callbackIncludeAdapter</string>
+</dict>
+</plist>

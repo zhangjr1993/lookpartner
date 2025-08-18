@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAdapterDelay</key>
+	<string>entityOperationHead</string>
+	<key>globalActivityDirection</key>
+	<string>elasticAllocatorKind</string>
+	<key>interfaceByActivity</key>
+	<string>transformerStyleVelocity</string>
+	<key>interpolationCommandForce</key>
+	<string>smallSensorBehavior</string>
+	<key>nibVarSpeed</key>
+	<string>sliderFormSize</string>
+	<key>profileSystemPadding</key>
+	<string>beginnerModelMargin</string>
+	<key>resourceInsideAction</key>
+	<string>mutableAxisCenter</string>
+</dict>
+</plist>

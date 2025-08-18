@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableScaleDensity</key>
+	<string>tabbarSystemRight</string>
+	<key>ignoredTweenAlignment</key>
+	<string>precisionContainContext</string>
+	<key>mainPlateForce</key>
+	<string>persistentPointPressure</string>
+	<key>repositoryBeyondTier</key>
+	<string>dependencyDespiteEnvironment</string>
+</dict>
+</plist>

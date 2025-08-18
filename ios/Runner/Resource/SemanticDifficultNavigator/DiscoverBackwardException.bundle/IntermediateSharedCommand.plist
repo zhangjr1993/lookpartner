@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBridgeDelay</key>
+	<string>cubeVersusStage</string>
+	<key>dependencyTaskRight</key>
+	<string>managerAgainstOperation</string>
+	<key>imperativePaddingLocation</key>
+	<string>segueVarSkewy</string>
+	<key>intuitiveUsagePosition</key>
+	<string>singletonContainAdapter</string>
+	<key>layerCycleValidation</key>
+	<string>requestWorkPadding</string>
+	<key>timerAlongVar</key>
+	<string>batchContextResponse</string>
+</dict>
+</plist>

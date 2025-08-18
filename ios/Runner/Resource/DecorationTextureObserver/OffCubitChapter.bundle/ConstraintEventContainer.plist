@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPresenterDensity</key>
+	<string>tweenOperationValidation</string>
+	<key>durationIncludeValue</key>
+	<string>semanticsThroughContext</string>
+	<key>routeVarVisibility</key>
+	<string>momentumDecoratorLocation</string>
+	<key>sliderTaskAlignment</key>
+	<string>screenVisitorBrightness</string>
+	<key>timerPrototypeOffset</key>
+	<string>sliderObserverInterval</string>
+	<key>transformerParamStyle</key>
+	<string>ignoredDescriptorCount</string>
+</dict>
+</plist>

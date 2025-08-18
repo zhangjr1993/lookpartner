@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionScopeFlags</key>
+	<string>containerUntilActivity</string>
+	<key>getxUntilMediator</key>
+	<string>sessionMementoSize</string>
+	<key>providerThroughMethod</key>
+	<string>tensorSubscriptionSaturation</string>
+	<key>referencePerActivity</key>
+	<string>delegateProxyVisibility</string>
+	<key>secondPrecisionDensity</key>
+	<string>denseResolverDepth</string>
+</dict>
+</plist>

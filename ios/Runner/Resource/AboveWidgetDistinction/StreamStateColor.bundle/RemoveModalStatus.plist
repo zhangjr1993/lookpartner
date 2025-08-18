@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePhaseVelocity</key>
+	<string>utilDecoratorContrast</string>
+	<key>gradientAwayMethod</key>
+	<string>decorationDespiteInterpreter</string>
+	<key>inactiveTransitionRotation</key>
+	<string>euclideanMobxRotation</string>
+	<key>inheritedFlexDepth</key>
+	<string>binaryCompositeInteraction</string>
+	<key>mutableViewDuration</key>
+	<string>elasticGradientBottom</string>
+	<key>painterPhaseRotation</key>
+	<string>scrollableCompletionShade</string>
+	<key>pointAwayObserver</key>
+	<string>serviceSingletonScale</string>
+	<key>singleTitleShade</key>
+	<string>richtextByStage</string>
+</dict>
+</plist>

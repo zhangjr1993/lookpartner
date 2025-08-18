@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCompositePosition</key>
+	<string>interfaceSingletonFlags</string>
+	<key>descriptorPerVariable</key>
+	<string>transitionForOperation</string>
+	<key>marginVersusVariable</key>
+	<string>largeSegmentTint</string>
+	<key>offsetDuringActivity</key>
+	<string>labelAdapterBehavior</string>
+	<key>routeProcessInterval</key>
+	<string>skinKindRate</string>
+	<key>symmetricFrameCount</key>
+	<string>masterFromMemento</string>
+</dict>
+</plist>

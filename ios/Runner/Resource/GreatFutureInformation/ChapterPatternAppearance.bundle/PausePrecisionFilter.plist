@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerRadioRight</key>
+	<string>spotThroughSystem</string>
+	<key>flexibleExpandedKind</key>
+	<string>sequentialLoopSaturation</string>
+	<key>secondTransitionOpacity</key>
+	<string>multiplicationCycleTransparency</string>
+	<key>sortedGateDensity</key>
+	<string>semanticLogBound</string>
+</dict>
+</plist>

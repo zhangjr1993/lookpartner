@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDespiteStyle</key>
+	<string>dynamicEntityDepth</string>
+	<key>builderAndEnvironment</key>
+	<string>mobilePrecisionRate</string>
+	<key>disabledTableInterval</key>
+	<string>gateObserverLeft</string>
+	<key>keyRouterSkewx</key>
+	<string>precisionOperationForce</string>
+	<key>mobileDecorationTransparency</key>
+	<string>lostRectFormat</string>
+	<key>queryAwaySingleton</key>
+	<string>certificateInFlyweight</string>
+	<key>sizeOutsideJob</key>
+	<string>diffableThreadRate</string>
+	<key>specifyConstraintBehavior</key>
+	<string>animationMediatorCenter</string>
+	<key>stackActivityValidation</key>
+	<string>secondFrameResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetObserverOrientation</key>
+	<string>requiredEffectBehavior</string>
+	<key>constraintIncludeOperation</key>
+	<string>catalystProcessOffset</string>
+	<key>contractionPerScope</key>
+	<string>finalInteractorBehavior</string>
+	<key>discardedSizeKind</key>
+	<string>specifierSingletonRight</string>
+	<key>heapThanScope</key>
+	<string>reusableRichtextFormat</string>
+	<key>workflowAdapterTransparency</key>
+	<string>dedicatedAllocatorDensity</string>
+</dict>
+</plist>

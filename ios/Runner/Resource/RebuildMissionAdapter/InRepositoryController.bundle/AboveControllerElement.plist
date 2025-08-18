@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBlocTheme</key>
+	<string>accessibleSineTint</string>
+	<key>associatedStoreShape</key>
+	<string>gestureOrCycle</string>
+	<key>configurationFunctionBorder</key>
+	<string>heroOfStage</string>
+	<key>lostAnchorBorder</key>
+	<string>configurationVarShade</string>
+	<key>modulusProxyInterval</key>
+	<string>otherBoxForce</string>
+	<key>queryAwayStyle</key>
+	<string>topicScopeSpacing</string>
+	<key>ternaryAgainstVar</key>
+	<string>sinkDuringAction</string>
+</dict>
+</plist>

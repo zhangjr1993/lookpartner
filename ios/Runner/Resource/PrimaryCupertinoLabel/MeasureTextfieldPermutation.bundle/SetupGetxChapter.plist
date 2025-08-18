@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTopicVisibility</key>
+	<string>basicRowAppearance</string>
+	<key>rapidGesturedetectorBottom</key>
+	<string>playbackStyleTail</string>
+	<key>responseStyleOpacity</key>
+	<string>scrollThanNumber</string>
+	<key>serviceBridgeBound</key>
+	<string>routeWithProxy</string>
+	<key>textProxyTail</key>
+	<string>keyTextTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOperationInteraction</key>
+	<string>independentGrainHead</string>
+	<key>finalToolCoord</key>
+	<string>offsetCompositeLocation</string>
+	<key>greatScaffoldDensity</key>
+	<string>sinkWorkValidation</string>
+	<key>resourceStructureIndex</key>
+	<string>progressbarBySystem</string>
+	<key>sensorBridgeBottom</key>
+	<string>usedPositionBottom</string>
+	<key>stepOfComposite</key>
+	<string>awaitInPlatform</string>
+	<key>tensorCanvasForce</key>
+	<string>tappableReductionOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderExceptObserver</key>
+	<string>sinkWorkBorder</string>
+	<key>delegateChainFlags</key>
+	<string>hierarchicalConfigurationDirection</string>
+	<key>intuitiveChartHue</key>
+	<string>logOrStrategy</string>
+	<key>mainWorkflowCount</key>
+	<string>workflowSingletonFormat</string>
+	<key>requestVarBorder</key>
+	<string>alignmentLayerVisibility</string>
+	<key>scaffoldAlongMode</key>
+	<string>sophisticatedModelHue</string>
+	<key>servicePrototypeStatus</key>
+	<string>constraintVariableFormat</string>
+	<key>standaloneStampInset</key>
+	<string>rowAsEnvironment</string>
+</dict>
+</plist>

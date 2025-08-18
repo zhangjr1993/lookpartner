@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySystemFrequency</key>
+	<string>tabbarBeyondScope</string>
+	<key>dimensionForSystem</key>
+	<string>actionPhaseDelay</string>
+	<key>euclideanSingletonCoord</key>
+	<string>respectiveTickerVisibility</string>
+	<key>interactivePositionBound</key>
+	<string>statefulCheckboxPadding</string>
+	<key>keyCubitScale</key>
+	<string>assetOperationHue</string>
+	<key>positionAboutFunction</key>
+	<string>shaderVersusTier</string>
+	<key>providerAboutType</key>
+	<string>managerChainBrightness</string>
+	<key>resolverAboutBridge</key>
+	<string>usedAnimatedcontainerAppearance</string>
+</dict>
+</plist>

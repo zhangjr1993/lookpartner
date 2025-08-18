@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVariableKind</key>
+	<string>gesturedetectorFrameworkLeft</string>
+	<key>explicitTextHead</key>
+	<string>isolateLayerTransparency</string>
+	<key>geometricPointAcceleration</key>
+	<string>significantResponseForce</string>
+	<key>mediaqueryFacadeResponse</key>
+	<string>imperativeScreenLocation</string>
+	<key>mediocreTransformerDepth</key>
+	<string>bufferAsLevel</string>
+	<key>operationCompositeDuration</key>
+	<string>widgetBridgeInset</string>
+	<key>resultAsPlatform</key>
+	<string>declarativeAnimationDepth</string>
+	<key>semanticNibLeft</key>
+	<string>mapSystemScale</string>
+</dict>
+</plist>

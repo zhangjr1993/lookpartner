@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxDuringBridge</key>
+	<string>cacheBridgeValidation</string>
+	<key>independentModelOpacity</key>
+	<string>sliderAwayChain</string>
+	<key>layoutSystemAppearance</key>
+	<string>webCaptionTint</string>
+	<key>normalMovementAppearance</key>
+	<string>workflowAwayCycle</string>
+	<key>painterMementoVelocity</key>
+	<string>fixedSubpixelTransparency</string>
+	<key>positionValueFeedback</key>
+	<string>controllerExceptSingleton</string>
+	<key>segmentActivityDelay</key>
+	<string>multiplicationForStructure</string>
+	<key>semanticsMethodBottom</key>
+	<string>frameAroundBridge</string>
+	<key>swiftTempleMargin</key>
+	<string>synchronousStoryboardTheme</string>
+</dict>
+</plist>

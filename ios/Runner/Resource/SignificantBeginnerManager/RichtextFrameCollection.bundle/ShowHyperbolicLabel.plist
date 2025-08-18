@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStyleVisible</key>
+	<string>sustainableLayerStatus</string>
+	<key>cubitStageVisibility</key>
+	<string>discardedTernaryPadding</string>
+	<key>dropdownbuttonBeyondNumber</key>
+	<string>substantialNotificationContrast</string>
+	<key>exceptionVarTheme</key>
+	<string>statelessOutsideMode</string>
+	<key>menuShapeContrast</key>
+	<string>sizedboxVersusVar</string>
+	<key>petWithMediator</key>
+	<string>singletonLikeStyle</string>
+	<key>providerOperationInteraction</key>
+	<string>textAlongTemple</string>
+	<key>sliderBySingleton</key>
+	<string>blocVersusProxy</string>
+</dict>
+</plist>

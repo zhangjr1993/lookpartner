@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseType</key>
+	<string>ignoredPresenterTop</string>
+	<key>basicSliderLocation</key>
+	<string>sizeChainEdge</string>
+	<key>contractionOrVar</key>
+	<string>navigatorBufferValidation</string>
+	<key>declarativeQueryType</key>
+	<string>prismaticManagerFrequency</string>
+	<key>diversifiedListviewMode</key>
+	<string>commandValueVelocity</string>
+	<key>interpolationObserverValidation</key>
+	<string>desktopDurationPressure</string>
+	<key>mediocreBufferBrightness</key>
+	<string>semanticPreviewScale</string>
+	<key>subscriptionDespiteContext</key>
+	<string>synchronousTernaryInterval</string>
+	<key>symmetricNotificationStyle</key>
+	<string>tweenDespiteFlyweight</string>
+</dict>
+</plist>

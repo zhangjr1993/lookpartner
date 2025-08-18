@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerIncludeTier</key>
+	<string>crucialMusicBrightness</string>
+	<key>dialogsVersusFacade</key>
+	<string>animationPerScope</string>
+	<key>effectAdapterType</key>
+	<string>listviewOperationStatus</string>
+	<key>exceptionKindInteraction</key>
+	<string>accessibleChannelsValidation</string>
+	<key>injectionThanInterpreter</key>
+	<string>indicatorIncludePlatform</string>
+	<key>sinkDespiteProxy</key>
+	<string>semanticsStructureInteraction</string>
+	<key>stateWithoutFacade</key>
+	<string>substantialAccessorySkewy</string>
+</dict>
+</plist>

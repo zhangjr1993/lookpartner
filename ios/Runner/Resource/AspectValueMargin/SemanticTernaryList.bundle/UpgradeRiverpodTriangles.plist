@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolverFromTier</key>
+	<string>taskViaScope</string>
+	<key>rowFromScope</key>
+	<string>tweenNearSystem</string>
+	<key>semanticsTypeOrientation</key>
+	<string>particlePlatformEdge</string>
+	<key>sustainableCurveValidation</key>
+	<string>referenceForFacade</string>
+	<key>utilSingletonRight</key>
+	<string>handlerAdapterSkewx</string>
+	<key>workflowParameterOffset</key>
+	<string>singletonFunctionStyle</string>
+</dict>
+</plist>

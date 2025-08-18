@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWithEnvironment</key>
+	<string>textureCompositeInteraction</string>
+	<key>concurrentCertificateMargin</key>
+	<string>checkboxAtPlatform</string>
+	<key>persistentDependencyDepth</key>
+	<string>intermediateTickerName</string>
+	<key>projectionWorkKind</key>
+	<string>buttonForMethod</string>
+	<key>resolverPlatformMargin</key>
+	<string>usedChecklistVisibility</string>
+	<key>sustainableConsumerAcceleration</key>
+	<string>fragmentTypeVisibility</string>
+</dict>
+</plist>

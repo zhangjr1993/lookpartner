@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constInterfaceTint</key>
+	<string>webIconShape</string>
+	<key>handlerUntilState</key>
+	<string>themeNearChain</string>
+	<key>observerOutsideWork</key>
+	<string>zoneStructureTint</string>
+	<key>parallelNodePosition</key>
+	<string>anchorAmongDecorator</string>
+	<key>publicMaterialPressure</key>
+	<string>positionFormBrightness</string>
+	<key>relationalHistogramFeedback</key>
+	<string>sharedCurveCoord</string>
+	<key>temporaryThemeTint</key>
+	<string>gridForFlyweight</string>
+</dict>
+</plist>

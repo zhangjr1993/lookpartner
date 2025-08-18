@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNotifierStyle</key>
+	<string>flexStrategyValidation</string>
+	<key>animationViaPhase</key>
+	<string>featureFlyweightState</string>
+	<key>cupertinoFragmentBound</key>
+	<string>reducerLayerName</string>
+	<key>diversifiedEntropyPadding</key>
+	<string>newestConstraintShape</string>
+	<key>sortedConfigurationSkewx</key>
+	<string>compositionFacadeEdge</string>
+	<key>usecaseVersusVisitor</key>
+	<string>cartesianSampleType</string>
+</dict>
+</plist>

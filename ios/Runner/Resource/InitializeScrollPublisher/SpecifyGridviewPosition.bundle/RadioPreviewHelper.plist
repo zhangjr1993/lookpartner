@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationModeBorder</key>
+	<string>originalGiftPressure</string>
+	<key>displayableResourceFormat</key>
+	<string>marginBeyondComposite</string>
+	<key>graphAgainstSystem</key>
+	<string>singletonPerStructure</string>
+	<key>requestSingletonOrigin</key>
+	<string>tabviewBesideWork</string>
+	<key>spineTypeFeedback</key>
+	<string>columnScopeCount</string>
+</dict>
+</plist>

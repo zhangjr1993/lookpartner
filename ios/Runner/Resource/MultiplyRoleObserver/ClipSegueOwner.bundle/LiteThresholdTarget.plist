@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTextAlignment</key>
+	<string>subtleTaskHead</string>
+	<key>challengeVersusDecorator</key>
+	<string>profileAdapterFeedback</string>
+	<key>constraintAdapterBottom</key>
+	<string>permanentSensorStatus</string>
+	<key>desktopPaddingDensity</key>
+	<string>responsiveSignatureHue</string>
+	<key>pinchableRiverpodAppearance</key>
+	<string>consultativeTimerBrightness</string>
+	<key>positionTaskOrientation</key>
+	<string>frameForTask</string>
+	<key>signMementoValidation</key>
+	<string>dependencyProxyBorder</string>
+	<key>uniqueHandlerSkewy</key>
+	<string>requestContainActivity</string>
+</dict>
+</plist>

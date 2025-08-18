@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerInset</key>
+	<string>richtextWithTask</string>
+	<key>boxshadowLayerLocation</key>
+	<string>layoutInsideFramework</string>
+	<key>buttonFlyweightKind</key>
+	<string>fusedRequestOffset</string>
+	<key>integerBridgeTail</key>
+	<string>widgetByMethod</string>
+	<key>normalMemberOpacity</key>
+	<string>allocatorAwayForm</string>
+</dict>
+</plist>

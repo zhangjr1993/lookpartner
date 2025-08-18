@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkSaturation</key>
+	<string>interfaceInterpreterName</string>
+	<key>builderFromFacade</key>
+	<string>workflowByMediator</string>
+	<key>desktopStoryboardSpeed</key>
+	<string>widgetMethodVelocity</string>
+	<key>documentLikeActivity</key>
+	<string>dependencyProxyForce</string>
+	<key>interactorInterpreterForce</key>
+	<string>techniqueFlyweightPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredDependencyRotation</key>
+	<string>optionThroughSingleton</string>
+	<key>layoutKindDuration</key>
+	<string>screenFormFlags</string>
+	<key>particleAgainstTier</key>
+	<string>queryInterpreterBehavior</string>
+	<key>tickerForStage</key>
+	<string>taskThanObserver</string>
+</dict>
+</plist>

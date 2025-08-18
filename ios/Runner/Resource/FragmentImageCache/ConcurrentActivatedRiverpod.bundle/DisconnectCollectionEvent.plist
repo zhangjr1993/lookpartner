@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionNearType</key>
+	<string>flexibleResponseVisibility</string>
+	<key>factoryBufferHead</key>
+	<string>cupertinoBoxContrast</string>
+	<key>movementFromPattern</key>
+	<string>transformerExceptFunction</string>
+</dict>
+</plist>

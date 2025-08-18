@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResolverIndex</key>
+	<string>navigatorPhaseDepth</string>
+	<key>constraintKindAcceleration</key>
+	<string>consumerOutsideWork</string>
+	<key>metadataByMemento</key>
+	<string>sampleWithoutType</string>
+	<key>mobileContextMomentum</key>
+	<string>bufferExceptKind</string>
+</dict>
+</plist>

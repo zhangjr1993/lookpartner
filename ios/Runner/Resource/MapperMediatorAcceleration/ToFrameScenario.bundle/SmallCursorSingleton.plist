@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackModeContrast</key>
+	<string>mediaProcessVisibility</string>
+	<key>curveDuringChain</key>
+	<string>rectAndKind</string>
+	<key>iconFormInteraction</key>
+	<string>metadataContextCenter</string>
+	<key>sequentialModelColor</key>
+	<string>beginnerVectorBound</string>
+	<key>stampParamOffset</key>
+	<string>exceptionForCycle</string>
+	<key>unactivatedMapIndex</key>
+	<string>histogramCyclePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMenuSkewy</key>
+	<string>composableIconTag</string>
+	<key>cubitCycleInset</key>
+	<string>immutableContractionAcceleration</string>
+	<key>marginMementoStyle</key>
+	<string>newestNodeMargin</string>
+	<key>numericalLayoutOrientation</key>
+	<string>activeEntropyHue</string>
+	<key>reactiveGestureAlignment</key>
+	<string>momentumStrategyStatus</string>
+	<key>responseFrameworkDuration</key>
+	<string>heroObserverScale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaThroughSingleton</key>
+	<string>coordinatorAsForm</string>
+	<key>appbarBufferDensity</key>
+	<string>sliderShapeName</string>
+	<key>buttonSingletonStatus</key>
+	<string>notifierVersusParameter</string>
+	<key>layoutPatternDirection</key>
+	<string>listenerParamTransparency</string>
+	<key>pointAgainstTask</key>
+	<string>permissiveFrameDistance</string>
+	<key>resourceFormTension</key>
+	<string>disabledInkwellMargin</string>
+	<key>tickerDecoratorTheme</key>
+	<string>durationFunctionSkewy</string>
+</dict>
+</plist>

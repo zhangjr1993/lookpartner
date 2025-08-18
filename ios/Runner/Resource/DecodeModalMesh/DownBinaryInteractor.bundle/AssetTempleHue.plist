@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCycleDelay</key>
+	<string>offsetFromCycle</string>
+	<key>actionParameterInteraction</key>
+	<string>awaitExceptStage</string>
+	<key>aspectAsTier</key>
+	<string>resizableMediaDelay</string>
+	<key>cellPlatformBound</key>
+	<string>euclideanEqualizationForce</string>
+	<key>configurationWorkFormat</key>
+	<string>disabledOffsetColor</string>
+	<key>plateSingletonVelocity</key>
+	<string>offsetPerState</string>
+	<key>sizedboxWithoutState</key>
+	<string>storyboardActionContrast</string>
+	<key>stackDuringObserver</key>
+	<string>geometricHandlerOrigin</string>
+	<key>uniqueDropdownbuttonFormat</key>
+	<string>controllerAtPrototype</string>
+</dict>
+</plist>

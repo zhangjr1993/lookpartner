@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThanParam</key>
+	<string>curveScopeCoord</string>
+	<key>effectKindScale</key>
+	<string>layerEnvironmentFeedback</string>
+	<key>lazyGroupVisibility</key>
+	<string>localCursorSpeed</string>
+	<key>scaleAndType</key>
+	<string>resourcePerVar</string>
+	<key>sinkOutsideFlyweight</key>
+	<string>buttonSinceTask</string>
+	<key>webScaleDirection</key>
+	<string>swiftOfFunction</string>
+</dict>
+</plist>

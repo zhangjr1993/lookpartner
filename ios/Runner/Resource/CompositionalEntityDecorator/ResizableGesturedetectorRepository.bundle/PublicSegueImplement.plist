@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOverlayKind</key>
+	<string>diffableCallbackPadding</string>
+	<key>directAsyncHead</key>
+	<string>delegateAndState</string>
+	<key>eagerConfigurationLeft</key>
+	<string>iterativeInteractorDensity</string>
+	<key>groupAroundProxy</key>
+	<string>nextTickerPadding</string>
+	<key>listviewActivityResponse</key>
+	<string>interactorByFacade</string>
+	<key>particlePlatformFlags</key>
+	<string>dependencySystemCenter</string>
+	<key>staticProviderMargin</key>
+	<string>dropdownbuttonAboutAdapter</string>
+</dict>
+</plist>

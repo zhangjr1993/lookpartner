@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMediaSaturation</key>
+	<string>labelAsLevel</string>
+	<key>fixedLoopType</key>
+	<string>disabledControllerContrast</string>
+	<key>navigationAlongActivity</key>
+	<string>movementSinceFlyweight</string>
+	<key>queueAboutTask</key>
+	<string>convolutionTempleDepth</string>
+	<key>resilientUtilVisibility</key>
+	<string>diversifiedSceneSpeed</string>
+	<key>skirtUntilObserver</key>
+	<string>notifierTaskTop</string>
+	<key>temporaryPlaybackSpacing</key>
+	<string>multiLabelStatus</string>
+</dict>
+</plist>

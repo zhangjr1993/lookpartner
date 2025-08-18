@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerNearChain</key>
+	<string>localWorkflowTop</string>
+	<key>delegateAboutMethod</key>
+	<string>roleExceptStrategy</string>
+	<key>observerAsStyle</key>
+	<string>interactiveManagerShade</string>
+	<key>operationFunctionColor</key>
+	<string>displayableTableInteraction</string>
+	<key>rowSinceNumber</key>
+	<string>chapterSinceStructure</string>
+	<key>sceneProxyDelay</key>
+	<string>metadataForPattern</string>
+	<key>sizeFormTheme</key>
+	<string>liteCurveSpeed</string>
+	<key>ternaryAsStage</key>
+	<string>vectorBridgeTheme</string>
+</dict>
+</plist>

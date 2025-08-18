@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGetxInteraction</key>
+	<string>textDecoratorShade</string>
+	<key>challengeStateVisibility</key>
+	<string>statefulPatternScale</string>
+	<key>consumerAndAction</key>
+	<string>grayscaleOfStage</string>
+	<key>fusedLabelFlags</key>
+	<string>anchorMementoName</string>
+	<key>mediumLayoutAcceleration</key>
+	<string>routeMethodBehavior</string>
+	<key>statelessCycleAppearance</key>
+	<string>axisDuringJob</string>
+	<key>usedTopicRight</key>
+	<string>fusedLabelDistance</string>
+</dict>
+</plist>

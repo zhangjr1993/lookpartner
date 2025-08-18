@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCheckboxBound</key>
+	<string>interactiveStorageSkewx</string>
+	<key>interactorAboutMode</key>
+	<string>sharedTimerSaturation</string>
+	<key>logUntilMode</key>
+	<string>delegateFromMethod</string>
+	<key>providerPerProcess</key>
+	<string>multiMenuInset</string>
+	<key>remainderKindOrientation</key>
+	<string>radiusThanPhase</string>
+</dict>
+</plist>

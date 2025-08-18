@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerNumberPadding</key>
+	<string>agileLabelSpeed</string>
+	<key>rowCycleDensity</key>
+	<string>textAwayCycle</string>
+	<key>signatureCommandContrast</key>
+	<string>skinBufferResponse</string>
+	<key>taskThanPattern</key>
+	<string>unactivatedExtensionPressure</string>
+	<key>widgetJobPressure</key>
+	<string>mobxOutsideBuffer</string>
+</dict>
+</plist>

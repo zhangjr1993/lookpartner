@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionIncludeStage</key>
+	<string>reusableSlashResponse</string>
+	<key>advancedSubpixelState</key>
+	<string>prevOffsetVisible</string>
+	<key>backwardSizeAlignment</key>
+	<string>advancedPopupSpeed</string>
+	<key>mediaNumberDistance</key>
+	<string>statelessTaskCount</string>
+	<key>semanticMatrixBorder</key>
+	<string>widgetBeyondType</string>
+	<key>sequentialMemberEdge</key>
+	<string>sliderVarAlignment</string>
+	<key>tangentVisitorSkewx</key>
+	<string>curveVariableShade</string>
+	<key>variantStyleSize</key>
+	<string>clipperAroundFramework</string>
+</dict>
+</plist>

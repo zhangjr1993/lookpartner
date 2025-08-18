@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeMomentum</key>
+	<string>staticCubitBrightness</string>
+	<key>borderChainDelay</key>
+	<string>spineAsStyle</string>
+	<key>equalizationViaInterpreter</key>
+	<string>usecaseInsideLayer</string>
+	<key>heroIncludeSystem</key>
+	<string>diversifiedNavigatorVisibility</string>
+	<key>numericalRowDistance</key>
+	<string>spriteSingletonOrigin</string>
+	<key>precisionInsideType</key>
+	<string>dialogsOutsideKind</string>
+	<key>resourceVarSpacing</key>
+	<string>transitionVariableOrientation</string>
+	<key>responseThroughSingleton</key>
+	<string>allocatorInMethod</string>
+	<key>tabviewBesideFramework</key>
+	<string>widgetFromState</string>
+</dict>
+</plist>

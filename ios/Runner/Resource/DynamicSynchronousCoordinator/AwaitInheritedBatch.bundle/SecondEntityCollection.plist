@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteMemento</key>
+	<string>particleModeStatus</string>
+	<key>channelModeRotation</key>
+	<string>spotScopeVisibility</string>
+	<key>globalTitleVelocity</key>
+	<string>smallEntityCount</string>
+	<key>notifierFrameworkKind</key>
+	<string>gatePatternSpeed</string>
+	<key>repositoryProxyAlignment</key>
+	<string>radiusVarTail</string>
+	<key>singletonValueColor</key>
+	<string>asynchronousMissionSpacing</string>
+	<key>sinkAmongSingleton</key>
+	<string>localMusicInterval</string>
+	<key>standaloneProviderState</key>
+	<string>crudeMediaOffset</string>
+	<key>synchronousDrawerEdge</key>
+	<string>greatGrayscaleEdge</string>
+	<key>tangentAmongFacade</key>
+	<string>interactorLikeBuffer</string>
+</dict>
+</plist>

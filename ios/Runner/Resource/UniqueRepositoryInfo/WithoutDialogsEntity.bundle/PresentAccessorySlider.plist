@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAndOperation</key>
+	<string>mobxFormShape</string>
+	<key>composableScreenVelocity</key>
+	<string>graphInsideOperation</string>
+	<key>dialogsProxyScale</key>
+	<string>effectValueBrightness</string>
+	<key>firstSliderIndex</key>
+	<string>numericalLayerTop</string>
+	<key>frameTierShade</key>
+	<string>metadataCompositeResponse</string>
+	<key>immutableHandlerFeedback</key>
+	<string>textChainKind</string>
+	<key>layoutShapeDepth</key>
+	<string>sampleParameterOffset</string>
+	<key>mobilePresenterOrientation</key>
+	<string>temporaryCompleterEdge</string>
+	<key>nextTernaryInterval</key>
+	<string>adaptiveInjectionTheme</string>
+	<key>segueFrameworkTheme</key>
+	<string>resizableCubitTail</string>
+</dict>
+</plist>

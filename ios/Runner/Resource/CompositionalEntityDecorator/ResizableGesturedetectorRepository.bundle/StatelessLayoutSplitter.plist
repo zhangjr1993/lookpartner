@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationUntilTask</key>
+	<string>durationStrategyRotation</string>
+	<key>eventScopeVisibility</key>
+	<string>canvasAdapterAppearance</string>
+	<key>globalIntensityHead</key>
+	<string>statefulModeFeedback</string>
+	<key>localModulusOrigin</key>
+	<string>animatedCubitColor</string>
+	<key>mediumTextSpacing</key>
+	<string>semanticBinaryDelay</string>
+	<key>pointKindForce</key>
+	<string>grainVarMomentum</string>
+</dict>
+</plist>

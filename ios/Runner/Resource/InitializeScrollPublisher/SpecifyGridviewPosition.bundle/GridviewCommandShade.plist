@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVariableAcceleration</key>
+	<string>durationCompositeName</string>
+	<key>entityOrNumber</key>
+	<string>skinFacadeAppearance</string>
+	<key>skinPatternMode</key>
+	<string>equalizationStageDelay</string>
+	<key>stepCommandInset</key>
+	<string>semanticResultRate</string>
+</dict>
+</plist>

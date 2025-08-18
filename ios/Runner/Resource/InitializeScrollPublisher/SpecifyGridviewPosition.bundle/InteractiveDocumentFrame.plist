@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBesideKind</key>
+	<string>injectionParamCoord</string>
+	<key>blocNumberForce</key>
+	<string>memberParamResponse</string>
+	<key>channelPerFacade</key>
+	<string>menuFlyweightScale</string>
+	<key>commandVarTheme</key>
+	<string>grainFromSingleton</string>
+	<key>optimizerWorkLeft</key>
+	<string>commonFutureTag</string>
+	<key>parallelInstructionBrightness</key>
+	<string>featureDecoratorFormat</string>
+	<key>secondCertificateSkewx</key>
+	<string>baselineOutsideTemple</string>
+	<key>temporaryStorageName</key>
+	<string>deferredWorkflowSkewx</string>
+	<key>textJobInteraction</key>
+	<string>inkwellMediatorDirection</string>
+	<key>transformerPerMediator</key>
+	<string>streamOrVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLevelSkewy</key>
+	<string>agileCompletionRight</string>
+	<key>cardPhaseEdge</key>
+	<string>matrixChainAppearance</string>
+	<key>functionalFutureDepth</key>
+	<string>labelActionCount</string>
+	<key>graphActionFeedback</key>
+	<string>commandPerNumber</string>
+	<key>mediaqueryOrProxy</key>
+	<string>entityModeInset</string>
+	<key>prevAnimationMode</key>
+	<string>resourceFlyweightFeedback</string>
+	<key>storeThroughProcess</key>
+	<string>textfieldInterpreterEdge</string>
+</dict>
+</plist>

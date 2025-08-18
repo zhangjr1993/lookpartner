@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBeyondOperation</key>
+	<string>touchTempleBorder</string>
+	<key>basicNavigatorMode</key>
+	<string>curveScopeInset</string>
+	<key>chapterKindTag</key>
+	<string>hierarchicalPreviewAppearance</string>
+	<key>imperativeRouterFlags</key>
+	<string>directlyCommandTail</string>
+	<key>requestOutsideTier</key>
+	<string>dedicatedAllocatorEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDescriptorEdge</key>
+	<string>descriptionStructureResponse</string>
+	<key>bufferWorkKind</key>
+	<string>taskValueSpacing</string>
+	<key>cardFacadeForce</key>
+	<string>axisStylePadding</string>
+	<key>composableUsecaseValidation</key>
+	<string>awaitDuringFunction</string>
+	<key>constraintIncludeContext</key>
+	<string>lastAccessoryOffset</string>
+	<key>errorAwayFlyweight</key>
+	<string>liteAppbarState</string>
+	<key>eventMediatorCoord</key>
+	<string>decorationLikeSingleton</string>
+	<key>prismaticHeapVisibility</key>
+	<string>musicOrFacade</string>
+	<key>singletonProcessDuration</key>
+	<string>routeUntilObserver</string>
+	<key>stateFromKind</key>
+	<string>mediumBlocAlignment</string>
+</dict>
+</plist>

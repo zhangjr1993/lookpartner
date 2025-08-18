@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRequestLeft</key>
+	<string>alertAmongCommand</string>
+	<key>extensionExceptInterpreter</key>
+	<string>observerCommandStyle</string>
+	<key>injectionDespiteStyle</key>
+	<string>controllerAgainstDecorator</string>
+	<key>menuFromObserver</key>
+	<string>currentParticleForce</string>
+	<key>methodParameterInteraction</key>
+	<string>chartCycleOrientation</string>
+	<key>responseCompositeDensity</key>
+	<string>injectionEnvironmentCount</string>
+	<key>responsiveTextfieldIndex</key>
+	<string>transformerPlatformBorder</string>
+</dict>
+</plist>

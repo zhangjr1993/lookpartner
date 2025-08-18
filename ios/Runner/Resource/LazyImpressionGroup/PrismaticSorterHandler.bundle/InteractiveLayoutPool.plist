@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRoutePressure</key>
+	<string>consumerAndType</string>
+	<key>brushCycleInteraction</key>
+	<string>shaderVarStatus</string>
+	<key>chartDespiteSystem</key>
+	<string>animationActionBehavior</string>
+	<key>constDurationSkewy</key>
+	<string>spriteParameterBound</string>
+	<key>cupertinoContextVelocity</key>
+	<string>gesturedetectorInVisitor</string>
+	<key>equipmentModeOrigin</key>
+	<string>dependencyParameterTheme</string>
+	<key>grayscaleThanCycle</key>
+	<string>allocatorAtContext</string>
+	<key>litePaddingSpacing</key>
+	<string>channelInsideBuffer</string>
+	<key>referenceEnvironmentScale</key>
+	<string>builderBeyondSystem</string>
+	<key>semanticsStageKind</key>
+	<string>delegateDespiteVar</string>
+</dict>
+</plist>

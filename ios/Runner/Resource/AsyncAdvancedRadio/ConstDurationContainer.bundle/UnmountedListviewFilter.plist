@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAwayCommand</key>
+	<string>spineIncludeInterpreter</string>
+	<key>iconOfPhase</key>
+	<string>scaleFormValidation</string>
+	<key>interactorWithoutEnvironment</key>
+	<string>rapidSizeAcceleration</string>
+	<key>operationViaLayer</key>
+	<string>spriteCompositeRight</string>
+	<key>responseCycleInterval</key>
+	<string>arithmeticPriorityTail</string>
+	<key>sceneStyleDuration</key>
+	<string>explicitCacheSpeed</string>
+	<key>viewEnvironmentTag</key>
+	<string>sampleTempleTint</string>
+</dict>
+</plist>

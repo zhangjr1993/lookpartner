@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCapsuleTag</key>
+	<string>anchorLayerCount</string>
+	<key>brushKindHead</key>
+	<string>rowWorkOpacity</string>
+	<key>bulletOfFunction</key>
+	<string>smartCubeBehavior</string>
+	<key>disabledCompletionTheme</key>
+	<string>originalCallbackOffset</string>
+	<key>inactiveUsageFeedback</key>
+	<string>curveNearBuffer</string>
+	<key>overlayOfBuffer</key>
+	<string>signatureObserverTheme</string>
+	<key>pinchableLoopPadding</key>
+	<string>cubitBeyondFunction</string>
+</dict>
+</plist>

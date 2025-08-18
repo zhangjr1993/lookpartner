@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonServiceBorder</key>
+	<string>baseFacadeKind</string>
+	<key>denseResourceOrigin</key>
+	<string>completerLayerScale</string>
+	<key>durationParameterVelocity</key>
+	<string>navigatorJobVelocity</string>
+	<key>prevGrayscaleColor</key>
+	<string>resolverBridgeDelay</string>
+	<key>requestContainBuffer</key>
+	<string>curveIncludePrototype</string>
+	<key>resultAroundSingleton</key>
+	<string>ignoredTickerKind</string>
+	<key>tableCommandSpacing</key>
+	<string>techniqueExceptObserver</string>
+</dict>
+</plist>

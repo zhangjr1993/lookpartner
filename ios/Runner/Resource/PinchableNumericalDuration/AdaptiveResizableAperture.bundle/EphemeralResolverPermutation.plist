@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInsideJob</key>
+	<string>mobileControllerDensity</string>
+	<key>customPrioritySize</key>
+	<string>precisionLevelSize</string>
+	<key>eagerSpotInteraction</key>
+	<string>lastStoreContrast</string>
+	<key>fusedRouterSkewx</key>
+	<string>tensorRequestShade</string>
+	<key>nextManagerTail</key>
+	<string>durationPerFlyweight</string>
+	<key>notifierForMode</key>
+	<string>scaleIncludeCycle</string>
+	<key>queueFormForce</key>
+	<string>musicAndShape</string>
+	<key>serviceValueDepth</key>
+	<string>expandedBeyondPhase</string>
+	<key>uniformPaddingDepth</key>
+	<string>pivotalConstraintMode</string>
+</dict>
+</plist>

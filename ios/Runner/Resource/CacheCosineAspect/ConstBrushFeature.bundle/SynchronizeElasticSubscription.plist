@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDecoratorSize</key>
+	<string>unsortedResolverDepth</string>
+	<key>bulletPhaseCount</key>
+	<string>builderByAction</string>
+	<key>commandAmongCommand</key>
+	<string>multiHandlerOrientation</string>
+	<key>commandUntilFacade</key>
+	<string>sharedRectFrequency</string>
+	<key>gesturedetectorAsContext</key>
+	<string>interpolationVarDuration</string>
+	<key>localSegmentDirection</key>
+	<string>viewFrameworkDepth</string>
+	<key>localizationAtLevel</key>
+	<string>immutableGroupMode</string>
+	<key>routeInSystem</key>
+	<string>mediaOrProxy</string>
+	<key>subtleGraphicAppearance</key>
+	<string>plateFlyweightTag</string>
+	<key>transformerForActivity</key>
+	<string>associatedSemanticsCoord</string>
+</dict>
+</plist>

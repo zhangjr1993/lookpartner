@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithoutTask</key>
+	<string>mobileProjectionOpacity</string>
+	<key>arithmeticActivityName</key>
+	<string>anchorTaskRate</string>
+	<key>borderViaBuffer</key>
+	<string>presenterFlyweightVisibility</string>
+	<key>diffableSliderHue</key>
+	<string>discardedStatelessValidation</string>
+	<key>geometricMaterialRotation</key>
+	<string>usecaseUntilStage</string>
+	<key>masterActionPosition</key>
+	<string>resilientSignatureAppearance</string>
+	<key>modelVariableForce</key>
+	<string>observerParameterValidation</string>
+	<key>pinchableFlexLeft</key>
+	<string>specifyMultiplicationType</string>
+	<key>tabviewFromState</key>
+	<string>builderTaskScale</string>
+</dict>
+</plist>

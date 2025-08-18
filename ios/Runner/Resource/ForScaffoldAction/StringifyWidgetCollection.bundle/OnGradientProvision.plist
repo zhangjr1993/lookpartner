@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchWithAction</key>
+	<string>resourceBesideState</string>
+	<key>expandedStageDensity</key>
+	<string>menuTaskFrequency</string>
+	<key>interactorFromFramework</key>
+	<string>denseCommandInset</string>
+	<key>interactorThroughMediator</key>
+	<string>baselineInState</string>
+	<key>resourceDuringMediator</key>
+	<string>scaleLevelEdge</string>
+	<key>usageStateTop</key>
+	<string>disparateMetadataVisibility</string>
+	<key>viewLikeScope</key>
+	<string>tickerSystemBound</string>
+</dict>
+</plist>

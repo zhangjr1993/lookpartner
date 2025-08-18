@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInsideContext</key>
+	<string>modulusBeyondJob</string>
+	<key>diffableBufferDensity</key>
+	<string>canvasPerObserver</string>
+	<key>labelThanPattern</key>
+	<string>frameBufferAppearance</string>
+	<key>storePerEnvironment</key>
+	<string>effectFlyweightVisibility</string>
+</dict>
+</plist>

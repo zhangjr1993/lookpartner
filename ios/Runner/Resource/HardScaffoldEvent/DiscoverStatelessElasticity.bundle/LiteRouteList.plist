@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerEnvironmentInterval</key>
+	<string>equalizationCompositeShape</string>
+	<key>pointAdapterStatus</key>
+	<string>interactiveViewBrightness</string>
+	<key>rectLayerFormat</key>
+	<string>subpixelForForm</string>
+	<key>staticDecorationResponse</key>
+	<string>multiSliderName</string>
+	<key>uniqueSubpixelIndex</key>
+	<string>actionContainStage</string>
+</dict>
+</plist>

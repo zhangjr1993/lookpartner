@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleDuringInterpreter</key>
+	<string>challengeInterpreterDirection</string>
+	<key>pinchableManagerAlignment</key>
+	<string>sliderVarVelocity</string>
+	<key>resolverMediatorMomentum</key>
+	<string>otherResourceRate</string>
+	<key>usecaseBridgeRate</key>
+	<string>viewStateInterval</string>
+</dict>
+</plist>

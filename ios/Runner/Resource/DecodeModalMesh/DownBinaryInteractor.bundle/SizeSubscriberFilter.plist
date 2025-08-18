@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCommandAcceleration</key>
+	<string>subpixelCommandForce</string>
+	<key>arithmeticBaselineRate</key>
+	<string>eagerGestureOrigin</string>
+	<key>axisDuringTask</key>
+	<string>themeTypeSaturation</string>
+	<key>contractionParameterRight</key>
+	<string>diversifiedChannelDepth</string>
+	<key>entropyAsTier</key>
+	<string>buttonAsTier</string>
+	<key>grayscaleOfPhase</key>
+	<string>rapidTabviewDuration</string>
+</dict>
+</plist>

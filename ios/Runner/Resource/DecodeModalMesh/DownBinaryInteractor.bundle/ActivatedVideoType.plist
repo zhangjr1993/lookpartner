@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEntityContrast</key>
+	<string>streamTypeScale</string>
+	<key>asynchronousScreenKind</key>
+	<string>customizedFutureDelay</string>
+	<key>bulletKindAppearance</key>
+	<string>asyncWithInterpreter</string>
+	<key>dropdownbuttonScopeFormat</key>
+	<string>sessionAroundCommand</string>
+	<key>immediateKernelAppearance</key>
+	<string>dynamicCallbackInteraction</string>
+	<key>queryVersusStyle</key>
+	<string>secondConfigurationSize</string>
+	<key>skinAtJob</key>
+	<string>positionActivitySkewy</string>
+	<key>tappableManagerOrigin</key>
+	<string>delegateSystemCenter</string>
+</dict>
+</plist>

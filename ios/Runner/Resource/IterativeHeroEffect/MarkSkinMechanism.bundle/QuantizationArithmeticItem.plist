@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSwiftVelocity</key>
+	<string>usageNearSingleton</string>
+	<key>completerWithParameter</key>
+	<string>offsetLevelState</string>
+	<key>disabledExceptionForce</key>
+	<string>promiseAndPlatform</string>
+	<key>lazyContainerTag</key>
+	<string>bufferPatternState</string>
+	<key>providerAtDecorator</key>
+	<string>widgetDuringSingleton</string>
+	<key>reducerContainSingleton</key>
+	<string>accordionExceptionHue</string>
+	<key>responseValueResponse</key>
+	<string>slashBeyondSystem</string>
+</dict>
+</plist>

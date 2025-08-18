@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionBufferOrientation</key>
+	<string>nativeStateAlignment</string>
+	<key>fusedTransitionPressure</key>
+	<string>desktopProviderTransparency</string>
+	<key>nextNotificationBrightness</key>
+	<string>normalPointResponse</string>
+	<key>otherHandlerContrast</key>
+	<string>statefulFlyweightCenter</string>
+	<key>playbackAgainstComposite</key>
+	<string>lossSystemTransparency</string>
+	<key>reducerLevelTag</key>
+	<string>enabledGramVelocity</string>
+	<key>repositoryVersusMemento</key>
+	<string>lazyStoryboardVisibility</string>
+</dict>
+</plist>

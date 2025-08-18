@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOffsetTheme</key>
+	<string>optionActionRate</string>
+	<key>cosineActionInteraction</key>
+	<string>routePerParameter</string>
+	<key>grayscaleAtWork</key>
+	<string>ignoredProgressbarShade</string>
+	<key>menuScopeTheme</key>
+	<string>labelMethodInset</string>
+	<key>resizableSizeCenter</key>
+	<string>alertFrameworkDepth</string>
+	<key>streamInsideJob</key>
+	<string>positionChainInterval</string>
+	<key>subpixelNumberOffset</key>
+	<string>checklistAmongProcess</string>
+	<key>utilDuringSystem</key>
+	<string>effectMementoBottom</string>
+	<key>workflowPlatformCenter</key>
+	<string>stepBesideMethod</string>
+</dict>
+</plist>

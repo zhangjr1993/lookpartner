@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCoordinatorBottom</key>
+	<string>asyncTransitionColor</string>
+	<key>discardedCaptionColor</key>
+	<string>subtleLayoutVelocity</string>
+	<key>dynamicPromiseDistance</key>
+	<string>largeCallbackInterval</string>
+	<key>heapAgainstLevel</key>
+	<string>flexibleCubitInset</string>
+	<key>retainedBuilderState</key>
+	<string>tickerInLayer</string>
+</dict>
+</plist>

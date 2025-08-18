@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralDimensionMargin</key>
+	<string>normDuringStage</string>
+	<key>flexibleOperationType</key>
+	<string>handlerParameterBorder</string>
+	<key>logViaCommand</key>
+	<string>binarySystemDelay</string>
+	<key>shaderPatternTint</key>
+	<string>singletonOutsidePattern</string>
+	<key>sineContainVisitor</key>
+	<string>offsetPhaseTag</string>
+	<key>transitionModeOrientation</key>
+	<string>webWorkflowAlignment</string>
+	<key>typicalGemBrightness</key>
+	<string>sceneMementoDepth</string>
+</dict>
+</plist>

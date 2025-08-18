@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorVisitorFlags</key>
+	<string>resizableObserverType</string>
+	<key>smartPainterState</key>
+	<string>anchorContainType</string>
+	<key>statefulInterfaceCount</key>
+	<string>concurrentGrainCoord</string>
+	<key>topicPhaseDistance</key>
+	<string>decorationAtWork</string>
+</dict>
+</plist>

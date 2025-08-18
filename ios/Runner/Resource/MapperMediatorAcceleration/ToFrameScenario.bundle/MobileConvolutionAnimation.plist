@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeCycle</key>
+	<string>cubitContainCycle</string>
+	<key>interactorOutsideStrategy</key>
+	<string>injectionJobRight</string>
+	<key>localizationStyleSaturation</key>
+	<string>animatedcontainerActionSpeed</string>
+	<key>nativeGridTop</key>
+	<string>loopActionOffset</string>
+	<key>responsiveImageTint</key>
+	<string>heroTypeCoord</string>
+	<key>significantOffsetBound</key>
+	<string>tappableAnimationDelay</string>
+	<key>transformerJobName</key>
+	<string>notificationInShape</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameObserverStatus</key>
+	<string>controllerFromMediator</string>
+	<key>graphFlyweightPosition</key>
+	<string>criticalQueueDuration</string>
+	<key>handlerWorkMode</key>
+	<string>interfaceShapeOrientation</string>
+	<key>lastNotificationVisible</key>
+	<string>featureContainMode</string>
+	<key>observerSingletonBound</key>
+	<string>sensorCycleOrigin</string>
+	<key>spotCommandAppearance</key>
+	<string>awaitBufferVisible</string>
+	<key>switchAwayTask</key>
+	<string>callbackProcessSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateCompositeValidation</key>
+	<string>effectAmongBuffer</string>
+	<key>delegateStageAppearance</key>
+	<string>precisionAsStage</string>
+	<key>instructionFrameworkFeedback</key>
+	<string>semanticsLevelOrientation</string>
+	<key>listviewFormMomentum</key>
+	<string>gateVariableStatus</string>
+	<key>mobxNumberIndex</key>
+	<string>usecaseActionCenter</string>
+	<key>presenterJobOrigin</key>
+	<string>metadataStyleTail</string>
+	<key>priorResourceInteraction</key>
+	<string>newestActionOrientation</string>
+	<key>sinkWorkTag</key>
+	<string>queueAgainstState</string>
+	<key>utilStyleBottom</key>
+	<string>directCubitState</string>
+</dict>
+</plist>

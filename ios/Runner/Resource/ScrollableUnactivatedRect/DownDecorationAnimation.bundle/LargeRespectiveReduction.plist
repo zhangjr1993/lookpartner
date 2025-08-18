@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPhaseBound</key>
+	<string>streamAlongCommand</string>
+	<key>cursorLayerFrequency</key>
+	<string>rapidToolDuration</string>
+	<key>denseHeapAcceleration</key>
+	<string>unaryFromProcess</string>
+	<key>eventInterpreterState</key>
+	<string>checklistVisitorRotation</string>
+	<key>inactiveNotificationLocation</key>
+	<string>adaptiveStatelessBehavior</string>
+	<key>localStreamColor</key>
+	<string>touchByFunction</string>
+	<key>precisionShapeOrigin</key>
+	<string>tickerAboutVariable</string>
+	<key>routerAroundKind</key>
+	<string>enabledConstraintDuration</string>
+	<key>sampleExceptPrototype</key>
+	<string>labelAtFramework</string>
+	<key>smallArithmeticTint</key>
+	<string>containerDecoratorTop</string>
+</dict>
+</plist>

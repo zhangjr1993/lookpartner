@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCycleVisible</key>
+	<string>seamlessAsyncDelay</string>
+	<key>awaitTaskDepth</key>
+	<string>mainWorkflowLocation</string>
+	<key>cellChainInset</key>
+	<string>labelVisitorName</string>
+	<key>compositionStrategyDelay</key>
+	<string>metadataForChain</string>
+	<key>constraintChainAppearance</key>
+	<string>documentVarShape</string>
+	<key>durationStrategyColor</key>
+	<string>completerAgainstMethod</string>
+	<key>layoutParamValidation</key>
+	<string>transitionIncludeStyle</string>
+	<key>opaqueGridviewCoord</key>
+	<string>diversifiedInteractorAlignment</string>
+	<key>sineObserverRate</key>
+	<string>streamFunctionOpacity</string>
+	<key>textIncludeFunction</key>
+	<string>basicStorageBound</string>
+</dict>
+</plist>

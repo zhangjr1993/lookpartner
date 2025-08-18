@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPositionKind</key>
+	<string>globalStreamPadding</string>
+	<key>boxshadowValueState</key>
+	<string>adaptiveSliderVisibility</string>
+	<key>dynamicChartType</key>
+	<string>columnSingletonDelay</string>
+	<key>isolateAroundPlatform</key>
+	<string>prismaticBlocEdge</string>
+	<key>segueInComposite</key>
+	<string>alertChainFrequency</string>
+	<key>sliderInsideActivity</key>
+	<string>spineThroughForm</string>
+	<key>staticSwitchCenter</key>
+	<string>disabledProgressbarCoord</string>
+</dict>
+</plist>

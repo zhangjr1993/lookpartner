@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureCommandInteraction</key>
+	<string>factoryVarDistance</string>
+	<key>geometricRowStyle</key>
+	<string>eventPlatformDirection</string>
+	<key>referenceAgainstPrototype</key>
+	<string>dependencyShapeTheme</string>
+</dict>
+</plist>

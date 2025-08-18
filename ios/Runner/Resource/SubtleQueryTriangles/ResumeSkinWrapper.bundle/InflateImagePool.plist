@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWorkInset</key>
+	<string>euclideanRouterDistance</string>
+	<key>explicitButtonSpeed</key>
+	<string>featureViaMethod</string>
+	<key>optionPerStyle</key>
+	<string>anchorBufferContrast</string>
+	<key>pinchableUnaryBound</key>
+	<string>tweenFlyweightPressure</string>
+	<key>pointTaskOrigin</key>
+	<string>isolateInsideVisitor</string>
+	<key>presenterStyleBrightness</key>
+	<string>axisFlyweightValidation</string>
+	<key>resizableErrorRate</key>
+	<string>sizeStrategyFeedback</string>
+	<key>statelessActionTag</key>
+	<string>statelessOutsideProxy</string>
+	<key>transitionLevelContrast</key>
+	<string>labelPerPlatform</string>
+	<key>unsortedCapacitiesResponse</key>
+	<string>flexibleModulusFormat</string>
+</dict>
+</plist>

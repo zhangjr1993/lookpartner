@@ -1,0 +1,18 @@
+#import "BufferThresholdContainer.h"
+#import "OnOperationBuilder.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface RouteFusedTable : NSObject
+
+
+- (void) readModalPerSink;
+
+- (void) wouldActiveExtensionFacade;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

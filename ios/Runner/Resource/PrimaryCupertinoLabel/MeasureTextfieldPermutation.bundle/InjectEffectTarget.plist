@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTransitionHue</key>
+	<string>querySystemBrightness</string>
+	<key>greatPositionInteraction</key>
+	<string>liteBlocMomentum</string>
+	<key>sceneInsideParam</key>
+	<string>durationAsFlyweight</string>
+	<key>scrollableTernaryLocation</key>
+	<string>localizationFlyweightVisibility</string>
+</dict>
+</plist>

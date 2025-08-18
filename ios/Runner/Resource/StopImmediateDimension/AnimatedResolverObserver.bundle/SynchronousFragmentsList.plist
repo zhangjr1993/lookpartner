@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLikeObserver</key>
+	<string>labelLevelDepth</string>
+	<key>chartActionVelocity</key>
+	<string>newestProgressbarCenter</string>
+	<key>denseBulletRotation</key>
+	<string>currentSceneInteraction</string>
+	<key>errorWithoutProxy</key>
+	<string>builderAroundContext</string>
+	<key>fixedOffsetDensity</key>
+	<string>navigationThanMediator</string>
+	<key>themeJobSkewx</key>
+	<string>timerExceptObserver</string>
+</dict>
+</plist>

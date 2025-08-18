@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInsideActivity</key>
+	<string>compositionActivityPadding</string>
+	<key>asyncConstraintTop</key>
+	<string>normalGrainOrigin</string>
+	<key>canvasFrameworkRate</key>
+	<string>containerTaskCount</string>
+	<key>dedicatedStampAlignment</key>
+	<string>bulletVisitorSaturation</string>
+	<key>desktopEntityOrigin</key>
+	<string>routeBridgeFormat</string>
+	<key>optimizerInsideEnvironment</key>
+	<string>disabledActivityFrequency</string>
+	<key>requiredConvolutionShape</key>
+	<string>adaptiveResourceFrequency</string>
+	<key>storeThanVisitor</key>
+	<string>lazySliderPosition</string>
+</dict>
+</plist>

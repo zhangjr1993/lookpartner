@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOrPlatform</key>
+	<string>callbackViaStructure</string>
+	<key>binaryShapeTheme</key>
+	<string>allocatorJobRotation</string>
+	<key>futureStageDistance</key>
+	<string>pageviewStyleScale</string>
+	<key>grainAtEnvironment</key>
+	<string>stackChainFlags</string>
+</dict>
+</plist>

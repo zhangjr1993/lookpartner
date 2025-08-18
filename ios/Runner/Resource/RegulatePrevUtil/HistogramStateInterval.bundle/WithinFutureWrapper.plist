@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxContainType</key>
+	<string>nativeMobileMode</string>
+	<key>buttonStrategyBorder</key>
+	<string>reducerNearStyle</string>
+	<key>disparateZoneCoord</key>
+	<string>curveAlongStage</string>
+	<key>extensionFromNumber</key>
+	<string>adaptiveAlphaSaturation</string>
+	<key>mapBeyondPattern</key>
+	<string>descriptionWorkSaturation</string>
+	<key>prismaticPromiseFeedback</key>
+	<string>sliderFormShade</string>
+	<key>skinOperationStatus</key>
+	<string>nodeNumberDelay</string>
+	<key>subsequentAwaitVelocity</key>
+	<string>geometricInteractorSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartScopeName</key>
+	<string>compositionFacadeAppearance</string>
+	<key>concreteAllocatorValidation</key>
+	<string>compositionMementoOpacity</string>
+	<key>directlyRowFlags</key>
+	<string>mediaCompositeVisibility</string>
+	<key>gateVersusAdapter</key>
+	<string>standaloneEffectOffset</string>
+	<key>liteSliderCoord</key>
+	<string>buttonPatternBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMementoMomentum</key>
+	<string>activatedPointOpacity</string>
+	<key>cupertinoCharacterRight</key>
+	<string>popupActivityTint</string>
+	<key>dropdownbuttonParameterRight</key>
+	<string>decorationFunctionTint</string>
+	<key>listenerMethodRotation</key>
+	<string>autoAccessoryAcceleration</string>
+	<key>lossFlyweightCount</key>
+	<string>reducerObserverOrigin</string>
+	<key>navigationTaskSpacing</key>
+	<string>transitionParamSpacing</string>
+	<key>transitionFlyweightAppearance</key>
+	<string>gridBesideAdapter</string>
+</dict>
+</plist>

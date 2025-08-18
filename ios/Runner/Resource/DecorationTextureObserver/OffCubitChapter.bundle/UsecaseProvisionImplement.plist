@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBulletValidation</key>
+	<string>streamSinceFacade</string>
+	<key>fragmentProcessAlignment</key>
+	<string>positionedDecoratorOrientation</string>
+	<key>nativeLossInterval</key>
+	<string>accessoryKindSkewy</string>
+	<key>reducerOutsideValue</key>
+	<string>originalPreviewKind</string>
+	<key>responseBufferSpacing</key>
+	<string>descriptionPerNumber</string>
+	<key>sampleByType</key>
+	<string>completerViaComposite</string>
+	<key>secondSpecifierMargin</key>
+	<string>firstSinkTheme</string>
+	<key>symbolPatternTint</key>
+	<string>boxCycleBound</string>
+</dict>
+</plist>

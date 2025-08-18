@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVisitorForce</key>
+	<string>significantCharacterOffset</string>
+	<key>captionNearVisitor</key>
+	<string>cycleAgainstWork</string>
+	<key>dependencyBufferSpacing</key>
+	<string>largeNibCount</string>
+	<key>optionProxySpacing</key>
+	<string>serviceParamCoord</string>
+	<key>textPlatformBehavior</key>
+	<string>modelAgainstStyle</string>
+</dict>
+</plist>

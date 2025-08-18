@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRouteOffset</key>
+	<string>projectSinceMode</string>
+	<key>disabledGrayscaleOpacity</key>
+	<string>rowAmongComposite</string>
+	<key>extensionCommandInteraction</key>
+	<string>chapterNumberStyle</string>
+	<key>ignoredFeatureVelocity</key>
+	<string>storeBridgeContrast</string>
+	<key>offsetOutsideAction</key>
+	<string>resizableButtonCoord</string>
+</dict>
+</plist>

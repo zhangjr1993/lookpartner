@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerPatternMode</key>
+	<string>entityExceptMediator</string>
+	<key>exceptionAroundPattern</key>
+	<string>durationViaLevel</string>
+	<key>prismaticTaskShade</key>
+	<string>gridObserverRotation</string>
+	<key>screenThanMemento</key>
+	<string>chapterLayerVelocity</string>
+	<key>tweenDespiteParam</key>
+	<string>dependencyAmongStage</string>
+</dict>
+</plist>

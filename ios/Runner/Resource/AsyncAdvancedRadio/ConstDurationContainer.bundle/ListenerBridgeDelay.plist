@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitContextDelay</key>
+	<string>semanticsSinceFunction</string>
+	<key>eagerMethodMode</key>
+	<string>widgetMethodOrigin</string>
+	<key>exceptionNumberName</key>
+	<string>beginnerThreadHead</string>
+	<key>inheritedContainerOpacity</key>
+	<string>completerThanFlyweight</string>
+	<key>localizationPrototypeSpeed</key>
+	<string>projectionFrameworkSpacing</string>
+	<key>particleKindInteraction</key>
+	<string>masterExceptComposite</string>
+	<key>similarKernelFormat</key>
+	<string>consumerIncludeVisitor</string>
+	<key>unactivatedAxisPadding</key>
+	<string>usedInjectionOrientation</string>
+</dict>
+</plist>

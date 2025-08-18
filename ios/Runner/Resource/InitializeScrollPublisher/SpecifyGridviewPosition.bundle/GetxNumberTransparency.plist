@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUtilPadding</key>
+	<string>customizedSpriteTop</string>
+	<key>groupNumberEdge</key>
+	<string>usecaseOutsideMethod</string>
+	<key>layoutWorkTint</key>
+	<string>primaryOverlayForce</string>
+	<key>logLevelVisibility</key>
+	<string>asynchronousInteractorBehavior</string>
+	<key>missedAlignmentVisibility</key>
+	<string>alertPatternBorder</string>
+	<key>toolBufferForce</key>
+	<string>asyncDuringStrategy</string>
+</dict>
+</plist>

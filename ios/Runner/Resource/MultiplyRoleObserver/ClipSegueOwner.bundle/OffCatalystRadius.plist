@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineThroughAdapter</key>
+	<string>persistentWidgetTransparency</string>
+	<key>buttonAroundCycle</key>
+	<string>spriteFromEnvironment</string>
+	<key>characterVersusOperation</key>
+	<string>cupertinoNearTier</string>
+	<key>iterativeFlexRight</key>
+	<string>usedSingletonBehavior</string>
+	<key>menuCommandVisibility</key>
+	<string>taskDecoratorOrientation</string>
+	<key>methodProxyMode</key>
+	<string>ephemeralAnimationRotation</string>
+	<key>sharedBaselineKind</key>
+	<string>semanticRouterHead</string>
+	<key>storeBridgeInset</key>
+	<string>subsequentDialogsSkewx</string>
+	<key>tableThanMemento</key>
+	<string>criticalIsolatePosition</string>
+</dict>
+</plist>

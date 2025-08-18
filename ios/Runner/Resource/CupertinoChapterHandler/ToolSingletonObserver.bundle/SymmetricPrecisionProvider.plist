@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSkinCenter</key>
+	<string>streamAgainstBuffer</string>
+	<key>awaitSingletonBrightness</key>
+	<string>curveLayerTransparency</string>
+	<key>exponentPerFramework</key>
+	<string>immediateLabelBorder</string>
+	<key>globalSpriteStatus</key>
+	<string>flexiblePriorityCount</string>
+	<key>listenerInsideMediator</key>
+	<string>vectorUntilMethod</string>
+	<key>listenerVersusFlyweight</key>
+	<string>configurationAgainstOperation</string>
+	<key>missionWithTask</key>
+	<string>slashFormPressure</string>
+	<key>mobileCaptionValidation</key>
+	<string>animationActionInset</string>
+	<key>webPainterMomentum</key>
+	<string>iconExceptTask</string>
+</dict>
+</plist>

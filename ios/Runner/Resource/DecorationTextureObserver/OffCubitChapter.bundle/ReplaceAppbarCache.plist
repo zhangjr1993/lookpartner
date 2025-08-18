@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarEnvironmentFrequency</key>
+	<string>featureLevelBound</string>
+	<key>controllerStateColor</key>
+	<string>singleFragmentPressure</string>
+	<key>drawerViaOperation</key>
+	<string>arithmeticCubitStatus</string>
+	<key>mutableMatrixFormat</key>
+	<string>layoutWithoutParam</string>
+	<key>paddingPlatformVisible</key>
+	<string>spriteVarSpacing</string>
+	<key>playbackContainAdapter</key>
+	<string>hardBoxshadowCenter</string>
+	<key>progressbarOrObserver</key>
+	<string>accessoryLayerVelocity</string>
+	<key>rowContainTemple</key>
+	<string>synchronousLayerMomentum</string>
+	<key>widgetPrototypeBound</key>
+	<string>difficultThemeColor</string>
+</dict>
+</plist>

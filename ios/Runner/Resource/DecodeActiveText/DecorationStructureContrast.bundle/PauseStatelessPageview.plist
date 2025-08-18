@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityPrototypeFrequency</key>
+	<string>immediateResultResponse</string>
+	<key>equalizationExceptDecorator</key>
+	<string>webGrayscaleInterval</string>
+	<key>firstCursorResponse</key>
+	<string>mutableAsyncIndex</string>
+	<key>presenterForCycle</key>
+	<string>titleParamMode</string>
+	<key>rapidQueryValidation</key>
+	<string>directlyExtensionLocation</string>
+	<key>statelessPatternSpacing</key>
+	<string>playbackInterpreterDepth</string>
+	<key>vectorInsideJob</key>
+	<string>instructionStagePressure</string>
+</dict>
+</plist>

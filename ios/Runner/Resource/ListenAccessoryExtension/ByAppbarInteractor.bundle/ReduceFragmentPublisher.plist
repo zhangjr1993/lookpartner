@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOverlayType</key>
+	<string>containerIncludeActivity</string>
+	<key>clipperPhaseDistance</key>
+	<string>priorBlocTail</string>
+	<key>normalDecorationDensity</key>
+	<string>previewBufferBorder</string>
+	<key>reusableScaffoldFormat</key>
+	<string>popupCommandOpacity</string>
+	<key>standaloneThreadHead</key>
+	<string>monsterInsideBridge</string>
+</dict>
+</plist>

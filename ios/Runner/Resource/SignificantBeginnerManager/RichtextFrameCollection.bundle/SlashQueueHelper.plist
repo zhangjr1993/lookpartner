@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAdapterStatus</key>
+	<string>interactiveSegueFlags</string>
+	<key>commonTouchTop</key>
+	<string>navigatorTempleBound</string>
+	<key>ephemeralTopicBorder</key>
+	<string>mediumTextType</string>
+	<key>managerAroundFramework</key>
+	<string>alertVarSpacing</string>
+	<key>parallelRadiusSpeed</key>
+	<string>spineAwayFlyweight</string>
+	<key>sophisticatedCompleterFrequency</key>
+	<string>compositionalHashVelocity</string>
+</dict>
+</plist>

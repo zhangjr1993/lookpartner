@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroWithObserver</key>
+	<string>anchorVisitorVisible</string>
+	<key>sortedMapOffset</key>
+	<string>variantAgainstProxy</string>
+	<key>statefulManagerValidation</key>
+	<string>singletonJobState</string>
+	<key>taskCompositeTag</key>
+	<string>robustCompleterBound</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionLikeLevel</key>
+	<string>viewAsAdapter</string>
+	<key>cupertinoScreenLocation</key>
+	<string>geometricSingletonHue</string>
+	<key>curveVersusFacade</key>
+	<string>stackCompositeOpacity</string>
+	<key>lazyLocalizationColor</key>
+	<string>documentForValue</string>
+	<key>modelFromFunction</key>
+	<string>scrollIncludePrototype</string>
+	<key>momentumMementoShape</key>
+	<string>presenterTierStyle</string>
+	<key>stateProxyFrequency</key>
+	<string>flexibleProviderInset</string>
+	<key>themeSystemType</key>
+	<string>methodWithVisitor</string>
+</dict>
+</plist>

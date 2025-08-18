@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSizeResponse</key>
+	<string>transitionBeyondFunction</string>
+	<key>normalEffectRotation</key>
+	<string>factoryInterpreterShade</string>
+	<key>textfieldObserverDirection</key>
+	<string>buttonStateShade</string>
+	<key>timerActivitySpacing</key>
+	<string>gateVersusLayer</string>
+	<key>usagePlatformSpeed</key>
+	<string>sampleStageRate</string>
+	<key>viewLayerRotation</key>
+	<string>gateThroughProxy</string>
+</dict>
+</plist>

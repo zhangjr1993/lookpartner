@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoryboardTheme</key>
+	<string>diversifiedRoleSpeed</string>
+	<key>constNavigationSkewx</key>
+	<string>delegateInProxy</string>
+	<key>dialogsFlyweightTheme</key>
+	<string>specifierViaValue</string>
+	<key>gridviewProcessCoord</key>
+	<string>persistentControllerFlags</string>
+	<key>heapStrategyOrientation</key>
+	<string>typicalSwiftName</string>
+	<key>singletonVisitorDuration</key>
+	<string>nodeAndDecorator</string>
+	<key>tensorIntensityOffset</key>
+	<string>delegateContainBridge</string>
+</dict>
+</plist>

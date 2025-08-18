@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMultiplicationBorder</key>
+	<string>captionViaStage</string>
+	<key>behaviorPrototypeInset</key>
+	<string>sineViaProxy</string>
+	<key>getxProxyLeft</key>
+	<string>completionMediatorEdge</string>
+	<key>giftProcessOpacity</key>
+	<string>frameDecoratorBorder</string>
+	<key>loopProcessTransparency</key>
+	<string>easyListenerAlignment</string>
+	<key>optimizerInFunction</key>
+	<string>controllerViaValue</string>
+	<key>queueActionTension</key>
+	<string>deferredMultiplicationPressure</string>
+	<key>subtleRowRight</key>
+	<string>queryActionTail</string>
+	<key>textfieldBeyondActivity</key>
+	<string>masterStrategyRotation</string>
+	<key>textureCommandDuration</key>
+	<string>pinchableProgressbarShade</string>
+</dict>
+</plist>

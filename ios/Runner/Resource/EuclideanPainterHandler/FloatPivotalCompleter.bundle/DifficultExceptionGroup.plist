@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineInsideState</key>
+	<string>beginnerDependencyFormat</string>
+	<key>futureUntilVariable</key>
+	<string>segueFunctionPosition</string>
+	<key>injectionPhaseVisibility</key>
+	<string>sceneDuringMediator</string>
+	<key>loopKindBehavior</key>
+	<string>binaryPerPhase</string>
+	<key>tensorExceptionVisible</key>
+	<string>tickerFrameworkAppearance</string>
+</dict>
+</plist>

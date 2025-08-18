@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaWorkTint</key>
+	<string>intuitiveFeatureTint</string>
+	<key>animatedDimensionState</key>
+	<string>interfaceInterpreterTint</string>
+	<key>asyncBuilderRotation</key>
+	<string>contractionModeColor</string>
+	<key>displayableHeroSkewy</key>
+	<string>webSingletonSkewy</string>
+	<key>effectStructureSpacing</key>
+	<string>standaloneStateDuration</string>
+</dict>
+</plist>

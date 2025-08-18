@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSpriteFlags</key>
+	<string>cubitPerValue</string>
+	<key>channelOutsideStrategy</key>
+	<string>painterAgainstShape</string>
+	<key>consultativeNavigationStyle</key>
+	<string>fusedTitleDensity</string>
+	<key>granularModelVelocity</key>
+	<string>crucialQueueTint</string>
+	<key>modelPhaseMomentum</key>
+	<string>topicDespiteBridge</string>
+	<key>reusableCallbackFeedback</key>
+	<string>stackFunctionTop</string>
+</dict>
+</plist>

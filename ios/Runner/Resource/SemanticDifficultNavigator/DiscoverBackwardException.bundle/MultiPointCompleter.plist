@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectMethodColor</key>
+	<string>rowShapeRotation</string>
+	<key>explicitBatchStatus</key>
+	<string>viewTaskVisible</string>
+	<key>inactiveAsyncBrightness</key>
+	<string>textureVersusEnvironment</string>
+	<key>slashThroughMethod</key>
+	<string>subscriptionSystemDirection</string>
+	<key>storeContextVisibility</key>
+	<string>routeBufferRotation</string>
+	<key>titleDespiteStyle</key>
+	<string>customTimerMargin</string>
+</dict>
+</plist>

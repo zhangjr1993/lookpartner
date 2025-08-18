@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscriptionShade</key>
+	<string>sizedboxPrototypeVelocity</string>
+	<key>firstEffectAlignment</key>
+	<string>scrollableAssetVisible</string>
+	<key>movementAroundScope</key>
+	<string>cursorSingletonColor</string>
+	<key>tickerCompositeInterval</key>
+	<string>webMenuVisibility</string>
+</dict>
+</plist>

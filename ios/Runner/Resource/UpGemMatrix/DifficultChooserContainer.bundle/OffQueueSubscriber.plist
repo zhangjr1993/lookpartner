@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorActivityIndex</key>
+	<string>euclideanProviderRate</string>
+	<key>explicitImageInset</key>
+	<string>subsequentFeatureFeedback</string>
+	<key>requiredConvolutionOrientation</key>
+	<string>queueNearActivity</string>
+	<key>storeStrategyName</key>
+	<string>dependencyCompositeTheme</string>
+</dict>
+</plist>

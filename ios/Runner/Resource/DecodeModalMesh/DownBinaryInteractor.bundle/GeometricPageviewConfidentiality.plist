@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTechniqueBottom</key>
+	<string>observerDuringScope</string>
+	<key>contractionPerParam</key>
+	<string>compositionEnvironmentSaturation</string>
+	<key>decorationOrChain</key>
+	<string>constraintTaskPadding</string>
+	<key>oldRequestAppearance</key>
+	<string>composableOffsetSkewx</string>
+	<key>reusableRadioSpacing</key>
+	<string>discardedResourceEdge</string>
+	<key>rowDecoratorInteraction</key>
+	<string>zoneStrategyAlignment</string>
+	<key>titleCompositeStatus</key>
+	<string>cacheDuringMode</string>
+</dict>
+</plist>

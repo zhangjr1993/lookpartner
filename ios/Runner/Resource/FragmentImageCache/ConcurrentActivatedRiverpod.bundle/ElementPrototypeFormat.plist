@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTernaryType</key>
+	<string>autoActivityAlignment</string>
+	<key>binaryForNumber</key>
+	<string>customContainerBehavior</string>
+	<key>configurationCycleShade</key>
+	<string>captionViaObserver</string>
+	<key>gesturedetectorDecoratorDensity</key>
+	<string>routeMementoSpacing</string>
+	<key>layoutShapeFlags</key>
+	<string>checklistAroundStructure</string>
+	<key>mainRemainderBorder</key>
+	<string>materialAssetTheme</string>
+	<key>reducerStructureCount</key>
+	<string>profileThroughNumber</string>
+	<key>symmetricTextBrightness</key>
+	<string>timerUntilMemento</string>
+	<key>widgetOfNumber</key>
+	<string>transitionBesideVar</string>
+</dict>
+</plist>

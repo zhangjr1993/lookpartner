@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVariableSaturation</key>
+	<string>checklistDuringFacade</string>
+	<key>brushIncludeVariable</key>
+	<string>masterForVar</string>
+	<key>curveViaAdapter</key>
+	<string>commonBuilderOrientation</string>
+	<key>layoutThroughVar</key>
+	<string>scrollableDependencyContrast</string>
+	<key>popupPlatformVisibility</key>
+	<string>stampThanBridge</string>
+	<key>seamlessScreenMargin</key>
+	<string>gateThanMode</string>
+	<key>visibleMobxBehavior</key>
+	<string>methodFlyweightDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureThanVar</key>
+	<string>singletonStyleSaturation</string>
+	<key>nextPointName</key>
+	<string>sortedDescriptionPadding</string>
+	<key>nodeTypeTint</key>
+	<string>accordionAnchorOpacity</string>
+	<key>subpixelOfLevel</key>
+	<string>sustainablePreviewResponse</string>
+	<key>subtleDialogsShade</key>
+	<string>topicViaAdapter</string>
+	<key>textureCommandKind</key>
+	<string>sharedScrollDepth</string>
+</dict>
+</plist>

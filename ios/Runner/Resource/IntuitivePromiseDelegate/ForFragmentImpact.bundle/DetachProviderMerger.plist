@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionChainAlignment</key>
+	<string>titleObserverBrightness</string>
+	<key>loopProxyOrientation</key>
+	<string>pinchableBatchSpeed</string>
+	<key>textureAtPattern</key>
+	<string>permissiveHandlerSize</string>
+	<key>toolCycleSkewy</key>
+	<string>themeLikeState</string>
+	<key>topicPhasePosition</key>
+	<string>rowSingletonFeedback</string>
+	<key>widgetStatePosition</key>
+	<string>commandTaskMode</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFlyweightValidation</key>
+	<string>stampOutsideForm</string>
+	<key>iterativeSkinTheme</key>
+	<string>equalizationCompositeOpacity</string>
+	<key>webCoordinatorTail</key>
+	<string>channelAndPhase</string>
+</dict>
+</plist>

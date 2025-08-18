@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterActionTheme</key>
+	<string>resizableLabelStatus</string>
+	<key>configurationVisitorFlags</key>
+	<string>blocNearCommand</string>
+	<key>cupertinoViaOperation</key>
+	<string>asyncStackLeft</string>
+	<key>notificationLayerStyle</key>
+	<string>chartWithoutParam</string>
+	<key>priorMenuVelocity</key>
+	<string>spriteStyleBottom</string>
+	<key>roleVersusInterpreter</key>
+	<string>symmetricProgressbarScale</string>
+</dict>
+</plist>

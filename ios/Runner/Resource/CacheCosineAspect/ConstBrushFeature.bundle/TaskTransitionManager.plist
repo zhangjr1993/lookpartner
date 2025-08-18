@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDurationIndex</key>
+	<string>activatedAnimationPressure</string>
+	<key>interpolationSinceStage</key>
+	<string>columnStageKind</string>
+	<key>offsetMediatorKind</key>
+	<string>specifyContainerOffset</string>
+	<key>subscriptionStructureBrightness</key>
+	<string>storageLayerStyle</string>
+</dict>
+</plist>

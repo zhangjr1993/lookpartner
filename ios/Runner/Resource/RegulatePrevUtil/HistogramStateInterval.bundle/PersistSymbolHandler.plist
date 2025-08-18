@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTempleSaturation</key>
+	<string>spriteContainCycle</string>
+	<key>blocBufferForce</key>
+	<string>instructionFormOrientation</string>
+	<key>boxMementoSpacing</key>
+	<string>errorBesideValue</string>
+	<key>configurationFlyweightEdge</key>
+	<string>routeStructureContrast</string>
+	<key>customSceneValidation</key>
+	<string>symbolBridgeAppearance</string>
+	<key>nibCommandCoord</key>
+	<string>histogramFromBridge</string>
+	<key>segueAmongDecorator</key>
+	<string>greatMetadataRate</string>
+	<key>synchronousGesturedetectorDirection</key>
+	<string>transitionVisitorPadding</string>
+	<key>utilFacadeAppearance</key>
+	<string>significantAnimatedcontainerTop</string>
+</dict>
+</plist>

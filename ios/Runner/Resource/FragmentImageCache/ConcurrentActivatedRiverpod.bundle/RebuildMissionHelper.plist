@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionTaskInterval</key>
+	<string>deferredCompletionTop</string>
+	<key>controllerCommandType</key>
+	<string>interfaceWithForm</string>
+	<key>dialogsOrSingleton</key>
+	<string>apertureFromChain</string>
+	<key>flexSinceScope</key>
+	<string>delegateAdapterType</string>
+	<key>modalViaLevel</key>
+	<string>segueVariableTransparency</string>
+	<key>sceneFacadeMargin</key>
+	<string>mediumRectDepth</string>
+	<key>singleMatrixInset</key>
+	<string>primaryExceptionResponse</string>
+	<key>spineContextScale</key>
+	<string>chartExceptValue</string>
+	<key>zoneFormRotation</key>
+	<string>materialOptimizerEdge</string>
+</dict>
+</plist>

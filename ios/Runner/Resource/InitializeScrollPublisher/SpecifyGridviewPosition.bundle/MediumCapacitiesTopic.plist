@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperStyleSpeed</key>
+	<string>appbarInType</string>
+	<key>cursorWithoutStructure</key>
+	<string>autoLoopInteraction</string>
+	<key>euclideanEqualizationInset</key>
+	<string>fixedMaterialEdge</string>
+	<key>handlerModeHead</key>
+	<string>particleBufferBottom</string>
+	<key>immediateControllerVelocity</key>
+	<string>storeMementoTail</string>
+	<key>routerActionRight</key>
+	<string>elasticInteractorDepth</string>
+	<key>singletonTierPosition</key>
+	<string>playbackOfType</string>
+	<key>techniqueAndFunction</key>
+	<string>curveNumberDelay</string>
+</dict>
+</plist>

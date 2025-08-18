@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedWorkflowInteraction</key>
+	<string>durationWithoutState</string>
+	<key>drawerCommandBehavior</key>
+	<string>groupModeOffset</string>
+	<key>labelWithSingleton</key>
+	<string>observerActionVisible</string>
+	<key>layoutActivityAppearance</key>
+	<string>coordinatorViaContext</string>
+	<key>listviewWithActivity</key>
+	<string>interactorMediatorOffset</string>
+	<key>matrixByStyle</key>
+	<string>tensorConstraintSkewx</string>
+	<key>missionBesideContext</key>
+	<string>popupTaskSize</string>
+	<key>notifierLikeParam</key>
+	<string>resizableSliderHead</string>
+	<key>sizedboxTierDistance</key>
+	<string>layoutLevelSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalStreamDensity</key>
+	<string>elasticWidgetEdge</string>
+	<key>mainCubitDirection</key>
+	<string>robustConvolutionTop</string>
+	<key>permissivePainterDuration</key>
+	<string>immediateDelegateBound</string>
+	<key>priorityCommandInterval</key>
+	<string>permanentResolverSpacing</string>
+	<key>rowForState</key>
+	<string>vectorWithEnvironment</string>
+	<key>serviceNearTier</key>
+	<string>navigatorExceptComposite</string>
+	<key>subscriptionAmongProxy</key>
+	<string>builderPerBuffer</string>
+	<key>ternaryStateOpacity</key>
+	<string>futureOrMemento</string>
+	<key>uniqueLabelScale</key>
+	<string>rowCommandDuration</string>
+</dict>
+</plist>

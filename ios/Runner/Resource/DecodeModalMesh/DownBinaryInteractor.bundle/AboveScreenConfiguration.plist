@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionMethodValidation</key>
+	<string>taskExceptPrototype</string>
+	<key>easyQueueCount</key>
+	<string>sizeSinceAction</string>
+	<key>firstPainterCoord</key>
+	<string>firstViewState</string>
+	<key>interactorWithoutStructure</key>
+	<string>sortedEventSkewy</string>
+	<key>interpolationWithoutPlatform</key>
+	<string>customListenerRotation</string>
+	<key>listenerAdapterBound</key>
+	<string>signFlyweightTag</string>
+	<key>resilientRowMomentum</key>
+	<string>variantInVisitor</string>
+	<key>respectiveBinaryContrast</key>
+	<string>directStoryboardAlignment</string>
+	<key>skirtChainFeedback</key>
+	<string>providerViaOperation</string>
+	<key>textUntilMethod</key>
+	<string>transformerNumberLocation</string>
+</dict>
+</plist>

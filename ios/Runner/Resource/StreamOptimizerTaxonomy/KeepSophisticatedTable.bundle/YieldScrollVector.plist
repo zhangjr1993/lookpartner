@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextAlignment</key>
+	<string>metadataAndCommand</string>
+	<key>priorityAsVariable</key>
+	<string>factoryDespiteStructure</string>
+	<key>reactiveRolePosition</key>
+	<string>blocForBuffer</string>
+	<key>significantChecklistFlags</key>
+	<string>intermediateDurationOrigin</string>
+	<key>utilAdapterOrigin</key>
+	<string>injectionWithoutMemento</string>
+</dict>
+</plist>

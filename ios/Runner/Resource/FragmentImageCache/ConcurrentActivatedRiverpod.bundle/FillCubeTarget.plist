@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOfPattern</key>
+	<string>multiplicationVersusMediator</string>
+	<key>chartForMode</key>
+	<string>progressbarStructureAlignment</string>
+	<key>gesturedetectorLayerMode</key>
+	<string>transitionFunctionType</string>
+	<key>movementVersusObserver</key>
+	<string>textAgainstFlyweight</string>
+	<key>particleWithStyle</key>
+	<string>hierarchicalViewFeedback</string>
+	<key>reusableGesturedetectorOrientation</key>
+	<string>lostAnimatedcontainerShade</string>
+	<key>rowWithoutState</key>
+	<string>baselineWithoutParam</string>
+	<key>slashNearPhase</key>
+	<string>errorNearComposite</string>
+	<key>sustainableNavigatorIndex</key>
+	<string>roleShapeRight</string>
+</dict>
+</plist>

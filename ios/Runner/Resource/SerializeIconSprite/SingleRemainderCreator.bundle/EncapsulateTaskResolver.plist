@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDespiteFlyweight</key>
+	<string>reducerAndStructure</string>
+	<key>dedicatedKernelSize</key>
+	<string>directLayerDelay</string>
+	<key>dependencyVarSpacing</key>
+	<string>nodeVariableVelocity</string>
+	<key>euclideanLayoutStyle</key>
+	<string>blocAtParam</string>
+	<key>eventScopeDistance</key>
+	<string>largeAwaitTheme</string>
+	<key>navigatorShapeShade</key>
+	<string>completerFlyweightCoord</string>
+	<key>protocolVisitorBorder</key>
+	<string>usedSpineState</string>
+	<key>queueContainType</key>
+	<string>crudeModalVelocity</string>
+	<key>similarBoxTheme</key>
+	<string>navigationAwayOperation</string>
+</dict>
+</plist>

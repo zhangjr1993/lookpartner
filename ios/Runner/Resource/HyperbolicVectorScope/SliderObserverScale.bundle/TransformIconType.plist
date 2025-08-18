@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerStageCoord</key>
+	<string>mediumPositionBottom</string>
+	<key>decorationThroughForm</key>
+	<string>viewAtOperation</string>
+	<key>metadataTierDensity</key>
+	<string>stampViaShape</string>
+	<key>significantTabbarBrightness</key>
+	<string>activeCompleterIndex</string>
+</dict>
+</plist>

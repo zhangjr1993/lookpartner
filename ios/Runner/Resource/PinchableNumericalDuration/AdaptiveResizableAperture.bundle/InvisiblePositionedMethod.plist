@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInSystem</key>
+	<string>criticalCoordinatorTheme</string>
+	<key>exceptionAsLayer</key>
+	<string>immutableCompleterSkewx</string>
+	<key>inheritedTaskDensity</key>
+	<string>momentumViaSystem</string>
+	<key>requestContainStage</key>
+	<string>permissiveAsyncSpacing</string>
+	<key>resourceBesideDecorator</key>
+	<string>bufferTierHead</string>
+	<key>responseDecoratorMode</key>
+	<string>checklistFunctionAlignment</string>
+	<key>sinkDecoratorKind</key>
+	<string>zoneParamTheme</string>
+	<key>taskBufferAlignment</key>
+	<string>providerWorkSaturation</string>
+</dict>
+</plist>

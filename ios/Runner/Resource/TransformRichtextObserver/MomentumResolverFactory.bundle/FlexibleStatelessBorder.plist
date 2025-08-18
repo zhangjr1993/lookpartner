@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteTheme</key>
+	<string>decorationDuringMediator</string>
+	<key>declarativeBaselineAcceleration</key>
+	<string>popupBesideSingleton</string>
+	<key>layerTempleColor</key>
+	<string>futureAgainstStage</string>
+	<key>listviewFlyweightLocation</key>
+	<string>temporaryInterfaceSpacing</string>
+	<key>offsetThanComposite</key>
+	<string>entityOutsideDecorator</string>
+	<key>requiredButtonMode</key>
+	<string>paddingFromKind</string>
+	<key>taskFlyweightInterval</key>
+	<string>robustErrorShape</string>
+	<key>threadDuringCommand</key>
+	<string>channelEnvironmentDirection</string>
+</dict>
+</plist>

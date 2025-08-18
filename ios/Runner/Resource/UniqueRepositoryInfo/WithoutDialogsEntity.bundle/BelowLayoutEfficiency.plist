@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerObserverState</key>
+	<string>gesturedetectorProcessTransparency</string>
+	<key>desktopSubscriptionTint</key>
+	<string>effectOutsideEnvironment</string>
+	<key>effectForMode</key>
+	<string>skirtInMethod</string>
+	<key>geometricZoneKind</key>
+	<string>statelessPrototypePressure</string>
+	<key>globalWidgetTail</key>
+	<string>mainFrameDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGraphicVisible</key>
+	<string>projectAsMethod</string>
+	<key>configurationStrategyScale</key>
+	<string>descriptionByVariable</string>
+	<key>keyHistogramState</key>
+	<string>ignoredVariantOffset</string>
+	<key>labelAdapterBound</key>
+	<string>viewActionAppearance</string>
+	<key>promiseOutsideProxy</key>
+	<string>smallInterfaceValidation</string>
+	<key>robustQueueValidation</key>
+	<string>vectorLevelSkewx</string>
+</dict>
+</plist>

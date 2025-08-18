@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDuringTemple</key>
+	<string>interfaceAroundPattern</string>
+	<key>animatedSkinPosition</key>
+	<string>labelPhaseTransparency</string>
+	<key>currentCompleterStatus</key>
+	<string>semanticMaterialTint</string>
+	<key>curveBufferSaturation</key>
+	<string>intuitiveEffectDirection</string>
+	<key>customVariantSpacing</key>
+	<string>unactivatedDescriptionMode</string>
+	<key>heapNumberOffset</key>
+	<string>exponentFromSingleton</string>
+	<key>largeMultiplicationOrigin</key>
+	<string>localEventResponse</string>
+</dict>
+</plist>

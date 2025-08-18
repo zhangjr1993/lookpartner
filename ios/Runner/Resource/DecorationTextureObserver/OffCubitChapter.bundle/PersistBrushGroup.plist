@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentListenerVelocity</key>
+	<string>completerLevelIndex</string>
+	<key>constraintCommandAlignment</key>
+	<string>callbackOutsideCommand</string>
+	<key>interactiveNibMargin</key>
+	<string>labelNearTemple</string>
+	<key>intermediateLocalizationIndex</key>
+	<string>arithmeticMaterialPosition</string>
+	<key>resolverParameterTop</key>
+	<string>layoutCycleTransparency</string>
+	<key>responsiveCacheName</key>
+	<string>standaloneLabelValidation</string>
+	<key>resultExceptLevel</key>
+	<string>grayscaleNearStage</string>
+	<key>tabviewSystemTheme</key>
+	<string>sizeIncludeVisitor</string>
+</dict>
+</plist>

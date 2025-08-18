@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateWorkVisibility</key>
+	<string>rowActionValidation</string>
+	<key>futureAdapterHue</key>
+	<string>effectFrameworkEdge</string>
+	<key>operationJobSpeed</key>
+	<string>errorWithPlatform</string>
+	<key>repositoryOfMediator</key>
+	<string>consumerAsFramework</string>
+</dict>
+</plist>

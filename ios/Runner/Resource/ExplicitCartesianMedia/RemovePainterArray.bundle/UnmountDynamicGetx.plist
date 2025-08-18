@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVarTint</key>
+	<string>controllerPerVar</string>
+	<key>constraintAwayMediator</key>
+	<string>borderCycleSkewx</string>
+	<key>graphicStateTheme</key>
+	<string>convolutionMethodColor</string>
+	<key>opaqueOptionBehavior</key>
+	<string>lostAnchorStyle</string>
+	<key>permanentConsumerAcceleration</key>
+	<string>mediocreSineFrequency</string>
+	<key>uniformCubitRate</key>
+	<string>customizedQueueFrequency</string>
+</dict>
+</plist>

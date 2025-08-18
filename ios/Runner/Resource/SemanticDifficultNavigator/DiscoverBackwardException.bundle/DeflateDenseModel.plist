@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsPrototypeSkewy</key>
+	<string>layoutEnvironmentSaturation</string>
+	<key>grayscaleAsContext</key>
+	<string>masterFlyweightIndex</string>
+	<key>largeZoneVisible</key>
+	<string>descriptionAsJob</string>
+	<key>listviewPerCommand</key>
+	<string>mainViewSpacing</string>
+	<key>localizationAlongNumber</key>
+	<string>bitrateShapeTag</string>
+	<key>resultAdapterCoord</key>
+	<string>significantLabelLocation</string>
+	<key>rowPrototypeDensity</key>
+	<string>particleStyleAlignment</string>
+	<key>timerMediatorValidation</key>
+	<string>equalizationValueFrequency</string>
+	<key>toolByTier</key>
+	<string>allocatorOutsideMemento</string>
+</dict>
+</plist>

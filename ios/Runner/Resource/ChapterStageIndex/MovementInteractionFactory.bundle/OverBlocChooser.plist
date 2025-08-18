@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPriorityValidation</key>
+	<string>checklistTypeTop</string>
+	<key>viewFromScope</key>
+	<string>transformerStructureMomentum</string>
+</dict>
+</plist>

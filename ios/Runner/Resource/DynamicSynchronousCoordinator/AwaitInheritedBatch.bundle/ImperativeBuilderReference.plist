@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGrayscaleVisible</key>
+	<string>crudeCallbackContrast</string>
+	<key>advancedStoryboardContrast</key>
+	<string>materialTransformerVelocity</string>
+	<key>challengeInsideKind</key>
+	<string>originalRadiusTension</string>
+	<key>frameUntilCycle</key>
+	<string>enabledCubitColor</string>
+	<key>graphAlongShape</key>
+	<string>errorAsStructure</string>
+	<key>interactiveSingletonResponse</key>
+	<string>configurationAmongCommand</string>
+	<key>presenterByShape</key>
+	<string>instructionSystemDelay</string>
+	<key>sequentialTweenVisibility</key>
+	<string>grayscaleViaTask</string>
+	<key>subscriptionPlatformDirection</key>
+	<string>fusedPresenterScale</string>
+</dict>
+</plist>

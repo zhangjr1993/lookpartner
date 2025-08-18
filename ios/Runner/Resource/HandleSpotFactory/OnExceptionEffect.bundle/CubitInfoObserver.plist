@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDecoratorSpacing</key>
+	<string>timerAndCycle</string>
+	<key>certificateSincePrototype</key>
+	<string>commandFrameworkOrigin</string>
+	<key>cupertinoOutsideSingleton</key>
+	<string>seamlessThemeDuration</string>
+	<key>frameStateInterval</key>
+	<string>providerContextVisible</string>
+	<key>interactiveGramDelay</key>
+	<string>asyncProcessSize</string>
+	<key>semanticTextfieldRotation</key>
+	<string>commonConvolutionMargin</string>
+</dict>
+</plist>

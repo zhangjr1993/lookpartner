@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultColumnDuration</key>
+	<string>routeSystemShape</string>
+	<key>flexDecoratorInset</key>
+	<string>interactorAsLevel</string>
+	<key>inkwellBridgeDuration</key>
+	<string>ignoredStorageOpacity</string>
+	<key>movementIncludePlatform</key>
+	<string>mobileAwayOperation</string>
+	<key>responsiveMobxType</key>
+	<string>providerExceptVar</string>
+</dict>
+</plist>

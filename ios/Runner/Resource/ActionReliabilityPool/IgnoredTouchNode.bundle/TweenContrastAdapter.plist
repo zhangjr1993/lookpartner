@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameInKind</key>
+	<string>callbackFromFacade</string>
+	<key>originalChapterDistance</key>
+	<string>difficultGateName</string>
+	<key>requestMethodType</key>
+	<string>touchDecoratorScale</string>
+	<key>spriteAdapterType</key>
+	<string>uniformGradientTail</string>
+	<key>storageMethodRate</key>
+	<string>responseForTask</string>
+	<key>storeAtParam</key>
+	<string>routeBeyondAction</string>
+	<key>switchInType</key>
+	<string>scaleSystemName</string>
+</dict>
+</plist>

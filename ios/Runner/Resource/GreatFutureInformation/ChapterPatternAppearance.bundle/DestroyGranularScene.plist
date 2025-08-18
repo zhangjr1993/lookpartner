@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBridgeBehavior</key>
+	<string>intensityOperationSaturation</string>
+	<key>completerLikeFramework</key>
+	<string>normWithLevel</string>
+	<key>disabledIndicatorFrequency</key>
+	<string>textShapeInteraction</string>
+	<key>futurePatternInterval</key>
+	<string>streamBeyondDecorator</string>
+	<key>protocolActionMargin</key>
+	<string>configurationWorkTail</string>
+	<key>rectViaBuffer</key>
+	<string>particleLevelSpeed</string>
+	<key>stackBufferVelocity</key>
+	<string>cartesianBufferDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContainNumber</key>
+	<string>overlayShapeFlags</string>
+	<key>containerTypeSaturation</key>
+	<string>sortedChartSaturation</string>
+	<key>criticalPresenterInset</key>
+	<string>layoutAdapterDepth</string>
+	<key>getxContainParam</key>
+	<string>coordinatorFlyweightFrequency</string>
+	<key>imperativeObserverMargin</key>
+	<string>precisionStateTail</string>
+	<key>modulusAgainstStyle</key>
+	<string>threadAndLayer</string>
+	<key>normTierMargin</key>
+	<string>priorMetadataAlignment</string>
+	<key>pageviewDespiteMemento</key>
+	<string>offsetForFlyweight</string>
+	<key>skinCycleDepth</key>
+	<string>sustainableReducerStyle</string>
+	<key>transitionForFacade</key>
+	<string>ephemeralProfileVisibility</string>
+</dict>
+</plist>

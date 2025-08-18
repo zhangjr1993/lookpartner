@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderForStyle</key>
+	<string>playbackWithChain</string>
+	<key>declarativeContainerStatus</key>
+	<string>scaffoldKindFlags</string>
+	<key>gridTierTheme</key>
+	<string>textureMediatorScale</string>
+	<key>nodeAboutPrototype</key>
+	<string>borderOrKind</string>
+	<key>normAtPlatform</key>
+	<string>temporaryCellInterval</string>
+	<key>otherConstraintTint</key>
+	<string>tickerExceptContext</string>
+	<key>sizeAboutVar</key>
+	<string>hashFrameworkMode</string>
+	<key>transformerWorkColor</key>
+	<string>transitionDuringObserver</string>
+</dict>
+</plist>

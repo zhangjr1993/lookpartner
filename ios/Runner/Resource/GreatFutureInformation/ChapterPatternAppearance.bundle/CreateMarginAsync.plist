@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBatchName</key>
+	<string>awaitBesideMode</string>
+	<key>isolateDecoratorFrequency</key>
+	<string>handlerOutsideState</string>
+	<key>localPositionContrast</key>
+	<string>transitionWithType</string>
+	<key>nativeCubeAcceleration</key>
+	<string>bufferInterpreterSpeed</string>
+	<key>queryActivityInteraction</key>
+	<string>rowFromCommand</string>
+	<key>repositoryAmongNumber</key>
+	<string>hierarchicalCurveKind</string>
+</dict>
+</plist>

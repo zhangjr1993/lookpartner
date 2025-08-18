@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOfContext</key>
+	<string>popupDuringSystem</string>
+	<key>controllerFromVariable</key>
+	<string>usageNearShape</string>
+	<key>nodeFunctionResponse</key>
+	<string>effectStateType</string>
+	<key>positionedAboutJob</key>
+	<string>optionDuringState</string>
+	<key>previewActivityScale</key>
+	<string>directCacheOpacity</string>
+	<key>profileInsideState</key>
+	<string>reusableHeroSpeed</string>
+	<key>scrollBeyondValue</key>
+	<string>activeInterfaceStyle</string>
+</dict>
+</plist>

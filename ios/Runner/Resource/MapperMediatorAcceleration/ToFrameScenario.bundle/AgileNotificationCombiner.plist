@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAsyncDirection</key>
+	<string>imperativeBufferCoord</string>
+	<key>asyncMethodMargin</key>
+	<string>constraintAgainstVar</string>
+	<key>awaitInForm</key>
+	<string>beginnerSymbolForce</string>
+	<key>masterAlongTask</key>
+	<string>spriteLevelSkewy</string>
+	<key>masterKindSkewy</key>
+	<string>imageIncludeMethod</string>
+	<key>nodeAndParameter</key>
+	<string>associatedProtocolFrequency</string>
+	<key>priorityNearKind</key>
+	<string>concreteTickerColor</string>
+	<key>queueObserverName</key>
+	<string>listenerSinceVariable</string>
+	<key>widgetAsProcess</key>
+	<string>durationModeDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityFormSpacing</key>
+	<string>keyCoordinatorSpacing</string>
+	<key>eventVersusMediator</key>
+	<string>firstDelegateForce</string>
+	<key>expandedViaMediator</key>
+	<string>roleOutsideStyle</string>
+	<key>nibStrategyRotation</key>
+	<string>serviceAmongParameter</string>
+	<key>nodeAmongTier</key>
+	<string>boxshadowEnvironmentTint</string>
+	<key>reducerTypeOpacity</key>
+	<string>sliderAsPhase</string>
+	<key>sineAlongBuffer</key>
+	<string>gemUntilVariable</string>
+	<key>transitionScopeInteraction</key>
+	<string>paddingWorkInteraction</string>
+</dict>
+</plist>

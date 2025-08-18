@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBufferStyle</key>
+	<string>draggableSliderCenter</string>
+	<key>capacitiesLikeTask</key>
+	<string>mobileManagerStatus</string>
+	<key>declarativeMetadataLocation</key>
+	<string>animatedMenuDirection</string>
+	<key>mobileChainDensity</key>
+	<string>transitionFromKind</string>
+	<key>roleViaPhase</key>
+	<string>imperativePositionPressure</string>
+	<key>subtleShaderInteraction</key>
+	<string>gesturedetectorAroundValue</string>
+	<key>widgetAlongCycle</key>
+	<string>mapValueName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFromCycle</key>
+	<string>apertureCycleDensity</string>
+	<key>euclideanPageviewFrequency</key>
+	<string>reductionLevelVelocity</string>
+	<key>marginPatternEdge</key>
+	<string>viewLikeSingleton</string>
+	<key>operationPerEnvironment</key>
+	<string>managerActionName</string>
+	<key>optimizerOfPhase</key>
+	<string>iterativePointStyle</string>
+	<key>permanentMenuStyle</key>
+	<string>denseSymbolDepth</string>
+	<key>providerAgainstFramework</key>
+	<string>modalInSystem</string>
+</dict>
+</plist>

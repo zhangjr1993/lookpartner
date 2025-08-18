@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexNumberResponse</key>
+	<string>nodeBufferTheme</string>
+	<key>indicatorAlongMethod</key>
+	<string>checklistPatternCoord</string>
+	<key>priorityPerMethod</key>
+	<string>notificationBufferPadding</string>
+	<key>rowVarKind</key>
+	<string>gateAwayTier</string>
+</dict>
+</plist>

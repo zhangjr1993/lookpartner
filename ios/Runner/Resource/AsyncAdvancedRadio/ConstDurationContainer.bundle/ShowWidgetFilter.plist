@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHandlerFeedback</key>
+	<string>originalMethodVisible</string>
+	<key>alignmentMethodBottom</key>
+	<string>cupertinoKindForce</string>
+	<key>builderPerScope</key>
+	<string>textAgainstObserver</string>
+	<key>diffableNodeBorder</key>
+	<string>ephemeralInterpolationBrightness</string>
+	<key>grainExceptBuffer</key>
+	<string>positionParameterPressure</string>
+	<key>routeAgainstVariable</key>
+	<string>cosineMementoTransparency</string>
+</dict>
+</plist>

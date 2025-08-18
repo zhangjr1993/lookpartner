@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowUntilBridge</key>
+	<string>captionDecoratorVisibility</string>
+	<key>constCollectionInterval</key>
+	<string>segmentByBuffer</string>
+	<key>dependencyAgainstFramework</key>
+	<string>layerDespiteValue</string>
+	<key>hashAmongProcess</key>
+	<string>transitionStateShade</string>
+	<key>mapEnvironmentCoord</key>
+	<string>inheritedToolSpacing</string>
+	<key>primaryTaskAppearance</key>
+	<string>cardChainCount</string>
+	<key>reusablePageviewFeedback</key>
+	<string>composableEffectEdge</string>
+	<key>similarEffectDirection</key>
+	<string>scrollOfFunction</string>
+	<key>taskLevelForce</key>
+	<string>aspectOrParam</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGemVisible</key>
+	<string>equalizationByState</string>
+	<key>assetShapeBrightness</key>
+	<string>riverpodByVariable</string>
+	<key>graphAndWork</key>
+	<string>singletonBufferShape</string>
+	<key>indicatorEnvironmentRotation</key>
+	<string>buttonProxySize</string>
+	<key>integerDecoratorDistance</key>
+	<string>layoutTypeBound</string>
+	<key>navigatorAroundAction</key>
+	<string>commandChainMode</string>
+	<key>nodeNumberStatus</key>
+	<string>materialForCycle</string>
+	<key>similarTernaryOrigin</key>
+	<string>smallUsecaseIndex</string>
+	<key>statefulNearObserver</key>
+	<string>observerParamTheme</string>
+</dict>
+</plist>

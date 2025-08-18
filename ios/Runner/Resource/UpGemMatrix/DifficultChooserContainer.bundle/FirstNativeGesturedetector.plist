@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesVarFeedback</key>
+	<string>gesturedetectorAsVariable</string>
+	<key>containerAdapterCoord</key>
+	<string>popupThroughTask</string>
+	<key>customizedRowCount</key>
+	<string>sensorKindShape</string>
+	<key>dialogsDecoratorKind</key>
+	<string>heroAmongNumber</string>
+	<key>durationMethodDirection</key>
+	<string>sustainableStreamSpeed</string>
+	<key>exceptionStateShade</key>
+	<string>exceptionDuringStructure</string>
+	<key>permanentInstructionOrientation</key>
+	<string>pageviewIncludeLayer</string>
+	<key>retainedTopicHue</key>
+	<string>gramTierDistance</string>
+</dict>
+</plist>

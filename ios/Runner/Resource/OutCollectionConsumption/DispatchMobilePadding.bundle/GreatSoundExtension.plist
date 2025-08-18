@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCubitAppearance</key>
+	<string>positionedBufferSaturation</string>
+	<key>buttonPrototypeSaturation</key>
+	<string>isolateModeInset</string>
+	<key>constraintFormAcceleration</key>
+	<string>beginnerLoopOrigin</string>
+	<key>getxScopeIndex</key>
+	<string>routeAlongJob</string>
+	<key>navigatorSinceAdapter</key>
+	<string>previewOrVar</string>
+	<key>substantialDecorationKind</key>
+	<string>textSinceParam</string>
+	<key>widgetSystemResponse</key>
+	<string>deferredCanvasResponse</string>
+</dict>
+</plist>

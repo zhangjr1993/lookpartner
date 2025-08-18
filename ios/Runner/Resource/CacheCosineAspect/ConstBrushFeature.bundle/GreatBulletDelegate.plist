@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOperationDirection</key>
+	<string>parallelHashTag</string>
+	<key>effectModeShade</key>
+	<string>reusableSampleTheme</string>
+	<key>repositoryVarTransparency</key>
+	<string>inkwellFormShade</string>
+	<key>sharedMaterialDensity</key>
+	<string>firstFeatureRotation</string>
+	<key>stackFacadeMode</key>
+	<string>priorityDuringInterpreter</string>
+	<key>synchronousTernaryEdge</key>
+	<string>channelThroughMode</string>
+</dict>
+</plist>

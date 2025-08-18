@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVisitorBound</key>
+	<string>scrollableCheckboxOpacity</string>
+	<key>dropdownbuttonByPlatform</key>
+	<string>protectedButtonTheme</string>
+	<key>gridWithoutSystem</key>
+	<string>commonControllerColor</string>
+	<key>integerPlatformOpacity</key>
+	<string>observerCompositeMomentum</string>
+	<key>precisionFormBrightness</key>
+	<string>cosineJobDensity</string>
+</dict>
+</plist>

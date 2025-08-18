@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAwayLayer</key>
+	<string>plateAroundParameter</string>
+	<key>decorationAtParameter</key>
+	<string>referenceBufferScale</string>
+	<key>directParticleMode</key>
+	<string>featureAsActivity</string>
+	<key>equalizationVersusForm</key>
+	<string>durationInLevel</string>
+	<key>interactiveAlphaInterval</key>
+	<string>fusedRequestCoord</string>
+	<key>resultParamSkewx</key>
+	<string>sinkChainContrast</string>
+	<key>sampleFormSpacing</key>
+	<string>timerInterpreterShape</string>
+</dict>
+</plist>

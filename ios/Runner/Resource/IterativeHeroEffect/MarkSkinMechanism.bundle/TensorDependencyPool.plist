@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMatrixPosition</key>
+	<string>mediocreBuilderFeedback</string>
+	<key>descriptionTypeOrigin</key>
+	<string>sliderAtDecorator</string>
+	<key>effectIncludeProcess</key>
+	<string>subsequentSliderState</string>
+	<key>labelAboutCommand</key>
+	<string>consultativeToolVelocity</string>
+	<key>nativePopupBorder</key>
+	<string>symbolCompositeShape</string>
+	<key>semanticCubitResponse</key>
+	<string>signCompositeAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectByEnvironment</key>
+	<string>resolverThroughEnvironment</string>
+	<key>hashAmongParam</key>
+	<string>criticalAlertVisible</string>
+	<key>logByComposite</key>
+	<string>specifyHistogramMomentum</string>
+	<key>parallelPainterTint</key>
+	<string>custompaintContextOpacity</string>
+	<key>persistentIndicatorRate</key>
+	<string>graphTierFeedback</string>
+	<key>pinchableVectorTension</key>
+	<string>imperativeButtonDensity</string>
+	<key>reactiveBuilderOffset</key>
+	<string>rectScopeRight</string>
+	<key>sizedboxUntilTier</key>
+	<string>rowOrMediator</string>
+	<key>utilFlyweightCoord</key>
+	<string>immutableSemanticsRotation</string>
+</dict>
+</plist>

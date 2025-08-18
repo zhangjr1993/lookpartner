@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSineDensity</key>
+	<string>heroVariableFormat</string>
+	<key>agileMaterialBorder</key>
+	<string>marginOfDecorator</string>
+	<key>captionScopeInterval</key>
+	<string>painterAtMethod</string>
+	<key>handlerVarHead</key>
+	<string>containerVisitorVisible</string>
+	<key>inkwellBesideKind</key>
+	<string>futureObserverTransparency</string>
+	<key>inkwellVarDepth</key>
+	<string>notificationProcessStatus</string>
+	<key>serviceThanFlyweight</key>
+	<string>immutableBlocType</string>
+	<key>subscriptionProcessVelocity</key>
+	<string>batchOrPhase</string>
+	<key>usageStrategyLeft</key>
+	<string>ignoredProviderHue</string>
+</dict>
+</plist>

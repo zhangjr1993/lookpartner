@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInstructionContrast</key>
+	<string>displayableDialogsVelocity</string>
+	<key>controllerEnvironmentCoord</key>
+	<string>topicOrPlatform</string>
+	<key>dependencyAdapterAcceleration</key>
+	<string>semanticsDuringStructure</string>
+	<key>directCaptionDensity</key>
+	<string>uniqueGridAlignment</string>
+	<key>gemCompositeForce</key>
+	<string>graphFrameworkDepth</string>
+	<key>localizationPhaseRight</key>
+	<string>cubeOutsideVisitor</string>
+	<key>modelStrategySpacing</key>
+	<string>kernelByComposite</string>
+	<key>usedBehaviorResponse</key>
+	<string>staticBorderInset</string>
+</dict>
+</plist>

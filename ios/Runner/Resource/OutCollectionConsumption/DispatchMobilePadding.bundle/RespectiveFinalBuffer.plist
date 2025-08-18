@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInterpreterMomentum</key>
+	<string>gesturedetectorAndShape</string>
+	<key>disabledSignInteraction</key>
+	<string>progressbarPerChain</string>
+	<key>intensityVariableHue</key>
+	<string>diffableCacheOffset</string>
+	<key>listenerFlyweightOffset</key>
+	<string>statefulZoneSkewy</string>
+	<key>metadataFormType</key>
+	<string>statefulSizeTheme</string>
+	<key>projectStrategyMargin</key>
+	<string>roleInsideForm</string>
+	<key>rowPrototypeState</key>
+	<string>standaloneTimerVisibility</string>
+</dict>
+</plist>

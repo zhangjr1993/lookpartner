@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDuringStage</key>
+	<string>animatedcontainerShapeLeft</string>
+	<key>ignoredLogarithmOffset</key>
+	<string>numericalReductionScale</string>
+	<key>instructionObserverName</key>
+	<string>oldCompletionOffset</string>
+	<key>smallEntropySpacing</key>
+	<string>mobileCycleSpacing</string>
+</dict>
+</plist>

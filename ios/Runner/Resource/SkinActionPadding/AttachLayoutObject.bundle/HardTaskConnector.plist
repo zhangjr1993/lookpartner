@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVisitorAppearance</key>
+	<string>constraintParamAppearance</string>
+	<key>canvasAroundContext</key>
+	<string>movementBufferBehavior</string>
+	<key>frameMethodDepth</key>
+	<string>durationAwayCycle</string>
+	<key>grainKindLeft</key>
+	<string>resizableShaderSpacing</string>
+	<key>interactorTempleInteraction</key>
+	<string>progressbarPhaseValidation</string>
+	<key>notifierDuringFunction</key>
+	<string>inkwellCycleDirection</string>
+	<key>oldSampleSize</key>
+	<string>completionNearVariable</string>
+	<key>pinchablePageviewRight</key>
+	<string>sinkDuringState</string>
+</dict>
+</plist>

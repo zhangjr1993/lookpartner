@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationPerEnvironment</key>
+	<string>easyRowRotation</string>
+	<key>navigatorForCycle</key>
+	<string>usecaseChainMargin</string>
+	<key>nextCacheSize</key>
+	<string>previewWithoutEnvironment</string>
+	<key>pinchableInterpolationSpeed</key>
+	<string>modelAroundFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAtTier</key>
+	<string>sinkInScope</string>
+	<key>callbackParameterScale</key>
+	<string>mobxIncludeVar</string>
+	<key>immutableOffsetStatus</key>
+	<string>storageInDecorator</string>
+	<key>listenerParameterLeft</key>
+	<string>masterAboutInterpreter</string>
+	<key>reactiveRoleBottom</key>
+	<string>exceptionBeyondStrategy</string>
+	<key>segmentWorkKind</key>
+	<string>factoryMethodSaturation</string>
+	<key>serviceThroughMode</key>
+	<string>slashScopeInterval</string>
+	<key>singletonAwayStrategy</key>
+	<string>asynchronousRouteRate</string>
+</dict>
+</plist>

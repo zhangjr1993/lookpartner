@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPlatformOrientation</key>
+	<string>completionDespiteMemento</string>
+	<key>assetVarFlags</key>
+	<string>symmetricCallbackAlignment</string>
+	<key>builderProxyTag</key>
+	<string>stampDuringComposite</string>
+	<key>buttonDecoratorBound</key>
+	<string>actionInterpreterBehavior</string>
+	<key>compositionalTexturePosition</key>
+	<string>denseMethodSize</string>
+	<key>cubitThanOperation</key>
+	<string>statefulMediatorVisibility</string>
+	<key>gradientFrameworkHue</key>
+	<string>unactivatedRowVisibility</string>
+	<key>greatSceneBehavior</key>
+	<string>managerNumberHue</string>
+	<key>sinkWorkBottom</key>
+	<string>opaqueChecklistTransparency</string>
+	<key>tappableSliderFrequency</key>
+	<string>smartStackIndex</string>
+</dict>
+</plist>

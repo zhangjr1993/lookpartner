@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStateTail</key>
+	<string>navigatorAtTier</string>
+	<key>disabledTimerBehavior</key>
+	<string>delegateAsDecorator</string>
+	<key>draggableSinkMode</key>
+	<string>routerAwayScope</string>
+	<key>menuAmongAdapter</key>
+	<string>immutableSensorLocation</string>
+	<key>sortedSampleLeft</key>
+	<string>radiusKindDistance</string>
+</dict>
+</plist>

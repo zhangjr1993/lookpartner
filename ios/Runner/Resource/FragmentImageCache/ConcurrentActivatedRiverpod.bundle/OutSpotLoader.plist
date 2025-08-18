@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAboutStage</key>
+	<string>completerDecoratorInterval</string>
+	<key>curveValueBound</key>
+	<string>interactiveGraphTop</string>
+	<key>groupCommandRotation</key>
+	<string>beginnerSlashTag</string>
+	<key>logarithmWithoutLayer</key>
+	<string>resourceStyleDepth</string>
+	<key>paddingForState</key>
+	<string>previewPlatformVelocity</string>
+	<key>swiftIncludeSystem</key>
+	<string>priorityPerVariable</string>
+</dict>
+</plist>

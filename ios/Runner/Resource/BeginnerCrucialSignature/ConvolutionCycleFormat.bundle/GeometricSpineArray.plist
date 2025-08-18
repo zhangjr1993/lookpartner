@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTierBrightness</key>
+	<string>checkboxCycleMargin</string>
+	<key>containerShapeRight</key>
+	<string>navigatorAdapterFrequency</string>
+	<key>immutableCacheAlignment</key>
+	<string>frameBridgePadding</string>
+	<key>pinchableOffsetFeedback</key>
+	<string>robustInterpolationTag</string>
+	<key>repositoryAboutEnvironment</key>
+	<string>interpolationStateDepth</string>
+	<key>routeStyleTheme</key>
+	<string>usecaseBesideVisitor</string>
+	<key>routerUntilStructure</key>
+	<string>cupertinoAdapterSpeed</string>
+</dict>
+</plist>

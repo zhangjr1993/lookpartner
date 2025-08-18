@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBridgeSize</key>
+	<string>navigatorUntilSingleton</string>
+	<key>functionalProviderAlignment</key>
+	<string>batchForOperation</string>
+	<key>futureSinceAction</key>
+	<string>greatCommandIndex</string>
+	<key>gridAndState</key>
+	<string>layoutContextSpacing</string>
+	<key>radiusVarVelocity</key>
+	<string>dropdownbuttonWorkShape</string>
+	<key>resizableZoneTransparency</key>
+	<string>firstTaskLeft</string>
+	<key>sceneContainBuffer</key>
+	<string>presenterContainFunction</string>
+</dict>
+</plist>

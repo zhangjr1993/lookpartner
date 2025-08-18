@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerPrototypeRotation</key>
+	<string>easyErrorStatus</string>
+	<key>hashBufferScale</key>
+	<string>playbackFromBuffer</string>
+	<key>independentSliderInset</key>
+	<string>segmentStrategySaturation</string>
+	<key>menuAgainstNumber</key>
+	<string>subtleModulusAppearance</string>
+	<key>pivotalConfigurationInterval</key>
+	<string>utilByVar</string>
+	<key>protectedTransitionCenter</key>
+	<string>actionFromDecorator</string>
+	<key>reactiveImageDirection</key>
+	<string>sliderObserverDelay</string>
+	<key>semanticsDuringLevel</key>
+	<string>robustDocumentForce</string>
+	<key>taskStructureInterval</key>
+	<string>composableAlignmentState</string>
+</dict>
+</plist>

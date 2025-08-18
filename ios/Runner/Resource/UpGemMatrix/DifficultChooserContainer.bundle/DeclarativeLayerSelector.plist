@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPrecisionDistance</key>
+	<string>subsequentActivitySpacing</string>
+	<key>binaryPatternMode</key>
+	<string>vectorWithoutBridge</string>
+	<key>discardedTextResponse</key>
+	<string>reductionBridgeTail</string>
+	<key>interactorIncludeParameter</key>
+	<string>grainParameterValidation</string>
+	<key>listenerShapeStatus</key>
+	<string>positionedTierInset</string>
+	<key>mediaqueryPlatformMode</key>
+	<string>overlayMementoInteraction</string>
+	<key>seamlessAlertOrigin</key>
+	<string>temporaryCanvasDistance</string>
+	<key>smallGraphicCenter</key>
+	<string>mutableBatchOpacity</string>
+	<key>visibleLayoutForce</key>
+	<string>baselineOfFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughFunction</key>
+	<string>standaloneSlashBehavior</string>
+	<key>decorationTierDepth</key>
+	<string>compositionalAwaitOpacity</string>
+	<key>globalExtensionBorder</key>
+	<string>capsuleBesideChain</string>
+	<key>imperativeRowHue</key>
+	<string>baselineLevelVisibility</string>
+	<key>interactiveMobxStatus</key>
+	<string>intermediateCacheHue</string>
+	<key>interactorFlyweightValidation</key>
+	<string>builderBufferTop</string>
+	<key>lazyRadioVisible</key>
+	<string>isolateThanMemento</string>
+	<key>robustEventOrientation</key>
+	<string>relationalGridviewSpeed</string>
+</dict>
+</plist>

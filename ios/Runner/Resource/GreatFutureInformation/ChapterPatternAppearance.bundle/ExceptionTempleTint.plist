@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStateBehavior</key>
+	<string>missionLevelResponse</string>
+	<key>consultativeSkirtShade</key>
+	<string>particlePhaseDensity</string>
+	<key>directlyInterfaceBound</key>
+	<string>hashStateInteraction</string>
+	<key>iterativeInteractorCoord</key>
+	<string>seamlessSkirtCoord</string>
+	<key>mediaqueryFromTask</key>
+	<string>navigatorFormSaturation</string>
+	<key>sceneNearSingleton</key>
+	<string>progressbarFunctionResponse</string>
+	<key>sequentialErrorScale</key>
+	<string>catalystChainKind</string>
+	<key>subtleSliderLeft</key>
+	<string>singleRadiusAcceleration</string>
+	<key>viewSystemTag</key>
+	<string>unactivatedListenerName</string>
+</dict>
+</plist>

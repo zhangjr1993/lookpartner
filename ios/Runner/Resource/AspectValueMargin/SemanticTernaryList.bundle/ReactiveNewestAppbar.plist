@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentModeTag</key>
+	<string>cacheLayerIndex</string>
+	<key>blocJobFormat</key>
+	<string>basicProtocolCoord</string>
+	<key>buttonVersusPattern</key>
+	<string>queryAsAction</string>
+	<key>checkboxStructureDepth</key>
+	<string>builderJobSkewy</string>
+	<key>normalBoxBottom</key>
+	<string>marginWithoutFramework</string>
+	<key>promiseByMemento</key>
+	<string>seamlessRowPadding</string>
+	<key>usecaseOutsideStrategy</key>
+	<string>borderThroughJob</string>
+</dict>
+</plist>

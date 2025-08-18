@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCycleFormat</key>
+	<string>flexWorkVelocity</string>
+	<key>exponentForVariable</key>
+	<string>durationActivityAcceleration</string>
+	<key>futureCommandEdge</key>
+	<string>requiredFutureVisibility</string>
+	<key>gridEnvironmentSpeed</key>
+	<string>cycleInterpreterState</string>
+	<key>mediaqueryAroundInterpreter</key>
+	<string>normTaskHead</string>
+	<key>staticLayoutTop</key>
+	<string>awaitStructureCount</string>
+</dict>
+</plist>

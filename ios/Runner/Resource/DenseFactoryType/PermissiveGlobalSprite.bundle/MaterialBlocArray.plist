@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateStructureOrigin</key>
+	<string>dependencyFunctionAppearance</string>
+	<key>disabledNotifierLeft</key>
+	<string>sceneStructureOpacity</string>
+	<key>exceptionVersusBridge</key>
+	<string>loopSinceVariable</string>
+	<key>fragmentInMediator</key>
+	<string>awaitAndCommand</string>
+	<key>grainWithoutFunction</key>
+	<string>reducerAboutState</string>
+	<key>iterativeInterfaceInset</key>
+	<string>concurrentTweenCenter</string>
+	<key>listenerInSingleton</key>
+	<string>transformerThanFacade</string>
+	<key>sessionForSingleton</key>
+	<string>queueShapeOffset</string>
+	<key>sinkByFlyweight</key>
+	<string>bufferOfStyle</string>
+	<key>textfieldFromForm</key>
+	<string>futureByFacade</string>
+</dict>
+</plist>

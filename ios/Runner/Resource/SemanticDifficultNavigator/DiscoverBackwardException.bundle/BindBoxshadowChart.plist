@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilProcess</key>
+	<string>interactorAroundAdapter</string>
+	<key>blocViaLayer</key>
+	<string>custompaintWithoutVisitor</string>
+	<key>cellBesideFlyweight</key>
+	<string>listenerThroughPattern</string>
+	<key>declarativeDocumentInterval</key>
+	<string>aspectratioAroundMode</string>
+	<key>exponentPerShape</key>
+	<string>hyperbolicNodeName</string>
+	<key>globalQueueFrequency</key>
+	<string>mediaqueryAgainstContext</string>
+	<key>lastApertureKind</key>
+	<string>cellLayerContrast</string>
+	<key>navigationTierBorder</key>
+	<string>widgetFromState</string>
+	<key>nextPaddingHead</key>
+	<string>substantialGemHue</string>
+	<key>staticScrollDirection</key>
+	<string>storeLikePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialResponseInterval</key>
+	<string>instructionParamFrequency</string>
+	<key>explicitRouteBrightness</key>
+	<string>subscriptionNearState</string>
+	<key>metadataIncludeVar</key>
+	<string>brushAtEnvironment</string>
+	<key>widgetInsideSystem</key>
+	<string>firstButtonRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPreviewInterval</key>
+	<string>imageAlongAction</string>
+	<key>gestureModeFrequency</key>
+	<string>workflowStyleDensity</string>
+	<key>menuCompositeTint</key>
+	<string>cosineWorkSkewx</string>
+	<key>resilientImageScale</key>
+	<string>shaderLevelMomentum</string>
+	<key>retainedTaskSkewx</key>
+	<string>scaleStrategyIndex</string>
+	<key>secondStreamTail</key>
+	<string>controllerContainDecorator</string>
+	<key>staticModalSpeed</key>
+	<string>semanticsInterpreterBorder</string>
+</dict>
+</plist>

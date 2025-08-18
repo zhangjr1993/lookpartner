@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOperationTheme</key>
+	<string>canvasShapeTension</string>
+	<key>boxshadowSinceContext</key>
+	<string>scrollableContainerCoord</string>
+	<key>commonSignatureCount</key>
+	<string>diversifiedScaffoldTransparency</string>
+	<key>criticalActionAcceleration</key>
+	<string>rowAroundCycle</string>
+	<key>displayableResourceInterval</key>
+	<string>precisionFlyweightHue</string>
+	<key>grainPerAction</key>
+	<string>chapterSinceAction</string>
+	<key>protectedDependencyState</key>
+	<string>localAnchorVelocity</string>
+	<key>timerObserverDuration</key>
+	<string>animationAroundParameter</string>
+</dict>
+</plist>

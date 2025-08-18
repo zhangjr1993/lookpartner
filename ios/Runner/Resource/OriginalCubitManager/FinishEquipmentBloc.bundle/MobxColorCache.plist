@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOverlaySize</key>
+	<string>titleWithDecorator</string>
+	<key>appbarFormOrientation</key>
+	<string>iconCycleSpeed</string>
+	<key>backwardChapterLeft</key>
+	<string>listviewTierBound</string>
+	<key>displayableEntityName</key>
+	<string>intuitiveFutureOffset</string>
+	<key>navigatorFlyweightCount</key>
+	<string>layerAsAction</string>
+	<key>paddingVisitorTheme</key>
+	<string>ignoredAsyncScale</string>
+	<key>positionedSingletonAlignment</key>
+	<string>requiredParticleColor</string>
+</dict>
+</plist>

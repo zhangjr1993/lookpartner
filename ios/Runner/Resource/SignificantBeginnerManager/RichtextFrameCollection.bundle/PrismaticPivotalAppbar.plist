@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertContainObserver</key>
+	<string>blocDecoratorSpacing</string>
+	<key>iconProcessMode</key>
+	<string>interactorVisitorLocation</string>
+	<key>mobileStageAlignment</key>
+	<string>seamlessHeapOrigin</string>
+	<key>nativeLayoutSpeed</key>
+	<string>profileMediatorMomentum</string>
+	<key>semanticTabviewSpeed</key>
+	<string>desktopOperationSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAboutKind</key>
+	<string>difficultCustompaintInteraction</string>
+	<key>consumerObserverDuration</key>
+	<string>interactivePrecisionLocation</string>
+	<key>independentTaskSaturation</key>
+	<string>hardRowCoord</string>
+	<key>intuitiveWorkflowType</key>
+	<string>statelessHashShape</string>
+	<key>mediumMediaquerySpacing</key>
+	<string>topicBeyondOperation</string>
+	<key>otherSemanticsLeft</key>
+	<string>dependencyAroundFlyweight</string>
+	<key>screenThroughSingleton</key>
+	<string>builderLayerShade</string>
+</dict>
+</plist>

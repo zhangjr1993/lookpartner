@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAtStrategy</key>
+	<string>staticScreenTag</string>
+	<key>cubitAgainstDecorator</key>
+	<string>activatedProgressbarTail</string>
+	<key>factoryStyleEdge</key>
+	<string>routerThroughFramework</string>
+	<key>interfaceAboutNumber</key>
+	<string>liteWidgetFrequency</string>
+	<key>serviceScopeValidation</key>
+	<string>protocolNumberBound</string>
+	<key>serviceThanTemple</key>
+	<string>platePlatformInteraction</string>
+	<key>usagePatternRate</key>
+	<string>hierarchicalBlocFeedback</string>
+</dict>
+</plist>

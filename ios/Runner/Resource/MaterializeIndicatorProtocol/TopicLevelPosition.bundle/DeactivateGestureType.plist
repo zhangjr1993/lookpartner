@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoContextFormat</key>
+	<string>giftTempleBrightness</string>
+	<key>desktopActionFrequency</key>
+	<string>fusedTextureVisibility</string>
+	<key>dynamicIntensityValidation</key>
+	<string>apertureAsAction</string>
+	<key>ignoredGetxTheme</key>
+	<string>viewAsInterpreter</string>
+	<key>optimizerFlyweightSkewx</key>
+	<string>vectorMementoValidation</string>
+	<key>plateUntilProxy</key>
+	<string>directEntityTransparency</string>
+</dict>
+</plist>

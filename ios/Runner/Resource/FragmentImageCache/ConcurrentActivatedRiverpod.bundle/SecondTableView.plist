@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTabviewInset</key>
+	<string>singletonStateForce</string>
+	<key>delegateLayerOpacity</key>
+	<string>asyncParamMode</string>
+	<key>durationMementoAlignment</key>
+	<string>associatedContainerValidation</string>
+	<key>progressbarDespiteFramework</key>
+	<string>groupOfValue</string>
+	<key>semanticsOutsideNumber</key>
+	<string>secondCheckboxRate</string>
+</dict>
+</plist>

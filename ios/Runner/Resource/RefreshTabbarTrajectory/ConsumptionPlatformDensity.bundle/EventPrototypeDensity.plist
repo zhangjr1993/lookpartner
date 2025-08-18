@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerJobValidation</key>
+	<string>progressbarParamTint</string>
+	<key>awaitPlatformForce</key>
+	<string>gemPerActivity</string>
+	<key>dimensionOutsideMediator</key>
+	<string>fragmentDespiteStyle</string>
+	<key>enabledResourceTransparency</key>
+	<string>repositoryPhaseRate</string>
+	<key>featureOfScope</key>
+	<string>globalQueryOpacity</string>
+	<key>localizationEnvironmentPressure</key>
+	<string>multiResultHue</string>
+	<key>resilientImageLeft</key>
+	<string>uniformUnaryForce</string>
+	<key>zoneShapeStatus</key>
+	<string>alertVarDuration</string>
+</dict>
+</plist>

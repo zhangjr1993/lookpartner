@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCatalystBound</key>
+	<string>durationContainNumber</string>
+	<key>inkwellStateFeedback</key>
+	<string>observerMementoAlignment</string>
+	<key>instructionPrototypeDistance</key>
+	<string>displayableGrayscaleFormat</string>
+	<key>navigatorCommandAlignment</key>
+	<string>eagerSceneStyle</string>
+	<key>optimizerByState</key>
+	<string>hardOptimizerEdge</string>
+	<key>pivotalAlignmentName</key>
+	<string>handlerFlyweightScale</string>
+	<key>precisionProxyEdge</key>
+	<string>storageDuringScope</string>
+	<key>requiredChannelInterval</key>
+	<string>equipmentProxyAppearance</string>
+	<key>resourceMementoOpacity</key>
+	<string>futureOrVisitor</string>
+</dict>
+</plist>

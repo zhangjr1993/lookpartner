@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDecoratorState</key>
+	<string>cubitAtScope</string>
+	<key>containerByMode</key>
+	<string>comprehensiveLoopOffset</string>
+	<key>navigationSincePrototype</key>
+	<string>specifyTextTint</string>
+</dict>
+</plist>

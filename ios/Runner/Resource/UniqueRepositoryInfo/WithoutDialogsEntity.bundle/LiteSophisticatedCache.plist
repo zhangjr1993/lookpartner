@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleMargin</key>
+	<string>activatedSingletonVelocity</string>
+	<key>concurrentNibDensity</key>
+	<string>columnDespiteVar</string>
+	<key>materialCyclePosition</key>
+	<string>mediaqueryThroughProcess</string>
+	<key>reusableIconScale</key>
+	<string>largeSingletonBrightness</string>
+	<key>rowLayerContrast</key>
+	<string>handlerAmongStrategy</string>
+	<key>semanticEffectSpacing</key>
+	<string>pinchableMasterAppearance</string>
+	<key>stateKindTint</key>
+	<string>finalSpineSize</string>
+	<key>symmetricScaleValidation</key>
+	<string>grainTierOpacity</string>
+	<key>textFunctionFeedback</key>
+	<string>mediaOrPhase</string>
+	<key>vectorOrMediator</key>
+	<string>subtleAlignmentFlags</string>
+</dict>
+</plist>

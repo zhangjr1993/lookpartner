@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystParamFormat</key>
+	<string>inactiveCurveFrequency</string>
+	<key>challengeCycleIndex</key>
+	<string>paddingProcessDuration</string>
+	<key>customizedDurationBottom</key>
+	<string>elasticEventHead</string>
+	<key>labelJobBehavior</key>
+	<string>descriptionTierStatus</string>
+	<key>listenerContainParameter</key>
+	<string>storageAsFlyweight</string>
+	<key>modulusFormPressure</key>
+	<string>durationAwaySingleton</string>
+	<key>scaleInsideLayer</key>
+	<string>layoutPerFramework</string>
+	<key>tableAmongShape</key>
+	<string>statefulEventInterval</string>
+</dict>
+</plist>

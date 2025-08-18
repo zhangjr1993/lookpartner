@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMultiplicationTop</key>
+	<string>composableMultiplicationSpeed</string>
+	<key>capsuleMementoBehavior</key>
+	<string>durationAgainstPlatform</string>
+	<key>localizationFunctionBehavior</key>
+	<string>animationTaskDistance</string>
+	<key>multiplicationInProxy</key>
+	<string>missedDescriptorDistance</string>
+	<key>symmetricAwaitSpacing</key>
+	<string>heapInsideMethod</string>
+	<key>symmetricEventCount</key>
+	<string>singletonAroundOperation</string>
+</dict>
+</plist>

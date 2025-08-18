@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedMonsterFlags</key>
+	<string>accessibleVariantMode</string>
+	<key>imageShapeBehavior</key>
+	<string>decorationContainTier</string>
+	<key>interpolationValueSkewx</key>
+	<string>transitionOperationBehavior</string>
+	<key>tableOrAdapter</key>
+	<string>granularLoopType</string>
+	<key>utilSystemAppearance</key>
+	<string>kernelModeAcceleration</string>
+</dict>
+</plist>

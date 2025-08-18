@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCompletionTheme</key>
+	<string>denseSizedboxBorder</string>
+	<key>groupAlongCycle</key>
+	<string>decorationAsKind</string>
+	<key>interpolationStyleShape</key>
+	<string>eventBridgeEdge</string>
+	<key>layoutStateStatus</key>
+	<string>intermediateTernaryInterval</string>
+	<key>modelDuringObserver</key>
+	<string>coordinatorStructureTail</string>
+	<key>nativeSceneSaturation</key>
+	<string>tableAboutPrototype</string>
+	<key>scrollBufferAcceleration</key>
+	<string>hardStepRotation</string>
+	<key>segueViaComposite</key>
+	<string>flexExceptDecorator</string>
+</dict>
+</plist>

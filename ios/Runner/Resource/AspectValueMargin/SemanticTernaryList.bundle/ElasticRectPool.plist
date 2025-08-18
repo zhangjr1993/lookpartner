@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAroundParam</key>
+	<string>resourceFromProxy</string>
+	<key>immutableSingletonValidation</key>
+	<string>cupertinoEnvironmentDelay</string>
+	<key>inactiveSizeLocation</key>
+	<string>sceneVersusObserver</string>
+	<key>operationStrategyIndex</key>
+	<string>isolatePhaseBehavior</string>
+	<key>resultInterpreterType</key>
+	<string>musicAwayPlatform</string>
+	<key>stampCycleSize</key>
+	<string>tableMediatorDepth</string>
+	<key>topicAndVisitor</key>
+	<string>missionMediatorInset</string>
+	<key>usedTextureStyle</key>
+	<string>uniqueSkinStyle</string>
+	<key>widgetSystemRotation</key>
+	<string>beginnerAwaitScale</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeOperation</key>
+	<string>coordinatorInsideBuffer</string>
+	<key>flexInEnvironment</key>
+	<string>priorStorageCenter</string>
+	<key>navigatorCompositeFlags</key>
+	<string>storeObserverLocation</string>
+	<key>tabbarAmongMemento</key>
+	<string>responsiveUnaryState</string>
+</dict>
+</plist>

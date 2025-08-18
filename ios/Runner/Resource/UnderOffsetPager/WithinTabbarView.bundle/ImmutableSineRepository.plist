@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorActionStatus</key>
+	<string>enabledConstraintOrientation</string>
+	<key>catalystActionVelocity</key>
+	<string>basicLayoutVisibility</string>
+	<key>consultativeMethodInterval</key>
+	<string>independentFactoryPressure</string>
+	<key>kernelActionContrast</key>
+	<string>equalizationDespiteTask</string>
+	<key>priorityContextRight</key>
+	<string>cursorTaskBrightness</string>
+	<key>significantFactoryTransparency</key>
+	<string>disabledChartResponse</string>
+	<key>taskDespiteActivity</key>
+	<string>metadataThanMemento</string>
+	<key>uniformLabelOrientation</key>
+	<string>gridLevelSize</string>
+</dict>
+</plist>

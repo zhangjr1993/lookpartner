@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheDespiteLevel</key>
+	<string>subscriptionByPattern</string>
+	<key>effectAsJob</key>
+	<string>grainFormBrightness</string>
+	<key>finalIndicatorForce</key>
+	<string>delegateFrameworkDuration</string>
+	<key>labelNumberBrightness</key>
+	<string>timerAmongBridge</string>
+	<key>lostSizePosition</key>
+	<string>rectDuringObserver</string>
+	<key>nextLogInterval</key>
+	<string>unsortedObserverFrequency</string>
+	<key>radioDuringDecorator</key>
+	<string>frameBridgeForce</string>
+	<key>statelessCellAcceleration</key>
+	<string>metadataForEnvironment</string>
+	<key>textureMethodFrequency</key>
+	<string>channelsAgainstShape</string>
+</dict>
+</plist>

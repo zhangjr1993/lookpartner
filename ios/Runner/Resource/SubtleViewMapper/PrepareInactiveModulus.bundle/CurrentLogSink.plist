@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistByVariable</key>
+	<string>accessibleTransitionSkewy</string>
+	<key>descriptionChainMode</key>
+	<string>collectionMethodForce</string>
+	<key>entropyOperationType</key>
+	<string>iconIncludeValue</string>
+	<key>listviewThroughMemento</key>
+	<string>hardEffectForce</string>
+	<key>menuProcessAcceleration</key>
+	<string>transitionFlyweightTop</string>
+	<key>painterFunctionRight</key>
+	<string>lostServiceFrequency</string>
+	<key>presenterAsVariable</key>
+	<string>displayableMediaTransparency</string>
+	<key>serviceNearValue</key>
+	<string>backwardGestureTag</string>
+	<key>substantialInterfaceMode</key>
+	<string>adaptiveMissionBehavior</string>
+</dict>
+</plist>

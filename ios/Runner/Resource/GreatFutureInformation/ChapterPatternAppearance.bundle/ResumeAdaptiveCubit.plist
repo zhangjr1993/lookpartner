@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasPatternBehavior</key>
+	<string>backwardDropdownbuttonLocation</string>
+	<key>configurationDecoratorOrigin</key>
+	<string>materialSingletonMode</string>
+	<key>directlyLabelTail</key>
+	<string>equalizationNearCommand</string>
+	<key>opaqueTransitionPosition</key>
+	<string>boxshadowAtCycle</string>
+	<key>positionBeyondStage</key>
+	<string>oldStoreShade</string>
+	<key>scrollableUtilDelay</key>
+	<string>activeListviewPadding</string>
+</dict>
+</plist>

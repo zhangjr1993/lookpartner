@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBridgeDirection</key>
+	<string>resilientCompletionHue</string>
+	<key>completerCompositeTransparency</key>
+	<string>positionedPlatformMode</string>
+	<key>exceptionLikeFramework</key>
+	<string>tabviewOperationVelocity</string>
+	<key>presenterCycleSaturation</key>
+	<string>granularProviderAppearance</string>
+	<key>sliderAndTemple</key>
+	<string>movementInsideKind</string>
+</dict>
+</plist>

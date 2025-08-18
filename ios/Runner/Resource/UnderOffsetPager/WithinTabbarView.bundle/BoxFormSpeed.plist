@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAwayStrategy</key>
+	<string>singleSegmentSize</string>
+	<key>masterWithCycle</key>
+	<string>cupertinoStrategyLocation</string>
+	<key>semanticEntityShape</key>
+	<string>radioAboutStyle</string>
+	<key>sineVisitorSaturation</key>
+	<string>getxActionRight</string>
+	<key>tappableNodeOffset</key>
+	<string>textCommandDuration</string>
+	<key>usedEquipmentState</key>
+	<string>sizedboxActivityRight</string>
+</dict>
+</plist>

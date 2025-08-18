@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSizeLocation</key>
+	<string>scaleNumberDistance</string>
+	<key>autoAnchorVelocity</key>
+	<string>mapOrSingleton</string>
+	<key>borderStrategyBehavior</key>
+	<string>subscriptionPlatformDelay</string>
+	<key>cardWithAdapter</key>
+	<string>hierarchicalConfigurationCenter</string>
+	<key>cartesianMaterialFrequency</key>
+	<string>smartFactoryInteraction</string>
+	<key>decorationBesideMemento</key>
+	<string>presenterFlyweightDirection</string>
+	<key>mobxThroughState</key>
+	<string>managerThroughAction</string>
+	<key>semanticsMementoTag</key>
+	<string>eventFromVisitor</string>
+	<key>usecaseLevelVisible</key>
+	<string>builderInsideMemento</string>
+</dict>
+</plist>

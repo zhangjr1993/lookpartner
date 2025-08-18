@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryObserverContrast</key>
+	<string>reducerVersusVisitor</string>
+	<key>animationInParam</key>
+	<string>sequentialOffsetShape</string>
+	<key>brushVersusCommand</key>
+	<string>managerWithSingleton</string>
+	<key>bufferAboutShape</key>
+	<string>grainProxyVisibility</string>
+	<key>errorShapeBehavior</key>
+	<string>robustDescriptionRate</string>
+	<key>resourceByLevel</key>
+	<string>scaleOutsideVariable</string>
+	<key>significantBoxSize</key>
+	<string>featureContextStatus</string>
+	<key>temporaryTextDuration</key>
+	<string>interpolationValueOrientation</string>
+</dict>
+</plist>

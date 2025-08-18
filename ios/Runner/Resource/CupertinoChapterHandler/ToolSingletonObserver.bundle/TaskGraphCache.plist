@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStageOffset</key>
+	<string>arithmeticThroughPhase</string>
+	<key>immutableSliderShade</key>
+	<string>activeSpineRate</string>
+	<key>spriteLikeShape</key>
+	<string>specifyRequestRotation</string>
+</dict>
+</plist>

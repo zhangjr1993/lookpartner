@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDespiteStrategy</key>
+	<string>completionOrPrototype</string>
+	<key>listviewStyleDepth</key>
+	<string>extensionInBridge</string>
+	<key>localizationShapeFlags</key>
+	<string>prismaticBitrateMargin</string>
+	<key>monsterThroughVariable</key>
+	<string>sortedRouterStatus</string>
+	<key>requestStructureRight</key>
+	<string>rowDuringStructure</string>
+	<key>uniformSubscriptionMargin</key>
+	<string>notifierDuringCycle</string>
+</dict>
+</plist>

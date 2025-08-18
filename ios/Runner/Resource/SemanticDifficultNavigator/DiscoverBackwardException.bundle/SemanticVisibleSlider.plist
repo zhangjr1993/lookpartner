@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGemDepth</key>
+	<string>baseEnvironmentSkewy</string>
+	<key>certificateModeName</key>
+	<string>reducerPatternAppearance</string>
+	<key>certificateThroughProxy</key>
+	<string>immediateProviderMode</string>
+	<key>checkboxStyleTheme</key>
+	<string>functionalHistogramSkewy</string>
+	<key>managerSinceNumber</key>
+	<string>scaffoldDecoratorRotation</string>
+	<key>multiplicationDuringBuffer</key>
+	<string>controllerAtStyle</string>
+	<key>offsetBufferColor</key>
+	<string>unactivatedTouchVisibility</string>
+	<key>projectModeInterval</key>
+	<string>kernelBufferShade</string>
+	<key>textureFrameworkStyle</key>
+	<string>modalLayerBehavior</string>
+</dict>
+</plist>

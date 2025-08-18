@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMethodOrigin</key>
+	<string>previewTypeValidation</string>
+	<key>loopWithoutSingleton</key>
+	<string>litePopupBrightness</string>
+	<key>materialNibPosition</key>
+	<string>permanentTweenOpacity</string>
+	<key>memberAndForm</key>
+	<string>descriptionAlongSingleton</string>
+	<key>petAgainstState</key>
+	<string>marginScopeOpacity</string>
+</dict>
+</plist>

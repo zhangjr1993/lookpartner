@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStreamType</key>
+	<string>disabledSceneVelocity</string>
+	<key>alertStyleResponse</key>
+	<string>columnPhaseSaturation</string>
+	<key>mapMethodSize</key>
+	<string>presenterOrInterpreter</string>
+	<key>nextChannelVelocity</key>
+	<string>axisVersusBuffer</string>
+	<key>optionParamInterval</key>
+	<string>baselineActivityVisible</string>
+	<key>playbackVersusSingleton</key>
+	<string>compositionStageTension</string>
+	<key>riverpodObserverAcceleration</key>
+	<string>taskExceptOperation</string>
+	<key>skirtAdapterValidation</key>
+	<string>liteIntegerMomentum</string>
+	<key>typicalVariantRight</key>
+	<string>firstSpineSaturation</string>
+</dict>
+</plist>

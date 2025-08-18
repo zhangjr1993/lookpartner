@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSinceJob</key>
+	<string>chartSingletonOrientation</string>
+	<key>dependencyLayerStatus</key>
+	<string>observerVisitorInteraction</string>
+	<key>layoutWithType</key>
+	<string>storyboardLevelFlags</string>
+	<key>pointDuringDecorator</key>
+	<string>allocatorExceptChain</string>
+	<key>sizeBeyondCycle</key>
+	<string>transitionLevelState</string>
+	<key>specifyBitrateForce</key>
+	<string>viewPerContext</string>
+	<key>subtleGraphSpacing</key>
+	<string>hierarchicalToolSaturation</string>
+</dict>
+</plist>

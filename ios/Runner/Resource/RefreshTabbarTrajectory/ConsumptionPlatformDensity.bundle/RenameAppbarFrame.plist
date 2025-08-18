@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMethodDelay</key>
+	<string>projectionJobTransparency</string>
+	<key>matrixStyleLeft</key>
+	<string>rectAsBuffer</string>
+	<key>singleCallbackBorder</key>
+	<string>globalLoopAppearance</string>
+	<key>widgetScopeTint</key>
+	<string>descriptionTaskTint</string>
+</dict>
+</plist>

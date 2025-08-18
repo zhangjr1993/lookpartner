@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialEqualizationBorder</key>
+	<string>rapidResultState</string>
+	<key>resizableButtonDirection</key>
+	<string>curvePlatformTint</string>
+	<key>streamFrameworkStatus</key>
+	<string>spriteAgainstMemento</string>
+	<key>timerNumberTag</key>
+	<string>gestureTempleTint</string>
+	<key>toolTaskShape</key>
+	<string>popupObserverPosition</string>
+</dict>
+</plist>

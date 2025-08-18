@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardScopeTail</key>
+	<string>delegateFromComposite</string>
+	<key>cursorVarInteraction</key>
+	<string>shaderVisitorDelay</string>
+	<key>grainActionOffset</key>
+	<string>precisionByVisitor</string>
+	<key>isolatePlatformInteraction</key>
+	<string>imageCycleIndex</string>
+	<key>protocolExceptWork</key>
+	<string>sceneForCommand</string>
+	<key>publicParticleIndex</key>
+	<string>disparateCheckboxOrientation</string>
+	<key>roleAtNumber</key>
+	<string>stackBufferCenter</string>
+</dict>
+</plist>

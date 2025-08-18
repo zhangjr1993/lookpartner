@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModalInset</key>
+	<string>swiftInBridge</string>
+	<key>discardedControllerFeedback</key>
+	<string>curveFrameworkBorder</string>
+	<key>normalParticleTheme</key>
+	<string>sizeVersusForm</string>
+	<key>serviceOfInterpreter</key>
+	<string>localContainerFeedback</string>
+	<key>storyboardBridgeCoord</key>
+	<string>cupertinoAsFlyweight</string>
+</dict>
+</plist>

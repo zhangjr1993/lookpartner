@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDurationCoord</key>
+	<string>desktopPlaybackKind</string>
+	<key>blocDuringSystem</key>
+	<string>activityWorkRotation</string>
+	<key>mainLayoutTop</key>
+	<string>spinePhaseOrientation</string>
+	<key>pointInterpreterValidation</key>
+	<string>collectionKindStatus</string>
+	<key>sensorShapeVisibility</key>
+	<string>persistentAnimatedcontainerResponse</string>
+	<key>sessionActionMomentum</key>
+	<string>behaviorMethodTop</string>
+	<key>textPerLayer</key>
+	<string>concurrentCubitOpacity</string>
+	<key>utilTierBound</key>
+	<string>durationForStage</string>
+</dict>
+</plist>

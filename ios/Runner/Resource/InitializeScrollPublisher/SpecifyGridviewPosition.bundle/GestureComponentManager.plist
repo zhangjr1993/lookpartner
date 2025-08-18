@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetProxyState</key>
+	<string>modelModePadding</string>
+	<key>buttonBufferCenter</key>
+	<string>buttonUntilStyle</string>
+	<key>constGiftDensity</key>
+	<string>discardedCurveVisible</string>
+	<key>intuitiveSkinSaturation</key>
+	<string>greatScaffoldOpacity</string>
+	<key>secondPresenterCount</key>
+	<string>sliderBufferBehavior</string>
+	<key>sequentialUtilDensity</key>
+	<string>missionScopeForce</string>
+	<key>sharedApertureHead</key>
+	<string>explicitPreviewRotation</string>
+	<key>stepTierOpacity</key>
+	<string>tabbarChainTension</string>
+	<key>viewBridgeForce</key>
+	<string>equalizationValueInterval</string>
+</dict>
+</plist>

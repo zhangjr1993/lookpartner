@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTaskShape</key>
+	<string>declarativeFuturePosition</string>
+	<key>flexAndContext</key>
+	<string>movementSinceProcess</string>
+	<key>gesturedetectorSinceScope</key>
+	<string>secondManagerShade</string>
+	<key>immediateTitleFeedback</key>
+	<string>mediaPerStyle</string>
+	<key>mediaqueryAtMode</key>
+	<string>sliderNearPhase</string>
+	<key>rectStyleDistance</key>
+	<string>ephemeralGemShape</string>
+	<key>routeStrategyOrigin</key>
+	<string>errorFlyweightShade</string>
+	<key>singletonDecoratorBorder</key>
+	<string>allocatorBridgeBrightness</string>
+	<key>tweenScopeVelocity</key>
+	<string>timerOutsideMediator</string>
+</dict>
+</plist>

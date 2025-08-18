@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChapterDelay</key>
+	<string>progressbarByCommand</string>
+	<key>eventForComposite</key>
+	<string>interactorOperationAppearance</string>
+	<key>groupFromParameter</key>
+	<string>dimensionPerOperation</string>
+	<key>heroVariableFormat</key>
+	<string>widgetStateHead</string>
+	<key>largeReductionContrast</key>
+	<string>reductionAgainstMode</string>
+	<key>methodKindInterval</key>
+	<string>modalAboutMode</string>
+	<key>modalInParameter</key>
+	<string>textInterpreterDelay</string>
+	<key>positionFacadeDirection</key>
+	<string>unaryIncludeNumber</string>
+	<key>rectBridgeShape</key>
+	<string>requiredNotifierTail</string>
+	<key>resultPlatformIndex</key>
+	<string>factoryVisitorHead</string>
+</dict>
+</plist>

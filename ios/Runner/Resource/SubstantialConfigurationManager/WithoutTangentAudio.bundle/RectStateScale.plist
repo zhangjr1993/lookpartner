@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisTypeDepth</key>
+	<string>baselineStageSkewx</string>
+	<key>baseActivityRate</key>
+	<string>sensorActivityAcceleration</string>
+	<key>delegateFormRate</key>
+	<string>functionalVectorRate</string>
+	<key>dependencyPerMethod</key>
+	<string>intensityAlongPrototype</string>
+	<key>listviewFromProcess</key>
+	<string>resourceAtValue</string>
+	<key>queryStatePressure</key>
+	<string>pinchableZoneFlags</string>
+	<key>resourceInFlyweight</key>
+	<string>immutableIsolateFlags</string>
+	<key>routerEnvironmentTint</key>
+	<string>chapterSincePattern</string>
+</dict>
+</plist>

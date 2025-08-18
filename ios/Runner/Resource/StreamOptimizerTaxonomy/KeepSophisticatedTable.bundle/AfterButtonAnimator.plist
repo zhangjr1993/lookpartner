@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAtTemple</key>
+	<string>channelAgainstObserver</string>
+	<key>durationBesideProxy</key>
+	<string>completionVariableSpeed</string>
+	<key>invisibleChapterOrigin</key>
+	<string>blocAtLevel</string>
+	<key>modulusValueScale</key>
+	<string>gridSystemOffset</string>
+	<key>nibBeyondMode</key>
+	<string>resilientEqualizationKind</string>
+	<key>persistentAlignmentRate</key>
+	<string>providerPerVariable</string>
+	<key>standaloneTimerVelocity</key>
+	<string>gradientFlyweightColor</string>
+	<key>symmetricDurationSaturation</key>
+	<string>adaptiveIconCoord</string>
+</dict>
+</plist>

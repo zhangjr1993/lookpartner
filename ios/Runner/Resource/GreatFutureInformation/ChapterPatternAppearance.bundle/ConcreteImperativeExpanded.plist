@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintKindRotation</key>
+	<string>labelViaKind</string>
+	<key>groupInsideInterpreter</key>
+	<string>observerPlatformRotation</string>
+	<key>kernelNumberTop</key>
+	<string>switchActionCenter</string>
+	<key>liteDecorationStyle</key>
+	<string>boxModeDelay</string>
+	<key>storeIncludeAction</key>
+	<string>accessoryDuringProcess</string>
+	<key>symbolTaskDepth</key>
+	<string>retainedMobileFrequency</string>
+</dict>
+</plist>

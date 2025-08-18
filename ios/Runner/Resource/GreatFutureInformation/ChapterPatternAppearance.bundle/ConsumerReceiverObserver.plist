@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelDuringOperation</key>
+	<string>animatedcontainerWithPhase</string>
+	<key>mobxSystemTag</key>
+	<string>masterTierVisibility</string>
+	<key>retainedPresenterDuration</key>
+	<string>relationalAwaitVisibility</string>
+	<key>similarImageVisible</key>
+	<string>descriptionAtVar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackLayerStatus</key>
+	<string>kernelExceptDecorator</string>
+	<key>cellAwayCycle</key>
+	<string>streamByBridge</string>
+	<key>drawerByStage</key>
+	<string>profileForVariable</string>
+	<key>popupWithoutJob</key>
+	<string>radioAgainstKind</string>
+	<key>repositoryStructureOffset</key>
+	<string>notifierMementoSpeed</string>
+	<key>subpixelValueBehavior</key>
+	<string>animatedcontainerOfProxy</string>
+	<key>substantialViewDistance</key>
+	<string>stateVariableVisible</string>
+</dict>
+</plist>

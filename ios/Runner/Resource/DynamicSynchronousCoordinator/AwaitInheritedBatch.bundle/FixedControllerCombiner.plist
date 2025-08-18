@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisActivityOpacity</key>
+	<string>draggableBlocPosition</string>
+	<key>fragmentContainProxy</key>
+	<string>sessionThroughBridge</string>
+	<key>iconOrProcess</key>
+	<string>asynchronousTopicFormat</string>
+	<key>permanentTaskDensity</key>
+	<string>singleReferenceCenter</string>
+	<key>precisionDuringCycle</key>
+	<string>responseActivityCoord</string>
+	<key>storeModeFeedback</key>
+	<string>chapterStrategySkewx</string>
+</dict>
+</plist>

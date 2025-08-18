@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterIncludeFacade</key>
+	<string>staticStreamResponse</string>
+	<key>multiWidgetResponse</key>
+	<string>resourceMediatorShape</string>
+	<key>nextViewTransparency</key>
+	<string>nibTempleDistance</string>
+	<key>rectVarPadding</key>
+	<string>queryAsTask</string>
+	<key>requestObserverDelay</key>
+	<string>radiusMediatorOpacity</string>
+	<key>resilientInteractorScale</key>
+	<string>utilMethodFrequency</string>
+	<key>sampleAroundContext</key>
+	<string>unaryInStage</string>
+</dict>
+</plist>

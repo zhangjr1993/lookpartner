@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForFramework</key>
+	<string>newestLossBound</string>
+	<key>instructionNearForm</key>
+	<string>discardedDecorationShape</string>
+	<key>mediaNearStage</key>
+	<string>ignoredIsolateShade</string>
+	<key>routeParamDelay</key>
+	<string>responsiveStepVisibility</string>
+	<key>skinInEnvironment</key>
+	<string>repositoryEnvironmentVisible</string>
+	<key>sliderStructureStyle</key>
+	<string>handlerTempleContrast</string>
+	<key>textureOperationStatus</key>
+	<string>sustainableOptionFrequency</string>
+</dict>
+</plist>

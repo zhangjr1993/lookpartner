@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDescriptionSpacing</key>
+	<string>errorWorkFeedback</string>
+	<key>completerShapeTop</key>
+	<string>positionedBesideFramework</string>
+	<key>decorationShapeMode</key>
+	<string>providerForVariable</string>
+	<key>symbolSinceStrategy</key>
+	<string>rowTempleCoord</string>
+	<key>vectorBySingleton</key>
+	<string>equipmentLikeAction</string>
+</dict>
+</plist>

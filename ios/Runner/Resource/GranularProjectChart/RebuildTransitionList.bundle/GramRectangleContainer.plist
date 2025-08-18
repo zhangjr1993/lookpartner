@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelLikeSingleton</key>
+	<string>intensitySinceType</string>
+	<key>observerEnvironmentDuration</key>
+	<string>sizeByAction</string>
+	<key>positionTaskSkewx</key>
+	<string>cubitVariableAcceleration</string>
+	<key>presenterPlatformShade</key>
+	<string>requestBridgeType</string>
+	<key>resultBesidePattern</key>
+	<string>statefulRowInset</string>
+	<key>streamMementoDirection</key>
+	<string>animatedcontainerCommandRate</string>
+	<key>variantActivityAlignment</key>
+	<string>reactiveConsumerShape</string>
+</dict>
+</plist>

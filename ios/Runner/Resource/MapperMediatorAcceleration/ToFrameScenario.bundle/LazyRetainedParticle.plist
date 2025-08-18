@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastRowShape</key>
+	<string>activityCycleRight</string>
+	<key>resolverAmongState</key>
+	<string>requiredColumnColor</string>
+	<key>serviceAtStructure</key>
+	<string>autoFeatureVisibility</string>
+	<key>stackByDecorator</key>
+	<string>cursorLayerAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserverStyle</key>
+	<string>permanentAlignmentVisibility</string>
+	<key>dynamicSessionTint</key>
+	<string>isolateIncludeParameter</string>
+	<key>heroParamCenter</key>
+	<string>projectWorkPosition</string>
+	<key>progressbarPrototypeBrightness</key>
+	<string>largeProjectType</string>
+	<key>requestStageFormat</key>
+	<string>lostCertificateFlags</string>
+	<key>secondBrushAppearance</key>
+	<string>composableSingletonDepth</string>
+</dict>
+</plist>

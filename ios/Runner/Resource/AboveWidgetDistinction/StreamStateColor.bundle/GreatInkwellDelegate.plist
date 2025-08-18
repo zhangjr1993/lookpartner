@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeMediatorMode</key>
+	<string>boxshadowForLayer</string>
+	<key>exceptionFrameworkOffset</key>
+	<string>cupertinoCommandBehavior</string>
+	<key>explicitLossOffset</key>
+	<string>displayableSinkOffset</string>
+	<key>globalSkirtAppearance</key>
+	<string>appbarScopeIndex</string>
+	<key>nextTextValidation</key>
+	<string>musicOrPhase</string>
+	<key>respectiveStatefulMode</key>
+	<string>resourceActionTop</string>
+	<key>sliderOrFramework</key>
+	<string>projectionPatternAppearance</string>
+</dict>
+</plist>

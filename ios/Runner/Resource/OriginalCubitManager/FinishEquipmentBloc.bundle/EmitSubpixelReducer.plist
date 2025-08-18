@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusBehavior</key>
+	<string>subtleZoneForce</string>
+	<key>assetOutsideProxy</key>
+	<string>graphInBridge</string>
+	<key>controllerByMemento</key>
+	<string>arithmeticChartFormat</string>
+	<key>equipmentCommandTension</key>
+	<string>binarySystemFlags</string>
+	<key>flexibleCompleterTint</key>
+	<string>futureLayerRotation</string>
+	<key>layerPlatformMargin</key>
+	<string>precisionPatternSkewy</string>
+	<key>menuBesideEnvironment</key>
+	<string>currentOverlayBehavior</string>
+	<key>queueThroughFlyweight</key>
+	<string>musicNearPlatform</string>
+	<key>referenceVisitorScale</key>
+	<string>dynamicSymbolInset</string>
+</dict>
+</plist>

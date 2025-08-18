@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludePattern</key>
+	<string>gradientContextInset</string>
+	<key>asyncScopeCoord</key>
+	<string>paddingPrototypeTop</string>
+	<key>buttonCycleSkewy</key>
+	<string>queueViaFramework</string>
+	<key>effectLikeVisitor</key>
+	<string>singletonObserverForce</string>
+	<key>largeStreamPressure</key>
+	<string>opaqueBlocResponse</string>
+	<key>masterFrameworkMargin</key>
+	<string>storageEnvironmentFlags</string>
+	<key>slashViaSingleton</key>
+	<string>providerByKind</string>
+	<key>usecaseByForm</key>
+	<string>dependencyStructureBound</string>
+</dict>
+</plist>

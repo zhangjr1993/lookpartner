@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayoutTransparency</key>
+	<string>presenterContextRight</string>
+	<key>asyncSpriteContrast</key>
+	<string>specifierStrategyAcceleration</string>
+	<key>batchObserverTransparency</key>
+	<string>uniquePageviewInterval</string>
+	<key>granularRowColor</key>
+	<string>immutableProfileInterval</string>
+	<key>groupInterpreterMargin</key>
+	<string>captionOutsideMediator</string>
+	<key>immediateCubitAcceleration</key>
+	<string>gemAlongStage</string>
+	<key>statelessInterpreterVisible</key>
+	<string>durationActivityOpacity</string>
+	<key>widgetProxyCount</key>
+	<string>layerAboutPlatform</string>
+</dict>
+</plist>

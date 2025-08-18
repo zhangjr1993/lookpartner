@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithoutComposite</key>
+	<string>animationStageTransparency</string>
+	<key>deferredAssetDirection</key>
+	<string>providerAsProcess</string>
+	<key>directTextVisible</key>
+	<string>reactiveAxisInteraction</string>
+	<key>flexWithoutType</key>
+	<string>animationFlyweightAppearance</string>
+	<key>usecaseDuringFramework</key>
+	<string>cartesianPreviewVisibility</string>
+</dict>
+</plist>

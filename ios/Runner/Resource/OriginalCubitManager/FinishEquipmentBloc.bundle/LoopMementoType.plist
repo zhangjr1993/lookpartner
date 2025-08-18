@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletProxyDelay</key>
+	<string>displayableBoxHue</string>
+	<key>directDelegateBehavior</key>
+	<string>persistentCardSaturation</string>
+	<key>greatBuilderShade</key>
+	<string>difficultSkinTransparency</string>
+	<key>navigationStructureDistance</key>
+	<string>accordionFragmentOpacity</string>
+	<key>sinkAdapterTheme</key>
+	<string>checklistActivityStatus</string>
+</dict>
+</plist>

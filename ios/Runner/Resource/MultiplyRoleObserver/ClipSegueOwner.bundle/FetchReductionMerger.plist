@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryJobOffset</key>
+	<string>reusableBehaviorBound</string>
+	<key>loopIncludeVar</key>
+	<string>advancedSkinStatus</string>
+	<key>multiMobxAcceleration</key>
+	<string>displayablePreviewAppearance</string>
+	<key>progressbarJobDirection</key>
+	<string>requestAsPlatform</string>
+	<key>radioPerEnvironment</key>
+	<string>lostStoreIndex</string>
+	<key>reactiveSensorMargin</key>
+	<string>serviceTaskSpacing</string>
+	<key>symbolPrototypeBrightness</key>
+	<string>consultativeCubeShade</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlongScope</key>
+	<string>zoneStageInteraction</string>
+	<key>displayableMethodBehavior</key>
+	<string>builderNumberOffset</string>
+	<key>inactiveWidgetDepth</key>
+	<string>plateScopeStyle</string>
+</dict>
+</plist>

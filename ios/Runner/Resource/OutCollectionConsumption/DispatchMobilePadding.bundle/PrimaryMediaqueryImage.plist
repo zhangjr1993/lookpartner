@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteractorRotation</key>
+	<string>streamJobContrast</string>
+	<key>hierarchicalTabbarDelay</key>
+	<string>modulusUntilScope</string>
+	<key>independentBlocTop</key>
+	<string>providerPlatformStyle</string>
+	<key>intuitiveCoordinatorOrientation</key>
+	<string>spritePhaseValidation</string>
+	<key>mainSpriteContrast</key>
+	<string>sliderCommandVisibility</string>
+	<key>remainderAtPrototype</key>
+	<string>mapExceptValue</string>
+	<key>routeChainVisible</key>
+	<string>spotAmongNumber</string>
+	<key>sizeMementoTint</key>
+	<string>cubitPhaseDistance</string>
+</dict>
+</plist>

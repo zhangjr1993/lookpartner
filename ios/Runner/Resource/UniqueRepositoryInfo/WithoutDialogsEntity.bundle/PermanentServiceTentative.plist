@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSinceState</key>
+	<string>bitrateNearMemento</string>
+	<key>isolateKindState</key>
+	<string>largeNodeOpacity</string>
+	<key>queryLikeMode</key>
+	<string>mediaqueryAroundFacade</string>
+	<key>richtextFlyweightDepth</key>
+	<string>canvasShapeLeft</string>
+	<key>spriteAmongFramework</key>
+	<string>previewAmongProxy</string>
+</dict>
+</plist>

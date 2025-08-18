@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentOperationFeedback</key>
+	<string>serviceMethodBehavior</string>
+	<key>methodAgainstPhase</key>
+	<string>autoObserverTail</string>
+	<key>paddingUntilChain</key>
+	<string>actionBeyondProxy</string>
+	<key>protectedAspectratioFlags</key>
+	<string>modalJobInset</string>
+	<key>radiusVarBorder</key>
+	<string>dependencyFromParameter</string>
+</dict>
+</plist>

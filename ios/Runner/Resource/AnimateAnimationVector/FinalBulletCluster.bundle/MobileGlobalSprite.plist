@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatDependencyFeedback</key>
+	<string>storeTypeShape</string>
+	<key>interfaceInsideBridge</key>
+	<string>utilFunctionStyle</string>
+	<key>projectVisitorShape</key>
+	<string>vectorInsideChain</string>
+	<key>titleAmongMode</key>
+	<string>chartAdapterTint</string>
+</dict>
+</plist>

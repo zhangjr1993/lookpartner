@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedTransitionFrequency</key>
+	<string>euclideanFragmentRotation</string>
+	<key>frameAsAction</key>
+	<string>explicitVectorRight</string>
+	<key>gestureMethodAppearance</key>
+	<string>listenerChainVisibility</string>
+	<key>graphVisitorRate</key>
+	<string>topicProcessColor</string>
+	<key>mapInFramework</key>
+	<string>displayableSwiftBehavior</string>
+	<key>progressbarSinceCommand</key>
+	<string>autoStateOffset</string>
+	<key>threadVersusAction</key>
+	<string>greatInteractorMomentum</string>
+</dict>
+</plist>

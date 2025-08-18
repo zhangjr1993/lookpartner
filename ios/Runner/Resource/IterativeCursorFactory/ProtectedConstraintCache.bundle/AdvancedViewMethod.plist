@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConfigurationSpeed</key>
+	<string>viewOperationOrientation</string>
+	<key>inkwellByActivity</key>
+	<string>constraintSingletonAcceleration</string>
+	<key>methodByJob</key>
+	<string>imperativeMobileStatus</string>
+	<key>navigationLayerMargin</key>
+	<string>rowLikeScope</string>
+	<key>radiusTaskOrientation</key>
+	<string>mediumLocalizationDuration</string>
+	<key>richtextInterpreterSpeed</key>
+	<string>parallelSampleSkewx</string>
+</dict>
+</plist>

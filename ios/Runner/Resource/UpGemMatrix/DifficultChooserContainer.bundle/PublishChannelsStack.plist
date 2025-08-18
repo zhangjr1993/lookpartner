@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEntropyMode</key>
+	<string>storePatternShape</string>
+	<key>channelLevelVisible</key>
+	<string>responseStyleSize</string>
+	<key>enabledEffectAcceleration</key>
+	<string>persistentTextfieldSkewy</string>
+	<key>entropyModeTheme</key>
+	<string>routerVariableSpacing</string>
+	<key>navigationVariableTop</key>
+	<string>remainderOutsideVariable</string>
+	<key>navigatorAboutComposite</key>
+	<string>denseEqualizationDuration</string>
+	<key>reactiveExceptionResponse</key>
+	<string>subsequentGrainOrientation</string>
+	<key>storeBufferSpeed</key>
+	<string>scaleAdapterStyle</string>
+</dict>
+</plist>

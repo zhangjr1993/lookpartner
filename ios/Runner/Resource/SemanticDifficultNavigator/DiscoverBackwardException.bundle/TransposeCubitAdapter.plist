@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideStructure</key>
+	<string>entityForCycle</string>
+	<key>baselineAgainstForm</key>
+	<string>cursorPhasePadding</string>
+	<key>blocSingletonRate</key>
+	<string>publicSpecifierVisible</string>
+	<key>commandInJob</key>
+	<string>nextEventTop</string>
+	<key>completerAmongSingleton</key>
+	<string>catalystMethodSkewy</string>
+	<key>inkwellWithoutAdapter</key>
+	<string>exceptionOutsideComposite</string>
+	<key>interactiveQueuePosition</key>
+	<string>specifyPageviewStyle</string>
+	<key>operationSystemVisibility</key>
+	<string>particleTypePadding</string>
+	<key>previewParamMargin</key>
+	<string>logJobState</string>
+	<key>synchronousToolRate</key>
+	<string>hyperbolicCubitOrientation</string>
+</dict>
+</plist>

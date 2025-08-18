@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandInMode</key>
+	<string>layoutKindAcceleration</string>
+	<key>globalCoordinatorTag</key>
+	<string>reductionProcessInset</string>
+	<key>overlayStateDirection</key>
+	<string>robustPointFormat</string>
+	<key>sinkStrategyAlignment</key>
+	<string>checkboxSinceParam</string>
+	<key>typicalSignOrientation</key>
+	<string>scrollPhaseStatus</string>
+	<key>variantForProxy</key>
+	<string>subsequentReductionDelay</string>
+</dict>
+</plist>

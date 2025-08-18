@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyTierSaturation</key>
+	<string>builderAgainstCycle</string>
+	<key>descriptionDecoratorTail</key>
+	<string>completerTypeOrientation</string>
+	<key>nodeWithoutForm</key>
+	<string>compositionalLabelOffset</string>
+	<key>persistentConstraintScale</key>
+	<string>spineByComposite</string>
+	<key>projectionWithoutDecorator</key>
+	<string>previewAgainstMemento</string>
+	<key>queueVisitorPadding</key>
+	<string>builderStyleTint</string>
+	<key>smallAnimationDelay</key>
+	<string>associatedDecorationFormat</string>
+</dict>
+</plist>

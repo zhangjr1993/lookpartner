@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformerScale</key>
+	<string>agileMissionDistance</string>
+	<key>heapMementoTheme</key>
+	<string>appbarBeyondValue</string>
+	<key>invisibleProviderDensity</key>
+	<string>intuitiveConsumerDelay</string>
+	<key>memberActivityMomentum</key>
+	<string>gradientAlongCommand</string>
+	<key>responsiveSampleTransparency</key>
+	<string>localPresenterState</string>
+	<key>scrollWithoutMode</key>
+	<string>standaloneMarginMomentum</string>
+</dict>
+</plist>

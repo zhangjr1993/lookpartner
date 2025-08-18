@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAndComposite</key>
+	<string>hierarchicalPrecisionFeedback</string>
+	<key>aspectratioInterpreterRight</key>
+	<string>lazyGetxBrightness</string>
+	<key>cubitFromBridge</key>
+	<string>sinkOfChain</string>
+	<key>graphFacadeRight</key>
+	<string>rowByMode</string>
+	<key>groupActivityDirection</key>
+	<string>routerVisitorBorder</string>
+	<key>providerWorkBottom</key>
+	<string>routerViaEnvironment</string>
+	<key>sampleEnvironmentVelocity</key>
+	<string>menuScopeVisibility</string>
+	<key>subsequentMetadataDepth</key>
+	<string>commandInTask</string>
+	<key>symbolDespiteState</key>
+	<string>subpixelAboutEnvironment</string>
+</dict>
+</plist>

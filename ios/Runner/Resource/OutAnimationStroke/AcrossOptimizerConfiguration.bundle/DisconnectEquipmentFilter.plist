@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationNearTask</key>
+	<string>transitionTierSpacing</string>
+	<key>cellObserverBorder</key>
+	<string>behaviorBesideNumber</string>
+	<key>intermediateSpotSaturation</key>
+	<string>contractionLikeTask</string>
+	<key>localizationSingletonHead</key>
+	<string>descriptionFromParam</string>
+	<key>menuFunctionDelay</key>
+	<string>cosinePerLevel</string>
+	<key>sliderValueVelocity</key>
+	<string>dimensionInChain</string>
+</dict>
+</plist>

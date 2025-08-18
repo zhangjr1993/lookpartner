@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitProfileHue</key>
+	<string>iconTypeSaturation</string>
+	<key>explicitSegmentVelocity</key>
+	<string>sizedboxPhaseEdge</string>
+	<key>flexTypeCoord</key>
+	<string>fusedPageviewFormat</string>
+	<key>liteProgressbarBrightness</key>
+	<string>integerAboutPattern</string>
+	<key>matrixJobMode</key>
+	<string>declarativeVectorIndex</string>
+	<key>missedTaskInterval</key>
+	<string>webObserverType</string>
+	<key>mobileWithoutCommand</key>
+	<string>grainDecoratorColor</string>
+	<key>observerProcessBound</key>
+	<string>widgetUntilObserver</string>
+	<key>serviceWithoutPhase</key>
+	<string>permanentNavigatorFrequency</string>
+	<key>skinAwayType</key>
+	<string>sineThroughNumber</string>
+</dict>
+</plist>

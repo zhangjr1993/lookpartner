@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSpriteTag</key>
+	<string>asyncQueryTag</string>
+	<key>compositionMementoMode</key>
+	<string>mainInteractorLocation</string>
+	<key>delegateViaContext</key>
+	<string>usedConvolutionContrast</string>
+	<key>numericalConstraintCount</key>
+	<string>drawerOrPlatform</string>
+	<key>popupStrategyVisibility</key>
+	<string>channelsDespiteStrategy</string>
+	<key>tappableBorderRate</key>
+	<string>intensityStageLocation</string>
+	<key>transformerCycleTail</key>
+	<string>spineAwayMethod</string>
+</dict>
+</plist>

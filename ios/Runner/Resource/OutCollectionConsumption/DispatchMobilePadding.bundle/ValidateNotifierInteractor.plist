@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFrameworkContrast</key>
+	<string>normalHistogramSpacing</string>
+	<key>eagerTopicRotation</key>
+	<string>painterAgainstInterpreter</string>
+	<key>presenterProcessAppearance</key>
+	<string>vectorAsStage</string>
+	<key>resourceActivityBrightness</key>
+	<string>rectPerPrototype</string>
+	<key>rowFunctionScale</key>
+	<string>menuSincePhase</string>
+	<key>sortedReducerTransparency</key>
+	<string>positionedStylePressure</string>
+	<key>stepMethodHue</key>
+	<string>instructionContextBorder</string>
+</dict>
+</plist>

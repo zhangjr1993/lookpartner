@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityViaEnvironment</key>
+	<string>tappableRoleTag</string>
+	<key>inkwellStageBehavior</key>
+	<string>usageViaAction</string>
+	<key>nativeContractionRight</key>
+	<string>textfieldCompositeOffset</string>
+	<key>prismaticGemInteraction</key>
+	<string>observerPerMemento</string>
+	<key>sliderPatternTop</key>
+	<string>entropyCycleHue</string>
+	<key>topicByComposite</key>
+	<string>blocAmongMethod</string>
+</dict>
+</plist>

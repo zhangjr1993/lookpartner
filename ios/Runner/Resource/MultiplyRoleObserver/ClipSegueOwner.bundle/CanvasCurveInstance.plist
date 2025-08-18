@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCoordinatorFrequency</key>
+	<string>invisibleLogarithmDirection</string>
+	<key>cupertinoAgainstShape</key>
+	<string>mediocrePointOffset</string>
+	<key>directContainerFormat</key>
+	<string>layoutWithoutBridge</string>
+	<key>gesturedetectorSystemTheme</key>
+	<string>completerFromCommand</string>
+	<key>timerExceptFramework</key>
+	<string>methodAroundInterpreter</string>
+</dict>
+</plist>

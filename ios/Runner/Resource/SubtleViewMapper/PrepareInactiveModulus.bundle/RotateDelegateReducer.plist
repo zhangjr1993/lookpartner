@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOutsideAction</key>
+	<string>easySwitchIndex</string>
+	<key>buttonStateContrast</key>
+	<string>controllerBeyondCycle</string>
+	<key>discardedSineVisible</key>
+	<string>listviewUntilActivity</string>
+	<key>gateActionType</key>
+	<string>invisiblePresenterSkewx</string>
+	<key>mediaqueryLayerRate</key>
+	<string>expandedDespiteSystem</string>
+	<key>modelBeyondComposite</key>
+	<string>flexibleGramTransparency</string>
+	<key>observerThroughEnvironment</key>
+	<string>indicatorBeyondValue</string>
+	<key>sensorAwayPlatform</key>
+	<string>persistentSingletonMargin</string>
+	<key>sineBeyondPattern</key>
+	<string>apertureDespiteParam</string>
+	<key>sizedboxDecoratorResponse</key>
+	<string>textValueDistance</string>
+</dict>
+</plist>

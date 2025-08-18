@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByBridge</key>
+	<string>cycleForForm</string>
+	<key>columnAndComposite</key>
+	<string>sortedDescriptorBrightness</string>
+	<key>dynamicContractionState</key>
+	<string>textOrSingleton</string>
+	<key>listenerSingletonDepth</key>
+	<string>nibOutsideType</string>
+	<key>transitionAdapterAppearance</key>
+	<string>materialOverlayMargin</string>
+</dict>
+</plist>

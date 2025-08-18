@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisWithLayer</key>
+	<string>mutableChapterBrightness</string>
+	<key>beginnerReductionInterval</key>
+	<string>factoryOutsideBuffer</string>
+	<key>coordinatorPrototypeKind</key>
+	<string>presenterPrototypeFlags</string>
+	<key>exponentVariableContrast</key>
+	<string>inkwellOfVariable</string>
+	<key>gridPerBuffer</key>
+	<string>collectionInNumber</string>
+	<key>presenterContextSkewx</key>
+	<string>concreteAspectCount</string>
+</dict>
+</plist>

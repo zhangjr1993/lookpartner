@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellNumberTop</key>
+	<string>petPerForm</string>
+	<key>cubitCycleHead</key>
+	<string>immediateEffectHead</string>
+	<key>interactorChainInset</key>
+	<string>drawerLevelPressure</string>
+	<key>labelExceptMode</key>
+	<string>memberVersusBridge</string>
+	<key>themeProxyAppearance</key>
+	<string>fixedBinarySaturation</string>
+	<key>unsortedHeapAppearance</key>
+	<string>flexParameterDistance</string>
+</dict>
+</plist>

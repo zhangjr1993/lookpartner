@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchViaSingleton</key>
+	<string>handlerFlyweightRate</string>
+	<key>dependencyThanFramework</key>
+	<string>labelScopeRate</string>
+	<key>explicitReferenceRight</key>
+	<string>storageActivityTag</string>
+	<key>nativeMobileAlignment</key>
+	<string>nibAsWork</string>
+	<key>serviceBeyondCycle</key>
+	<string>flexThroughFacade</string>
+	<key>staticPreviewValidation</key>
+	<string>criticalRiverpodRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPhaseFrequency</key>
+	<string>hardEquipmentHue</string>
+	<key>masterTaskSize</key>
+	<string>particleLikeBridge</string>
+	<key>reducerModeContrast</key>
+	<string>taskStrategyBottom</string>
+	<key>taskObserverBottom</key>
+	<string>paddingPatternName</string>
+</dict>
+</plist>

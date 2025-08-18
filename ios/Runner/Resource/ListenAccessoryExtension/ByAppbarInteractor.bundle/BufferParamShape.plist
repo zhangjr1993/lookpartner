@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseNumberBorder</key>
+	<string>indicatorOfSystem</string>
+	<key>callbackStrategyFeedback</key>
+	<string>sliderMethodFormat</string>
+	<key>easyTaskScale</key>
+	<string>criticalEventSpacing</string>
+	<key>interactiveCursorTheme</key>
+	<string>accessibleServiceOrigin</string>
+	<key>liteDurationStatus</key>
+	<string>storyboardByChain</string>
+	<key>richtextStageFlags</key>
+	<string>grainDuringValue</string>
+	<key>sampleShapeTail</key>
+	<string>criticalCallbackDepth</string>
+</dict>
+</plist>

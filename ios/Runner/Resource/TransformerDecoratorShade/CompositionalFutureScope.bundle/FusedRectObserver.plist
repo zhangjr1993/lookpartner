@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateLevelScale</key>
+	<string>normalLabelInteraction</string>
+	<key>euclideanChartTint</key>
+	<string>labelMethodShape</string>
+	<key>gridLayerOffset</key>
+	<string>nativeDependencyHue</string>
+	<key>gridProxyTail</key>
+	<string>integerBufferEdge</string>
+	<key>memberWithoutJob</key>
+	<string>buttonBeyondBuffer</string>
+	<key>nodeProxyPadding</key>
+	<string>ternaryFromForm</string>
+	<key>precisionContainCycle</key>
+	<string>labelCycleSize</string>
+	<key>resolverExceptFramework</key>
+	<string>asynchronousWorkflowIndex</string>
+	<key>reusableInjectionBehavior</key>
+	<string>histogramVariableFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationExceptPlatform</key>
+	<string>singletonPerInterpreter</string>
+	<key>labelLikeFacade</key>
+	<string>mobileUntilInterpreter</string>
+	<key>lostTweenFeedback</key>
+	<string>exponentShapeIndex</string>
+	<key>profileCycleSaturation</key>
+	<string>easyBuilderOpacity</string>
+	<key>remainderObserverPosition</key>
+	<string>particleTierSkewx</string>
+	<key>scrollableProgressbarFeedback</key>
+	<string>gridInPattern</string>
+	<key>smartAssetVisible</key>
+	<string>gridActivityLocation</string>
+	<key>subscriptionOperationSkewx</key>
+	<string>visibleViewRotation</string>
+</dict>
+</plist>

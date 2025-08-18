@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightVelocity</key>
+	<string>actionObserverHue</string>
+	<key>chartActivityInset</key>
+	<string>newestMovementDelay</string>
+	<key>compositionOfFramework</key>
+	<string>sliderBufferValidation</string>
+	<key>musicByDecorator</key>
+	<string>canvasSingletonFeedback</string>
+	<key>painterSystemIndex</key>
+	<string>statefulInteractorSaturation</string>
+	<key>parallelSignatureScale</key>
+	<string>drawerPhaseDirection</string>
+	<key>rapidBlocSaturation</key>
+	<string>relationalSwitchVelocity</string>
+	<key>zoneCycleSaturation</key>
+	<string>grainVariableEdge</string>
+</dict>
+</plist>

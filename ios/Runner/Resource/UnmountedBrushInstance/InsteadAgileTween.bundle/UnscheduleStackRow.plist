@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionVisitorOffset</key>
+	<string>previewExceptMethod</string>
+	<key>effectUntilStage</key>
+	<string>asyncScrollMode</string>
+	<key>fixedBatchKind</key>
+	<string>kernelSystemOrientation</string>
+	<key>flexibleEntityBound</key>
+	<string>animatedWidgetBehavior</string>
+	<key>hyperbolicLogMomentum</key>
+	<string>accessoryVersusTier</string>
+	<key>invisibleExceptionTension</key>
+	<string>gridviewStageAppearance</string>
+	<key>operationOutsideVar</key>
+	<string>timerPrototypeColor</string>
+	<key>responsiveCanvasBrightness</key>
+	<string>compositionalEntityVisible</string>
+	<key>signShapeBehavior</key>
+	<string>advancedSpotBehavior</string>
+</dict>
+</plist>

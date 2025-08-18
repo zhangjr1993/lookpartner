@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorForLayer</key>
+	<string>singleTitleResponse</string>
+	<key>gestureCycleOpacity</key>
+	<string>boxshadowThroughComposite</string>
+	<key>navigatorAgainstMethod</key>
+	<string>operationVisitorVisibility</string>
+	<key>nodeThanVar</key>
+	<string>widgetPerFlyweight</string>
+	<key>queueStateVelocity</key>
+	<string>fixedTouchType</string>
+	<key>routeNearForm</key>
+	<string>scrollableRepositoryCoord</string>
+	<key>semanticMovementMomentum</key>
+	<string>masterCycleDistance</string>
+	<key>singletonScopeMode</key>
+	<string>tabviewAmongEnvironment</string>
+	<key>sizeWithCommand</key>
+	<string>positionStateCenter</string>
+	<key>ternaryOutsidePhase</key>
+	<string>semanticsThroughAction</string>
+</dict>
+</plist>

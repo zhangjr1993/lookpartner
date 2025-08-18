@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionTierBorder</key>
+	<string>observerSingletonStatus</string>
+	<key>graphProcessBehavior</key>
+	<string>greatAwaitVisible</string>
+	<key>heroPhaseOrientation</key>
+	<string>progressbarThroughPhase</string>
+	<key>navigatorThroughContext</key>
+	<string>nibVarMomentum</string>
+	<key>profilePlatformDensity</key>
+	<string>specifyScreenScale</string>
+	<key>spotWorkState</key>
+	<string>cubitInterpreterKind</string>
+</dict>
+</plist>

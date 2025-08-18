@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityWithPattern</key>
+	<string>discardedNavigationScale</string>
+	<key>featureMementoStyle</key>
+	<string>activeResponseMargin</string>
+	<key>injectionScopeStatus</key>
+	<string>transitionWorkInset</string>
+	<key>layerFormCount</key>
+	<string>opaqueQueryLeft</string>
+	<key>pageviewStageInterval</key>
+	<string>boxshadowProcessDistance</string>
+	<key>permanentAllocatorForce</key>
+	<string>alertParamState</string>
+	<key>protocolVariablePadding</key>
+	<string>alignmentByProcess</string>
+	<key>resilientServiceMomentum</key>
+	<string>draggableReducerPosition</string>
+	<key>singleUsagePadding</key>
+	<string>nodePerValue</string>
+	<key>usecaseFacadeDirection</key>
+	<string>substantialQueryOpacity</string>
+</dict>
+</plist>

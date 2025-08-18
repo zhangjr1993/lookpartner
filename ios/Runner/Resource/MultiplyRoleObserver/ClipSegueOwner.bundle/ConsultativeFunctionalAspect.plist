@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionExceptValue</key>
+	<string>intuitiveDependencyType</string>
+	<key>dialogsWithStage</key>
+	<string>configurationSingletonAppearance</string>
+	<key>euclideanIndicatorLeft</key>
+	<string>contractionOutsideContext</string>
+	<key>factoryFlyweightTail</key>
+	<string>numericalBlocCount</string>
+	<key>hardMobileStyle</key>
+	<string>retainedNotifierMode</string>
+	<key>localBrushDepth</key>
+	<string>grayscaleIncludeContext</string>
+	<key>sharedBuilderOrigin</key>
+	<string>storyboardOperationMargin</string>
+	<key>synchronousOverlayStatus</key>
+	<string>borderCommandLeft</string>
+	<key>usageModeDepth</key>
+	<string>listenerStyleValidation</string>
+</dict>
+</plist>

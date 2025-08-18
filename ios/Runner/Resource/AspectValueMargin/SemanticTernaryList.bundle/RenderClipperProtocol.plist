@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionFunctionSkewy</key>
+	<string>sceneInMediator</string>
+	<key>framePrototypeOrientation</key>
+	<string>listviewAroundVisitor</string>
+	<key>listviewSinceStrategy</key>
+	<string>sustainableSwiftAcceleration</string>
+	<key>smartTabviewColor</key>
+	<string>cupertinoByDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableGradientHue</key>
+	<string>smartCoordinatorOrigin</string>
+	<key>elasticUtilSize</key>
+	<string>viewVersusNumber</string>
+	<key>hardTabviewSize</key>
+	<string>sharedBrushShape</string>
+	<key>lazyCubitShape</key>
+	<string>statefulTextfieldVisibility</string>
+	<key>masterAlongFacade</key>
+	<string>resolverAlongParam</string>
+	<key>navigatorBeyondProcess</key>
+	<string>positionedChainName</string>
+	<key>responsiveSubpixelDistance</key>
+	<string>alignmentFlyweightFlags</string>
+	<key>signatureStructurePressure</key>
+	<string>interactorAdapterStyle</string>
+	<key>stateFromOperation</key>
+	<string>lazyDocumentEdge</string>
+</dict>
+</plist>

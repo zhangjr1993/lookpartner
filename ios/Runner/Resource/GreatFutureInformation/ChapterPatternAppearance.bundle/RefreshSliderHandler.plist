@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTopicDistance</key>
+	<string>coordinatorAndActivity</string>
+	<key>animationFromCommand</key>
+	<string>storeCompositeColor</string>
+	<key>cacheAgainstMethod</key>
+	<string>activatedSkirtSpeed</string>
+	<key>dropdownbuttonBridgeMode</key>
+	<string>buttonMethodStatus</string>
+	<key>intensityValueScale</key>
+	<string>normDecoratorFlags</string>
+	<key>layoutAtOperation</key>
+	<string>cubeMethodRotation</string>
+	<key>unactivatedContainerRight</key>
+	<string>mediumPreviewStatus</string>
+</dict>
+</plist>

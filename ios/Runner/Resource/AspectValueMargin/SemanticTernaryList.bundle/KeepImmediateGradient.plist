@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureScopeMomentum</key>
+	<string>brushUntilCycle</string>
+	<key>hyperbolicSegueSkewy</key>
+	<string>autoOptimizerSkewy</string>
+	<key>listenerMementoEdge</key>
+	<string>secondListenerLeft</string>
+	<key>offsetMediatorInterval</key>
+	<string>completionAdapterTension</string>
+	<key>radiusAsForm</key>
+	<string>popupVariableSaturation</string>
+</dict>
+</plist>

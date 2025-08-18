@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTierMode</key>
+	<string>subpixelInsideObserver</string>
+	<key>isolateWithTier</key>
+	<string>concretePetVisibility</string>
+	<key>managerUntilPrototype</key>
+	<string>independentBoxshadowInteraction</string>
+	<key>metadataAtActivity</key>
+	<string>responseActivityScale</string>
+	<key>modulusAlongShape</key>
+	<string>slashStyleFormat</string>
+	<key>transitionAsParameter</key>
+	<string>gridContainMethod</string>
+</dict>
+</plist>

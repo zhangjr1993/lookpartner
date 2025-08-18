@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableGradientAcceleration</key>
+	<string>inheritedSpecifierInset</string>
+	<key>fragmentBeyondProcess</key>
+	<string>textAtFunction</string>
+	<key>iterativeViewTheme</key>
+	<string>observerContainObserver</string>
+	<key>kernelInVariable</key>
+	<string>musicNumberFrequency</string>
+	<key>materialUnaryAlignment</key>
+	<string>playbackValueSpacing</string>
+	<key>requestPatternContrast</key>
+	<string>labelSinceNumber</string>
+	<key>viewOrCycle</key>
+	<string>symbolActivityResponse</string>
+</dict>
+</plist>

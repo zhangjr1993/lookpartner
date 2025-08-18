@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAssetFeedback</key>
+	<string>loopTierShade</string>
+	<key>euclideanCompleterDistance</key>
+	<string>symmetricProgressbarCoord</string>
+	<key>hashBridgeOrientation</key>
+	<string>stampFromOperation</string>
+	<key>mediocreLayerCoord</key>
+	<string>pivotalPositionAlignment</string>
+	<key>respectiveNavigatorSaturation</key>
+	<string>permanentDecorationCenter</string>
+	<key>staticDependencyColor</key>
+	<string>serviceFormDepth</string>
+</dict>
+</plist>

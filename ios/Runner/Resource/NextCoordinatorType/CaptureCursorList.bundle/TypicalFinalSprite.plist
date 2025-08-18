@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDespiteStrategy</key>
+	<string>asynchronousOptionStyle</string>
+	<key>completionLayerPadding</key>
+	<string>tabbarLikePlatform</string>
+	<key>histogramForAction</key>
+	<string>imageActionBehavior</string>
+	<key>mobileJobAcceleration</key>
+	<string>disparateActivityTheme</string>
+	<key>optimizerAndMediator</key>
+	<string>rowUntilLevel</string>
+	<key>pointVarBorder</key>
+	<string>customizedCoordinatorDepth</string>
+	<key>singletonFlyweightFeedback</key>
+	<string>largeAccessoryTension</string>
+	<key>transformerInsideStrategy</key>
+	<string>difficultGridDistance</string>
+	<key>utilDuringFacade</key>
+	<string>globalStoreLeft</string>
+</dict>
+</plist>

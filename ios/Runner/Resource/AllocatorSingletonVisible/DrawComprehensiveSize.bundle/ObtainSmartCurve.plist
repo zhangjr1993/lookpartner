@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActionShade</key>
+	<string>resizableSingletonDirection</string>
+	<key>chapterProcessDirection</key>
+	<string>symmetricRadiusDistance</string>
+	<key>crucialBinaryFormat</key>
+	<string>nodePhaseColor</string>
+	<key>interfaceAsWork</key>
+	<string>mainInterfaceSaturation</string>
+	<key>stepObserverSpeed</key>
+	<string>nextEntityOrientation</string>
+</dict>
+</plist>

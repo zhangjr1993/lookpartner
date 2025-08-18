@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSingletonFlags</key>
+	<string>diffableNodeType</string>
+	<key>binaryUntilVar</key>
+	<string>mapFromKind</string>
+	<key>compositionalPopupResponse</key>
+	<string>containerCompositeBound</string>
+	<key>concreteOptimizerVisibility</key>
+	<string>spriteOrDecorator</string>
+	<key>grainMethodStyle</key>
+	<string>sequentialQueueMode</string>
+	<key>persistentRadioSpacing</key>
+	<string>observerUntilEnvironment</string>
+	<key>subpixelBesideType</key>
+	<string>characterObserverAcceleration</string>
+	<key>threadTierShape</key>
+	<string>projectionNearFacade</string>
+	<key>transitionParamTransparency</key>
+	<string>rapidCompleterTransparency</string>
+</dict>
+</plist>

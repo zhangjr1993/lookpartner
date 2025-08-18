@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceForm</key>
+	<string>uniformChannelsFrequency</string>
+	<key>bitrateFrameworkInteraction</key>
+	<string>progressbarContainObserver</string>
+	<key>dependencyFunctionInteraction</key>
+	<string>characterAndState</string>
+	<key>directlyBinaryOrigin</key>
+	<string>mobileListenerSaturation</string>
+	<key>gramExceptKind</key>
+	<string>topicBeyondPrototype</string>
+	<key>repositoryWorkDuration</key>
+	<string>consumerSingletonCount</string>
+	<key>utilAtProcess</key>
+	<string>firstGraphScale</string>
+</dict>
+</plist>

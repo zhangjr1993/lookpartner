@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewCycleVisibility</key>
+	<string>semanticCubitDirection</string>
+	<key>popupIncludeObserver</key>
+	<string>catalystKindContrast</string>
+	<key>resilientBorderCenter</key>
+	<string>synchronousEventValidation</string>
+	<key>similarEffectFlags</key>
+	<string>multiNodeForce</string>
+	<key>skinSystemRotation</key>
+	<string>enabledNotifierRight</string>
+	<key>skirtOfLevel</key>
+	<string>containerTierVisible</string>
+	<key>webBuilderRate</key>
+	<string>spotMethodValidation</string>
+</dict>
+</plist>

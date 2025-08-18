@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContainObserver</key>
+	<string>graphicStyleForce</string>
+	<key>chapterLevelMode</key>
+	<string>sizeWithoutAdapter</string>
+	<key>commonQueueKind</key>
+	<string>cycleBridgeSaturation</string>
+	<key>customizedPreviewCoord</key>
+	<string>compositionalRequestRate</string>
+	<key>entityFromSystem</key>
+	<string>lazyAnchorBound</string>
+	<key>listviewByActivity</key>
+	<string>tickerOfParam</string>
+	<key>positionedContextTint</key>
+	<string>offsetByProcess</string>
+	<key>reductionNearPhase</key>
+	<string>ephemeralScaffoldTag</string>
+</dict>
+</plist>

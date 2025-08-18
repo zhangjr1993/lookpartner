@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyNavigationAcceleration</key>
+	<string>desktopRichtextRate</string>
+	<key>queueDespitePhase</key>
+	<string>metadataContextAcceleration</string>
+	<key>streamFlyweightTension</key>
+	<string>singleSlashContrast</string>
+	<key>tabbarMediatorSize</key>
+	<string>secondLogFrequency</string>
+	<key>unactivatedArithmeticFrequency</key>
+	<string>pinchableProgressbarIndex</string>
+	<key>utilBufferBehavior</key>
+	<string>builderChainMargin</string>
+	<key>variantWithType</key>
+	<string>difficultRouteType</string>
+</dict>
+</plist>

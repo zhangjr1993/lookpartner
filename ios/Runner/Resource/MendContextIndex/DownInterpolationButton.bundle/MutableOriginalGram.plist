@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDespiteStrategy</key>
+	<string>nodeAsComposite</string>
+	<key>drawerAboutCycle</key>
+	<string>decorationInVar</string>
+	<key>inheritedRouteBrightness</key>
+	<string>completerOfValue</string>
+	<key>largeInteractorRight</key>
+	<string>dimensionVisitorTheme</string>
+	<key>resizableTweenFrequency</key>
+	<string>originalPlateColor</string>
+	<key>segueAgainstVar</key>
+	<string>protocolPatternAppearance</string>
+	<key>similarAwaitFrequency</key>
+	<string>richtextForFramework</string>
+	<key>tickerContainTask</key>
+	<string>transformerNearPlatform</string>
+</dict>
+</plist>

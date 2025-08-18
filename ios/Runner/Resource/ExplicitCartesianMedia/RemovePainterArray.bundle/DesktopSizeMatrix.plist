@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIncludeObserver</key>
+	<string>segueTypeStatus</string>
+	<key>granularApertureScale</key>
+	<string>interactorInForm</string>
+	<key>semanticTransformerSaturation</key>
+	<string>keyPrecisionCount</string>
+	<key>synchronousObserverTransparency</key>
+	<string>storeAgainstContext</string>
+</dict>
+</plist>

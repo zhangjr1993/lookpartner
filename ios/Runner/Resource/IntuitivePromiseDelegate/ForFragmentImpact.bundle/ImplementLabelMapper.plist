@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineStateBehavior</key>
+	<string>operationFlyweightRight</string>
+	<key>kernelStructureCoord</key>
+	<string>responseLikeBridge</string>
+	<key>multiplicationAndForm</key>
+	<string>tangentMethodAcceleration</string>
+	<key>rapidTitlePressure</key>
+	<string>animatedSubscriptionOrigin</string>
+	<key>singletonVariableInset</key>
+	<string>threadActionOrigin</string>
+</dict>
+</plist>

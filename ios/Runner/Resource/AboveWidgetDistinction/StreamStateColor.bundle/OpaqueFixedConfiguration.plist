@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionExceptFunction</key>
+	<string>disabledSinkCount</string>
+	<key>multiListenerSaturation</key>
+	<string>dedicatedResourceRate</string>
+	<key>rapidInjectionStatus</key>
+	<string>exponentThroughInterpreter</string>
+	<key>routerLikePlatform</key>
+	<string>easyModelBorder</string>
+	<key>semanticsOutsideMemento</key>
+	<string>gestureAsPrototype</string>
+</dict>
+</plist>

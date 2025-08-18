@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteZoneTop</key>
+	<string>sizedboxInPattern</string>
+	<key>decorationParamValidation</key>
+	<string>accordionAwaitFeedback</string>
+	<key>intuitiveBrushSaturation</key>
+	<string>scrollableMapBottom</string>
+	<key>listviewCommandLeft</key>
+	<string>geometricGemDepth</string>
+	<key>mobileProxyScale</key>
+	<string>queuePatternAcceleration</string>
+	<key>requestCycleMode</key>
+	<string>persistentViewTransparency</string>
+	<key>respectiveResultBehavior</key>
+	<string>globalNibHue</string>
+	<key>routeValueInterval</key>
+	<string>themeVarPadding</string>
+	<key>sampleInCommand</key>
+	<string>dedicatedNavigationTop</string>
+	<key>widgetOrMediator</key>
+	<string>textfieldAroundState</string>
+</dict>
+</plist>

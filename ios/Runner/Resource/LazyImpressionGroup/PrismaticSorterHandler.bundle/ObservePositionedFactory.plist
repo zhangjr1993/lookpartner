@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResultCenter</key>
+	<string>rowWorkOffset</string>
+	<key>coordinatorAndInterpreter</key>
+	<string>themeWorkTop</string>
+	<key>decorationDecoratorKind</key>
+	<string>asyncSpotTag</string>
+	<key>fixedMemberVisible</key>
+	<string>denseFrameCount</string>
+	<key>layoutFromAction</key>
+	<string>movementAboutOperation</string>
+	<key>overlayExceptLayer</key>
+	<string>subpixelAgainstStructure</string>
+	<key>singletonMethodOpacity</key>
+	<string>mediaWithMethod</string>
+	<key>standaloneRouteTail</key>
+	<string>gemScopeSkewx</string>
+	<key>subtleAllocatorTransparency</key>
+	<string>contractionInterpreterBottom</string>
+	<key>usedFactoryOrigin</key>
+	<string>progressbarPlatformFrequency</string>
+</dict>
+</plist>

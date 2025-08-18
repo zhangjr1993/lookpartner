@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFromCommand</key>
+	<string>subpixelNearFunction</string>
+	<key>materialOperationInteraction</key>
+	<string>navigatorUntilDecorator</string>
+	<key>multiModelState</key>
+	<string>intermediateOverlayValidation</string>
+	<key>tweenFromFacade</key>
+	<string>decorationFlyweightStatus</string>
+	<key>typicalPlaybackMomentum</key>
+	<string>methodBeyondObserver</string>
+</dict>
+</plist>

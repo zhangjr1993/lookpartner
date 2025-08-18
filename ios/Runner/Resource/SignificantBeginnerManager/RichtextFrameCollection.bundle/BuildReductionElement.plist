@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStateMode</key>
+	<string>bitrateWorkTension</string>
+	<key>cycleValueDepth</key>
+	<string>interpolationSystemAppearance</string>
+	<key>decorationViaVariable</key>
+	<string>localizationIncludeMode</string>
+	<key>optimizerFunctionAlignment</key>
+	<string>activityLikeStage</string>
+	<key>priorDependencyType</key>
+	<string>statefulIncludeFunction</string>
+	<key>semanticsStateOffset</key>
+	<string>resourceInterpreterOrigin</string>
+	<key>staticIndicatorSize</key>
+	<string>storageByShape</string>
+</dict>
+</plist>

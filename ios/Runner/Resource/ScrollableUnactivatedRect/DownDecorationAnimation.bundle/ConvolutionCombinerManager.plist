@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPerMode</key>
+	<string>commonDocumentCenter</string>
+	<key>convolutionAwayType</key>
+	<string>navigatorAsStructure</string>
+	<key>customizedRadiusBorder</key>
+	<string>dependencyVarSaturation</string>
+	<key>dialogsOutsideMode</key>
+	<string>responsiveEqualizationStyle</string>
+	<key>localizationMethodTheme</key>
+	<string>synchronousStoryboardContrast</string>
+	<key>mainPetContrast</key>
+	<string>bufferBesideMemento</string>
+	<key>stateThroughObserver</key>
+	<string>graphAwayWork</string>
+	<key>vectorNumberAcceleration</key>
+	<string>declarativeUsecaseEdge</string>
+</dict>
+</plist>

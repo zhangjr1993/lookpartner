@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSubpixelKind</key>
+	<string>topicTaskPadding</string>
+	<key>anchorAboutMode</key>
+	<string>checklistAtPattern</string>
+	<key>autoHandlerSpeed</key>
+	<string>clipperProcessCount</string>
+	<key>baselineAgainstContext</key>
+	<string>comprehensiveSubscriptionInteraction</string>
+	<key>handlerForTier</key>
+	<string>radiusAwayEnvironment</string>
+	<key>inheritedEqualizationIndex</key>
+	<string>specifyGateBottom</string>
+	<key>queueAsComposite</key>
+	<string>customizedTimerSize</string>
+	<key>resolverStateSkewy</key>
+	<string>coordinatorCycleBottom</string>
+</dict>
+</plist>

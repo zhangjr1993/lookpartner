@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricRequestTheme</key>
+	<string>mobileVariantSaturation</string>
+	<key>providerExceptTier</key>
+	<string>hyperbolicCellSkewx</string>
+	<key>serviceAlongForm</key>
+	<string>sharedMissionStatus</string>
+	<key>titleVarOrientation</key>
+	<string>positionLikeMethod</string>
+</dict>
+</plist>

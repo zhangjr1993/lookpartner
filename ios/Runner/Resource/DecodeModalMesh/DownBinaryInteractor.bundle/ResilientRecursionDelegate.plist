@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWorkSaturation</key>
+	<string>positionActivityDistance</string>
+	<key>gateActionMargin</key>
+	<string>textureInVar</string>
+	<key>groupCompositeDensity</key>
+	<string>sustainableTransitionMargin</string>
+	<key>viewAwayCycle</key>
+	<string>iconForFunction</string>
+</dict>
+</plist>

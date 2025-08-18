@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProxyTint</key>
+	<string>sessionChainTheme</string>
+	<key>containerSingletonTheme</key>
+	<string>boxVersusJob</string>
+	<key>flexibleEventLocation</key>
+	<string>ignoredEffectSaturation</string>
+	<key>graphLevelDelay</key>
+	<string>queueVariableMargin</string>
+	<key>layoutAndPhase</key>
+	<string>navigationAgainstProcess</string>
+	<key>parallelUnaryShade</key>
+	<string>descriptionContextSkewy</string>
+	<key>permissiveActionBound</key>
+	<string>originalSegueTail</string>
+	<key>precisionVisitorTint</key>
+	<string>sliderCommandContrast</string>
+	<key>subtleInterpolationSkewx</key>
+	<string>semanticInkwellBorder</string>
+</dict>
+</plist>

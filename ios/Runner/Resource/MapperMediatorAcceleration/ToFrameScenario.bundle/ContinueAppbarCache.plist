@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBeyondParameter</key>
+	<string>referenceVariableIndex</string>
+	<key>featureWithoutStyle</key>
+	<string>sharedCallbackStyle</string>
+	<key>loopCommandMargin</key>
+	<string>sizedboxThroughShape</string>
+	<key>primaryCardBottom</key>
+	<string>gramAndMemento</string>
+	<key>progressbarProcessPadding</key>
+	<string>heapAlongCommand</string>
+</dict>
+</plist>

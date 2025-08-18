@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeValueOffset</key>
+	<string>tappableRouterCenter</string>
+	<key>draggableTransitionBrightness</key>
+	<string>standaloneGestureInteraction</string>
+	<key>graphAroundStrategy</key>
+	<string>compositionalToolInset</string>
+	<key>lastMenuInteraction</key>
+	<string>bufferAgainstMediator</string>
+	<key>sceneEnvironmentSpeed</key>
+	<string>heroOfBuffer</string>
+	<key>transformerDecoratorMomentum</key>
+	<string>aspectCycleResponse</string>
+	<key>visibleProjectPadding</key>
+	<string>standalonePlaybackRotation</string>
+</dict>
+</plist>

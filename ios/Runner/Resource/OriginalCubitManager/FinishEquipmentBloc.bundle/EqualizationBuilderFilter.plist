@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionValueBehavior</key>
+	<string>customizedInterfaceRotation</string>
+	<key>controllerWithoutContext</key>
+	<string>secondInjectionTop</string>
+	<key>dropdownbuttonSinceMemento</key>
+	<string>scrollFacadeDepth</string>
+	<key>eventVersusAction</key>
+	<string>riverpodFlyweightVelocity</string>
+	<key>navigatorInFlyweight</key>
+	<string>opaqueTextBound</string>
+</dict>
+</plist>

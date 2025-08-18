@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStyleEdge</key>
+	<string>alphaAgainstStrategy</string>
+	<key>collectionAboutMediator</key>
+	<string>concreteCatalystTransparency</string>
+	<key>coordinatorAgainstObserver</key>
+	<string>errorContainMemento</string>
+	<key>interpolationSinceFlyweight</key>
+	<string>relationalSineTransparency</string>
+	<key>mediaqueryAlongSingleton</key>
+	<string>asyncTierSpacing</string>
+	<key>queryAmongVisitor</key>
+	<string>channelLayerCount</string>
+	<key>rowScopeSpeed</key>
+	<string>globalSliderAcceleration</string>
+	<key>slashContainVar</key>
+	<string>zoneLikeVariable</string>
+	<key>specifierSingletonRight</key>
+	<string>allocatorAgainstPattern</string>
+	<key>typicalAxisStatus</key>
+	<string>delegateModeAcceleration</string>
+</dict>
+</plist>

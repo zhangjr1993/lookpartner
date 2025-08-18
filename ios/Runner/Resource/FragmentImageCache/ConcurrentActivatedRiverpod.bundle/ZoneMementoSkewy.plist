@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStatelessFormat</key>
+	<string>frameThanFlyweight</string>
+	<key>optimizerAgainstKind</key>
+	<string>materialOfMode</string>
+	<key>projectForLevel</key>
+	<string>paddingWorkFormat</string>
+	<key>responseValueForce</key>
+	<string>interpolationAgainstWork</string>
+</dict>
+</plist>

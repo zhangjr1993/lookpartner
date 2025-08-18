@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDuringScope</key>
+	<string>popupInParameter</string>
+	<key>descriptionLevelInterval</key>
+	<string>disabledPointMargin</string>
+	<key>observerAdapterStatus</key>
+	<string>keyTextfieldKind</string>
+	<key>significantLabelVisible</key>
+	<string>gridviewThanDecorator</string>
+	<key>subpixelNumberScale</key>
+	<string>draggableSingletonVelocity</string>
+</dict>
+</plist>

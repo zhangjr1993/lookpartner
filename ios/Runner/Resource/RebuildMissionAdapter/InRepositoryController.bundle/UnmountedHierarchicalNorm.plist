@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPatternPosition</key>
+	<string>usageByComposite</string>
+	<key>permanentCoordinatorFrequency</key>
+	<string>toolBesideMemento</string>
+	<key>precisionVarFrequency</key>
+	<string>resourceMediatorLeft</string>
+	<key>requiredProjectionFormat</key>
+	<string>chapterStructureOffset</string>
+	<key>routeOfChain</key>
+	<string>activityUntilWork</string>
+</dict>
+</plist>

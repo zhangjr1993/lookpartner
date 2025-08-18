@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpriteKind</key>
+	<string>presenterScopeOffset</string>
+	<key>convolutionScopeLeft</key>
+	<string>instructionKindVelocity</string>
+	<key>equalizationAndChain</key>
+	<string>themeInsideTask</string>
+	<key>grainVarDirection</key>
+	<string>sharedContractionOffset</string>
+</dict>
+</plist>

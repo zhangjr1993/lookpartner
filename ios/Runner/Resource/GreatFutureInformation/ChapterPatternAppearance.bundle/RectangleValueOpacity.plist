@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAgainstDecorator</key>
+	<string>hashAroundMethod</string>
+	<key>blocExceptTier</key>
+	<string>subtleOverlayOpacity</string>
+	<key>borderMediatorOrientation</key>
+	<string>positionVariableOpacity</string>
+	<key>controllerMethodEdge</key>
+	<string>singletonLevelScale</string>
+	<key>controllerSingletonPressure</key>
+	<string>navigatorAsParam</string>
+	<key>missionAsPattern</key>
+	<string>imperativePresenterAppearance</string>
+	<key>originalTimerRate</key>
+	<string>alignmentInFramework</string>
+	<key>painterWithoutAdapter</key>
+	<string>interfaceTaskType</string>
+	<key>techniqueDespiteStructure</key>
+	<string>explicitPrecisionDistance</string>
+	<key>variantMethodVisible</key>
+	<string>immutableControllerName</string>
+</dict>
+</plist>

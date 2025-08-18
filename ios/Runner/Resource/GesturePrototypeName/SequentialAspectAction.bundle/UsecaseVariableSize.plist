@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSubpixelInterval</key>
+	<string>keyAllocatorInteraction</string>
+	<key>equipmentEnvironmentShape</key>
+	<string>textOutsideMemento</string>
+	<key>handlerVersusSingleton</key>
+	<string>hashStageLocation</string>
+	<key>mobxForChain</key>
+	<string>transformerOrPattern</string>
+	<key>swiftStateStyle</key>
+	<string>imageTaskAppearance</string>
+	<key>unactivatedModelShape</key>
+	<string>textInterpreterColor</string>
+</dict>
+</plist>

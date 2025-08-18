@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBeyondTier</key>
+	<string>transitionAwayAdapter</string>
+	<key>animatedSpritePadding</key>
+	<string>checklistPatternBottom</string>
+	<key>channelsContextShade</key>
+	<string>notifierPhaseMargin</string>
+	<key>coordinatorWithBuffer</key>
+	<string>checkboxIncludeMediator</string>
+	<key>eagerHandlerDensity</key>
+	<string>giftStructureKind</string>
+	<key>exceptionThroughPattern</key>
+	<string>tabviewWithoutMethod</string>
+	<key>finalBuilderEdge</key>
+	<string>keyErrorOrientation</string>
+</dict>
+</plist>

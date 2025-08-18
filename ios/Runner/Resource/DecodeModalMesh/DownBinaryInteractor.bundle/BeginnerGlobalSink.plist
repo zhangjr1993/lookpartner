@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerWorkFlags</key>
+	<string>concurrentInterpolationInterval</string>
+	<key>mobileNormOrigin</key>
+	<string>entityContextOpacity</string>
+	<key>navigatorByStage</key>
+	<string>columnVisitorVisible</string>
+	<key>queueVariableMargin</key>
+	<string>progressbarFromLevel</string>
+	<key>stackDespitePlatform</key>
+	<string>smartTextureHead</string>
+	<key>stackLevelType</key>
+	<string>currentBatchIndex</string>
+</dict>
+</plist>

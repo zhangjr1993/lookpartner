@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTaskValidation</key>
+	<string>themeInProcess</string>
+	<key>keyRouteVisibility</key>
+	<string>providerCommandStatus</string>
+	<key>numericalPriorityStatus</key>
+	<string>presenterParamTop</string>
+	<key>rowBeyondStyle</key>
+	<string>significantGesturedetectorOffset</string>
+	<key>touchChainContrast</key>
+	<string>taskPerAction</string>
+	<key>unsortedLayoutCenter</key>
+	<string>primaryDurationOrientation</string>
+	<key>viewAsLevel</key>
+	<string>oldPositionBehavior</string>
+</dict>
+</plist>

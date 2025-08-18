@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLabelTheme</key>
+	<string>offsetInsideLayer</string>
+	<key>configurationThroughInterpreter</key>
+	<string>spriteAdapterInset</string>
+	<key>iterativeObserverLocation</key>
+	<string>sliderByActivity</string>
+	<key>materialCoordinatorDelay</key>
+	<string>spineAgainstPhase</string>
+	<key>newestProviderShape</key>
+	<string>expandedProxyLeft</string>
+	<key>smallCursorOrigin</key>
+	<string>routeOfEnvironment</string>
+</dict>
+</plist>

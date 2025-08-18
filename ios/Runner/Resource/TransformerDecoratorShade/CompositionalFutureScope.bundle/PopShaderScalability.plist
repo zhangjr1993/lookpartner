@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAroundStrategy</key>
+	<string>constraintActionResponse</string>
+	<key>checkboxSinceStrategy</key>
+	<string>interpolationBeyondType</string>
+	<key>customEquipmentOrigin</key>
+	<string>sortedMetadataHead</string>
+	<key>difficultBrushMode</key>
+	<string>groupAndFlyweight</string>
+	<key>queryOfPrototype</key>
+	<string>interactiveStorageOffset</string>
+	<key>skinStructureName</key>
+	<string>sequentialAllocatorVisibility</string>
+	<key>stackModeState</key>
+	<string>activeObserverFrequency</string>
+	<key>utilVersusTask</key>
+	<string>subscriptionAgainstFunction</string>
+	<key>variantWorkVisible</key>
+	<string>protocolBesideStrategy</string>
+</dict>
+</plist>

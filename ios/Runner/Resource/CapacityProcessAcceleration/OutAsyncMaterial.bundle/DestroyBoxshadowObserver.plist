@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimationState</key>
+	<string>inactiveSizeDensity</string>
+	<key>coordinatorValueName</key>
+	<string>widgetKindDelay</string>
+	<key>euclideanIconScale</key>
+	<string>convolutionStyleAlignment</string>
+	<key>factoryStyleDepth</key>
+	<string>flexibleGradientDepth</string>
+	<key>layerDuringMode</key>
+	<string>tabbarDuringOperation</string>
+	<key>methodAlongSystem</key>
+	<string>configurationFacadeDistance</string>
+</dict>
+</plist>

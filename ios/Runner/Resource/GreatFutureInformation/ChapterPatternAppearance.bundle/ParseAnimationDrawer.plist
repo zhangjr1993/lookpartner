@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAsTask</key>
+	<string>priorityPerMode</string>
+	<key>entityMementoStatus</key>
+	<string>featureStructurePressure</string>
+	<key>globalContractionPosition</key>
+	<string>stepProcessPressure</string>
+	<key>gridAdapterShade</key>
+	<string>draggableColumnFormat</string>
+	<key>loopSystemRate</key>
+	<string>dropdownbuttonByAction</string>
+	<key>managerWorkKind</key>
+	<string>significantLabelDuration</string>
+	<key>usageWithSystem</key>
+	<string>interactorAsActivity</string>
+</dict>
+</plist>

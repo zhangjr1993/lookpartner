@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectThroughDecorator</key>
+	<string>storageMediatorSaturation</string>
+	<key>eventOutsideContext</key>
+	<string>commandObserverFrequency</string>
+	<key>inheritedBoxshadowDensity</key>
+	<string>radiusThanEnvironment</string>
+	<key>modelEnvironmentState</key>
+	<string>publicCursorShape</string>
+	<key>timerStyleDirection</key>
+	<string>streamStyleMode</string>
+</dict>
+</plist>

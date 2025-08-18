@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFlyweightInset</key>
+	<string>canvasLikeDecorator</string>
+	<key>cupertinoLayoutAcceleration</key>
+	<string>queryMediatorDensity</string>
+	<key>similarFragmentBrightness</key>
+	<string>anchorInterpreterInterval</string>
+	<key>sinkAwayMode</key>
+	<string>richtextActionMode</string>
+	<key>threadTaskBrightness</key>
+	<string>activatedRouteType</string>
+</dict>
+</plist>

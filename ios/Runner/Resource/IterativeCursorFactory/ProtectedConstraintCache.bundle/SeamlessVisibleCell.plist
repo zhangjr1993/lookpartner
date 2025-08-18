@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReducerTag</key>
+	<string>blocOutsideMediator</string>
+	<key>bitrateExceptVisitor</key>
+	<string>navigatorLevelHue</string>
+	<key>dependencyAtAction</key>
+	<string>disparateSubscriptionSkewy</string>
+	<key>futureCommandVisible</key>
+	<string>modalFormVisible</string>
+	<key>globalAppbarBehavior</key>
+	<string>tensorStoreAlignment</string>
+	<key>globalLossAppearance</key>
+	<string>exceptionViaActivity</string>
+	<key>inkwellSinceStrategy</key>
+	<string>storyboardObserverAcceleration</string>
+	<key>nextFutureSkewx</key>
+	<string>heroDuringObserver</string>
+	<key>notificationLikeFacade</key>
+	<string>taskSingletonBrightness</string>
+	<key>shaderAboutCycle</key>
+	<string>statefulParticleTag</string>
+</dict>
+</plist>

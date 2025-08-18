@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMarginFormat</key>
+	<string>imperativePresenterDensity</string>
+	<key>animationForOperation</key>
+	<string>criticalOverlayStatus</string>
+	<key>modulusExceptLayer</key>
+	<string>sampleOfChain</string>
+	<key>progressbarAroundTask</key>
+	<string>threadTaskDelay</string>
+	<key>topicInsideContext</key>
+	<string>normalTitleBrightness</string>
+	<key>usedResolverBrightness</key>
+	<string>riverpodActivityPadding</string>
+	<key>viewNumberForce</key>
+	<string>containerStructureDelay</string>
+</dict>
+</plist>

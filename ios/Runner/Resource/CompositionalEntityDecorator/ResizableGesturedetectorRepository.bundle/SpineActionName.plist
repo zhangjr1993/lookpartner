@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerKindVisible</key>
+	<string>cellAlongMemento</string>
+	<key>equalizationFromFlyweight</key>
+	<string>storyboardSystemType</string>
+	<key>indicatorMementoPosition</key>
+	<string>declarativeTweenDirection</string>
+	<key>sineSystemBehavior</key>
+	<string>interactiveHeapRate</string>
+	<key>spineForScope</key>
+	<string>completerAsForm</string>
+	<key>statefulAsyncCount</key>
+	<string>staticCheckboxBound</string>
+	<key>switchMethodSpacing</key>
+	<string>utilInterpreterDuration</string>
+</dict>
+</plist>

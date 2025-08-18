@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAdapterDelay</key>
+	<string>iterativePromiseAlignment</string>
+	<key>alignmentStageSkewy</key>
+	<string>widgetDuringVisitor</string>
+	<key>bufferAtChain</key>
+	<string>spotBufferFeedback</string>
+	<key>enabledNavigatorBehavior</key>
+	<string>pinchableRichtextOffset</string>
+	<key>euclideanBaselineOffset</key>
+	<string>chartAtDecorator</string>
+	<key>factoryAtKind</key>
+	<string>batchOperationVisible</string>
+	<key>usecaseParamLeft</key>
+	<string>modelAtActivity</string>
+</dict>
+</plist>

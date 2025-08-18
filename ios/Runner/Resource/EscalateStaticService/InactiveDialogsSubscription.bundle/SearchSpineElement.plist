@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOverlayPosition</key>
+	<string>largeModelOrigin</string>
+	<key>durationIncludeCycle</key>
+	<string>transitionTypeStyle</string>
+	<key>isolateThroughJob</key>
+	<string>baseScopeCenter</string>
+	<key>managerInterpreterInset</key>
+	<string>webDelegateScale</string>
+	<key>petFromVariable</key>
+	<string>eventDecoratorTheme</string>
+	<key>protocolPhaseDuration</key>
+	<string>cellOrFramework</string>
+	<key>storeOutsideCommand</key>
+	<string>cupertinoParamOffset</string>
+	<key>themeProcessColor</key>
+	<string>switchForParameter</string>
+</dict>
+</plist>

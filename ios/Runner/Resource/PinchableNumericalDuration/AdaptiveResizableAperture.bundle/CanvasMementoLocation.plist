@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPerShape</key>
+	<string>canvasThanContext</string>
+	<key>currentLoopDirection</key>
+	<string>brushLevelInset</string>
+	<key>lostTangentSpeed</key>
+	<string>delegateInterpreterBorder</string>
+	<key>particleAboutMediator</key>
+	<string>factoryChainDistance</string>
+	<key>queryOperationRotation</key>
+	<string>statefulStateCenter</string>
+	<key>viewPatternInteraction</key>
+	<string>gradientLayerShade</string>
+</dict>
+</plist>

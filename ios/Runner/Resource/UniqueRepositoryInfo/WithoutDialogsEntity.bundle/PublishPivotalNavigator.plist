@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitExceptStyle</key>
+	<string>fixedLayoutOrigin</string>
+	<key>coordinatorShapeRate</key>
+	<string>actionStrategyScale</string>
+	<key>iterativeDelegateVelocity</key>
+	<string>metadataViaKind</string>
+	<key>mediumLayoutVisible</key>
+	<string>themeVersusContext</string>
+	<key>projectionValueBrightness</key>
+	<string>lostRectMargin</string>
+	<key>resizableCoordinatorOffset</key>
+	<string>sizedboxInsideVar</string>
+	<key>richtextOperationShape</key>
+	<string>mapAwayShape</string>
+	<key>tangentFacadeCoord</key>
+	<string>observerStyleTag</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapForStrategy</key>
+	<string>asyncUntilNumber</string>
+	<key>progressbarAsMediator</key>
+	<string>actionFunctionDepth</string>
+	<key>projectContextRotation</key>
+	<string>positionFromComposite</string>
+	<key>radioAwayPhase</key>
+	<string>inkwellShapeDirection</string>
+</dict>
+</plist>

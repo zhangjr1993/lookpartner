@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWorkScale</key>
+	<string>binaryTierBehavior</string>
+	<key>gestureBridgeBottom</key>
+	<string>responsiveSubpixelPressure</string>
+	<key>hardRadioContrast</key>
+	<string>subtleBehaviorVisibility</string>
+	<key>masterParamLeft</key>
+	<string>bufferStrategyValidation</string>
+	<key>metadataInterpreterStatus</key>
+	<string>sceneTaskVelocity</string>
+	<key>observerOfContext</key>
+	<string>primaryCubeBound</string>
+	<key>sortedManagerOpacity</key>
+	<string>dialogsVariableOrigin</string>
+	<key>statefulWorkVelocity</key>
+	<string>axisAsOperation</string>
+	<key>tensorGesturedetectorOrigin</key>
+	<string>pointValueCenter</string>
+	<key>unsortedGemBehavior</key>
+	<string>topicAboutMethod</string>
+</dict>
+</plist>

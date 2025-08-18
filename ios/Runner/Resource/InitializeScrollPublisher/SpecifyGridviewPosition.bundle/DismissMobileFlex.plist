@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAndSystem</key>
+	<string>mobxSinceWork</string>
+	<key>cosinePlatformLocation</key>
+	<string>sizeVariableBorder</string>
+	<key>heapPerAction</key>
+	<string>concurrentListenerBehavior</string>
+	<key>mapBesideWork</key>
+	<string>beginnerNormInset</string>
+	<key>mediaqueryCycleType</key>
+	<string>denseResolverOrigin</string>
+	<key>shaderOutsideFacade</key>
+	<string>sliderAdapterRate</string>
+</dict>
+</plist>

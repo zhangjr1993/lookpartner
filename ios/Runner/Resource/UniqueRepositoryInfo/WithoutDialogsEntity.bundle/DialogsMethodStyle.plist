@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAtPattern</key>
+	<string>futureNearDecorator</string>
+	<key>diversifiedErrorFrequency</key>
+	<string>statefulDelegateDepth</string>
+	<key>gestureNearSingleton</key>
+	<string>priorityStageType</string>
+	<key>greatArithmeticAlignment</key>
+	<string>transitionWithoutMethod</string>
+	<key>lostChartPadding</key>
+	<string>spineFromTask</string>
+	<key>prismaticModelSaturation</key>
+	<string>repositoryFlyweightBorder</string>
+	<key>reducerFrameworkLeft</key>
+	<string>nodePerContext</string>
+	<key>routerPatternInteraction</key>
+	<string>animationCommandDistance</string>
+</dict>
+</plist>

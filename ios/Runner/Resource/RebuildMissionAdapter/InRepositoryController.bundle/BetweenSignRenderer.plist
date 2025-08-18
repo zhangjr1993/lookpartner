@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandExceptBridge</key>
+	<string>sensorActivityScale</string>
+	<key>errorBufferBrightness</key>
+	<string>staticCompositionName</string>
+	<key>materialCursorVisible</key>
+	<string>cardCycleFeedback</string>
+	<key>mediumContainerForce</key>
+	<string>prismaticTextfieldDepth</string>
+	<key>mutableZoneMode</key>
+	<string>parallelWidgetSaturation</string>
+	<key>priorityInsideVisitor</key>
+	<string>remainderJobLocation</string>
+	<key>spriteBeyondSingleton</key>
+	<string>pointThanPhase</string>
+	<key>toolKindBrightness</key>
+	<string>brushWithoutValue</string>
+	<key>viewAroundFlyweight</key>
+	<string>responseVariableName</string>
+</dict>
+</plist>

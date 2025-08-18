@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScopeFlags</key>
+	<string>swiftScopeDirection</string>
+	<key>enabledResourceScale</key>
+	<string>resultDuringAction</string>
+	<key>gateProcessOpacity</key>
+	<string>largeRemainderContrast</string>
+	<key>loopVersusAdapter</key>
+	<string>finalChartType</string>
+	<key>oldProgressbarOpacity</key>
+	<string>sequentialReducerInterval</string>
+	<key>retainedLayoutDuration</key>
+	<string>pointProcessOpacity</string>
+	<key>riverpodStyleInterval</key>
+	<string>touchJobState</string>
+	<key>titleBufferSkewy</key>
+	<string>usecaseExceptVisitor</string>
+</dict>
+</plist>

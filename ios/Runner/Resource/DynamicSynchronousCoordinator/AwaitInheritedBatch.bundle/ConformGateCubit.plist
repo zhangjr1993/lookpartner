@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStyleSpacing</key>
+	<string>animatedExceptionTag</string>
+	<key>descriptionNearParameter</key>
+	<string>storageOutsideLevel</string>
+	<key>extensionOfKind</key>
+	<string>localizationLayerMode</string>
+	<key>handlerLevelFormat</key>
+	<string>finalTextFeedback</string>
+	<key>offsetDecoratorBehavior</key>
+	<string>labelActivityMode</string>
+	<key>offsetInsideMediator</key>
+	<string>cupertinoRiverpodRotation</string>
+	<key>reducerContainProxy</key>
+	<string>tweenBeyondChain</string>
+	<key>reducerVarBehavior</key>
+	<string>queryViaType</string>
+</dict>
+</plist>

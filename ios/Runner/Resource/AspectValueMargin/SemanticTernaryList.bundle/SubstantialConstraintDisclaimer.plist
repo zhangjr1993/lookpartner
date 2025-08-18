@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPerFramework</key>
+	<string>multiEffectEdge</string>
+	<key>dedicatedMissionInset</key>
+	<string>localizationPatternRight</string>
+	<key>frameAdapterVelocity</key>
+	<string>viewLayerStyle</string>
+	<key>grayscaleViaAdapter</key>
+	<string>interactorParameterBottom</string>
+	<key>isolateAroundMethod</key>
+	<string>frameInterpreterPosition</string>
+	<key>menuIncludeInterpreter</key>
+	<string>grainWithLayer</string>
+	<key>particleLayerStyle</key>
+	<string>subscriptionSingletonBrightness</string>
+	<key>precisionModeStyle</key>
+	<string>currentZonePosition</string>
+	<key>stampSinceInterpreter</key>
+	<string>zoneTierPressure</string>
+</dict>
+</plist>

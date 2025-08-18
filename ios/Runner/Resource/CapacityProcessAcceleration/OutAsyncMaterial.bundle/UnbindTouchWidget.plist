@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlignmentFormat</key>
+	<string>inactiveHistogramLeft</string>
+	<key>animationDecoratorRight</key>
+	<string>tickerForMediator</string>
+	<key>inheritedAnimationDepth</key>
+	<string>callbackOperationColor</string>
+	<key>layoutDuringPrototype</key>
+	<string>serviceNumberFlags</string>
+	<key>localizationVarBound</key>
+	<string>futureScopeIndex</string>
+	<key>newestGridviewLeft</key>
+	<string>smartCompleterOpacity</string>
+	<key>popupBufferHead</key>
+	<string>dimensionOutsideScope</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPlatformBehavior</key>
+	<string>constraintPrototypeTail</string>
+	<key>decorationPerVariable</key>
+	<string>resourceTaskInteraction</string>
+	<key>diffableNotificationType</key>
+	<string>desktopChallengeDuration</string>
+	<key>materialDelegatePadding</key>
+	<string>mediaqueryVarSpacing</string>
+	<key>matrixWithoutTier</key>
+	<string>concurrentContainerScale</string>
+	<key>offsetCommandRight</key>
+	<string>priorTouchFormat</string>
+	<key>retainedFutureOffset</key>
+	<string>uniformStoreStyle</string>
+	<key>sensorVersusComposite</key>
+	<string>constVectorColor</string>
+	<key>streamFromVariable</key>
+	<string>greatResultInset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocScopeShade</key>
+	<string>displayableLogTint</string>
+	<key>canvasProxyDirection</key>
+	<string>requestDuringContext</string>
+	<key>nativeSensorContrast</key>
+	<string>interpolationAroundDecorator</string>
+	<key>reactiveMethodTint</key>
+	<string>statefulUsageKind</string>
+</dict>
+</plist>

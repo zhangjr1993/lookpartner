@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constLabelHead</key>
+	<string>staticResourceFrequency</string>
+	<key>enabledResourceFormat</key>
+	<string>persistentResponseSaturation</string>
+	<key>gradientProcessMomentum</key>
+	<string>draggableExponentCount</string>
+	<key>hardTopicVisible</key>
+	<string>progressbarUntilParameter</string>
+	<key>semanticDescriptionOpacity</key>
+	<string>gridviewVisitorAlignment</string>
+	<key>titleBridgeEdge</key>
+	<string>normalServiceOffset</string>
+	<key>titlePerOperation</key>
+	<string>agileCompleterCount</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAsFacade</key>
+	<string>isolateProxySpeed</string>
+	<key>autoGestureColor</key>
+	<string>entityAsVariable</string>
+	<key>heroThroughKind</key>
+	<string>frameVisitorBound</string>
+	<key>masterThroughMediator</key>
+	<string>nodeThroughFramework</string>
+	<key>originalTransitionDepth</key>
+	<string>sharedSceneShape</string>
+	<key>seamlessDecorationBehavior</key>
+	<string>containerMethodBrightness</string>
+</dict>
+</plist>

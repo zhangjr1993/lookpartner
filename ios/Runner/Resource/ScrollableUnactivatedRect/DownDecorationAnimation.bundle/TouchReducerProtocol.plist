@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverStatus</key>
+	<string>injectionByLevel</string>
+	<key>basicStatefulDuration</key>
+	<string>oldCoordinatorBound</string>
+	<key>blocAroundLayer</key>
+	<string>batchBeyondLevel</string>
+	<key>deferredBufferInterval</key>
+	<string>utilAroundObserver</string>
+	<key>graphSystemStatus</key>
+	<string>lossAsType</string>
+	<key>keyEffectFlags</key>
+	<string>unactivatedMethodDirection</string>
+	<key>menuMediatorRight</key>
+	<string>containerFromLayer</string>
+	<key>reactiveMethodOrientation</key>
+	<string>modalTaskStatus</string>
+</dict>
+</plist>

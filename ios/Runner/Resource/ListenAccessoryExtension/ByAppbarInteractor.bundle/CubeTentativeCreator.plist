@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEntityFormat</key>
+	<string>cubitInsideMediator</string>
+	<key>customizedAssetDistance</key>
+	<string>compositionalOptionBorder</string>
+	<key>immediateControllerCenter</key>
+	<string>elasticMetadataInset</string>
+	<key>singlePresenterResponse</key>
+	<string>globalSliderResponse</string>
+	<key>toolTierTail</key>
+	<string>statelessFacadeCenter</string>
+	<key>unsortedPageviewResponse</key>
+	<string>behaviorByState</string>
+</dict>
+</plist>

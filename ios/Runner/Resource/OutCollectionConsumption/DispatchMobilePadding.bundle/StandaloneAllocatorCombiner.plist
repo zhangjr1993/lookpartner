@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionVarDelay</key>
+	<string>tickerNearMethod</string>
+	<key>tabbarPrototypeDuration</key>
+	<string>fixedContainerShade</string>
+	<key>textStructureFeedback</key>
+	<string>resultThroughPlatform</string>
+	<key>textureOperationHead</key>
+	<string>histogramInContext</string>
+</dict>
+</plist>

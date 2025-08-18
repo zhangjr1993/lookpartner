@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDecorationTail</key>
+	<string>zoneBeyondTier</string>
+	<key>declarativeRowIndex</key>
+	<string>resultAmongBuffer</string>
+	<key>hierarchicalWorkflowStatus</key>
+	<string>sceneVariableSpeed</string>
+	<key>indicatorPerParameter</key>
+	<string>largeWorkflowIndex</string>
+	<key>normFlyweightFrequency</key>
+	<string>stampOrParam</string>
+	<key>pivotalBlocContrast</key>
+	<string>agileSubpixelResponse</string>
+	<key>reusableBaselineBehavior</key>
+	<string>heapSingletonPosition</string>
+	<key>semanticViewVisibility</key>
+	<string>requestPerDecorator</string>
+	<key>sizeOrPrototype</key>
+	<string>stampLevelDuration</string>
+	<key>visibleResultAlignment</key>
+	<string>observerCommandRight</string>
+</dict>
+</plist>

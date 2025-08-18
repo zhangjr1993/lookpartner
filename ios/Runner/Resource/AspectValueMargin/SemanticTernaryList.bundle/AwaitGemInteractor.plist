@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGestureScale</key>
+	<string>isolateVisitorShade</string>
+	<key>cycleAgainstObserver</key>
+	<string>effectByProxy</string>
+	<key>effectAdapterCoord</key>
+	<string>builderChainBorder</string>
+	<key>rapidRouterBound</key>
+	<string>mediumAnimationMargin</string>
+	<key>segueStageHead</key>
+	<string>descriptorParamOrigin</string>
+</dict>
+</plist>

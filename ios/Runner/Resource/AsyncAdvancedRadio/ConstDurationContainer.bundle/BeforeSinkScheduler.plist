@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCycleScale</key>
+	<string>richtextThanStage</string>
+	<key>delegateLevelCount</key>
+	<string>managerIncludeMediator</string>
+	<key>delicateRouteOffset</key>
+	<string>primaryCurveInteraction</string>
+	<key>directConstraintAlignment</key>
+	<string>sceneVarVisibility</string>
+	<key>futureCommandDuration</key>
+	<string>hashSingletonInteraction</string>
+	<key>spriteInsideStrategy</key>
+	<string>serviceContainNumber</string>
+	<key>timerForMethod</key>
+	<string>flexibleInterfaceLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperNearTask</key>
+	<string>smartPageviewMode</string>
+	<key>commonIsolateOrientation</key>
+	<string>composableSkinState</string>
+	<key>curveFormEdge</key>
+	<string>responsiveUtilTag</string>
+	<key>disparateSwitchTransparency</key>
+	<string>interactorWithAction</string>
+	<key>intermediateViewDelay</key>
+	<string>coordinatorOutsideShape</string>
+	<key>scaleStructureAppearance</key>
+	<string>shaderViaOperation</string>
+	<key>singletonAlongStrategy</key>
+	<string>playbackLikeShape</string>
+</dict>
+</plist>

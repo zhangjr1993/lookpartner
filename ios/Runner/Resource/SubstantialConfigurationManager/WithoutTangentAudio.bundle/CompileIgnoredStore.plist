@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPrototypeSpacing</key>
+	<string>intensityStyleShade</string>
+	<key>errorUntilKind</key>
+	<string>priorSessionSaturation</string>
+	<key>finalGestureStyle</key>
+	<string>labelWithoutFlyweight</string>
+	<key>multiplicationPhaseType</key>
+	<string>sliderLikeSingleton</string>
+	<key>semanticsInsideWork</key>
+	<string>storeCompositeStyle</string>
+</dict>
+</plist>

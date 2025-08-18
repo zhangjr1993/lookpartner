@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAtObserver</key>
+	<string>resizableFragmentType</string>
+	<key>isolateWithoutNumber</key>
+	<string>taskMementoScale</string>
+	<key>projectionNumberAcceleration</key>
+	<string>resizablePrioritySpacing</string>
+</dict>
+</plist>

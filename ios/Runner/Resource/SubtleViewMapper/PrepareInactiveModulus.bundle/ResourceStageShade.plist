@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateFeedback</key>
+	<string>callbackAroundFramework</string>
+	<key>chapterActivityDirection</key>
+	<string>interactorAndStructure</string>
+	<key>durationForCommand</key>
+	<string>scaffoldIncludeCycle</string>
+	<key>fusedRadiusTail</key>
+	<string>errorBesideLevel</string>
+	<key>labelAboutContext</key>
+	<string>skinProcessBottom</string>
+	<key>layoutJobSkewy</key>
+	<string>nodeWithoutMode</string>
+	<key>localizationInterpreterCount</key>
+	<string>rowOutsideFunction</string>
+	<key>permanentLayoutDelay</key>
+	<string>persistentSubpixelContrast</string>
+</dict>
+</plist>

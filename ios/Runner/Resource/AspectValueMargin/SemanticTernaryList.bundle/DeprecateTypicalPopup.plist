@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAwayStyle</key>
+	<string>indicatorNearBuffer</string>
+	<key>buttonOperationBound</key>
+	<string>similarTextSkewx</string>
+	<key>displayableMomentumSaturation</key>
+	<string>frameOutsideParameter</string>
+	<key>handlerIncludeStyle</key>
+	<string>concurrentProjectionState</string>
+	<key>hierarchicalSpineSkewx</key>
+	<string>deferredReductionFeedback</string>
+	<key>managerPlatformContrast</key>
+	<string>asynchronousQueryTint</string>
+	<key>mediocreVariantOpacity</key>
+	<string>seamlessAnchorAcceleration</string>
+	<key>permissiveMediaqueryInterval</key>
+	<string>diffableGraphicInterval</string>
+</dict>
+</plist>

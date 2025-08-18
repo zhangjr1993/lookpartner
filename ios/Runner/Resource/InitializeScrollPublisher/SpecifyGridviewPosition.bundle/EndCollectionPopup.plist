@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMediaqueryOrientation</key>
+	<string>topicMediatorResponse</string>
+	<key>navigatorScopeSpeed</key>
+	<string>beginnerExtensionResponse</string>
+	<key>nodeOfType</key>
+	<string>zoneContainTier</string>
+	<key>radioBesideType</key>
+	<string>errorBridgeInteraction</string>
+	<key>sequentialMobxState</key>
+	<string>smallCellPadding</string>
+</dict>
+</plist>

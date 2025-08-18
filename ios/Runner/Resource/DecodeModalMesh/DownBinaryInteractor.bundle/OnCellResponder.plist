@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveExceptActivity</key>
+	<string>liteSinkTransparency</string>
+	<key>ignoredGroupDelay</key>
+	<string>intuitiveChannelsContrast</string>
+	<key>symmetricGateSkewx</key>
+	<string>pivotalViewTail</string>
+</dict>
+</plist>

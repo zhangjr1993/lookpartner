@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightRotation</key>
+	<string>drawerInsideJob</string>
+	<key>baselineSingletonSpacing</key>
+	<string>commonDecorationEdge</string>
+	<key>entityNearLevel</key>
+	<string>notificationStrategyPadding</string>
+	<key>gesturedetectorAlongInterpreter</key>
+	<string>scrollableGrainTail</string>
+	<key>interactorFrameworkCoord</key>
+	<string>sizeAwayComposite</string>
+	<key>labelAgainstActivity</key>
+	<string>rapidChartSkewy</string>
+	<key>scaffoldMediatorVisible</key>
+	<string>injectionProcessAcceleration</string>
+	<key>tweenContainInterpreter</key>
+	<string>flexPrototypeDensity</string>
+</dict>
+</plist>

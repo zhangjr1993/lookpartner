@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionPerForm</key>
+	<string>monsterPerObserver</string>
+	<key>interactorPatternResponse</key>
+	<string>spriteAgainstDecorator</string>
+	<key>projectionBesideEnvironment</key>
+	<string>heapDuringInterpreter</string>
+	<key>rectEnvironmentShade</key>
+	<string>uniformStackSpeed</string>
+	<key>topicExceptCommand</key>
+	<string>frameMediatorVisibility</string>
+	<key>vectorInsideStrategy</key>
+	<string>labelFlyweightBorder</string>
+</dict>
+</plist>

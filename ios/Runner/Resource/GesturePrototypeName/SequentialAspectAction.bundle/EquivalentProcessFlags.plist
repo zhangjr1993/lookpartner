@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationEnvironmentStyle</key>
+	<string>tappableDropdownbuttonAppearance</string>
+	<key>elasticChannelTop</key>
+	<string>tweenCommandBrightness</string>
+	<key>marginFormFeedback</key>
+	<string>statefulNavigatorOffset</string>
+	<key>profileInterpreterInset</key>
+	<string>concreteCycleTension</string>
+	<key>rapidResourceScale</key>
+	<string>disabledConfigurationSaturation</string>
+	<key>semanticSwitchOpacity</key>
+	<string>gradientParameterKind</string>
+</dict>
+</plist>

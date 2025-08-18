@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRowInterval</key>
+	<string>matrixActivityFeedback</string>
+	<key>hardNodeTail</key>
+	<string>interfaceOperationSize</string>
+	<key>normChainTail</key>
+	<string>queueActionBorder</string>
+	<key>notificationObserverLocation</key>
+	<string>unactivatedRectValidation</string>
+	<key>resourceUntilType</key>
+	<string>disparateResolverBrightness</string>
+	<key>substantialRouteValidation</key>
+	<string>commandBridgeState</string>
+</dict>
+</plist>

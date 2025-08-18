@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSemanticsDensity</key>
+	<string>skirtMediatorResponse</string>
+	<key>beginnerRowOffset</key>
+	<string>gestureExceptPlatform</string>
+	<key>effectPatternSaturation</key>
+	<string>dynamicContainerVelocity</string>
+	<key>mainCubitCenter</key>
+	<string>grayscaleAtAction</string>
+	<key>mobxAroundContext</key>
+	<string>granularHashRotation</string>
+	<key>permanentDurationSaturation</key>
+	<string>alignmentInterpreterAppearance</string>
+	<key>rowForContext</key>
+	<string>effectOrCycle</string>
+	<key>sensorStageTransparency</key>
+	<string>dependencyLevelDepth</string>
+	<key>visiblePromiseMomentum</key>
+	<string>asynchronousBatchSpeed</string>
+</dict>
+</plist>

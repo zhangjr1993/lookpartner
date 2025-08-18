@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGraphicInteraction</key>
+	<string>transitionForMethod</string>
+	<key>delegatePerVar</key>
+	<string>persistentLogarithmDepth</string>
+	<key>observerNumberMode</key>
+	<string>buttonCommandCount</string>
+	<key>protocolFlyweightBrightness</key>
+	<string>usecaseSinceStructure</string>
+	<key>responseOrDecorator</key>
+	<string>standaloneTableOrigin</string>
+	<key>robustPopupType</key>
+	<string>callbackDespiteFacade</string>
+	<key>streamExceptPattern</key>
+	<string>originalUtilFrequency</string>
+</dict>
+</plist>

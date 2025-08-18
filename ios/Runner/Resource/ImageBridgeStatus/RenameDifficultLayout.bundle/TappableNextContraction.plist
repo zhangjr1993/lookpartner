@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicAboutParam</key>
+	<string>smallHandlerKind</string>
+	<key>observerProcessPressure</key>
+	<string>histogramFlyweightFormat</string>
+	<key>requiredPlaybackTransparency</key>
+	<string>adaptiveLogSaturation</string>
+	<key>streamVisitorDuration</key>
+	<string>builderDuringFacade</string>
+</dict>
+</plist>

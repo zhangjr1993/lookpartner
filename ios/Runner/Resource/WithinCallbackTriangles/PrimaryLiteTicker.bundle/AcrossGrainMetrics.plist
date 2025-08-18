@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBufferAcceleration</key>
+	<string>resourceScopeSpeed</string>
+	<key>mobileControllerDirection</key>
+	<string>rapidSpotDelay</string>
+	<key>resourceContainStyle</key>
+	<string>boxSingletonFrequency</string>
+	<key>significantSampleCoord</key>
+	<string>instructionMediatorSpeed</string>
+	<key>storyboardBeyondPhase</key>
+	<string>semanticSinkState</string>
+	<key>topicAroundProcess</key>
+	<string>profilePlatformVisibility</string>
+</dict>
+</plist>

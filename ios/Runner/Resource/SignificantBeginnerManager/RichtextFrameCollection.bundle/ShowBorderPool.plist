@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStrategyVisible</key>
+	<string>firstHandlerContrast</string>
+	<key>documentStrategyName</key>
+	<string>widgetFromNumber</string>
+	<key>grainOfCommand</key>
+	<string>navigationFromScope</string>
+	<key>interfaceAmongAction</key>
+	<string>entitySingletonStatus</string>
+</dict>
+</plist>

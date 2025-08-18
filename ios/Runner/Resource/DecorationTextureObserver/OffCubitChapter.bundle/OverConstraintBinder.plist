@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPrototypeVisibility</key>
+	<string>parallelCaptionContrast</string>
+	<key>coordinatorLikeWork</key>
+	<string>featureOrCommand</string>
+	<key>injectionViaObserver</key>
+	<string>channelProxyOpacity</string>
+	<key>navigatorLikeDecorator</key>
+	<string>getxInShape</string>
+	<key>pinchableTextOrigin</key>
+	<string>variantStateOrientation</string>
+	<key>roleWithDecorator</key>
+	<string>textfieldPatternDensity</string>
+	<key>semanticSubpixelBorder</key>
+	<string>signUntilParam</string>
+	<key>topicOutsideChain</key>
+	<string>resolverObserverIndex</string>
+	<key>uniformFeatureOffset</key>
+	<string>seamlessRadiusHue</string>
+</dict>
+</plist>

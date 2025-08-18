@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInjectionDirection</key>
+	<string>hardSensorHue</string>
+	<key>associatedOptionTransparency</key>
+	<string>labelCycleColor</string>
+	<key>constraintVersusVar</key>
+	<string>screenKindDelay</string>
+	<key>curveWorkSize</key>
+	<string>movementOutsideStyle</string>
+	<key>dependencyViaProxy</key>
+	<string>shaderJobInterval</string>
+	<key>segmentSystemTransparency</key>
+	<string>originalListenerOpacity</string>
+	<key>stateAboutProxy</key>
+	<string>queueParamTension</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInterpolationFeedback</key>
+	<string>builderPatternTint</string>
+	<key>skinOfMemento</key>
+	<string>skinAwayLevel</string>
+	<key>tappableParticleOpacity</key>
+	<string>completerMementoShape</string>
+</dict>
+</plist>

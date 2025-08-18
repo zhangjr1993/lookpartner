@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetChainInterval</key>
+	<string>desktopMediaqueryDepth</string>
+	<key>cupertinoNearInterpreter</key>
+	<string>localizationCycleEdge</string>
+	<key>declarativePositionShade</key>
+	<string>axisSinceShape</string>
+	<key>dependencyByVariable</key>
+	<string>discardedGroupTheme</string>
+	<key>gradientAdapterIndex</key>
+	<string>curveForStage</string>
+	<key>masterBufferDelay</key>
+	<string>storyboardBeyondType</string>
+	<key>navigatorForSingleton</key>
+	<string>cartesianControllerOrientation</string>
+	<key>tensorResourcePressure</key>
+	<string>timerKindShape</string>
+	<key>textfieldAroundValue</key>
+	<string>seamlessCaptionSkewx</string>
+	<key>timerAndTask</key>
+	<string>interactorAdapterVelocity</string>
+</dict>
+</plist>

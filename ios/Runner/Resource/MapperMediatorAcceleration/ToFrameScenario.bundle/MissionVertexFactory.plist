@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByContext</key>
+	<string>hyperbolicCommandFormat</string>
+	<key>checkboxContainSingleton</key>
+	<string>completionThroughVariable</string>
+	<key>nibLayerInterval</key>
+	<string>reusableLoopTag</string>
+	<key>prevTransitionFrequency</key>
+	<string>denseTangentScale</string>
+	<key>referenceFormDensity</key>
+	<string>observerDespiteWork</string>
+	<key>richtextBesideComposite</key>
+	<string>euclideanRouteCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProjectBorder</key>
+	<string>mediaqueryProcessContrast</string>
+	<key>agileConfigurationKind</key>
+	<string>desktopSymbolSize</string>
+	<key>currentTransitionMode</key>
+	<string>painterByMode</string>
+	<key>flexibleFeaturePosition</key>
+	<string>publicAlignmentSkewx</string>
+	<key>nibForSingleton</key>
+	<string>rectPhaseOpacity</string>
+	<key>nibWithoutState</key>
+	<string>modelPhaseSpeed</string>
+	<key>streamIncludeMediator</key>
+	<string>routeTempleTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormTag</key>
+	<string>sceneParameterMode</string>
+	<key>cycleJobMode</key>
+	<string>textureStageAlignment</string>
+	<key>dependencyOutsideStage</key>
+	<string>entityCyclePadding</string>
+	<key>effectVisitorAlignment</key>
+	<string>delegatePhaseBound</string>
+	<key>ignoredTextfieldStyle</key>
+	<string>resilientMenuSaturation</string>
+	<key>mobileScopeTail</key>
+	<string>binaryCycleFlags</string>
+	<key>similarCanvasBorder</key>
+	<string>beginnerAspectOrigin</string>
+</dict>
+</plist>

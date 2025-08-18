@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainerFeedback</key>
+	<string>otherDecorationShape</string>
+	<key>awaitProcessVisibility</key>
+	<string>directlyCubitEdge</string>
+	<key>descriptorVariableName</key>
+	<string>behaviorOfDecorator</string>
+	<key>functionalEffectLocation</key>
+	<string>tickerAdapterTail</string>
+	<key>intermediateMapDirection</key>
+	<string>chartWithContext</string>
+	<key>queryBridgeKind</key>
+	<string>crudeTransitionDelay</string>
+	<key>significantEntityType</key>
+	<string>reducerDecoratorMomentum</string>
+</dict>
+</plist>

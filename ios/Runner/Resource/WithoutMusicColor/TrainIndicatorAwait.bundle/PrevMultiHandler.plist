@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisWithoutMemento</key>
+	<string>taskCycleMargin</string>
+	<key>blocSingletonOrientation</key>
+	<string>displayableLayoutType</string>
+	<key>deferredRiverpodRight</key>
+	<string>metadataParamTag</string>
+	<key>intensityDespiteStrategy</key>
+	<string>immutableMissionPadding</string>
+	<key>intensityOrMediator</key>
+	<string>modelStrategyFormat</string>
+	<key>listenerAndForm</key>
+	<string>graphAgainstStyle</string>
+	<key>servicePerActivity</key>
+	<string>concurrentAwaitFrequency</string>
+	<key>smartControllerTint</key>
+	<string>gesturePlatformMode</string>
+	<key>taskInDecorator</key>
+	<string>containerSinceValue</string>
+	<key>uniformControllerRotation</key>
+	<string>groupIncludePattern</string>
+</dict>
+</plist>

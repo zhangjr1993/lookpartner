@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleFormAppearance</key>
+	<string>effectWithoutMode</string>
+	<key>isolateByOperation</key>
+	<string>progressbarBesideAdapter</string>
+	<key>richtextBufferDensity</key>
+	<string>cubitExceptOperation</string>
+	<key>transformerIncludeBridge</key>
+	<string>indicatorMediatorBorder</string>
+</dict>
+</plist>

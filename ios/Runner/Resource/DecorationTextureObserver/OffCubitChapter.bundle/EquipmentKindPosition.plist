@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMetadataShade</key>
+	<string>pivotalConsumerOpacity</string>
+	<key>batchThroughMode</key>
+	<string>transitionAmongStyle</string>
+	<key>dimensionOperationDelay</key>
+	<string>activityStructureAppearance</string>
+	<key>directlyButtonVisible</key>
+	<string>lostIsolateStyle</string>
+	<key>hashActionStyle</key>
+	<string>listviewBeyondMode</string>
+	<key>numericalOffsetScale</key>
+	<string>descriptionContextAlignment</string>
+	<key>projectVisitorShade</key>
+	<string>protectedGraphicBehavior</string>
+	<key>rectAgainstMemento</key>
+	<string>constraintExceptFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentModulusFeedback</key>
+	<string>parallelNodeShade</string>
+	<key>declarativeStreamVisibility</key>
+	<string>advancedTextOrientation</string>
+	<key>denseLayoutBorder</key>
+	<string>intensityShapeBound</string>
+	<key>errorStructureVelocity</key>
+	<string>easyDecorationVisible</string>
+	<key>featureCycleRotation</key>
+	<string>completerFromFunction</string>
+	<key>firstConstraintBrightness</key>
+	<string>plateMementoColor</string>
+	<key>imageJobDepth</key>
+	<string>directCompleterCount</string>
+	<key>queueBesideFlyweight</key>
+	<string>appbarInChain</string>
+	<key>routerScopeShade</key>
+	<string>handlerEnvironmentOpacity</string>
+	<key>textPlatformCoord</key>
+	<string>reactiveExpandedMomentum</string>
+</dict>
+</plist>

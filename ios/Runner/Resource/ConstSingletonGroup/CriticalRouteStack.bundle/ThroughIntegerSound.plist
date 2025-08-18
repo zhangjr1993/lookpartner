@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorForComposite</key>
+	<string>reusableAxisValidation</string>
+	<key>animationSingletonTheme</key>
+	<string>shaderOfDecorator</string>
+	<key>buttonCommandSkewy</key>
+	<string>smallMovementCenter</string>
+	<key>elasticSingletonTint</key>
+	<string>offsetAtEnvironment</string>
+	<key>newestPresenterSize</key>
+	<string>accordionResourceBrightness</string>
+	<key>protocolMementoDensity</key>
+	<string>allocatorAmongVisitor</string>
+	<key>referenceAtNumber</key>
+	<string>intensityScopeTint</string>
+</dict>
+</plist>

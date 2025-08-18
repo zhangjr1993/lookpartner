@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultInterfaceStatus</key>
+	<string>fixedInjectionTag</string>
+	<key>directNavigatorFeedback</key>
+	<string>viewSystemMode</string>
+	<key>enabledLogShade</key>
+	<string>durationActivityMode</string>
+	<key>enabledRowContrast</key>
+	<string>resourceAndForm</string>
+	<key>extensionNearSingleton</key>
+	<string>normalDurationOpacity</string>
+	<key>gateContainStrategy</key>
+	<string>allocatorScopeBrightness</string>
+	<key>prismaticCoordinatorVisibility</key>
+	<string>visibleNodeHue</string>
+	<key>reducerBeyondFramework</key>
+	<string>widgetFormAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoHandlerType</key>
+	<string>subtleObserverContrast</string>
+	<key>eventLikeFacade</key>
+	<string>fragmentNearPlatform</string>
+	<key>hardBaselineOpacity</key>
+	<string>delegatePlatformMargin</string>
+	<key>modulusOutsideWork</key>
+	<string>cubitAmongMediator</string>
+	<key>responseVersusPhase</key>
+	<string>vectorObserverAppearance</string>
+	<key>standaloneBaseStyle</key>
+	<string>isolatePerMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackUntilActivity</key>
+	<string>coordinatorPatternCount</string>
+	<key>columnDuringAdapter</key>
+	<string>swiftJobOffset</string>
+	<key>controllerFunctionDirection</key>
+	<string>navigationInVar</string>
+	<key>delegateAmongDecorator</key>
+	<string>captionValueCount</string>
+	<key>layoutStructureRotation</key>
+	<string>indicatorPatternSkewy</string>
+	<key>modulusKindInset</key>
+	<string>methodWithProxy</string>
+	<key>presenterThroughScope</key>
+	<string>boxshadowNumberSkewx</string>
+	<key>signatureNumberStyle</key>
+	<string>storageFlyweightCoord</string>
+	<key>stampShapeFeedback</key>
+	<string>typicalMissionOpacity</string>
+</dict>
+</plist>

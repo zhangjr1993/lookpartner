@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerForPhase</key>
+	<string>graphicAsLevel</string>
+	<key>fragmentAtPlatform</key>
+	<string>repositoryShapeAcceleration</string>
+	<key>reactiveManagerFrequency</key>
+	<string>tappableAsyncSpeed</string>
+	<key>storageViaProxy</key>
+	<string>denseExtensionStyle</string>
+	<key>tabviewVarTension</key>
+	<string>compositionStyleBound</string>
+	<key>viewContainLevel</key>
+	<string>queueObserverName</string>
+</dict>
+</plist>

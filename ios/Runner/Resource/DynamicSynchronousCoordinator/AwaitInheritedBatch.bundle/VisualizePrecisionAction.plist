@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFlyweightBehavior</key>
+	<string>callbackAmongAction</string>
+	<key>baselineExceptFunction</key>
+	<string>localizationFlyweightSize</string>
+	<key>expandedCycleFormat</key>
+	<string>pointBesideKind</string>
+	<key>extensionThroughStyle</key>
+	<string>interfaceLikeTier</string>
+	<key>fixedDescriptorContrast</key>
+	<string>resolverProcessKind</string>
+	<key>indicatorMementoMargin</key>
+	<string>requestSincePrototype</string>
+	<key>localizationCycleEdge</key>
+	<string>resilientMediaCenter</string>
+	<key>viewVariableInteraction</key>
+	<string>timerForTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveMissionName</key>
+	<string>displayableLogTop</string>
+	<key>modelStructurePressure</key>
+	<string>commandFlyweightAlignment</string>
+	<key>sineFacadeDelay</key>
+	<string>localizationOutsideTier</string>
+	<key>tabviewUntilTask</key>
+	<string>tabbarVersusTier</string>
+	<key>titleDecoratorType</key>
+	<string>decorationLikeBridge</string>
+</dict>
+</plist>

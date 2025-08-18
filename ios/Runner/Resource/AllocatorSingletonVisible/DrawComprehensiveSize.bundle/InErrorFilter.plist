@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityNearShape</key>
+	<string>displayableCubitLocation</string>
+	<key>constRowState</key>
+	<string>titleLayerPadding</string>
+	<key>containerSinceAction</key>
+	<string>accessibleLabelCount</string>
+	<key>gradientCompositeVisible</key>
+	<string>priorRequestTop</string>
+	<key>hardStepName</key>
+	<string>storyboardOperationColor</string>
+	<key>managerCycleFeedback</key>
+	<string>secondCubitMomentum</string>
+	<key>sessionSinceFacade</key>
+	<string>popupProcessOpacity</string>
+</dict>
+</plist>

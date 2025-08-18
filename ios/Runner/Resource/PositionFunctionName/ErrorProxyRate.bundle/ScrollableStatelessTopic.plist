@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgePosition</key>
+	<string>boxKindAppearance</string>
+	<key>directAlignmentDensity</key>
+	<string>semanticAllocatorFrequency</string>
+	<key>durationNearValue</key>
+	<string>tickerInStyle</string>
+	<key>positionedParameterEdge</key>
+	<string>memberOrTask</string>
+	<key>sortedGrainAppearance</key>
+	<string>symbolMediatorCenter</string>
+</dict>
+</plist>

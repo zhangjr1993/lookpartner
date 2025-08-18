@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTableMode</key>
+	<string>sensorInterpreterBound</string>
+	<key>gestureAtDecorator</key>
+	<string>factoryTypeEdge</string>
+	<key>gradientFormTint</key>
+	<string>streamAlongForm</string>
+	<key>layoutBeyondFlyweight</key>
+	<string>arithmeticIsolateRight</string>
+	<key>mediaStageDepth</key>
+	<string>accordionControllerAcceleration</string>
+	<key>segmentBeyondSingleton</key>
+	<string>statefulEventVisibility</string>
+</dict>
+</plist>

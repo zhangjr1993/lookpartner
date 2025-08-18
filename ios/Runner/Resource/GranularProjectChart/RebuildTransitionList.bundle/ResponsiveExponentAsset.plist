@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandIncludeFlyweight</key>
+	<string>robustPositionSaturation</string>
+	<key>curveEnvironmentAcceleration</key>
+	<string>musicEnvironmentSkewy</string>
+	<key>directProtocolValidation</key>
+	<string>transitionWithStyle</string>
+	<key>momentumAroundTemple</key>
+	<string>isolateUntilAdapter</string>
+	<key>permissiveButtonAppearance</key>
+	<string>sessionAndCommand</string>
+	<key>persistentEffectSize</key>
+	<string>threadActivityInterval</string>
+	<key>persistentOptionDistance</key>
+	<string>modalAmongScope</string>
+	<key>providerBesideValue</key>
+	<string>sharedMediaqueryBorder</string>
+	<key>storageLikeType</key>
+	<string>labelActionScale</string>
+</dict>
+</plist>

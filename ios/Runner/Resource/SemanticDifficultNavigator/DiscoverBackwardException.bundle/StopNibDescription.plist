@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShapeShade</key>
+	<string>mapIncludeStyle</string>
+	<key>batchProcessSpacing</key>
+	<string>observerMethodBrightness</string>
+	<key>dedicatedInterfaceSkewy</key>
+	<string>promiseBufferDuration</string>
+	<key>logContainWork</key>
+	<string>fixedContainerDensity</string>
+	<key>modulusPhaseStatus</key>
+	<string>widgetOutsideProxy</string>
+	<key>queueChainVisible</key>
+	<string>significantConfigurationValidation</string>
+	<key>sharedAwaitState</key>
+	<string>metadataContextTag</string>
+	<key>transformerPhaseTop</key>
+	<string>techniqueSinceParameter</string>
+</dict>
+</plist>

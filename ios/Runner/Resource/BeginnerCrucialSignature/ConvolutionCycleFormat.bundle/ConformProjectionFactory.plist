@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBinaryRight</key>
+	<string>mobileWorkFeedback</string>
+	<key>graphicFacadeFeedback</key>
+	<string>serviceProcessRight</string>
+	<key>layoutInsideAdapter</key>
+	<string>grayscaleViaMode</string>
+	<key>originalMethodName</key>
+	<string>grainAmongLevel</string>
+	<key>queryNearProxy</key>
+	<string>notifierStrategyBottom</string>
+	<key>rowValueTop</key>
+	<string>builderStructureSpeed</string>
+	<key>substantialBoxshadowCoord</key>
+	<string>workflowLayerBound</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnLikeLayer</key>
+	<string>mobileMediaColor</string>
+	<key>containerProcessTint</key>
+	<string>scenePerNumber</string>
+	<key>dimensionThroughDecorator</key>
+	<string>actionValueSpeed</string>
+	<key>intensityStageSaturation</key>
+	<string>cupertinoConvolutionShape</string>
+	<key>primaryTexturePadding</key>
+	<string>cellAndPlatform</string>
+	<key>sampleScopeInset</key>
+	<string>textfieldBridgeTag</string>
+	<key>sinkSinceMediator</key>
+	<string>swiftPrototypeDepth</string>
+	<key>tabviewMediatorCoord</key>
+	<string>viewThroughMethod</string>
+</dict>
+</plist>

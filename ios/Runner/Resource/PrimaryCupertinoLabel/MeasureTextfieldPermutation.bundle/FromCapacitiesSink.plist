@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferVarRotation</key>
+	<string>draggableEqualizationAcceleration</string>
+	<key>directGridviewOpacity</key>
+	<string>scaleAdapterMargin</string>
+	<key>durationValueInteraction</key>
+	<string>marginWorkContrast</string>
+	<key>groupTypeAlignment</key>
+	<string>usecaseLikeKind</string>
+	<key>rowOrDecorator</key>
+	<string>pivotalListenerRate</string>
+	<key>sensorFromState</key>
+	<string>actionObserverRate</string>
+	<key>stateOrFacade</key>
+	<string>subscriptionScopeAlignment</string>
+	<key>streamContainComposite</key>
+	<string>timerFlyweightVisible</string>
+</dict>
+</plist>

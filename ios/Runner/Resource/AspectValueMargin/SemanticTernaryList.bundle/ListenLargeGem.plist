@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSystemSpacing</key>
+	<string>eventVisitorStatus</string>
+	<key>callbackMediatorBehavior</key>
+	<string>asynchronousKernelLocation</string>
+	<key>cellAndValue</key>
+	<string>bulletStageLeft</string>
+	<key>largeButtonInterval</key>
+	<string>animationOutsideScope</string>
+	<key>normalSliderDirection</key>
+	<string>spriteContextContrast</string>
+	<key>smartActionCenter</key>
+	<string>imperativeTweenBehavior</string>
+	<key>touchSinceMediator</key>
+	<string>providerFlyweightInterval</string>
+</dict>
+</plist>

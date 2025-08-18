@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGroupDensity</key>
+	<string>serviceAsPattern</string>
+	<key>certificateExceptFramework</key>
+	<string>timerInsideFramework</string>
+	<key>crudeTaskTop</key>
+	<string>radiusMementoInteraction</string>
+	<key>fixedInterfaceSpacing</key>
+	<string>seamlessCubitInterval</string>
+	<key>frameAtTask</key>
+	<string>resourceAgainstMediator</string>
+	<key>layerOfObserver</key>
+	<string>chapterVersusProcess</string>
+	<key>semanticHistogramTint</key>
+	<string>requiredTransitionHead</string>
+	<key>streamProcessStyle</key>
+	<string>utilContainCycle</string>
+</dict>
+</plist>

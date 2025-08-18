@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyTaskTheme</key>
+	<string>cachePatternAcceleration</string>
+	<key>dynamicBehaviorMode</key>
+	<string>timerProcessScale</string>
+	<key>positionVisitorDistance</key>
+	<string>capacitiesAlongKind</string>
+	<key>tabbarSinceFramework</key>
+	<string>marginAsSingleton</string>
+</dict>
+</plist>

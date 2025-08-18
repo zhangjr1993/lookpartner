@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAlongJob</key>
+	<string>discardedLabelCoord</string>
+	<key>nodeIncludeMode</key>
+	<string>sceneAmongVisitor</string>
+	<key>routeSingletonOpacity</key>
+	<string>denseIntensityVelocity</string>
+	<key>tweenAgainstPrototype</key>
+	<string>basicBatchMargin</string>
+	<key>webAccessoryDelay</key>
+	<string>comprehensiveDelegateEdge</string>
+</dict>
+</plist>

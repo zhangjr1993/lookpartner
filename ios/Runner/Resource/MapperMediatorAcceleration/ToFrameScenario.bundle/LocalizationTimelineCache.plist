@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithoutMediator</key>
+	<string>containerWithoutKind</string>
+	<key>equipmentForStrategy</key>
+	<string>publicEffectOffset</string>
+	<key>overlayActionAcceleration</key>
+	<string>interpolationLayerTheme</string>
+	<key>sinkMediatorResponse</key>
+	<string>adaptiveTablePadding</string>
+	<key>statefulFragmentEdge</key>
+	<string>textfieldAlongStrategy</string>
+	<key>textStateBehavior</key>
+	<string>reducerByForm</string>
+</dict>
+</plist>

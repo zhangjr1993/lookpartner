@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPlatformPressure</key>
+	<string>commandFlyweightRate</string>
+	<key>cubitActionContrast</key>
+	<string>previewProxyScale</string>
+	<key>getxSingletonForce</key>
+	<string>playbackTypeRotation</string>
+	<key>granularSensorIndex</key>
+	<string>pinchableCubitTop</string>
+	<key>lossAgainstInterpreter</key>
+	<string>dependencyCycleTheme</string>
+	<key>lossTempleDensity</key>
+	<string>easyPriorityForce</string>
+	<key>reducerObserverDirection</key>
+	<string>optimizerScopeBrightness</string>
+	<key>resourceObserverDirection</key>
+	<string>comprehensiveAccessoryForce</string>
+	<key>secondEntropyFrequency</key>
+	<string>drawerActionPressure</string>
+	<key>semanticsOfValue</key>
+	<string>directlySkirtMomentum</string>
+</dict>
+</plist>

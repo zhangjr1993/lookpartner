@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateViaKind</key>
+	<string>taskInterpreterFormat</string>
+	<key>errorBesideStage</key>
+	<string>mediaPhaseRate</string>
+	<key>ignoredRepositoryPadding</key>
+	<string>streamOrVar</string>
+	<key>intermediateGetxMargin</key>
+	<string>unactivatedRowCenter</string>
+	<key>nodeTierPadding</key>
+	<string>repositoryStyleCount</string>
+	<key>taskTypeVisible</key>
+	<string>widgetDespiteForm</string>
+	<key>visibleCompleterOrientation</key>
+	<string>viewMethodSize</string>
+</dict>
+</plist>

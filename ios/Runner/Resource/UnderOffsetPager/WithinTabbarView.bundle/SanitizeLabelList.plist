@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystAsStyle</key>
+	<string>notifierFacadeCenter</string>
+	<key>ignoredGradientShade</key>
+	<string>responseStructureContrast</string>
+	<key>stackTaskKind</key>
+	<string>radiusOrMemento</string>
+	<key>uniformAxisInteraction</key>
+	<string>transitionWithoutObserver</string>
+</dict>
+</plist>

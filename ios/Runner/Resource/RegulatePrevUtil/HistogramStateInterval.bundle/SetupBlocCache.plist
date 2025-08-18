@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitReducerInteraction</key>
+	<string>listenerPerBridge</string>
+	<key>iconBufferBottom</key>
+	<string>lazyCubitIndex</string>
+	<key>overlayNearParam</key>
+	<string>durationForCycle</string>
+	<key>positionedFrameworkMode</key>
+	<string>mediaObserverInset</string>
+	<key>tabviewKindForce</key>
+	<string>immutableLogarithmSaturation</string>
+	<key>textAmongKind</key>
+	<string>specifyStatelessBehavior</string>
+</dict>
+</plist>

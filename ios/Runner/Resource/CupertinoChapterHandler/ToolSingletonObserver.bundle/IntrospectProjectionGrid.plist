@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureLevelShape</key>
+	<string>subtleDrawerShape</string>
+	<key>firstCacheName</key>
+	<string>nextChartOpacity</string>
+	<key>inkwellIncludeVariable</key>
+	<string>assetFlyweightOpacity</string>
+	<key>logarithmSystemVisible</key>
+	<string>cubitTypeHue</string>
+	<key>metadataIncludeForm</key>
+	<string>hardMediaqueryColor</string>
+	<key>navigatorChainFeedback</key>
+	<string>tickerFrameworkOrientation</string>
+	<key>particleParameterFormat</key>
+	<string>paddingTaskOffset</string>
+	<key>spriteVarDuration</key>
+	<string>spotModeBottom</string>
+	<key>uniqueResponseLocation</key>
+	<string>prevOptionState</string>
+	<key>webUnarySize</key>
+	<string>mutableConstraintStyle</string>
+</dict>
+</plist>

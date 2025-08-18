@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetObserverShape</key>
+	<string>cupertinoAtBridge</string>
+	<key>baseAmongContext</key>
+	<string>tableFlyweightDirection</string>
+	<key>controllerCycleContrast</key>
+	<string>cupertinoScreenLocation</string>
+	<key>cubitLevelScale</key>
+	<string>interactiveCurveSaturation</string>
+	<key>lazyTweenOffset</key>
+	<string>crucialSingletonSkewy</string>
+	<key>taskAtSystem</key>
+	<string>builderCommandSkewx</string>
+	<key>utilProcessVelocity</key>
+	<string>gradientVersusActivity</string>
+</dict>
+</plist>

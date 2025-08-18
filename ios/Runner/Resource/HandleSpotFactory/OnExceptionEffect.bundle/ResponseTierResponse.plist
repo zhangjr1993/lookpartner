@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitUntilWork</key>
+	<string>storageFacadeDelay</string>
+	<key>builderThroughInterpreter</key>
+	<string>operationByScope</string>
+	<key>menuLayerFormat</key>
+	<string>concreteVariantDirection</string>
+	<key>segmentFlyweightAcceleration</key>
+	<string>controllerLevelVisibility</string>
+	<key>sizedboxOutsideSingleton</key>
+	<string>composableMusicCount</string>
+</dict>
+</plist>

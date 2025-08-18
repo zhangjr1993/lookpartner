@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitForVar</key>
+	<string>inactiveViewVisibility</string>
+	<key>challengeStrategyKind</key>
+	<string>permissiveMobileIndex</string>
+	<key>desktopLabelVisible</key>
+	<string>layoutEnvironmentInteraction</string>
+	<key>effectScopeTheme</key>
+	<string>routeChainDuration</string>
+	<key>masterObserverVisibility</key>
+	<string>disparateMobileOffset</string>
+	<key>momentumTempleDensity</key>
+	<string>operationScopeSize</string>
+	<key>navigatorParamVisibility</key>
+	<string>animatedColumnBound</string>
+	<key>sceneProcessVisible</key>
+	<string>segueBridgeIndex</string>
+</dict>
+</plist>

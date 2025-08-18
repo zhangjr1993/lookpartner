@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyDuration</key>
+	<string>graphicAgainstCommand</string>
+	<key>injectionFlyweightSpeed</key>
+	<string>imageObserverScale</string>
+	<key>rowAboutKind</key>
+	<string>permissiveMasterAcceleration</string>
+	<key>storageTempleVisibility</key>
+	<string>elasticProtocolTop</string>
+	<key>tabviewContextPadding</key>
+	<string>dialogsBeyondLevel</string>
+</dict>
+</plist>

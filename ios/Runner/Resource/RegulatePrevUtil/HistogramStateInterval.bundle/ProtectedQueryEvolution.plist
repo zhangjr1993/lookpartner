@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConfigurationKind</key>
+	<string>gridCommandOrientation</string>
+	<key>concreteReferenceFormat</key>
+	<string>navigatorBesideBuffer</string>
+	<key>desktopStepName</key>
+	<string>boxshadowIncludeContext</string>
+	<key>groupPerSystem</key>
+	<string>streamDecoratorRight</string>
+	<key>listenerPerCycle</key>
+	<string>indicatorParameterRight</string>
+	<key>originalAwaitIndex</key>
+	<string>delicateConstraintScale</string>
+	<key>particleBeyondTier</key>
+	<string>histogramShapeTag</string>
+	<key>primaryStepBound</key>
+	<string>positionFlyweightPadding</string>
+	<key>resizableMovementPadding</key>
+	<string>appbarProcessContrast</string>
+</dict>
+</plist>

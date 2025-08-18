@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContextFeedback</key>
+	<string>columnInFramework</string>
+	<key>dynamicStreamBorder</key>
+	<string>exceptionAtAction</string>
+	<key>gestureTypeShade</key>
+	<string>reducerStateVisibility</string>
+	<key>graphAboutFramework</key>
+	<string>switchFrameworkTail</string>
+	<key>interactiveReferenceRotation</key>
+	<string>checklistAtComposite</string>
+	<key>numericalRichtextHead</key>
+	<string>cacheUntilPhase</string>
+	<key>scaleAroundObserver</key>
+	<string>spriteBesideFlyweight</string>
+	<key>sliderParamBorder</key>
+	<string>inheritedCellSize</string>
+	<key>specifyTextureDistance</key>
+	<string>remainderForState</string>
+</dict>
+</plist>

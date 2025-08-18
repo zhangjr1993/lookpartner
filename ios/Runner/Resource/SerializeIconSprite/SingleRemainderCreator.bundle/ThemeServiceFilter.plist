@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledWidgetDensity</key>
+	<string>lazyMediaName</string>
+	<key>inactiveCompletionBehavior</key>
+	<string>localGridMode</string>
+	<key>iterativeModelSize</key>
+	<string>containerOutsideScope</string>
+	<key>radioSystemRotation</key>
+	<string>queueInsidePhase</string>
+	<key>requestBufferRate</key>
+	<string>observerSystemPosition</string>
+	<key>rowAboutVar</key>
+	<string>serviceBeyondAction</string>
+	<key>singletonEnvironmentTag</key>
+	<string>gateParameterSize</string>
+	<key>storeActionPressure</key>
+	<string>pivotalHandlerDepth</string>
+</dict>
+</plist>

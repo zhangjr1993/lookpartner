@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVisitorMode</key>
+	<string>modalPerProxy</string>
+	<key>challengePerAction</key>
+	<string>progressbarAboutStyle</string>
+	<key>clipperWithoutStructure</key>
+	<string>taskBesideMode</string>
+	<key>frameWithDecorator</key>
+	<string>intuitiveTextureTint</string>
+	<key>navigationDecoratorHue</key>
+	<string>imperativeChapterInset</string>
+	<key>significantTransformerDuration</key>
+	<string>checklistNearProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideStyle</key>
+	<string>tabbarValueVelocity</string>
+	<key>inactiveShaderFeedback</key>
+	<string>dependencyLayerState</string>
+	<key>spineAsState</key>
+	<string>specifyGestureRight</string>
+</dict>
+</plist>

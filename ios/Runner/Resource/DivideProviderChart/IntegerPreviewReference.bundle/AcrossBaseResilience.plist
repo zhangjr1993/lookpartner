@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedScreenMomentum</key>
+	<string>diversifiedPreviewDuration</string>
+	<key>nativeReducerPadding</key>
+	<string>symmetricViewSpacing</string>
+	<key>seamlessExpandedBound</key>
+	<string>layerContainMethod</string>
+	<key>standaloneDurationTransparency</key>
+	<string>euclideanRepositorySaturation</string>
+	<key>techniqueVarDelay</key>
+	<string>spriteForLayer</string>
+</dict>
+</plist>

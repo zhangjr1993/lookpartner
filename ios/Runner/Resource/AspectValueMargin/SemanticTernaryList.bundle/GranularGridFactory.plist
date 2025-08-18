@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAsJob</key>
+	<string>appbarSinceLayer</string>
+	<key>aspectCommandDensity</key>
+	<string>cycleSystemVelocity</string>
+	<key>blocAgainstState</key>
+	<string>resizableSemanticsForce</string>
+	<key>chartAwaySingleton</key>
+	<string>errorBufferSaturation</string>
+	<key>fragmentParameterFeedback</key>
+	<string>effectJobLeft</string>
+	<key>gemStrategyCount</key>
+	<string>layerContextFormat</string>
+	<key>radioFrameworkMomentum</key>
+	<string>intermediateGesturedetectorSaturation</string>
+	<key>respectiveAppbarOpacity</key>
+	<string>momentumMethodOrientation</string>
+	<key>streamStrategyFeedback</key>
+	<string>specifyShaderDelay</string>
+	<key>tweenActivitySkewy</key>
+	<string>dimensionAboutJob</string>
+</dict>
+</plist>

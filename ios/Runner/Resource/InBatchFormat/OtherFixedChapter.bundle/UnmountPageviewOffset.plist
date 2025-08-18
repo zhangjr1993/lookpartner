@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredHashTag</key>
+	<string>boxVersusActivity</string>
+	<key>disabledControllerDensity</key>
+	<string>pinchableGridFeedback</string>
+	<key>easyResponseScale</key>
+	<string>scaleByBridge</string>
+	<key>entityTierColor</key>
+	<string>deferredCommandDepth</string>
+	<key>liteHeroTail</key>
+	<string>featureAwayInterpreter</string>
+	<key>optionStageOrientation</key>
+	<string>storageFlyweightBorder</string>
+	<key>primaryManagerDistance</key>
+	<string>layerThroughLevel</string>
+	<key>protectedStateOrigin</key>
+	<string>otherButtonCount</string>
+	<key>resizableRectTail</key>
+	<string>specifyRoleHead</string>
+</dict>
+</plist>

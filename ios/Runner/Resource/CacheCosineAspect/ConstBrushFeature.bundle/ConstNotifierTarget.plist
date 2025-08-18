@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDespiteVisitor</key>
+	<string>referenceInsideSystem</string>
+	<key>denseBatchDepth</key>
+	<string>queueVarFeedback</string>
+	<key>documentParamBrightness</key>
+	<string>documentEnvironmentState</string>
+	<key>easyCallbackBound</key>
+	<string>remainderVersusPhase</string>
+	<key>getxDuringPlatform</key>
+	<string>textAndKind</string>
+	<key>missedTweenFlags</key>
+	<string>factoryMementoValidation</string>
+	<key>musicAroundBuffer</key>
+	<string>cardCompositeOffset</string>
+	<key>parallelCoordinatorDelay</key>
+	<string>hardInstructionTop</string>
+	<key>reusableSpriteDuration</key>
+	<string>deferredSegueShape</string>
+</dict>
+</plist>

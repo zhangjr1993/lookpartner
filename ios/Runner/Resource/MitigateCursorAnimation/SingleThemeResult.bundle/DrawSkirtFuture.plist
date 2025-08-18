@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterCompositeInterval</key>
+	<string>diversifiedGestureRotation</string>
+	<key>commonActionContrast</key>
+	<string>baseAboutTask</string>
+	<key>ephemeralRepositorySize</key>
+	<string>sensorAtOperation</string>
+	<key>hashInStage</key>
+	<string>subtleActionState</string>
+	<key>interfaceAndStyle</key>
+	<string>denseExtensionOrientation</string>
+	<key>protectedServiceContrast</key>
+	<string>contractionBridgeBorder</string>
+	<key>requestVisitorContrast</key>
+	<string>semanticControllerValidation</string>
+	<key>staticCardRight</key>
+	<string>statefulListenerDistance</string>
+	<key>subpixelVersusSingleton</key>
+	<string>eagerGateVisibility</string>
+</dict>
+</plist>

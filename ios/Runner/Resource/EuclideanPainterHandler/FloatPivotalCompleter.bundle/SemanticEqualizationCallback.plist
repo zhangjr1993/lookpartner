@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedPlateDensity</key>
+	<string>routeInsideActivity</string>
+	<key>modalActivityScale</key>
+	<string>segmentWithFramework</string>
+	<key>modelOutsideKind</key>
+	<string>cellVersusFramework</string>
+	<key>numericalVectorMargin</key>
+	<string>singleGrainInteraction</string>
+	<key>serviceIncludeStyle</key>
+	<string>callbackSingletonShade</string>
+	<key>symbolTypeMargin</key>
+	<string>semanticSkirtBehavior</string>
+	<key>tabviewAmongMediator</key>
+	<string>menuDecoratorValidation</string>
+	<key>utilBesideCommand</key>
+	<string>uniformToolInterval</string>
+	<key>widgetTempleHue</key>
+	<string>priorSessionLeft</string>
+</dict>
+</plist>

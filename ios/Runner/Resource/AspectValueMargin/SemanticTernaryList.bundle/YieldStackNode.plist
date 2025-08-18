@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNotifierCoord</key>
+	<string>collectionContextInteraction</string>
+	<key>consultativeCustompaintColor</key>
+	<string>reactivePopupOpacity</string>
+	<key>coordinatorLevelBehavior</key>
+	<string>sortedScaffoldDuration</string>
+	<key>instructionShapeMode</key>
+	<string>screenSingletonTail</string>
+	<key>mainBorderTension</key>
+	<string>autoBoxshadowSaturation</string>
+</dict>
+</plist>

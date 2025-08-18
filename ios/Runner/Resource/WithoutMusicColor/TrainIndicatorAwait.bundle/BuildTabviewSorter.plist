@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetParameterRight</key>
+	<string>independentThreadAcceleration</string>
+	<key>asynchronousPreviewRotation</key>
+	<string>flexibleLossAlignment</string>
+	<key>concurrentExpandedFlags</key>
+	<string>queryFrameworkSkewx</string>
+	<key>gestureAgainstDecorator</key>
+	<string>widgetInterpreterDirection</string>
+	<key>modalStrategyCenter</key>
+	<string>asyncAllocatorRate</string>
+	<key>optionMethodDirection</key>
+	<string>arithmeticEnvironmentCenter</string>
+	<key>resilientProviderShade</key>
+	<string>alphaScopeOrigin</string>
+	<key>subsequentBinaryBehavior</key>
+	<string>lostModelHead</string>
+</dict>
+</plist>

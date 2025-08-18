@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeRight</key>
+	<string>explicitFrameTop</string>
+	<key>cosineLikeEnvironment</key>
+	<string>memberWithType</string>
+	<key>featureFormVisibility</key>
+	<string>mutableTimerRight</string>
+	<key>sceneAndActivity</key>
+	<string>previewLikeObserver</string>
+	<key>signStrategyStyle</key>
+	<string>characterIncludeSingleton</string>
+</dict>
+</plist>

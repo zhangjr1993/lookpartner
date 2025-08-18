@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStrategyDensity</key>
+	<string>finalTouchMomentum</string>
+	<key>customSessionPadding</key>
+	<string>dynamicAllocatorTail</string>
+	<key>dedicatedNotificationDensity</key>
+	<string>elasticGramResponse</string>
+	<key>gesturedetectorUntilTemple</key>
+	<string>actionInTask</string>
+	<key>giftAmongVisitor</key>
+	<string>newestFragmentVisibility</string>
+	<key>tappableMethodOffset</key>
+	<string>cardWorkOrientation</string>
+	<key>themeProxyPadding</key>
+	<string>curveBesideAction</string>
+</dict>
+</plist>

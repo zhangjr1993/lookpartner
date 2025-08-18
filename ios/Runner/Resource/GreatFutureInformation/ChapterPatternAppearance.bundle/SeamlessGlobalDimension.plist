@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisitorFrequency</key>
+	<string>effectUntilCommand</string>
+	<key>asyncInAction</key>
+	<string>sinkNearCycle</string>
+	<key>basicListenerFrequency</key>
+	<string>queryDuringFacade</string>
+	<key>cubeStyleLocation</key>
+	<string>animationOutsideType</string>
+	<key>diffableAppbarAlignment</key>
+	<string>ephemeralButtonSkewx</string>
+	<key>finalContainerStyle</key>
+	<string>dependencyOrFunction</string>
+	<key>layoutAroundObserver</key>
+	<string>materialAwaitBound</string>
+	<key>mediaqueryOperationTension</key>
+	<string>drawerStageRate</string>
+</dict>
+</plist>

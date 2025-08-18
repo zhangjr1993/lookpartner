@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInjectionPadding</key>
+	<string>groupAlongSystem</string>
+	<key>functionalTextFeedback</key>
+	<string>boxshadowSingletonBorder</string>
+	<key>gridSingletonHue</key>
+	<string>channelsProxyFlags</string>
+	<key>hashChainSpacing</key>
+	<string>dynamicControllerVisible</string>
+	<key>indicatorNumberName</key>
+	<string>enabledPresenterPosition</string>
+	<key>prevPreviewRight</key>
+	<string>futureKindRotation</string>
+	<key>promiseAgainstDecorator</key>
+	<string>swiftWithoutMemento</string>
+	<key>scrollMementoBehavior</key>
+	<string>invisibleButtonCenter</string>
+	<key>sequentialStateSkewx</key>
+	<string>transformerAsActivity</string>
+</dict>
+</plist>

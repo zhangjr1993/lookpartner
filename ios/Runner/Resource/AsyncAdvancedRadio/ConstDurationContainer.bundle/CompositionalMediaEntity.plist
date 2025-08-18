@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBitratePadding</key>
+	<string>rowStageScale</string>
+	<key>batchStateCoord</key>
+	<string>uniqueSinkRotation</string>
+	<key>controllerSystemSkewx</key>
+	<string>queueWithStrategy</string>
+	<key>disabledAccessoryIndex</key>
+	<string>providerStructureDirection</string>
+	<key>lastGateVisibility</key>
+	<string>scrollMethodFrequency</string>
+	<key>mediaNearProxy</key>
+	<string>responseAlongEnvironment</string>
+	<key>requiredTextCoord</key>
+	<string>composableInjectionMargin</string>
+	<key>resizableNavigatorFlags</key>
+	<string>sizedboxViaProxy</string>
+</dict>
+</plist>

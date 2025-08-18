@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorParameterRotation</key>
+	<string>nodeDuringProxy</string>
+	<key>effectDecoratorName</key>
+	<string>sceneAroundObserver</string>
+	<key>frameFromProxy</key>
+	<string>protectedStoryboardDensity</string>
+	<key>marginInAdapter</key>
+	<string>intermediateColumnAlignment</string>
+	<key>playbackTypeTheme</key>
+	<string>semanticAlertDuration</string>
+	<key>signatureVarRight</key>
+	<string>buttonPatternSaturation</string>
+</dict>
+</plist>

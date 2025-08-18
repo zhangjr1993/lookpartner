@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCacheEdge</key>
+	<string>statefulReferenceShade</string>
+	<key>eventThroughMethod</key>
+	<string>nibLayerContrast</string>
+	<key>notifierAboutPlatform</key>
+	<string>momentumExceptMethod</string>
+	<key>priorityForSingleton</key>
+	<string>textKindHead</string>
+	<key>requestTempleFeedback</key>
+	<string>taskContainParameter</string>
+	<key>smallUsageTint</key>
+	<string>grainBufferDistance</string>
+</dict>
+</plist>

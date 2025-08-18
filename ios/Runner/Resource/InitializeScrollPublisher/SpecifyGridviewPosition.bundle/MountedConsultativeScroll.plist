@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonEdge</key>
+	<string>catalystPlatformTop</string>
+	<key>easyFragmentFrequency</key>
+	<string>visibleAlphaCoord</string>
+	<key>mapByShape</key>
+	<string>semanticInterfaceBorder</string>
+	<key>topicSingletonVisibility</key>
+	<string>finalBuilderTop</string>
+	<key>usecaseOutsideStage</key>
+	<string>oldCurveIndex</string>
+	<key>utilPrototypeRotation</key>
+	<string>mobileCatalystDistance</string>
+</dict>
+</plist>

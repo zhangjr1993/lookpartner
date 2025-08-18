@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleShade</key>
+	<string>mediocreSizeBound</string>
+	<key>asynchronousOffsetKind</key>
+	<string>densePresenterAlignment</string>
+	<key>diffableStepVelocity</key>
+	<string>notificationForState</string>
+	<key>handlerAtStrategy</key>
+	<string>compositionalCollectionKind</string>
+	<key>loopFacadeType</key>
+	<string>textureVarSpeed</string>
+	<key>stepTierRate</key>
+	<string>singletonActionRight</string>
+	<key>textShapeFeedback</key>
+	<string>textCycleMomentum</string>
+</dict>
+</plist>

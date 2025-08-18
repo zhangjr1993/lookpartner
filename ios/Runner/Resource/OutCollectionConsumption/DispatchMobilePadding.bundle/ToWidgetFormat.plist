@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFacadeValidation</key>
+	<string>streamOutsideStyle</string>
+	<key>cycleNearShape</key>
+	<string>buttonVarStatus</string>
+	<key>dependencyWithoutVariable</key>
+	<string>largeHeroBottom</string>
+	<key>fusedDecorationPosition</key>
+	<string>giftPerPrototype</string>
+	<key>requiredGateTop</key>
+	<string>prismaticInjectionDepth</string>
+</dict>
+</plist>

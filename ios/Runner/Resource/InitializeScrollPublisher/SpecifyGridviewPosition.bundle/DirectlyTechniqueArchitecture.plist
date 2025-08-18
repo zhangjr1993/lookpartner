@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPhasePadding</key>
+	<string>sliderCycleVelocity</string>
+	<key>featureInVariable</key>
+	<string>widgetProxyAlignment</string>
+	<key>modulusShapeTail</key>
+	<string>subscriptionEnvironmentOpacity</string>
+	<key>observerPerStructure</key>
+	<string>similarIsolateSize</string>
+	<key>spriteChainTail</key>
+	<string>dependencyPlatformTail</string>
+	<key>stateOfEnvironment</key>
+	<string>fixedSegmentSkewx</string>
+</dict>
+</plist>

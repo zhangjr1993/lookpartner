@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDespiteKind</key>
+	<string>storageInsideStrategy</string>
+	<key>imageTierInset</key>
+	<string>deferredNodeVisible</string>
+	<key>lastHeapFeedback</key>
+	<string>petChainVisible</string>
+	<key>presenterFromKind</key>
+	<string>progressbarStructureCoord</string>
+	<key>previewPlatformValidation</key>
+	<string>arithmeticContainerTransparency</string>
+	<key>sinkPerVisitor</key>
+	<string>columnAdapterSpeed</string>
+	<key>tickerAwayLevel</key>
+	<string>seamlessSkinOrigin</string>
+	<key>transformerObserverShade</key>
+	<string>managerByMethod</string>
+	<key>variantActionDirection</key>
+	<string>cupertinoValueShade</string>
+</dict>
+</plist>

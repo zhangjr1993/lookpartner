@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFromVariable</key>
+	<string>spriteMethodDuration</string>
+	<key>deferredStoryboardTint</key>
+	<string>responseNearParam</string>
+	<key>intensityLikeStage</key>
+	<string>textVarName</string>
+	<key>mutableRadioInteraction</key>
+	<string>previewDecoratorInset</string>
+	<key>progressbarFromPhase</key>
+	<string>semanticLabelTop</string>
+	<key>utilDecoratorState</key>
+	<string>topicChainTint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveChainRate</key>
+	<string>chapterSingletonOpacity</string>
+	<key>draggableGridviewStatus</key>
+	<string>delicateSliderInset</string>
+	<key>durationVarPosition</key>
+	<string>cycleThroughParam</string>
+	<key>grainIncludeForm</key>
+	<string>responsiveSingletonInteraction</string>
+	<key>protocolForValue</key>
+	<string>spotEnvironmentMode</string>
+	<key>statefulCosineBehavior</key>
+	<string>channelAroundLayer</string>
+	<key>timerObserverMode</key>
+	<string>tabviewUntilPhase</string>
+</dict>
+</plist>

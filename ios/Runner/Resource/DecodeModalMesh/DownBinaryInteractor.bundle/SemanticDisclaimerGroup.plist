@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocObserverFeedback</key>
+	<string>unaryAlongAction</string>
+	<key>containerLayerMode</key>
+	<string>optimizerFormSkewx</string>
+	<key>isolateOutsideFacade</key>
+	<string>intermediateLocalizationTag</string>
+	<key>iterativePlaybackRate</key>
+	<string>groupModeDepth</string>
+	<key>operationAroundAction</key>
+	<string>activatedUsecaseDuration</string>
+	<key>queryDuringInterpreter</key>
+	<string>nodeStageMode</string>
+	<key>semanticAllocatorHue</key>
+	<string>sophisticatedReductionVisibility</string>
+	<key>tabviewUntilKind</key>
+	<string>tickerEnvironmentFormat</string>
+</dict>
+</plist>

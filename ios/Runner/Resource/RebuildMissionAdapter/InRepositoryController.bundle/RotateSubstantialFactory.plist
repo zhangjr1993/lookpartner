@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLikeProxy</key>
+	<string>notifierBeyondMethod</string>
+	<key>cubitFlyweightKind</key>
+	<string>utilFrameworkOrigin</string>
+	<key>descriptionContextInset</key>
+	<string>popupModeLocation</string>
+	<key>effectOutsideState</key>
+	<string>axisVersusPlatform</string>
+	<key>interfaceContextTransparency</key>
+	<string>desktopInjectionVisible</string>
+	<key>memberParameterResponse</key>
+	<string>widgetFrameworkEdge</string>
+	<key>roleOrSystem</key>
+	<string>multiCaptionMargin</string>
+	<key>seamlessChartSkewx</key>
+	<string>baselineCommandRight</string>
+	<key>timerStageSaturation</key>
+	<string>signatureSingletonColor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapAndInterpreter</key>
+	<string>animatedGraphSize</string>
+	<key>presenterParamColor</key>
+	<string>captionDuringMode</string>
+	<key>providerContainInterpreter</key>
+	<string>customEntityTag</string>
+	<key>queueAmongVisitor</key>
+	<string>relationalNavigationPadding</string>
+	<key>subpixelInsideOperation</key>
+	<string>tableProxyLocation</string>
+	<key>textWithPhase</key>
+	<string>lazyResponseBehavior</string>
+</dict>
+</plist>

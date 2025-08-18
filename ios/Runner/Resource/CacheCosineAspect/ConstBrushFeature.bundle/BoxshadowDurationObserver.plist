@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerDuringComposite</key>
+	<string>webTransitionIndex</string>
+	<key>factoryFromActivity</key>
+	<string>injectionAsTask</string>
+	<key>futureUntilStructure</key>
+	<string>alphaThroughWork</string>
+	<key>labelParamTheme</key>
+	<string>callbackVersusPlatform</string>
+	<key>riverpodNearStructure</key>
+	<string>actionAgainstStructure</string>
+	<key>roleCompositeOrigin</key>
+	<string>immediateBlocAppearance</string>
+</dict>
+</plist>

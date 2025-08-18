@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobMode</key>
+	<string>menuOperationSize</string>
+	<key>finalGroupInteraction</key>
+	<string>decorationForTier</string>
+	<key>groupVariableRight</key>
+	<string>layerWorkVisibility</string>
+	<key>mediocreLayerStyle</key>
+	<string>convolutionPatternVisibility</string>
+	<key>popupSingletonOffset</key>
+	<string>durationWithoutMethod</string>
+	<key>slashNumberDensity</key>
+	<string>aspectratioWithoutAction</string>
+</dict>
+</plist>

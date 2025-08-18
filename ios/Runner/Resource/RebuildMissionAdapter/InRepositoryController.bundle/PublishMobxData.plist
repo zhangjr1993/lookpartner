@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBuilderDelay</key>
+	<string>constraintTypeDuration</string>
+	<key>awaitWorkAlignment</key>
+	<string>layoutContextOrientation</string>
+	<key>commandAboutActivity</key>
+	<string>instructionIncludeInterpreter</string>
+	<key>greatEntropyCoord</key>
+	<string>timerAndOperation</string>
+	<key>loopSinceInterpreter</key>
+	<string>decorationProxyResponse</string>
+	<key>pageviewAboutPlatform</key>
+	<string>temporaryIntensityEdge</string>
+	<key>resultDecoratorOrigin</key>
+	<string>animatedTextTension</string>
+	<key>tabviewAwayJob</key>
+	<string>composableSpriteCenter</string>
+	<key>viewOrLayer</key>
+	<string>eventParamColor</string>
+</dict>
+</plist>

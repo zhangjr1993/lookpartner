@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetLayerRate</key>
+	<string>toolVersusVariable</string>
+	<key>curveIncludeContext</key>
+	<string>tweenByFacade</string>
+	<key>independentChapterOrientation</key>
+	<string>usecaseAtFacade</string>
+	<key>localWorkflowOpacity</key>
+	<string>resourceFacadeScale</string>
+	<key>memberViaFunction</key>
+	<string>usageCommandSpeed</string>
+	<key>segueStrategySkewx</key>
+	<string>deferredStoragePressure</string>
+	<key>smallAnimationValidation</key>
+	<string>reducerInProcess</string>
+	<key>ternaryUntilCommand</key>
+	<string>intermediateTextureAlignment</string>
+</dict>
+</plist>

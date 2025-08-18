@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleAppearance</key>
+	<string>curveExceptCommand</string>
+	<key>elasticNavigatorIndex</key>
+	<string>tappableRadioFeedback</string>
+	<key>interpolationAroundChain</key>
+	<string>navigationProxyCenter</string>
+	<key>methodSinceStyle</key>
+	<string>alertCommandAlignment</string>
+	<key>typicalLayoutScale</key>
+	<string>tweenValueBehavior</string>
+</dict>
+</plist>

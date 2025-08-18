@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGrayscaleBorder</key>
+	<string>lossProxyShade</string>
+	<key>eventFacadeBehavior</key>
+	<string>subsequentBatchSize</string>
+	<key>handlerLayerMomentum</key>
+	<string>keySizeName</string>
+	<key>kernelTierMomentum</key>
+	<string>cubitOutsideScope</string>
+	<key>layoutProcessHue</key>
+	<string>synchronousFrameOffset</string>
+	<key>lazyBinaryBottom</key>
+	<string>persistentDecorationRotation</string>
+	<key>listenerParamPosition</key>
+	<string>mobileStateInterval</string>
+	<key>localMetadataVisible</key>
+	<string>coordinatorVariableSkewy</string>
+	<key>permissiveParticleShade</key>
+	<string>alignmentAwayStructure</string>
+</dict>
+</plist>

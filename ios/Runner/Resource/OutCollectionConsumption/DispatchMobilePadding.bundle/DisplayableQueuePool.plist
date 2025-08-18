@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerTier</key>
+	<string>rectPrototypeStatus</string>
+	<key>coordinatorStrategyBrightness</key>
+	<string>robustCatalystFrequency</string>
+	<key>crudeStatefulPressure</key>
+	<string>interfaceOrProcess</string>
+	<key>decorationObserverShade</key>
+	<string>criticalSubpixelSkewy</string>
+	<key>explicitGramRight</key>
+	<string>mediumGramTint</string>
+	<key>mobilePainterSkewy</key>
+	<string>errorInLayer</string>
+	<key>mobileUntilVariable</key>
+	<string>signOrObserver</string>
+	<key>ternaryBesideComposite</key>
+	<string>statelessAsFunction</string>
+</dict>
+</plist>

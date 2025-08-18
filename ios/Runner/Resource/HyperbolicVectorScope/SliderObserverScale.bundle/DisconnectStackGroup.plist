@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerContainVar</key>
+	<string>labelPerShape</string>
+	<key>denseTimerPosition</key>
+	<string>optimizerParameterDepth</string>
+	<key>ignoredPointAlignment</key>
+	<string>expandedBesidePattern</string>
+	<key>mediumBufferCount</key>
+	<string>explicitPageviewState</string>
+	<key>textOutsideActivity</key>
+	<string>resizableInteractorShade</string>
+</dict>
+</plist>

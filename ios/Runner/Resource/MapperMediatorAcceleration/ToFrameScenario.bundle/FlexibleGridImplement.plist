@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEffectValidation</key>
+	<string>kernelContextName</string>
+	<key>curveWorkDuration</key>
+	<string>featureBesideActivity</string>
+	<key>errorOfStrategy</key>
+	<string>asynchronousReducerEdge</string>
+	<key>layerStageInteraction</key>
+	<string>gestureObserverRate</string>
+	<key>switchMementoFrequency</key>
+	<string>presenterThroughFramework</string>
+	<key>widgetWithMemento</key>
+	<string>respectiveLabelDelay</string>
+</dict>
+</plist>

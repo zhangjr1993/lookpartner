@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorModeVisibility</key>
+	<string>desktopLabelResponse</string>
+	<key>protectedChapterMode</key>
+	<string>routerFrameworkCoord</string>
+	<key>signatureVarOffset</key>
+	<string>denseSlashRate</string>
+	<key>subpixelPhaseInteraction</key>
+	<string>aspectJobDuration</string>
+</dict>
+</plist>

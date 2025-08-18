@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityByBuffer</key>
+	<string>crucialTickerDepth</string>
+	<key>curveAsParameter</key>
+	<string>nativeTabbarAppearance</string>
+	<key>euclideanCycleScale</key>
+	<string>spriteContextEdge</string>
+	<key>inkwellAlongShape</key>
+	<string>equalizationWithFramework</string>
+	<key>reducerMethodOffset</key>
+	<string>sinkAroundProxy</string>
+	<key>riverpodPhaseEdge</key>
+	<string>lossAsCommand</string>
+	<key>viewPerParam</key>
+	<string>constraintAtAction</string>
+</dict>
+</plist>

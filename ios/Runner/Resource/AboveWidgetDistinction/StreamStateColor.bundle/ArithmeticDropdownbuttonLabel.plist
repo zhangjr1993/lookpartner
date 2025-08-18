@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTextureTheme</key>
+	<string>titleLayerPressure</string>
+	<key>geometricDropdownbuttonSpeed</key>
+	<string>builderForNumber</string>
+	<key>ignoredToolVelocity</key>
+	<string>listenerViaPrototype</string>
+	<key>isolateVersusBuffer</key>
+	<string>assetFlyweightTag</string>
+	<key>parallelViewShade</key>
+	<string>sensorParamName</string>
+	<key>playbackBridgePosition</key>
+	<string>scaffoldUntilLevel</string>
+	<key>scrollableDescriptorVisible</key>
+	<string>similarGetxRate</string>
+	<key>streamThroughLevel</key>
+	<string>requiredStatelessInset</string>
+</dict>
+</plist>

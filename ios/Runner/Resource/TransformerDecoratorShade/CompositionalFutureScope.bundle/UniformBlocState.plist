@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAtActivity</key>
+	<string>resultInParameter</string>
+	<key>completionBufferInteraction</key>
+	<string>exceptionWithoutContext</string>
+	<key>controllerSingletonDirection</key>
+	<string>spriteOrParam</string>
+	<key>cubitStageTop</key>
+	<string>finalSwiftShade</string>
+	<key>dynamicCubeBehavior</key>
+	<string>popupObserverTint</string>
+	<key>particleValueName</key>
+	<string>responseChainType</string>
+	<key>projectLikeNumber</key>
+	<string>pinchableControllerScale</string>
+</dict>
+</plist>

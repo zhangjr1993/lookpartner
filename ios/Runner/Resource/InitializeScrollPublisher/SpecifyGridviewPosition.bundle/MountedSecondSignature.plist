@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLevelAcceleration</key>
+	<string>intuitiveAxisVelocity</string>
+	<key>diffableEventBottom</key>
+	<string>ephemeralListviewVelocity</string>
+	<key>grayscaleSingletonSize</key>
+	<string>secondContainerLocation</string>
+	<key>localChartAcceleration</key>
+	<string>custompaintAsJob</string>
+	<key>modulusViaFunction</key>
+	<string>animationBesideCycle</string>
+	<key>statefulThroughType</key>
+	<string>responsiveCubeSkewx</string>
+	<key>subsequentImageState</key>
+	<string>greatNavigatorTop</string>
+	<key>synchronousChartMode</key>
+	<string>seamlessGrayscaleSaturation</string>
+	<key>techniqueAboutShape</key>
+	<string>concurrentMobxDirection</string>
+</dict>
+</plist>

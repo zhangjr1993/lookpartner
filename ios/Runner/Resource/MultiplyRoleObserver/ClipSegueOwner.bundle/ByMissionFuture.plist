@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBesidePattern</key>
+	<string>accordionIntensityFeedback</string>
+	<key>columnAgainstMethod</key>
+	<string>scaleValueValidation</string>
+	<key>completionNearBuffer</key>
+	<string>cupertinoSystemVisible</string>
+	<key>difficultActionDuration</key>
+	<string>taskTaskStyle</string>
+	<key>gemBesideDecorator</key>
+	<string>gateProxyCount</string>
+	<key>metadataAsContext</key>
+	<string>decorationNearPattern</string>
+	<key>permissiveCapsuleTag</key>
+	<string>deferredSessionTag</string>
+	<key>queryProxyAppearance</key>
+	<string>accessibleVectorDepth</string>
+	<key>serviceThroughLayer</key>
+	<string>documentPatternStatus</string>
+</dict>
+</plist>

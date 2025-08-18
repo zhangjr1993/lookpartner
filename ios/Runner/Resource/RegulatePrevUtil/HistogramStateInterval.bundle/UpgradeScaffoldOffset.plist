@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleWithoutParam</key>
+	<string>appbarAsStyle</string>
+	<key>dependencyPhaseTag</key>
+	<string>descriptorIncludeBridge</string>
+	<key>flexThanPrototype</key>
+	<string>gesturedetectorExceptSingleton</string>
+	<key>futureExceptObserver</key>
+	<string>finalUnaryTail</string>
+	<key>groupAtOperation</key>
+	<string>monsterUntilMode</string>
+	<key>groupDecoratorVisible</key>
+	<string>timerVersusProcess</string>
+	<key>layerViaPrototype</key>
+	<string>animationVisitorColor</string>
+	<key>menuContainComposite</key>
+	<string>segmentAboutValue</string>
+	<key>missionFormName</key>
+	<string>effectObserverState</string>
+	<key>retainedDescriptionHue</key>
+	<string>sceneEnvironmentShade</string>
+</dict>
+</plist>

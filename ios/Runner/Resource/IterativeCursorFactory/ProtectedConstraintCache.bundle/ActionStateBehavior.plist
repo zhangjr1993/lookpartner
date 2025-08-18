@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStatefulOrigin</key>
+	<string>localizationParamInteraction</string>
+	<key>navigationStyleAcceleration</key>
+	<string>timerFromAdapter</string>
+	<key>queueOperationRate</key>
+	<string>fixedSingletonDirection</string>
+	<key>sophisticatedRadioSize</key>
+	<string>persistentMemberSkewy</string>
+	<key>specifyScaleRotation</key>
+	<string>persistentTextfieldStatus</string>
+	<key>tensorGrainHue</key>
+	<string>unactivatedTextureVisibility</string>
+</dict>
+</plist>

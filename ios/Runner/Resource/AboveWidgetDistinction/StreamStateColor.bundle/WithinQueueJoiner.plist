@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDuringTask</key>
+	<string>futureParameterBound</string>
+	<key>granularTextCenter</key>
+	<string>integerByVisitor</string>
+	<key>navigationPatternAlignment</key>
+	<string>substantialNavigatorFormat</string>
+	<key>offsetAroundEnvironment</key>
+	<string>reusableListenerShade</string>
+	<key>persistentTaskScale</key>
+	<string>pinchableQueryBehavior</string>
+	<key>resourceContextHead</key>
+	<string>queueStrategyFlags</string>
+	<key>sinkThanWork</key>
+	<string>workflowActivityDelay</string>
+	<key>statefulSliderResponse</key>
+	<string>serviceFacadeDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBaseDistance</key>
+	<string>exceptionParamMode</string>
+	<key>reducerDespiteProxy</key>
+	<string>movementAsProxy</string>
+</dict>
+</plist>

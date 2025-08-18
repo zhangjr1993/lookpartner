@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioKindValidation</key>
+	<string>dependencyByForm</string>
+	<key>easyPositionTail</key>
+	<string>equipmentNumberName</string>
+	<key>listenerInsideCycle</key>
+	<string>materialAnimationInset</string>
+	<key>specifyHeroRight</key>
+	<string>criticalGradientOffset</string>
+</dict>
+</plist>

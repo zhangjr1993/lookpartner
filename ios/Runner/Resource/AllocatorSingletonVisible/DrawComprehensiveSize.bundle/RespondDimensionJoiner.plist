@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyKindVelocity</key>
+	<string>responsePhaseTag</string>
+	<key>lossIncludeStrategy</key>
+	<string>reducerBridgeKind</string>
+	<key>modalAndFlyweight</key>
+	<string>integerLayerInteraction</string>
+	<key>queueObserverShade</key>
+	<string>activeSpriteSize</string>
+</dict>
+</plist>

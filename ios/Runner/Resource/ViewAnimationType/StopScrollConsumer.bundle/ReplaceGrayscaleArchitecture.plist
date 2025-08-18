@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActivityEdge</key>
+	<string>listenerBridgeHead</string>
+	<key>checklistPatternOrigin</key>
+	<string>descriptionForLevel</string>
+	<key>dependencyAwayFlyweight</key>
+	<string>themeSystemInset</string>
+	<key>disabledVectorBrightness</key>
+	<string>spriteAdapterPosition</string>
+	<key>durationThanTask</key>
+	<string>completerCommandStatus</string>
+	<key>rectDuringJob</key>
+	<string>tweenOperationDensity</string>
+	<key>textfieldAgainstParameter</key>
+	<string>viewExceptPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerDecoratorPressure</key>
+	<string>backwardGridPressure</string>
+	<key>consumerDecoratorSize</key>
+	<string>notificationDuringSystem</string>
+	<key>errorAsInterpreter</key>
+	<string>decorationInsideProcess</string>
+	<key>ignoredManagerInteraction</key>
+	<string>visibleProgressbarSaturation</string>
+	<key>intermediateContainerContrast</key>
+	<string>grainDuringTask</string>
+	<key>isolateAndForm</key>
+	<string>parallelWorkflowMode</string>
+	<key>sizedboxSingletonRight</key>
+	<string>vectorContextDelay</string>
+	<key>storyboardAmongProxy</key>
+	<string>zoneStrategyColor</string>
+</dict>
+</plist>

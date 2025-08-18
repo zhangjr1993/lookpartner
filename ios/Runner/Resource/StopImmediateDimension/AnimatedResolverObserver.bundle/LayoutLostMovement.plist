@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryByAction</key>
+	<string>primaryAnimationAlignment</string>
+	<key>blocValueOrigin</key>
+	<string>diffableNibLocation</string>
+	<key>buttonNumberOrigin</key>
+	<string>projectValueDuration</string>
+	<key>canvasAndScope</key>
+	<string>persistentBehaviorDensity</string>
+	<key>collectionStateAppearance</key>
+	<string>methodLevelEdge</string>
+	<key>constraintDuringVar</key>
+	<string>observerStageVelocity</string>
+	<key>gateDecoratorBehavior</key>
+	<string>originalRowStatus</string>
+	<key>iconFormDepth</key>
+	<string>coordinatorThanAction</string>
+	<key>numericalTimerOpacity</key>
+	<string>hyperbolicStoreOrientation</string>
+	<key>radiusSingletonResponse</key>
+	<string>sceneActionOrientation</string>
+</dict>
+</plist>

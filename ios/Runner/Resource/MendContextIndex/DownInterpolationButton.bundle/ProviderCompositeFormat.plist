@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCurvePosition</key>
+	<string>mediaqueryTaskFrequency</string>
+	<key>constraintLikeScope</key>
+	<string>scrollMethodBrightness</string>
+	<key>curveOrStage</key>
+	<string>singlePointPosition</string>
+	<key>draggableTitleRotation</key>
+	<string>shaderActivityShade</string>
+	<key>protectedTransitionAppearance</key>
+	<string>buttonForMethod</string>
+	<key>referenceAlongType</key>
+	<string>arithmeticSignDistance</string>
+	<key>storeFacadeTag</key>
+	<string>desktopStreamSkewx</string>
+</dict>
+</plist>

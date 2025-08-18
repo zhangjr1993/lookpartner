@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTypeTag</key>
+	<string>sizeInVariable</string>
+	<key>callbackForMode</key>
+	<string>listenerNearParameter</string>
+	<key>collectionWithoutActivity</key>
+	<string>binaryFromFramework</string>
+	<key>concurrentSubpixelOffset</key>
+	<string>logWithoutCommand</string>
+	<key>hardOperationContrast</key>
+	<string>imageShapeOrigin</string>
+	<key>hashObserverMargin</key>
+	<string>scrollableNavigatorCount</string>
+	<key>nodeThroughFlyweight</key>
+	<string>ternaryAwayFacade</string>
+</dict>
+</plist>

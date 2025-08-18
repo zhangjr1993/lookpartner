@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConstraintBottom</key>
+	<string>labelAdapterState</string>
+	<key>alignmentParamOrientation</key>
+	<string>alertSincePlatform</string>
+	<key>futureBridgeBrightness</key>
+	<string>modulusTypeSkewx</string>
+	<key>loopPerProcess</key>
+	<string>boxOrEnvironment</string>
+	<key>pageviewNumberBound</key>
+	<string>ephemeralSignTag</string>
+	<key>permanentResultHue</key>
+	<string>primaryRadiusTint</string>
+	<key>serviceSinceScope</key>
+	<string>optionCommandDepth</string>
+	<key>statefulSizeContrast</key>
+	<string>tappableGridDepth</string>
+</dict>
+</plist>

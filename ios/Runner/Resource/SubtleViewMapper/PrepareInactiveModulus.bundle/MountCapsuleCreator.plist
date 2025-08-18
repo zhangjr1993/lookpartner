@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPrototypeStyle</key>
+	<string>hierarchicalTransitionStatus</string>
+	<key>coordinatorInterpreterDirection</key>
+	<string>featureKindEdge</string>
+	<key>interpolationAtOperation</key>
+	<string>completionUntilComposite</string>
+	<key>metadataInsideFacade</key>
+	<string>techniqueStructureHead</string>
+	<key>resolverObserverSkewx</key>
+	<string>labelOutsideObserver</string>
+	<key>temporaryFactoryForce</key>
+	<string>specifyBatchDirection</string>
+</dict>
+</plist>

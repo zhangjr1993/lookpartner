@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitHashInterval</key>
+	<string>alertPerEnvironment</string>
+	<key>futureBesideSingleton</key>
+	<string>streamExceptStage</string>
+	<key>menuStyleSkewx</key>
+	<string>otherMenuTail</string>
+	<key>workflowOutsideLevel</key>
+	<string>substantialAnimationInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNavigatorOffset</key>
+	<string>similarTextSaturation</string>
+	<key>borderPatternInterval</key>
+	<string>titleFlyweightBrightness</string>
+	<key>descriptorIncludeStructure</key>
+	<string>priorOperationDirection</string>
+	<key>factoryAgainstValue</key>
+	<string>requestCommandDuration</string>
+	<key>gatePatternPadding</key>
+	<string>taskBeyondStage</string>
+	<key>isolateOutsideInterpreter</key>
+	<string>logOutsideProcess</string>
+	<key>sinkWithLayer</key>
+	<string>notifierWithoutOperation</string>
+	<key>smartStackBound</key>
+	<string>staticCanvasCenter</string>
+	<key>spriteScopeForce</key>
+	<string>independentAssetState</string>
+</dict>
+</plist>

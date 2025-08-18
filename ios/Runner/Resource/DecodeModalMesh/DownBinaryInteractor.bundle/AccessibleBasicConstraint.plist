@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAgainstFlyweight</key>
+	<string>symmetricGateTail</string>
+	<key>constEventInset</key>
+	<string>smartSignDistance</string>
+	<key>coordinatorTypeTop</key>
+	<string>animatedOperationShape</string>
+	<key>handlerAndFlyweight</key>
+	<string>entityDespiteMethod</string>
+	<key>nextRadiusLocation</key>
+	<string>statelessCompositeTail</string>
+	<key>signatureOrMode</key>
+	<string>equipmentPhaseType</string>
+</dict>
+</plist>

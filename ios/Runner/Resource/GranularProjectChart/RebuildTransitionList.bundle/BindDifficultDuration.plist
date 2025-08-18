@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOrBridge</key>
+	<string>injectionCommandAppearance</string>
+	<key>diversifiedPageviewMode</key>
+	<string>channelVisitorBehavior</string>
+	<key>granularViewAppearance</key>
+	<string>pinchableSineRotation</string>
+	<key>queryPatternCount</key>
+	<string>aspectratioFacadeScale</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOperationTint</key>
+	<string>publicSymbolBottom</string>
+	<key>displayableChannelPressure</key>
+	<string>firstAccessoryOffset</string>
+	<key>inactiveProjectSpeed</key>
+	<string>variantAmongNumber</string>
+	<key>marginInsidePlatform</key>
+	<string>reducerNumberDensity</string>
+</dict>
+</plist>

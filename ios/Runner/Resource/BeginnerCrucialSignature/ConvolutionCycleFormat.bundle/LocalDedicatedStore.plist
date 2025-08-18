@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStampPressure</key>
+	<string>durationFromVar</string>
+	<key>commandBeyondFunction</key>
+	<string>textfieldStyleDepth</string>
+	<key>graphFunctionHue</key>
+	<string>popupMethodBehavior</string>
+	<key>reactiveNavigatorSaturation</key>
+	<string>flexPhaseShade</string>
+	<key>serviceFlyweightPosition</key>
+	<string>gemOfMemento</string>
+	<key>titleOrPrototype</key>
+	<string>bufferAtMode</string>
+</dict>
+</plist>

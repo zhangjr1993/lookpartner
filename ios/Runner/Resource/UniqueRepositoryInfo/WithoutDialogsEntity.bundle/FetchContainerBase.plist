@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBesideComposite</key>
+	<string>signatureScopeDuration</string>
+	<key>asynchronousActionDuration</key>
+	<string>lossInterpreterDistance</string>
+	<key>bufferDuringPattern</key>
+	<string>dimensionPatternDelay</string>
+	<key>cupertinoIsolateDirection</key>
+	<string>labelDecoratorBehavior</string>
+	<key>deferredGraphSkewx</key>
+	<string>batchMediatorScale</string>
+	<key>grayscaleValueBehavior</key>
+	<string>routeBufferShape</string>
+	<key>hyperbolicManagerBound</key>
+	<string>multiplicationLayerMode</string>
+</dict>
+</plist>

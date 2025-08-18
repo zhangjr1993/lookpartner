@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisJobCoord</key>
+	<string>standaloneGramHue</string>
+	<key>baselineSinceMethod</key>
+	<string>routerFromContext</string>
+	<key>constExceptionAppearance</key>
+	<string>fusedSubscriptionFormat</string>
+	<key>immediateGraphTail</key>
+	<string>diffableLayoutFormat</string>
+	<key>masterAlongCommand</key>
+	<string>sceneProcessDelay</string>
+	<key>materialVectorOpacity</key>
+	<string>usedTangentInteraction</string>
+	<key>sortedAlphaResponse</key>
+	<string>functionalChartOrientation</string>
+</dict>
+</plist>

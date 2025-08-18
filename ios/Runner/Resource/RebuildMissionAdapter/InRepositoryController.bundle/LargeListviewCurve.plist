@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxExceptFramework</key>
+	<string>persistentButtonEdge</string>
+	<key>gradientSystemContrast</key>
+	<string>coordinatorOutsideFlyweight</string>
+	<key>graphAtEnvironment</key>
+	<string>comprehensiveWidgetCoord</string>
+	<key>interpolationActionCoord</key>
+	<string>durationTierShade</string>
+	<key>oldRouterTag</key>
+	<string>offsetWithoutMemento</string>
+	<key>petAboutEnvironment</key>
+	<string>statefulParameterSize</string>
+</dict>
+</plist>

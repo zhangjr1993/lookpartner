@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxUntilPlatform</key>
+	<string>gemEnvironmentResponse</string>
+	<key>injectionDecoratorBehavior</key>
+	<string>topicStateOffset</string>
+	<key>interfaceEnvironmentShade</key>
+	<string>petAroundBridge</string>
+	<key>intuitiveAxisOffset</key>
+	<string>tappableMultiplicationForce</string>
+	<key>tensorPopupDirection</key>
+	<string>mediaqueryOutsideContext</string>
+</dict>
+</plist>

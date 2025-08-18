@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerActivityEdge</key>
+	<string>managerFlyweightSkewy</string>
+	<key>dedicatedGraphState</key>
+	<string>animationDecoratorSkewy</string>
+	<key>staticSessionAlignment</key>
+	<string>adaptiveDescriptorShade</string>
+	<key>subpixelAlongInterpreter</key>
+	<string>builderFromFlyweight</string>
+	<key>substantialZoneOffset</key>
+	<string>singletonMethodVelocity</string>
+	<key>ternaryFacadeStatus</key>
+	<string>typicalEffectLeft</string>
+</dict>
+</plist>

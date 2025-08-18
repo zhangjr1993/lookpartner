@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStateTheme</key>
+	<string>menuInsideOperation</string>
+	<key>lastMethodContrast</key>
+	<string>notificationParameterInteraction</string>
+	<key>matrixAdapterBehavior</key>
+	<string>offsetLayerDirection</string>
+	<key>observerLikeCommand</key>
+	<string>missedAlignmentCount</string>
+	<key>opaqueSubscriptionName</key>
+	<string>similarLabelBottom</string>
+	<key>priorityShapeOffset</key>
+	<string>deferredProjectOrigin</string>
+	<key>singletonFrameworkFlags</key>
+	<string>checkboxUntilParam</string>
+	<key>specifyScreenHue</key>
+	<string>resolverExceptFacade</string>
+	<key>subpixelCycleRate</key>
+	<string>listenerAndBridge</string>
+	<key>tickerBeyondTier</key>
+	<string>displayableCursorColor</string>
+</dict>
+</plist>

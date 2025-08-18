@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsNumber</key>
+	<string>baseCycleBottom</string>
+	<key>bulletPhaseStyle</key>
+	<string>layoutFormTheme</string>
+	<key>dialogsMementoTension</key>
+	<string>dependencyPlatformShape</string>
+	<key>dialogsPlatformTop</key>
+	<string>animationTypeForce</string>
+	<key>diffableCallbackType</key>
+	<string>resourcePatternMode</string>
+	<key>directConsumerBorder</key>
+	<string>providerNearBridge</string>
+	<key>unactivatedVectorFormat</key>
+	<string>custompaintModeKind</string>
+</dict>
+</plist>

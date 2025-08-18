@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetForForm</key>
+	<string>discardedAnchorLeft</string>
+	<key>descriptorIncludeEnvironment</key>
+	<string>newestTitleScale</string>
+	<key>plateOrMediator</key>
+	<string>primaryQueryColor</string>
+	<key>scaleSystemCoord</key>
+	<string>equipmentViaShape</string>
+	<key>secondDropdownbuttonTop</key>
+	<string>staticActionTint</string>
+	<key>transformerParamSaturation</key>
+	<string>intensityParamCount</string>
+	<key>visibleScreenName</key>
+	<string>specifierFlyweightPosition</string>
+</dict>
+</plist>

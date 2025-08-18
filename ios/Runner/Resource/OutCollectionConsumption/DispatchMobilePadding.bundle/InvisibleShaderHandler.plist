@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectObserverForce</key>
+	<string>cubitSystemScale</string>
+	<key>reusableResourceTag</key>
+	<string>delicateSlashPosition</string>
+	<key>textureDuringContext</key>
+	<string>builderVariableOffset</string>
+	<key>usecaseBesideVar</key>
+	<string>entityInsideMode</string>
+</dict>
+</plist>

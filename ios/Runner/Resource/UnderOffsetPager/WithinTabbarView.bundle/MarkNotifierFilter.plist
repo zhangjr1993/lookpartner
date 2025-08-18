@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSinceCommand</key>
+	<string>scaleInComposite</string>
+	<key>commandOfStrategy</key>
+	<string>euclideanActivityTheme</string>
+	<key>gateViaBuffer</key>
+	<string>activityViaFramework</string>
+	<key>interactiveActivityOrigin</key>
+	<string>localizationFlyweightValidation</string>
+	<key>logarithmAsObserver</key>
+	<string>curveUntilKind</string>
+	<key>missionWithoutParameter</key>
+	<string>localExceptionCoord</string>
+	<key>storageThanType</key>
+	<string>singletonByWork</string>
+</dict>
+</plist>

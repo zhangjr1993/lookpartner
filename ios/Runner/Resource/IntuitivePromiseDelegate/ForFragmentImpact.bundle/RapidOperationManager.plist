@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableViewTheme</key>
+	<string>concreteDecorationDelay</string>
+	<key>concreteZoneOpacity</key>
+	<string>materialParamBorder</string>
+	<key>cupertinoNavigationRate</key>
+	<string>fixedFlexRotation</string>
+	<key>finalServiceState</key>
+	<string>advancedMovementFlags</string>
+	<key>smallDurationHead</key>
+	<string>mobileTouchAcceleration</string>
+	<key>stepBeyondPrototype</key>
+	<string>temporaryTweenDuration</string>
+</dict>
+</plist>

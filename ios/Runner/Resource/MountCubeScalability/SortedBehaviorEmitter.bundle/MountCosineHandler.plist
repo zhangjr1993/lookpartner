@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPerFunction</key>
+	<string>easyFragmentAppearance</string>
+	<key>constCallbackScale</key>
+	<string>tappableGridBorder</string>
+	<key>immutablePromiseDuration</key>
+	<string>matrixModeDistance</string>
+	<key>mobileSinceAdapter</key>
+	<string>usedInterfaceRight</string>
+	<key>radiusParameterCoord</key>
+	<string>segueStyleCoord</string>
+	<key>responsiveNavigatorSize</key>
+	<string>binaryNearFlyweight</string>
+	<key>tabbarAlongComposite</key>
+	<string>frameThanAction</string>
+	<key>transitionAmongDecorator</key>
+	<string>difficultPainterFrequency</string>
+</dict>
+</plist>

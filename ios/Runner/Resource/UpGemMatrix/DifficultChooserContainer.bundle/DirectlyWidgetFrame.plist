@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMissionInterval</key>
+	<string>textfieldWithValue</string>
+	<key>crucialGraphicRate</key>
+	<string>riverpodShapeVelocity</string>
+	<key>crudeToolAlignment</key>
+	<string>listviewTierCoord</string>
+	<key>dialogsFunctionTint</key>
+	<string>listviewProcessVelocity</string>
+	<key>entityBeyondAdapter</key>
+	<string>desktopSwiftSize</string>
+	<key>gestureFromTier</key>
+	<string>rowBufferVelocity</string>
+	<key>gesturedetectorPerStage</key>
+	<string>sequentialAssetMargin</string>
+	<key>interactorStateShape</key>
+	<string>blocFrameworkLeft</string>
+	<key>pinchableMemberHue</key>
+	<string>presenterTierScale</string>
+</dict>
+</plist>

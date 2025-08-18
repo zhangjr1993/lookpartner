@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutExceptFlyweight</key>
+	<string>subsequentPriorityStatus</string>
+	<key>metadataInFunction</key>
+	<string>spriteAgainstActivity</string>
+	<key>opaqueGrainOffset</key>
+	<string>memberSystemCount</string>
+	<key>statefulAnimationFlags</key>
+	<string>dependencyByBuffer</string>
+	<key>textureSingletonMode</key>
+	<string>semanticsForObserver</string>
+</dict>
+</plist>

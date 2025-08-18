@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianStatefulDelay</key>
+	<string>awaitFormBehavior</string>
+	<key>crucialGridBottom</key>
+	<string>queueCycleInteraction</string>
+	<key>declarativeBorderBrightness</key>
+	<string>statefulScaffoldInterval</string>
+	<key>explicitModelLeft</key>
+	<string>mutableStateIndex</string>
+	<key>gridParameterIndex</key>
+	<string>durationThroughCycle</string>
+	<key>heapEnvironmentVisible</key>
+	<string>constTitleOffset</string>
+	<key>reducerNumberHead</key>
+	<string>commonRequestMode</string>
+	<key>zoneTypeVelocity</key>
+	<string>requiredNavigationCount</string>
+</dict>
+</plist>

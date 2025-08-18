@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionOutsideProxy</key>
+	<string>indicatorOperationSpeed</string>
+	<key>indicatorStyleSize</key>
+	<string>tappablePopupTag</string>
+	<key>layerOutsideBridge</key>
+	<string>widgetPrototypePressure</string>
+	<key>logarithmWithoutObserver</key>
+	<string>consumerAsSingleton</string>
+	<key>smallLoopScale</key>
+	<string>directlyStampDuration</string>
+	<key>viewNearChain</key>
+	<string>denseBoxTop</string>
+</dict>
+</plist>

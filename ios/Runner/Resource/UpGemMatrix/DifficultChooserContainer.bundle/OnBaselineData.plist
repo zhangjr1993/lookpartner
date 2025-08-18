@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMediatorDistance</key>
+	<string>spriteActivityScale</string>
+	<key>canvasAroundJob</key>
+	<string>pinchableMusicBrightness</string>
+	<key>expandedBufferFeedback</key>
+	<string>transformerSystemVelocity</string>
+	<key>lostGestureEdge</key>
+	<string>storageContextFeedback</string>
+	<key>nativeInjectionCenter</key>
+	<string>effectStageHue</string>
+	<key>requiredExpandedTension</key>
+	<string>compositionPrototypeTail</string>
+</dict>
+</plist>

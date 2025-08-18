@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitThroughType</key>
+	<string>effectWithAdapter</string>
+	<key>brushForFlyweight</key>
+	<string>threadStageOrientation</string>
+	<key>completionDecoratorBottom</key>
+	<string>animatedcontainerParameterState</string>
+	<key>immediateSensorAlignment</key>
+	<string>cubitFacadeSkewy</string>
+	<key>layoutOfBridge</key>
+	<string>cellStructureKind</string>
+	<key>operationActivityInterval</key>
+	<string>stampFormInset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePerType</key>
+	<string>bulletOutsideTask</string>
+	<key>dialogsAmongVisitor</key>
+	<string>checklistOutsideStrategy</string>
+	<key>dimensionPrototypeBound</key>
+	<string>finalSemanticsInset</string>
+	<key>requestExceptPrototype</key>
+	<string>sceneNearStrategy</string>
+</dict>
+</plist>

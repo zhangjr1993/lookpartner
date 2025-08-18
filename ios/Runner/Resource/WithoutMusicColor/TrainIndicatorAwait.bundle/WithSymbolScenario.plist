@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCollectionShade</key>
+	<string>configurationWithoutMediator</string>
+	<key>managerAwayTask</key>
+	<string>errorMediatorTag</string>
+	<key>memberLevelMargin</key>
+	<string>lostEffectSaturation</string>
+	<key>progressbarAroundAdapter</key>
+	<string>primaryArithmeticEdge</string>
+	<key>spriteFacadeFlags</key>
+	<string>routeShapeSaturation</string>
+</dict>
+</plist>

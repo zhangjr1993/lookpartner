@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationNearMode</key>
+	<string>indicatorActionFlags</string>
+	<key>brushSinceFunction</key>
+	<string>baselineBesideNumber</string>
+	<key>frameCommandSpeed</key>
+	<string>customCurveBorder</string>
+	<key>labelDespiteContext</key>
+	<string>semanticOptimizerForce</string>
+	<key>singleExponentBottom</key>
+	<string>completerShapeLeft</string>
+	<key>sliderTaskBehavior</key>
+	<string>coordinatorAtVisitor</string>
+	<key>spriteAgainstNumber</key>
+	<string>decorationStyleBrightness</string>
+	<key>stepAlongFramework</key>
+	<string>groupUntilPhase</string>
+	<key>symmetricChannelsLocation</key>
+	<string>awaitByMode</string>
+	<key>textureScopeDistance</key>
+	<string>seamlessVariantOrigin</string>
+</dict>
+</plist>

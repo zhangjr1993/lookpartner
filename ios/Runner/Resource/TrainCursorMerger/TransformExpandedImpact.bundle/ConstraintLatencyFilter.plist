@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBufferSkewy</key>
+	<string>managerStateResponse</string>
+	<key>delegateJobResponse</key>
+	<string>checklistVersusStructure</string>
+	<key>grainBufferDirection</key>
+	<string>providerNumberVisibility</string>
+	<key>granularAssetAlignment</key>
+	<string>curveAdapterSize</string>
+	<key>multiplicationPlatformTheme</key>
+	<string>deferredRowIndex</string>
+	<key>nextThreadPosition</key>
+	<string>spotKindMargin</string>
+	<key>pageviewOutsideMode</key>
+	<string>tweenStrategyStyle</string>
+	<key>persistentNormSize</key>
+	<string>marginOperationInset</string>
+	<key>pinchablePreviewIndex</key>
+	<string>textByFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyPlateMode</key>
+	<string>imageKindBehavior</string>
+	<key>layerParameterFeedback</key>
+	<string>lazyResultVisibility</string>
+	<key>layerTierName</key>
+	<string>playbackAwayFramework</string>
+	<key>permanentSliderFeedback</key>
+	<string>concurrentPresenterFlags</string>
+	<key>singleDurationOpacity</key>
+	<string>newestExceptionAppearance</string>
+	<key>stateTypeSkewy</key>
+	<string>marginModePressure</string>
+	<key>texturePhaseTransparency</key>
+	<string>composableEntityTint</string>
+	<key>usageAmongMode</key>
+	<string>responseFunctionPosition</string>
+	<key>webMediaSpacing</key>
+	<string>delegateWorkShade</string>
+</dict>
+</plist>

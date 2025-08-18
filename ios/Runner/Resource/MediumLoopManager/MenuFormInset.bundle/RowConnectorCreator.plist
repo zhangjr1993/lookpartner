@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensorStyle</key>
+	<string>disabledMethodSpeed</string>
+	<key>associatedAnchorVisibility</key>
+	<string>easyProviderStatus</string>
+	<key>containerSinceProxy</key>
+	<string>mobxAwayTask</string>
+	<key>intensityForMethod</key>
+	<string>petLevelDensity</string>
+	<key>kernelAgainstPrototype</key>
+	<string>animationMementoCount</string>
+	<key>routerAlongProxy</key>
+	<string>navigatorViaStrategy</string>
+	<key>zoneAgainstContext</key>
+	<string>stepProcessValidation</string>
+</dict>
+</plist>

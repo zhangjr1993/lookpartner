@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPerType</key>
+	<string>seamlessCheckboxTop</string>
+	<key>pointInActivity</key>
+	<string>tweenViaEnvironment</string>
+	<key>serviceScopeSkewy</key>
+	<string>screenPlatformFrequency</string>
+	<key>slashFromAdapter</key>
+	<string>ephemeralNavigatorDistance</string>
+	<key>topicSystemLeft</key>
+	<string>responseTierState</string>
+</dict>
+</plist>

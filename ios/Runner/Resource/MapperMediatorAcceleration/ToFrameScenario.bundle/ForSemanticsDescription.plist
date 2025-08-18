@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateByFramework</key>
+	<string>constraintKindForce</string>
+	<key>flexibleSubscriptionMomentum</key>
+	<string>subscriptionViaVariable</string>
+	<key>mobileTypeValidation</key>
+	<string>zoneVarDepth</string>
+	<key>movementEnvironmentOrigin</key>
+	<string>graphAlongFacade</string>
+	<key>opaqueMaterialLeft</key>
+	<string>tabviewShapeSpacing</string>
+	<key>staticSensorLocation</key>
+	<string>asyncModeLocation</string>
+</dict>
+</plist>

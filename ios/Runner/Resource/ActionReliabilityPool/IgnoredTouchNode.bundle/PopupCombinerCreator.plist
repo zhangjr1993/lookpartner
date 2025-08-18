@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAsKind</key>
+	<string>statefulTimerInteraction</string>
+	<key>configurationFrameworkBound</key>
+	<string>popupAsLayer</string>
+	<key>menuVariableTail</key>
+	<string>tabbarCycleKind</string>
+	<key>navigationJobEdge</key>
+	<string>gesturedetectorCycleEdge</string>
+	<key>notifierPrototypeTail</key>
+	<string>reactiveOperationInset</string>
+	<key>routerAwayMediator</key>
+	<string>titleTempleEdge</string>
+</dict>
+</plist>

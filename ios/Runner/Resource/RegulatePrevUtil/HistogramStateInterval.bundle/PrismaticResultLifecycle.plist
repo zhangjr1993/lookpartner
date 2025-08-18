@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCubeVisibility</key>
+	<string>ternaryParamFeedback</string>
+	<key>frameFlyweightCenter</key>
+	<string>behaviorCommandTint</string>
+	<key>reusableNotifierRotation</key>
+	<string>publicResultDelay</string>
+	<key>webMemberBehavior</key>
+	<string>durationAwayAdapter</string>
+</dict>
+</plist>

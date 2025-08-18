@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectExceptTier</key>
+	<string>sceneParamRotation</string>
+	<key>behaviorWithoutVariable</key>
+	<string>capsuleStructureSkewy</string>
+	<key>dependencyForComposite</key>
+	<string>usedCustompaintResponse</string>
+	<key>granularGraphTag</key>
+	<string>equipmentValueTension</string>
+	<key>interactorBeyondState</key>
+	<string>accessibleEqualizationTension</string>
+	<key>sliderContextOpacity</key>
+	<string>sizedboxWithoutMode</string>
+</dict>
+</plist>

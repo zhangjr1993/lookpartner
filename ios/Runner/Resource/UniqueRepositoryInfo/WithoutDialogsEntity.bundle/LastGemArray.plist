@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityChainBorder</key>
+	<string>reductionStageInteraction</string>
+	<key>entityScopeName</key>
+	<string>effectNearState</string>
+	<key>eventStageVisible</key>
+	<string>reducerPlatformScale</string>
+	<key>injectionSinceState</key>
+	<string>riverpodInsideStyle</string>
+	<key>keyEffectScale</key>
+	<string>ignoredChannelSkewy</string>
+	<key>queueVariableMargin</key>
+	<string>sustainableLabelInset</string>
+	<key>similarNormVisibility</key>
+	<string>blocWithoutKind</string>
+	<key>sizeAroundDecorator</key>
+	<string>discardedDelegateDepth</string>
+	<key>storageNearScope</key>
+	<string>sizeWithoutChain</string>
+</dict>
+</plist>

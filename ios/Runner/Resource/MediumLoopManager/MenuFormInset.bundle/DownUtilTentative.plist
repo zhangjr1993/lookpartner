@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTextBehavior</key>
+	<string>mediocreControllerAcceleration</string>
+	<key>reactiveReductionShape</key>
+	<string>denseOptimizerDirection</string>
+	<key>smallLabelLocation</key>
+	<string>advancedRadioDirection</string>
+	<key>statelessOperationTint</key>
+	<string>stampVersusForm</string>
+	<key>visibleMovementStatus</key>
+	<string>reusableCupertinoSaturation</string>
+</dict>
+</plist>

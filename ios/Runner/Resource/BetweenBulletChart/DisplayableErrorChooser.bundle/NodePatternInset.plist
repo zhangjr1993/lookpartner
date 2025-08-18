@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCubitResponse</key>
+	<string>vectorViaParam</string>
+	<key>callbackKindInset</key>
+	<string>adaptiveAsyncTransparency</string>
+	<key>clipperParameterMode</key>
+	<string>greatImageVisible</string>
+	<key>easyProjectionRate</key>
+	<string>allocatorAsSystem</string>
+	<key>loopActivitySpacing</key>
+	<string>logarithmKindInteraction</string>
+	<key>previewInterpreterTint</key>
+	<string>respectiveSampleRight</string>
+	<key>sinkBeyondCommand</key>
+	<string>signaturePhaseAcceleration</string>
+</dict>
+</plist>

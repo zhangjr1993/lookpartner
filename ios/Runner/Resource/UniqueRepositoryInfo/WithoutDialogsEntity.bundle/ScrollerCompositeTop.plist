@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTaskColor</key>
+	<string>globalBrushLeft</string>
+	<key>cycleTypeBound</key>
+	<string>delegateIncludeActivity</string>
+	<key>labelIncludeAction</key>
+	<string>interactiveInstructionTransparency</string>
+	<key>oldMemberResponse</key>
+	<string>nativeCollectionOrientation</string>
+	<key>positionedNearSingleton</key>
+	<string>storageSincePrototype</string>
+	<key>priorCurveFlags</key>
+	<string>resizableSubscriptionShape</string>
+	<key>ternaryParamDirection</key>
+	<string>responsiveNormContrast</string>
+	<key>textThroughFacade</key>
+	<string>responsiveThemeState</string>
+</dict>
+</plist>

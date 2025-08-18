@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSemanticsInterval</key>
+	<string>popupAwaySystem</string>
+	<key>durationModeFormat</key>
+	<string>tickerFromWork</string>
+	<key>immediateFlexAcceleration</key>
+	<string>frameFromVar</string>
+	<key>standaloneDecorationOpacity</key>
+	<string>seamlessScaffoldColor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCapacitiesOrientation</key>
+	<string>tappableDecorationTop</string>
+	<key>directOffsetStyle</key>
+	<string>newestPositionFrequency</string>
+	<key>intuitiveStatefulShade</key>
+	<string>prevGramSpacing</string>
+	<key>kernelBufferLocation</key>
+	<string>handlerStageInset</string>
+	<key>rectDespiteStage</key>
+	<string>requestTierSkewx</string>
+</dict>
+</plist>

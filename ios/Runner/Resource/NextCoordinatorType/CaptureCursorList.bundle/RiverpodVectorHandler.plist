@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTypeStyle</key>
+	<string>sinkIncludeSingleton</string>
+	<key>curvePhaseBehavior</key>
+	<string>disabledPointValidation</string>
+	<key>draggableAwaitBorder</key>
+	<string>gestureScopeShade</string>
+	<key>mobileHistogramVisibility</key>
+	<string>draggableButtonCoord</string>
+	<key>permissiveAlignmentColor</key>
+	<string>skirtShapeTint</string>
+	<key>routeIncludeDecorator</key>
+	<string>routeAmongMediator</string>
+	<key>signTempleRotation</key>
+	<string>activatedMovementPressure</string>
+	<key>statelessContextInset</key>
+	<string>requiredAlignmentName</string>
+</dict>
+</plist>

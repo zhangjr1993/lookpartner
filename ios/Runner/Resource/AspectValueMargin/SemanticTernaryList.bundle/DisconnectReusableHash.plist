@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionExceptKind</key>
+	<string>secondCommandPressure</string>
+	<key>providerAtDecorator</key>
+	<string>dynamicTweenPadding</string>
+	<key>singletonInsideTask</key>
+	<string>buttonByPrototype</string>
+	<key>stampInterpreterDensity</key>
+	<string>elasticTextureBrightness</string>
+	<key>topicFacadeDensity</key>
+	<string>otherPresenterVisible</string>
+</dict>
+</plist>

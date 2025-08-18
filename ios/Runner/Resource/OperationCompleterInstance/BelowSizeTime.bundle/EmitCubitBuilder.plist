@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMarginSaturation</key>
+	<string>lazyLogDensity</string>
+	<key>constraintContainBridge</key>
+	<string>petStyleEdge</string>
+	<key>coordinatorAtMethod</key>
+	<string>allocatorVariableSpacing</string>
+	<key>flexForTier</key>
+	<string>appbarDecoratorTint</string>
+	<key>mainObserverRate</key>
+	<string>chapterBridgeFrequency</string>
+</dict>
+</plist>

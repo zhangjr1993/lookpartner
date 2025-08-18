@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateStyle</key>
+	<string>keyCanvasInterval</string>
+	<key>customizedConfigurationPressure</key>
+	<string>compositionalPlaybackHead</string>
+	<key>equipmentEnvironmentForce</key>
+	<string>robustSizedboxTheme</string>
+	<key>eventTaskStatus</key>
+	<string>interfaceStageFlags</string>
+	<key>firstTransitionSpeed</key>
+	<string>widgetBridgeDensity</string>
+	<key>primaryResponseAlignment</key>
+	<string>layerSingletonVisible</string>
+	<key>significantTimerForce</key>
+	<string>commonStorageCoord</string>
+	<key>textureVariableSaturation</key>
+	<string>missedNotifierOpacity</string>
+</dict>
+</plist>

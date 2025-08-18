@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncModalLocation</key>
+	<string>cartesianOperationCenter</string>
+	<key>curveByObserver</key>
+	<string>reactiveMediaRate</string>
+	<key>discardedSubpixelTop</key>
+	<string>offsetCommandSkewy</string>
+	<key>inkwellContainState</key>
+	<string>gridviewLevelInset</string>
+	<key>originalQueryPadding</key>
+	<string>shaderOfMediator</string>
+	<key>queueLayerInterval</key>
+	<string>callbackFromLayer</string>
+	<key>switchStructureMomentum</key>
+	<string>isolateAdapterName</string>
+</dict>
+</plist>

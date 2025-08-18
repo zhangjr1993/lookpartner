@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInsideProxy</key>
+	<string>chapterOperationType</string>
+	<key>effectStageVisibility</key>
+	<string>imageNearComposite</string>
+	<key>mobileOverlayPressure</key>
+	<string>catalystPerProcess</string>
+	<key>relationalPainterOrigin</key>
+	<string>queueBufferMode</string>
+	<key>signaturePhaseKind</key>
+	<string>concurrentRepositoryTag</string>
+</dict>
+</plist>

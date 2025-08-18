@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureBesideProcess</key>
+	<string>beginnerLabelOrientation</string>
+	<key>optimizerStageScale</key>
+	<string>basicTimerInset</string>
+	<key>priorityFlyweightTheme</key>
+	<string>subpixelAroundStrategy</string>
+	<key>progressbarParameterName</key>
+	<string>nibVarValidation</string>
+	<key>textDecoratorTail</key>
+	<string>primaryMaterialTint</string>
+	<key>tickerSingletonBrightness</key>
+	<string>normCompositeShade</string>
+	<key>zoneDecoratorCount</key>
+	<string>prismaticRouterDistance</string>
+</dict>
+</plist>

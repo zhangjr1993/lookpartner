@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFormInteraction</key>
+	<string>singletonBeyondComposite</string>
+	<key>cursorCycleInteraction</key>
+	<string>interactiveCursorLeft</string>
+	<key>smartResultDelay</key>
+	<string>tabviewLikeTier</string>
+	<key>standaloneThreadTag</key>
+	<string>gramWithBridge</string>
+</dict>
+</plist>

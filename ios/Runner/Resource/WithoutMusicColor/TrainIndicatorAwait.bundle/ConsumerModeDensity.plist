@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOperationValidation</key>
+	<string>injectionDespiteWork</string>
+	<key>documentKindFeedback</key>
+	<string>requestNearCycle</string>
+	<key>pinchableCupertinoVelocity</key>
+	<string>scaleWithEnvironment</string>
+	<key>shaderOrBuffer</key>
+	<string>enabledPositionedScale</string>
+	<key>symmetricStampScale</key>
+	<string>notifierByCommand</string>
+</dict>
+</plist>

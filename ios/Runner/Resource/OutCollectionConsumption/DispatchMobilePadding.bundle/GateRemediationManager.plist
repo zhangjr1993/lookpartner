@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCachePressure</key>
+	<string>intermediateSpriteFlags</string>
+	<key>basicParticleInset</key>
+	<string>dynamicCubeTheme</string>
+	<key>bulletAroundStage</key>
+	<string>symbolObserverHue</string>
+	<key>chartVisitorFrequency</key>
+	<string>positionedVersusMethod</string>
+	<key>modelSingletonState</key>
+	<string>prismaticTaskName</string>
+	<key>monsterInsideSystem</key>
+	<string>nativeBaselineTint</string>
+	<key>stepFromPlatform</key>
+	<string>heapNumberState</string>
+	<key>streamForFacade</key>
+	<string>subsequentDurationTheme</string>
+	<key>workflowProcessHead</key>
+	<string>rectMementoMode</string>
+</dict>
+</plist>

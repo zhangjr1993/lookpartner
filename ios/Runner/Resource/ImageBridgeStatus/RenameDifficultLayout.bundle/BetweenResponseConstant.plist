@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateObserverType</key>
+	<string>singletonAsEnvironment</string>
+	<key>reactiveAlphaBound</key>
+	<string>borderJobOrigin</string>
+	<key>responsiveSinkTransparency</key>
+	<string>featureStructureForce</string>
+</dict>
+</plist>

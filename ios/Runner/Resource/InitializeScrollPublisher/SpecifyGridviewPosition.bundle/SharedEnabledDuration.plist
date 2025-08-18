@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticButtonAppearance</key>
+	<string>subpixelAroundParameter</string>
+	<key>delegateAroundInterpreter</key>
+	<string>callbackUntilFramework</string>
+	<key>heapAwayFunction</key>
+	<string>descriptionPrototypeRate</string>
+	<key>materialSingletonBehavior</key>
+	<string>comprehensiveAppbarOffset</string>
+	<key>mobxWithStage</key>
+	<string>hashBufferInteraction</string>
+	<key>parallelBoxDuration</key>
+	<string>criticalMenuBrightness</string>
+</dict>
+</plist>

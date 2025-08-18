@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedParticleCoord</key>
+	<string>asyncStackVelocity</string>
+	<key>asyncOperationSkewx</key>
+	<string>cubitValueCount</string>
+	<key>descriptorWithoutTier</key>
+	<string>liteStreamOrigin</string>
+	<key>drawerInterpreterIndex</key>
+	<string>inheritedInstructionIndex</string>
+	<key>labelWithoutJob</key>
+	<string>reducerStageDistance</string>
+	<key>loopShapeTint</key>
+	<string>sharedMaterialOffset</string>
+	<key>responseFormFeedback</key>
+	<string>sliderForBuffer</string>
+	<key>sceneKindDuration</key>
+	<string>numericalPreviewContrast</string>
+	<key>tappableActivityDensity</key>
+	<string>largeSubscriptionCount</string>
+	<key>webKernelKind</key>
+	<string>paddingOperationPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAssetVisibility</key>
+	<string>durationViaSingleton</string>
+	<key>imperativeCallbackFormat</key>
+	<string>normalStateTheme</string>
+	<key>lostPromiseBrightness</key>
+	<string>marginLayerMode</string>
+	<key>scrollableAnimationForce</key>
+	<string>assetAndKind</string>
+	<key>tangentDespiteProxy</key>
+	<string>richtextCycleDuration</string>
+	<key>temporaryStampSkewy</key>
+	<string>frameActionContrast</string>
+	<key>usedCubitSkewx</key>
+	<string>tweenLayerName</string>
+</dict>
+</plist>

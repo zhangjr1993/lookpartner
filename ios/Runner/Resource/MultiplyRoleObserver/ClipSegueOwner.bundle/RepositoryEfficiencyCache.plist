@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVariableSpacing</key>
+	<string>greatChartTail</string>
+	<key>frameLevelTheme</key>
+	<string>layerModeForce</string>
+	<key>localizationBesideComposite</key>
+	<string>textStyleAlignment</string>
+	<key>navigationLevelSize</key>
+	<string>usedStatelessRight</string>
+	<key>rapidSkinFeedback</key>
+	<string>compositionalOptimizerBrightness</string>
+</dict>
+</plist>

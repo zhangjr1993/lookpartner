@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optionStyleDepth</key>
+	<string>isolateCommandInteraction</string>
+	<key>queryActionOrigin</key>
+	<string>pinchableReductionStatus</string>
+	<key>secondCurveType</key>
+	<string>customizedCheckboxInterval</string>
+	<key>storeVisitorResponse</key>
+	<string>resizableStampStyle</string>
+	<key>symmetricParticleAppearance</key>
+	<string>effectNumberCoord</string>
+</dict>
+</plist>

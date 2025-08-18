@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMementoStatus</key>
+	<string>asyncLayerSkewx</string>
+	<key>collectionFromParameter</key>
+	<string>checkboxTaskOpacity</string>
+	<key>concurrentListviewCoord</key>
+	<string>tableMediatorPosition</string>
+	<key>customUtilTransparency</key>
+	<string>enabledPreviewVisible</string>
+	<key>factoryAboutActivity</key>
+	<string>compositionAboutLevel</string>
+	<key>granularLocalizationCenter</key>
+	<string>nibWithKind</string>
+	<key>reducerThroughType</key>
+	<string>profileVarDuration</string>
+	<key>specifierDespiteActivity</key>
+	<string>baseStyleBrightness</string>
+</dict>
+</plist>

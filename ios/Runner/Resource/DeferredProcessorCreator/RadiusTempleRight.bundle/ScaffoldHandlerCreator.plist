@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCycleSkewy</key>
+	<string>parallelFactoryTop</string>
+	<key>cupertinoAsEnvironment</key>
+	<string>handlerProxyPadding</string>
+	<key>popupSingletonScale</key>
+	<string>easyTextfieldSize</string>
+	<key>sizeKindType</key>
+	<string>tangentCycleRate</string>
+	<key>timerActivityRotation</key>
+	<string>sharedDelegateSpeed</string>
+	<key>variantBeyondKind</key>
+	<string>futureStyleTop</string>
+</dict>
+</plist>

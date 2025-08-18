@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderLayerAlignment</key>
+	<string>customManagerShade</string>
+	<key>contractionParameterTransparency</key>
+	<string>localMemberOpacity</string>
+	<key>imageAsTier</key>
+	<string>previewStageOffset</string>
+	<key>layoutAmongAdapter</key>
+	<string>textfieldFunctionCoord</string>
+	<key>repositoryTierContrast</key>
+	<string>assetValueMargin</string>
+	<key>sliderLikeCommand</key>
+	<string>disparateDrawerPosition</string>
+</dict>
+</plist>

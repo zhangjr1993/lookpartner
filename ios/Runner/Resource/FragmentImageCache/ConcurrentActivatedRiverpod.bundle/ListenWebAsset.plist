@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectObserverBehavior</key>
+	<string>factoryFromWork</string>
+	<key>assetActionTransparency</key>
+	<string>skirtSingletonTint</string>
+	<key>iconWithStyle</key>
+	<string>constGestureHue</string>
+	<key>layerThroughKind</key>
+	<string>bulletOfPhase</string>
+	<key>missedContainerForce</key>
+	<string>sensorPrototypeMode</string>
+	<key>respectiveStoreBrightness</key>
+	<string>disabledCaptionInteraction</string>
+	<key>synchronousToolPressure</key>
+	<string>textureLikeParam</string>
+	<key>viewVisitorInteraction</key>
+	<string>constRequestTint</string>
+	<key>widgetLevelFormat</key>
+	<string>specifyChannelSpacing</string>
+</dict>
+</plist>

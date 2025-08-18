@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDuringForm</key>
+	<string>inheritedStepInteraction</string>
+	<key>materialNavigatorInteraction</key>
+	<string>routerStateStyle</string>
+	<key>missedMonsterHead</key>
+	<string>brushEnvironmentBrightness</string>
+	<key>symmetricCubeFrequency</key>
+	<string>greatCellVisible</string>
+	<key>timerAgainstVisitor</key>
+	<string>sortedUsecaseSkewy</string>
+</dict>
+</plist>

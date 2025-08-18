@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDuringBuffer</key>
+	<string>protectedCursorOrigin</string>
+	<key>effectViaKind</key>
+	<string>beginnerNavigatorState</string>
+	<key>expandedOutsideSingleton</key>
+	<string>mobileTypeCenter</string>
+	<key>labelMethodLeft</key>
+	<string>usedScaleKind</string>
+	<key>operationCompositeBehavior</key>
+	<string>allocatorInsideChain</string>
+	<key>prismaticSlashBorder</key>
+	<string>decorationInsidePlatform</string>
+	<key>referenceVariableIndex</key>
+	<string>swiftStructureSkewy</string>
+	<key>threadEnvironmentAlignment</key>
+	<string>smallSubpixelVelocity</string>
+</dict>
+</plist>

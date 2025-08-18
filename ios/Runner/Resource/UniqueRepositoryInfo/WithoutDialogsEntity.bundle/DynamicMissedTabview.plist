@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAwayCycle</key>
+	<string>screenOperationState</string>
+	<key>drawerMethodBehavior</key>
+	<string>exponentOperationMode</string>
+	<key>interactiveDelegateDepth</key>
+	<string>resizableDropdownbuttonStatus</string>
+	<key>isolateFormInterval</key>
+	<string>reductionPrototypeBorder</string>
+	<key>managerTypeMode</key>
+	<string>ignoredAllocatorTension</string>
+	<key>retainedStoryboardSpacing</key>
+	<string>variantChainFeedback</string>
+	<key>scrollFrameworkName</key>
+	<string>sharedInterfaceMomentum</string>
+	<key>tensorSensorFrequency</key>
+	<string>swiftUntilWork</string>
+	<key>webWidgetRotation</key>
+	<string>mapBridgeKind</string>
+</dict>
+</plist>

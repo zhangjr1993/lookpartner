@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLabelFlags</key>
+	<string>variantContainComposite</string>
+	<key>inheritedStreamDensity</key>
+	<string>actionProcessTail</string>
+	<key>layoutAsComposite</key>
+	<string>zoneObserverInteraction</string>
+	<key>painterOutsideStrategy</key>
+	<string>hashAndTier</string>
+	<key>providerTypeBorder</key>
+	<string>tabbarNearProcess</string>
+	<key>sensorVersusState</key>
+	<string>arithmeticListenerContrast</string>
+	<key>servicePatternOffset</key>
+	<string>ternaryBesideDecorator</string>
+	<key>signatureLikeBridge</key>
+	<string>tableTempleFlags</string>
+	<key>specifyEventMode</key>
+	<string>rapidManagerBehavior</string>
+</dict>
+</plist>

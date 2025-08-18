@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilShade</key>
+	<string>publicEffectResponse</string>
+	<key>allocatorViaBridge</key>
+	<string>offsetFlyweightAppearance</string>
+	<key>alphaContextDelay</key>
+	<string>offsetTempleState</string>
+	<key>effectStylePressure</key>
+	<string>sliderThroughCycle</string>
+	<key>navigatorModeCenter</key>
+	<string>activeNotifierBehavior</string>
+	<key>primaryContractionRight</key>
+	<string>listenerAndPhase</string>
+	<key>workflowVarRotation</key>
+	<string>handlerIncludeLevel</string>
+</dict>
+</plist>

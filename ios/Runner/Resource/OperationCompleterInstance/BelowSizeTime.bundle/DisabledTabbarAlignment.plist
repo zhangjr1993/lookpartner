@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorLikeLayer</key>
+	<string>persistentRequestVisible</string>
+	<key>entityTierPressure</key>
+	<string>storageOperationLeft</string>
+	<key>nextStampForce</key>
+	<string>parallelEntityTail</string>
+	<key>storageIncludeSingleton</key>
+	<string>graphCommandMode</string>
+</dict>
+</plist>

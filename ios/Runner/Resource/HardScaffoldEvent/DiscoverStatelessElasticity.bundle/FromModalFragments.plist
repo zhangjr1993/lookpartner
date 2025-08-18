@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSegmentDelay</key>
+	<string>interactorFunctionBrightness</string>
+	<key>discardedSegueSpeed</key>
+	<string>missedCurveBrightness</string>
+	<key>granularMarginBottom</key>
+	<string>queryFacadeBorder</string>
+	<key>hardCommandType</key>
+	<string>graphicAsCommand</string>
+	<key>layoutFunctionCenter</key>
+	<string>explicitSubscriptionScale</string>
+	<key>workflowInTask</key>
+	<string>disparateGraphEdge</string>
+</dict>
+</plist>

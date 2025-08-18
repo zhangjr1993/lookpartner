@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDependencyPressure</key>
+	<string>screenOperationSkewx</string>
+	<key>behaviorInsideShape</key>
+	<string>responsiveCoordinatorAppearance</string>
+	<key>musicByChain</key>
+	<string>captionInsideActivity</string>
+	<key>nativeVectorValidation</key>
+	<string>musicNumberName</string>
+	<key>playbackNearStrategy</key>
+	<string>groupTypeTint</string>
+	<key>rapidAllocatorScale</key>
+	<string>loopAgainstSystem</string>
+	<key>sliderOrLayer</key>
+	<string>synchronousObserverSkewy</string>
+	<key>transformerExceptLayer</key>
+	<string>statelessFacadeResponse</string>
+	<key>transitionContainAdapter</key>
+	<string>elasticCompletionMode</string>
+</dict>
+</plist>

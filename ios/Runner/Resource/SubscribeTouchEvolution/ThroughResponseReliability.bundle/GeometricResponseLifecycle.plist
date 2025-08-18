@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonParameterStyle</key>
+	<string>sessionStageFlags</string>
+	<key>iterativeErrorDuration</key>
+	<string>lostMissionName</string>
+	<key>mobileFlexLocation</key>
+	<string>routerPlatformScale</string>
+	<key>publicQueryShade</key>
+	<string>euclideanInkwellTransparency</string>
+	<key>skinAdapterShape</key>
+	<string>notificationContainScope</string>
+	<key>stampDespiteFramework</key>
+	<string>channelsThanMode</string>
+	<key>tappableControllerTop</key>
+	<string>delegateAlongOperation</string>
+	<key>transitionAmongLayer</key>
+	<string>drawerModeAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPlatformCenter</key>
+	<string>titleAroundAction</string>
+	<key>densePlaybackTheme</key>
+	<string>inactiveCardInteraction</string>
+	<key>effectAsVariable</key>
+	<string>graphicIncludeLayer</string>
+	<key>grayscaleSingletonPadding</key>
+	<string>sequentialImageSkewy</string>
+	<key>hyperbolicChecklistShape</key>
+	<string>graphicThroughParameter</string>
+	<key>slashWithInterpreter</key>
+	<string>missedResponseIndex</string>
+	<key>titleAroundParameter</key>
+	<string>chartWithSingleton</string>
+</dict>
+</plist>

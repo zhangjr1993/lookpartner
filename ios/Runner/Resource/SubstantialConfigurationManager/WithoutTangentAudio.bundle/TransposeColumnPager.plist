@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouteName</key>
+	<string>touchExceptSystem</string>
+	<key>convolutionParameterSpacing</key>
+	<string>projectLayerRotation</string>
+	<key>originalRectRate</key>
+	<string>customPreviewOrientation</string>
+	<key>requiredSinkBrightness</key>
+	<string>completionOutsideJob</string>
+	<key>sizedboxContainForm</key>
+	<string>mobxOutsideLayer</string>
+</dict>
+</plist>

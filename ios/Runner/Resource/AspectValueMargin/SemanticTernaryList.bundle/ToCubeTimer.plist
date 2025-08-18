@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAtMode</key>
+	<string>reducerVisitorSpeed</string>
+	<key>bitrateVisitorPadding</key>
+	<string>queueActionAppearance</string>
+	<key>boxshadowAndChain</key>
+	<string>transitionInsideParameter</string>
+	<key>cupertinoAndCommand</key>
+	<string>otherSceneIndex</string>
+	<key>exponentFacadeFormat</key>
+	<string>offsetAdapterOrientation</string>
+	<key>observerThroughOperation</key>
+	<string>ignoredProviderVelocity</string>
+	<key>spineByVar</key>
+	<string>cacheSystemScale</string>
+	<key>subsequentMapAcceleration</key>
+	<string>aspectratioPerProxy</string>
+	<key>widgetBridgeState</key>
+	<string>missedMobxBottom</string>
+</dict>
+</plist>

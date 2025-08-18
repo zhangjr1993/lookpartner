@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAroundScope</key>
+	<string>functionalProviderSkewx</string>
+	<key>decorationFormLocation</key>
+	<string>rectNearPrototype</string>
+	<key>featureVersusSingleton</key>
+	<string>dropdownbuttonAsAdapter</string>
+	<key>fusedQueryFrequency</key>
+	<string>iterativeNavigatorInterval</string>
+	<key>intuitiveParticlePadding</key>
+	<string>heapMethodEdge</string>
+	<key>pointPatternSpeed</key>
+	<string>interactorBufferLeft</string>
+	<key>subpixelFromState</key>
+	<string>firstProjectPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateNumberPadding</key>
+	<string>buttonWithoutJob</string>
+	<key>equipmentLikeLevel</key>
+	<string>entityStageBrightness</string>
+	<key>exponentAtPattern</key>
+	<string>deferredMenuInteraction</string>
+	<key>sineLayerAlignment</key>
+	<string>cosineEnvironmentAlignment</string>
+	<key>sophisticatedDependencySpeed</key>
+	<string>plateObserverAppearance</string>
+</dict>
+</plist>

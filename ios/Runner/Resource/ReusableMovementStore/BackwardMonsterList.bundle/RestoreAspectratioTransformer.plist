@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAwayWork</key>
+	<string>missedTouchDirection</string>
+	<key>asyncOutsideWork</key>
+	<string>graphicPerComposite</string>
+	<key>geometricCapacitiesShade</key>
+	<string>baselineLikePlatform</string>
+	<key>hashNearFramework</key>
+	<string>characterDecoratorHue</string>
+	<key>inactiveLabelForce</key>
+	<string>sizeChainFeedback</string>
+	<key>mainTaskLocation</key>
+	<string>associatedAspectScale</string>
+	<key>nextFactorySpacing</key>
+	<string>singletonPatternForce</string>
+	<key>sliderContainStyle</key>
+	<string>cupertinoThemeContrast</string>
+	<key>titleIncludeSystem</key>
+	<string>coordinatorLayerLocation</string>
+</dict>
+</plist>

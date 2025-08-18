@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerScopeFormat</key>
+	<string>fusedServiceStatus</string>
+	<key>cubitTempleCenter</key>
+	<string>nativeSkirtFormat</string>
+	<key>mediaOfType</key>
+	<string>completerCompositeSpeed</string>
+	<key>pageviewCycleState</key>
+	<string>prevUsageSize</string>
+	<key>painterStyleShade</key>
+	<string>resourceBeyondTask</string>
+	<key>roleWithoutMediator</key>
+	<string>commandChainResponse</string>
+	<key>storyboardWithoutBridge</key>
+	<string>textBridgeBehavior</string>
+</dict>
+</plist>

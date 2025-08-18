@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioKindForce</key>
+	<string>signatureVarIndex</string>
+	<key>behaviorObserverPadding</key>
+	<string>gateThroughMediator</string>
+	<key>criticalSignForce</key>
+	<string>decorationInterpreterType</string>
+	<key>displayableDescriptionCount</key>
+	<string>liteEqualizationDepth</string>
+	<key>isolateAndSingleton</key>
+	<string>significantNotifierKind</string>
+	<key>isolateProcessTail</key>
+	<string>dependencyCommandFormat</string>
+	<key>menuAroundSystem</key>
+	<string>sensorIncludeNumber</string>
+	<key>responseUntilActivity</key>
+	<string>viewWithoutMediator</string>
+	<key>themeVersusFlyweight</key>
+	<string>curveUntilComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAsVar</key>
+	<string>subsequentLayoutOrientation</string>
+	<key>capsuleStageRight</key>
+	<string>vectorStageDistance</string>
+	<key>statefulTaskStatus</key>
+	<string>utilInSystem</string>
+</dict>
+</plist>

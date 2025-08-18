@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureWithVisitor</key>
+	<string>callbackForMediator</string>
+	<key>gestureViaAction</key>
+	<string>factoryPatternTheme</string>
+	<key>gridScopeSpacing</key>
+	<string>storageTaskFeedback</string>
+	<key>oldGrayscalePosition</key>
+	<string>normalTextContrast</string>
+	<key>tappablePageviewStyle</key>
+	<string>memberAmongWork</string>
+	<key>unactivatedChallengeAcceleration</key>
+	<string>zoneSystemRate</string>
+</dict>
+</plist>

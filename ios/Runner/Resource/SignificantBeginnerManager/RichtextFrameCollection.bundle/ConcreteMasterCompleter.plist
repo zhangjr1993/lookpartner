@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMobxDistance</key>
+	<string>notifierExceptActivity</string>
+	<key>elasticControllerInset</key>
+	<string>smallAnimationCoord</string>
+	<key>memberStrategySize</key>
+	<string>spriteTierTag</string>
+	<key>musicMediatorValidation</key>
+	<string>robustWorkflowVisible</string>
+	<key>operationDecoratorAlignment</key>
+	<string>frameKindFlags</string>
+	<key>unsortedAsyncTag</key>
+	<string>intuitiveChannelHue</string>
+</dict>
+</plist>

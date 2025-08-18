@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBesideCycle</key>
+	<string>isolateModeShape</string>
+	<key>constraintPerFunction</key>
+	<string>mainServiceFormat</string>
+	<key>drawerTempleFeedback</key>
+	<string>disabledIntensityBound</string>
+	<key>greatIndicatorMargin</key>
+	<string>parallelDecorationTop</string>
+	<key>smallTextureRight</key>
+	<string>interfaceAdapterBehavior</string>
+	<key>spotObserverColor</key>
+	<string>animationMediatorVisibility</string>
+	<key>statefulDocumentCoord</key>
+	<string>otherCaptionInset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondFunction</key>
+	<string>monsterStageVisible</string>
+	<key>curveAroundChain</key>
+	<string>progressbarCycleOrigin</string>
+	<key>discardedAlphaFrequency</key>
+	<string>nativeCatalystSpacing</string>
+	<key>effectAwayParam</key>
+	<string>sampleContainLayer</string>
+	<key>nibLikeOperation</key>
+	<string>consultativeReducerBehavior</string>
+	<key>notificationFrameworkDistance</key>
+	<string>unactivatedObserverSkewx</string>
+	<key>resolverStyleFrequency</key>
+	<string>previewAlongPlatform</string>
+</dict>
+</plist>

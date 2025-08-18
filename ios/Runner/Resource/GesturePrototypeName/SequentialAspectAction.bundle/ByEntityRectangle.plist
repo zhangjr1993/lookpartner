@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGridStyle</key>
+	<string>signOutsideChain</string>
+	<key>boxshadowNumberRate</key>
+	<string>baselineVisitorPosition</string>
+	<key>decorationInterpreterForce</key>
+	<string>resourcePhaseState</string>
+	<key>dedicatedBufferAlignment</key>
+	<string>elasticResolverIndex</string>
+	<key>dropdownbuttonFunctionDistance</key>
+	<string>singleTweenMargin</string>
+	<key>dynamicOperationSpacing</key>
+	<string>fusedRadiusOffset</string>
+	<key>isolateOutsideEnvironment</key>
+	<string>independentMobxFrequency</string>
+	<key>presenterModeDensity</key>
+	<string>autoInteractorPosition</string>
+	<key>staticStreamDuration</key>
+	<string>serviceContextTag</string>
+	<key>timerSinceSystem</key>
+	<string>scrollLayerType</string>
+</dict>
+</plist>

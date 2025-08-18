@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFlyweightKind</key>
+	<string>buttonAroundCycle</string>
+	<key>invisibleInjectionFrequency</key>
+	<string>priorSingletonBound</string>
+	<key>resizableGramInterval</key>
+	<string>synchronousMovementPosition</string>
+	<key>responseOrLayer</key>
+	<string>streamThroughVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTransitionShape</key>
+	<string>sinkEnvironmentOffset</string>
+	<key>eventVisitorVisible</key>
+	<string>hierarchicalSampleInteraction</string>
+	<key>labelLikeState</key>
+	<string>switchAroundPattern</string>
+	<key>lazyPlaybackStatus</key>
+	<string>intensityModeRate</string>
+	<key>logChainSize</key>
+	<string>iterativeDependencyValidation</string>
+	<key>subscriptionThroughJob</key>
+	<string>offsetVisitorHead</string>
+	<key>swiftPlatformPressure</key>
+	<string>accordionFutureLeft</string>
+</dict>
+</plist>

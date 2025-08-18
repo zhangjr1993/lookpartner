@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandOutsideFramework</key>
+	<string>finalFutureAcceleration</string>
+	<key>decorationAsShape</key>
+	<string>arithmeticDependencyDistance</string>
+	<key>handlerSinceStyle</key>
+	<string>unaryOperationSize</string>
+	<key>multiplicationIncludeMode</key>
+	<string>animationTierResponse</string>
+	<key>precisionViaDecorator</key>
+	<string>zoneStructureValidation</string>
+	<key>responsiveRowBottom</key>
+	<string>imperativeSlashStatus</string>
+	<key>resultBridgeFormat</key>
+	<string>discardedCharacterDuration</string>
+	<key>skinPrototypeCount</key>
+	<string>semanticsThroughPhase</string>
+	<key>widgetBridgeSaturation</key>
+	<string>protectedChartInset</string>
+</dict>
+</plist>

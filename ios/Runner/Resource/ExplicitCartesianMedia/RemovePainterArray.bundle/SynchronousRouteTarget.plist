@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOutsideValue</key>
+	<string>bufferViaFacade</string>
+	<key>composableStackKind</key>
+	<string>inkwellCommandAlignment</string>
+	<key>methodFrameworkBehavior</key>
+	<string>dependencyInterpreterDirection</string>
+	<key>tappableChapterFlags</key>
+	<string>coordinatorObserverPadding</string>
+</dict>
+</plist>

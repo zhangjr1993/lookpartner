@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitScopeInterval</key>
+	<string>richtextActivitySpeed</string>
+	<key>handlerAdapterTag</key>
+	<string>significantPriorityAlignment</string>
+	<key>imperativeFactoryLeft</key>
+	<string>layoutInNumber</string>
+	<key>inactivePreviewColor</key>
+	<string>statefulTypeAcceleration</string>
+	<key>musicInStyle</key>
+	<string>touchThroughState</string>
+	<key>opaqueInterfaceFormat</key>
+	<string>immediateTaskTint</string>
+	<key>statelessAnimationKind</key>
+	<string>requestAgainstLayer</string>
+	<key>taskBesideDecorator</key>
+	<string>vectorDecoratorDirection</string>
+</dict>
+</plist>

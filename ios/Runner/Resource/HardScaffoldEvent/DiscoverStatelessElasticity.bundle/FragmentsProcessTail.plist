@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerShapeRotation</key>
+	<string>binaryByTask</string>
+	<key>finalConstraintLeft</key>
+	<string>frameOutsideJob</string>
+	<key>keyErrorBehavior</key>
+	<string>offsetVarAcceleration</string>
+	<key>rowPerTier</key>
+	<string>bufferMethodPosition</string>
+	<key>timerValueSpacing</key>
+	<string>instructionIncludePrototype</string>
+	<key>utilAndKind</key>
+	<string>mediumInstructionInteraction</string>
+</dict>
+</plist>

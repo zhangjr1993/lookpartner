@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLayoutPressure</key>
+	<string>lostDecorationForce</string>
+	<key>dependencyScopeMode</key>
+	<string>draggableLayoutDelay</string>
+	<key>navigatorAlongWork</key>
+	<string>topicWorkContrast</string>
+	<key>observerAgainstPrototype</key>
+	<string>tweenModeBound</string>
+	<key>transitionContextVisible</key>
+	<string>errorByBuffer</string>
+	<key>usedCompleterColor</key>
+	<string>movementBesideState</string>
+</dict>
+</plist>

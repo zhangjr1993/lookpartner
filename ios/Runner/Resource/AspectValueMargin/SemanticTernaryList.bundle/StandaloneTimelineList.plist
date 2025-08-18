@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInterpreterDensity</key>
+	<string>symmetricMissionDensity</string>
+	<key>flexibleArithmeticRotation</key>
+	<string>tensorCallbackDuration</string>
+	<key>rowTypeShape</key>
+	<string>timerMethodLeft</string>
+	<key>segmentWithoutLayer</key>
+	<string>sequentialButtonOffset</string>
+	<key>standaloneScreenLocation</key>
+	<string>methodDecoratorKind</string>
+	<key>sustainableTitleBehavior</key>
+	<string>signatureDuringMode</string>
+	<key>temporaryViewOrientation</key>
+	<string>radiusInScope</string>
+</dict>
+</plist>

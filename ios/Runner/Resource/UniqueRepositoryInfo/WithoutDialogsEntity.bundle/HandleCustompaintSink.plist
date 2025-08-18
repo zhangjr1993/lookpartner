@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedErrorInset</key>
+	<string>storeStrategyRight</string>
+	<key>animatedcontainerKindInteraction</key>
+	<string>sizeFromMediator</string>
+	<key>dedicatedAnimationSaturation</key>
+	<string>uniqueScaffoldMode</string>
+	<key>keyCoordinatorOrigin</key>
+	<string>boxInParameter</string>
+	<key>overlayParamAcceleration</key>
+	<string>menuNearParameter</string>
+	<key>projectionThroughStrategy</key>
+	<string>tabviewDecoratorForce</string>
+	<key>screenEnvironmentTension</key>
+	<string>inactiveCommandTheme</string>
+</dict>
+</plist>

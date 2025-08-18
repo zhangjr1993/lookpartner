@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTopicForce</key>
+	<string>callbackFromPrototype</string>
+	<key>lazyManagerRotation</key>
+	<string>commandFromVar</string>
+	<key>pointNumberFormat</key>
+	<string>multiplicationFacadeTop</string>
+	<key>prevCompleterCoord</key>
+	<string>tableScopeInterval</string>
+	<key>semanticGateFlags</key>
+	<string>semanticDurationRotation</string>
+	<key>transformerStyleSpacing</key>
+	<string>ternaryContextBrightness</string>
+	<key>variantPlatformOrigin</key>
+	<string>flexAtInterpreter</string>
+</dict>
+</plist>

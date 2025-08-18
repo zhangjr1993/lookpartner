@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAboutTemple</key>
+	<string>rectFromState</string>
+	<key>controllerThroughPattern</key>
+	<string>exceptionInFlyweight</string>
+	<key>reusablePopupSaturation</key>
+	<string>painterCycleSkewy</string>
+	<key>scaffoldChainSaturation</key>
+	<string>singleCoordinatorPressure</string>
+	<key>usedTransitionTint</key>
+	<string>responseDuringAction</string>
+</dict>
+</plist>

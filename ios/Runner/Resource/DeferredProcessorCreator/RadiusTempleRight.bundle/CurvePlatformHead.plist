@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBesideFlyweight</key>
+	<string>finalMapFlags</string>
+	<key>decorationProxySkewy</key>
+	<string>allocatorTypeDensity</string>
+	<key>disabledNavigatorBehavior</key>
+	<string>modelOrTemple</string>
+	<key>displayableLoopCoord</key>
+	<string>nativeMediaqueryForce</string>
+	<key>grayscaleParameterTransparency</key>
+	<string>loopVersusFramework</string>
+	<key>imperativeMatrixBorder</key>
+	<string>specifyProfileAcceleration</string>
+	<key>interactivePopupBrightness</key>
+	<string>scrollObserverShape</string>
+	<key>modalActionInteraction</key>
+	<string>semanticsViaLevel</string>
+	<key>publicCoordinatorBehavior</key>
+	<string>notificationNearChain</string>
+</dict>
+</plist>

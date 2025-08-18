@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAtOperation</key>
+	<string>durationOperationMode</string>
+	<key>gesturedetectorMementoScale</key>
+	<string>frameModePosition</string>
+	<key>materialCommandScale</key>
+	<string>statelessWithSingleton</string>
+	<key>nextViewMomentum</key>
+	<string>permissiveLocalizationBrightness</string>
+	<key>providerLayerLeft</key>
+	<string>textActivityOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletShapePressure</key>
+	<string>gemDuringNumber</string>
+	<key>containerEnvironmentShape</key>
+	<string>equipmentActivityMargin</string>
+	<key>custompaintAsFacade</key>
+	<string>entityThroughStyle</string>
+	<key>expandedActivityCenter</key>
+	<string>flexibleLogTint</string>
+	<key>largeLayerLeft</key>
+	<string>requestCompositeInteraction</string>
+	<key>projectWithoutLevel</key>
+	<string>cellIncludeSystem</string>
+	<key>reusableListviewFlags</key>
+	<string>enabledExceptionDelay</string>
+	<key>semanticHandlerTail</key>
+	<string>containerExceptBuffer</string>
+	<key>webCurveOrientation</key>
+	<string>diversifiedGetxFormat</string>
+</dict>
+</plist>

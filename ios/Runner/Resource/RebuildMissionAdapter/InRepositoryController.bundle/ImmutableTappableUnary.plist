@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAdapterAlignment</key>
+	<string>crudeToolAlignment</string>
+	<key>cupertinoGraphTop</key>
+	<string>delegateParamFeedback</string>
+	<key>mobilePresenterScale</key>
+	<string>responsiveStatefulColor</string>
+	<key>navigatorScopePosition</key>
+	<string>durationPerContext</string>
+</dict>
+</plist>

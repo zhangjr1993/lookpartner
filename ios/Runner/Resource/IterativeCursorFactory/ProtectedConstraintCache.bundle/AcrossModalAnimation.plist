@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAboutState</key>
+	<string>blocFromPattern</string>
+	<key>featureFrameworkSpacing</key>
+	<string>largeListenerVisibility</string>
+	<key>isolateWithoutType</key>
+	<string>allocatorScopeTheme</string>
+	<key>parallelBinarySkewx</key>
+	<string>durationCommandPressure</string>
+	<key>respectiveStorageRotation</key>
+	<string>semanticLayoutSkewy</string>
+	<key>usageThroughLevel</key>
+	<string>durationUntilMemento</string>
+</dict>
+</plist>

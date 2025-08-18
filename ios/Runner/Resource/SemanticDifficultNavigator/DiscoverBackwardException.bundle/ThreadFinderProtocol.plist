@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpotState</key>
+	<string>specifyMediaqueryKind</string>
+	<key>handlerModeSize</key>
+	<string>consumerExceptPrototype</string>
+	<key>offsetPlatformPressure</key>
+	<string>modalAlongScope</string>
+	<key>pinchableTextValidation</key>
+	<string>featureOrObserver</string>
+	<key>tappableDecorationMomentum</key>
+	<string>currentGroupValidation</string>
+	<key>tweenForVisitor</key>
+	<string>statefulBlocCoord</string>
+</dict>
+</plist>

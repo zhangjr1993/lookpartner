@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVariableOrientation</key>
+	<string>positionViaLayer</string>
+	<key>awaitTypeTransparency</key>
+	<string>presenterVariableTail</string>
+	<key>capacitiesOrContext</key>
+	<string>accordionModalFeedback</string>
+	<key>composableConstraintResponse</key>
+	<string>widgetBridgeType</string>
+	<key>heroWithPrototype</key>
+	<string>constraintWithoutForm</string>
+	<key>missionBridgeDelay</key>
+	<string>cellPatternSkewy</string>
+	<key>providerActionPosition</key>
+	<string>reactiveSingletonCount</string>
+	<key>stateThanComposite</key>
+	<string>lazyBaselineLocation</string>
+</dict>
+</plist>

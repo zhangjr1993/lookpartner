@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperStateSpacing</key>
+	<string>taskFrameworkAppearance</string>
+	<key>commandVariableForce</key>
+	<string>localizationChainBrightness</string>
+	<key>concurrentSampleDelay</key>
+	<string>pinchableTextBorder</string>
+	<key>criticalMediaqueryScale</key>
+	<string>visibleResponseBrightness</string>
+	<key>gramStrategyVisibility</key>
+	<string>prismaticProgressbarTheme</string>
+	<key>matrixInsideMethod</key>
+	<string>sliderStyleBrightness</string>
+</dict>
+</plist>

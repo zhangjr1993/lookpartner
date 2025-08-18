@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCycleDelay</key>
+	<string>observerNumberMode</string>
+	<key>apertureDecoratorTag</key>
+	<string>tappablePositionMargin</string>
+	<key>canvasAmongWork</key>
+	<string>precisionModePosition</string>
+	<key>commandKindRotation</key>
+	<string>directLayerOrientation</string>
+	<key>diversifiedPresenterSkewx</key>
+	<string>requestTypeLocation</string>
+	<key>parallelTweenOrientation</key>
+	<string>graphFacadeShade</string>
+	<key>titlePatternFrequency</key>
+	<string>diversifiedSizeDuration</string>
+</dict>
+</plist>

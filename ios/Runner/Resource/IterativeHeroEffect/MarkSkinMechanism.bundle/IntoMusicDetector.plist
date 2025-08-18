@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAgainstKind</key>
+	<string>signObserverRight</string>
+	<key>configurationDuringAction</key>
+	<string>finalScaleTheme</string>
+	<key>controllerStageFrequency</key>
+	<string>disabledResourceColor</string>
+	<key>dependencyCycleOrigin</key>
+	<string>progressbarAtMethod</string>
+	<key>expandedCycleColor</key>
+	<string>standaloneEffectTail</string>
+	<key>priorGiftTail</key>
+	<string>delegateDecoratorOrientation</string>
+	<key>scaffoldActivityOrientation</key>
+	<string>builderAboutEnvironment</string>
+	<key>tappableGateName</key>
+	<string>kernelBesideObserver</string>
+	<key>widgetStyleTransparency</key>
+	<string>comprehensiveTabbarOrigin</string>
+</dict>
+</plist>

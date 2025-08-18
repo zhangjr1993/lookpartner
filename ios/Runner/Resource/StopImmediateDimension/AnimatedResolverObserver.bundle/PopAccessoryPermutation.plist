@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFacadeOffset</key>
+	<string>asyncSliderCenter</string>
+	<key>mobxWithoutMode</key>
+	<string>cupertinoMetadataSkewy</string>
+	<key>relationalStoreContrast</key>
+	<string>reductionOperationTransparency</string>
+	<key>seamlessMissionContrast</key>
+	<string>animationTaskShade</string>
+	<key>textDespitePlatform</key>
+	<string>reducerTierFeedback</string>
+	<key>uniqueNavigationTransparency</key>
+	<string>sophisticatedNavigatorVisibility</string>
+	<key>utilLevelDirection</key>
+	<string>decorationEnvironmentSpeed</string>
+	<key>vectorVarTheme</key>
+	<string>progressbarAmongPrototype</string>
+</dict>
+</plist>

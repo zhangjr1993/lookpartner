@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBeyondContext</key>
+	<string>currentTabbarCoord</string>
+	<key>coordinatorExceptStyle</key>
+	<string>substantialPainterShade</string>
+	<key>elasticQueryBehavior</key>
+	<string>normSinceProxy</string>
+	<key>grayscalePatternShape</key>
+	<string>resolverExceptComposite</string>
+	<key>isolateOrNumber</key>
+	<string>touchViaVar</string>
+	<key>materialEnvironmentSpeed</key>
+	<string>flexibleFutureBrightness</string>
+	<key>originalButtonVisibility</key>
+	<string>gridviewParamDirection</string>
+	<key>webMarginBound</key>
+	<string>remainderMementoInset</string>
+</dict>
+</plist>

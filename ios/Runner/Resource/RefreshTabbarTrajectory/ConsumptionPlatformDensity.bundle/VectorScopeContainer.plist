@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAtLevel</key>
+	<string>providerStructureDepth</string>
+	<key>controllerAsChain</key>
+	<string>pointFromContext</string>
+	<key>firstManagerFeedback</key>
+	<string>currentTransitionDistance</string>
+	<key>optimizerParameterVisibility</key>
+	<string>tweenExceptValue</string>
+	<key>subtleCupertinoState</key>
+	<string>exceptionParameterInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedParticleColor</key>
+	<string>equipmentViaVar</string>
+	<key>deferredProviderDirection</key>
+	<string>layoutSingletonMode</string>
+	<key>displayableNavigatorTail</key>
+	<string>playbackFunctionTail</string>
+	<key>sequentialManagerName</key>
+	<string>modulusByType</string>
+	<key>sessionVersusKind</key>
+	<string>tensorCubitTransparency</string>
+	<key>specifierAgainstEnvironment</key>
+	<string>dropdownbuttonDuringFacade</string>
+	<key>subscriptionAndValue</key>
+	<string>radiusOrAdapter</string>
+	<key>switchMethodSpeed</key>
+	<string>characterContextMomentum</string>
+	<key>taskInLevel</key>
+	<string>beginnerSpriteRotation</string>
+</dict>
+</plist>

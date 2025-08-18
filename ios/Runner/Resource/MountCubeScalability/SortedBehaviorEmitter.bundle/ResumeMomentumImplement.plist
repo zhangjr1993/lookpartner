@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFacadeBottom</key>
+	<string>progressbarWithoutAdapter</string>
+	<key>checkboxAmongTier</key>
+	<string>sizeDecoratorCount</string>
+	<key>composableViewSize</key>
+	<string>mainModalPressure</string>
+	<key>declarativeTickerVisible</key>
+	<string>concurrentDialogsDelay</string>
+	<key>desktopGateName</key>
+	<string>tableOperationBrightness</string>
+	<key>dynamicHashPosition</key>
+	<string>menuDecoratorInteraction</string>
+	<key>graphAboutSingleton</key>
+	<string>clipperShapeDepth</string>
+	<key>persistentLocalizationDirection</key>
+	<string>sliderAsInterpreter</string>
+	<key>streamSingletonState</key>
+	<string>entropyAroundEnvironment</string>
+</dict>
+</plist>

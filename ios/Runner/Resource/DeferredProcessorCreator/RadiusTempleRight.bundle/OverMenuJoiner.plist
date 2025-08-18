@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEqualizationEdge</key>
+	<string>directWorkflowType</string>
+	<key>advancedFactoryInset</key>
+	<string>callbackValueDistance</string>
+	<key>ephemeralTickerPadding</key>
+	<string>operationFormOrigin</string>
+	<key>reusableBaseRotation</key>
+	<string>spriteObserverBorder</string>
+	<key>segueJobResponse</key>
+	<string>exponentLevelResponse</string>
+	<key>sensorOutsideEnvironment</key>
+	<string>dependencyDecoratorPressure</string>
+	<key>specifyMasterTail</key>
+	<string>storeByKind</string>
+	<key>streamAroundChain</key>
+	<string>mainSlashCount</string>
+</dict>
+</plist>

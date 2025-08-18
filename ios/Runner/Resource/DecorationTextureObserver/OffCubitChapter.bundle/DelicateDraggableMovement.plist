@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCycleSkewy</key>
+	<string>iconAlongFunction</string>
+	<key>reactiveAnchorFlags</key>
+	<string>presenterNearFlyweight</string>
+	<key>routerObserverRight</key>
+	<string>subpixelCompositeDirection</string>
+	<key>spriteVisitorForce</key>
+	<string>statelessGesturedetectorScale</string>
+	<key>textureThanChain</key>
+	<string>directlyChannelsTransparency</string>
+</dict>
+</plist>

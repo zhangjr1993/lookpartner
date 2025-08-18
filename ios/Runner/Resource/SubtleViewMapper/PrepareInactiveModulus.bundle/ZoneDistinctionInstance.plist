@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInsideCycle</key>
+	<string>nibShapeBehavior</string>
+	<key>blocSinceOperation</key>
+	<string>autoAlphaPadding</string>
+	<key>comprehensiveMediaTransparency</key>
+	<string>singletonPerKind</string>
+	<key>customContainerState</key>
+	<string>positionLayerShade</string>
+	<key>deferredNodeAcceleration</key>
+	<string>dropdownbuttonShapeLocation</string>
+	<key>exceptionNumberDepth</key>
+	<string>blocAlongVisitor</string>
+	<key>logActionKind</key>
+	<string>pageviewBesideShape</string>
+	<key>oldFrameLocation</key>
+	<string>queryAtForm</string>
+	<key>symmetricControllerFeedback</key>
+	<string>nativeCurveTheme</string>
+	<key>timerOrSystem</key>
+	<string>cupertinoAroundObserver</string>
+</dict>
+</plist>

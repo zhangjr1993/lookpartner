@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBufferDelay</key>
+	<string>layoutActivityValidation</string>
+	<key>effectWithoutType</key>
+	<string>delicateChapterScale</string>
+	<key>layoutStageFrequency</key>
+	<string>multiPresenterTop</string>
+	<key>reducerTypeKind</key>
+	<string>fusedCoordinatorSkewy</string>
+	<key>sequentialRouterName</key>
+	<string>visibleCurveVisible</string>
+	<key>singletonOutsideDecorator</key>
+	<string>requiredWidgetTransparency</string>
+	<key>viewStrategyScale</key>
+	<string>unactivatedMusicTint</string>
+</dict>
+</plist>

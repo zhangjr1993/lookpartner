@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSpineAppearance</key>
+	<string>statelessViaObserver</string>
+	<key>gridVersusFunction</key>
+	<string>autoSliderFeedback</string>
+	<key>permanentPositionAlignment</key>
+	<string>swiftSystemOrigin</string>
+	<key>previewPerFramework</key>
+	<string>comprehensiveZoneDepth</string>
+	<key>subpixelVersusOperation</key>
+	<string>offsetAtProcess</string>
+	<key>sustainableSampleFrequency</key>
+	<string>greatTableCoord</string>
+</dict>
+</plist>

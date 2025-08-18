@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMediatorDistance</key>
+	<string>desktopSceneOrientation</string>
+	<key>commandIncludeParameter</key>
+	<string>uniformGemTag</string>
+	<key>matrixVersusDecorator</key>
+	<string>methodPerType</string>
+	<key>otherMethodBound</key>
+	<string>assetAtLevel</string>
+	<key>signForPlatform</key>
+	<string>requiredMethodPosition</string>
+</dict>
+</plist>

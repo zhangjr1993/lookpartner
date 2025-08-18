@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVarBehavior</key>
+	<string>observerLevelFlags</string>
+	<key>customChartSpeed</key>
+	<string>tappableNotificationCoord</string>
+	<key>mobxExceptPlatform</key>
+	<string>subtleEventOrientation</string>
+	<key>shaderKindInset</key>
+	<string>clipperThroughFunction</string>
+</dict>
+</plist>

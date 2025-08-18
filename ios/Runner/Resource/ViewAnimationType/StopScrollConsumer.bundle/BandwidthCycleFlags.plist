@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResolverValidation</key>
+	<string>cubitLikeFacade</string>
+	<key>containerObserverDepth</key>
+	<string>factoryAgainstParameter</string>
+	<key>curveShapeRight</key>
+	<string>displayableCubeInterval</string>
+	<key>positionFunctionShade</key>
+	<string>imageStructureKind</string>
+</dict>
+</plist>

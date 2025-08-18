@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTierName</key>
+	<string>pinchableNodeFeedback</string>
+	<key>elasticCapsuleBound</key>
+	<string>interactorVarTension</string>
+	<key>groupProcessStyle</key>
+	<string>tabviewUntilMemento</string>
+	<key>matrixAmongMediator</key>
+	<string>errorFacadeAcceleration</string>
+	<key>opaqueViewShade</key>
+	<string>plateOrVariable</string>
+	<key>popupFlyweightRight</key>
+	<string>hashOrAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScreenTension</key>
+	<string>missedAllocatorMargin</string>
+	<key>concurrentStackDensity</key>
+	<string>fusedAllocatorOpacity</string>
+	<key>directlyProviderBrightness</key>
+	<string>stepStageMode</string>
+	<key>singletonMementoMomentum</key>
+	<string>callbackFacadeDepth</string>
+	<key>viewObserverHue</key>
+	<string>mutableReductionVelocity</string>
+</dict>
+</plist>

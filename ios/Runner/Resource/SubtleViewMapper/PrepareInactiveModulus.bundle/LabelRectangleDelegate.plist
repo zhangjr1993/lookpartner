@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesBufferBehavior</key>
+	<string>decorationAndStructure</string>
+	<key>indicatorNearInterpreter</key>
+	<string>missionProxyBehavior</string>
+	<key>notifierMediatorFormat</key>
+	<string>ephemeralGroupSpeed</string>
+	<key>presenterOrPlatform</key>
+	<string>cycleKindStyle</string>
+	<key>rectFrameworkShape</key>
+	<string>viewViaKind</string>
+	<key>workflowAdapterMomentum</key>
+	<string>priorAsyncBound</string>
+</dict>
+</plist>

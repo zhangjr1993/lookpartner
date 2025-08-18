@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncByActivity</key>
+	<string>sizedboxExceptPlatform</string>
+	<key>behaviorLikeFacade</key>
+	<string>publicContainerVelocity</string>
+	<key>compositionVariableBehavior</key>
+	<string>newestFutureBorder</string>
+	<key>fixedDrawerOffset</key>
+	<string>pointJobCenter</string>
+	<key>labelAroundAdapter</key>
+	<string>ignoredDecorationStyle</string>
+	<key>modelContextShade</key>
+	<string>signatureLevelFlags</string>
+	<key>pivotalTitleDuration</key>
+	<string>resourceWithoutFramework</string>
+	<key>radioBridgeSize</key>
+	<string>multiplicationAdapterMode</string>
+	<key>scrollableGraphInterval</key>
+	<string>factoryFormSkewy</string>
+</dict>
+</plist>

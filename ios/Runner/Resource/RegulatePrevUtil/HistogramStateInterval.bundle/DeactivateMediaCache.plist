@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalPositionedInteraction</key>
+	<string>previewSystemCoord</string>
+	<key>discardedFutureCount</key>
+	<string>boxshadowContextState</string>
+	<key>documentParameterOpacity</key>
+	<string>missedSceneType</string>
+	<key>greatTextureVisibility</key>
+	<string>alertBeyondValue</string>
+	<key>handlerInPlatform</key>
+	<string>semanticGridMode</string>
+	<key>labelWithAdapter</key>
+	<string>blocPlatformRate</string>
+	<key>localFeatureTop</key>
+	<string>viewBesideStyle</string>
+	<key>numericalTransitionVisibility</key>
+	<string>signEnvironmentState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRiverpodRotation</key>
+	<string>playbackPatternTheme</string>
+	<key>asyncBlocDepth</key>
+	<string>beginnerChapterBound</string>
+	<key>chartAgainstBuffer</key>
+	<string>pageviewChainBehavior</string>
+	<key>flexibleReductionDensity</key>
+	<string>disabledChecklistRate</string>
+	<key>normalParticlePosition</key>
+	<string>modelFlyweightLeft</string>
+	<key>promiseInsideInterpreter</key>
+	<string>layoutOutsideStyle</string>
+	<key>transformerBufferInteraction</key>
+	<string>commonWorkflowFeedback</string>
+	<key>uniformStorePressure</key>
+	<string>builderAmongLevel</string>
+	<key>vectorValueAppearance</key>
+	<string>cursorFrameworkStyle</string>
+</dict>
+</plist>

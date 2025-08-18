@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiStepBehavior</key>
+	<string>clipperContainWork</string>
+	<key>nativeAssetLocation</key>
+	<string>switchMethodDepth</string>
+	<key>normForVisitor</key>
+	<string>logViaInterpreter</string>
+	<key>storyboardTaskAppearance</key>
+	<string>pinchableSinkSkewx</string>
+	<key>tweenFlyweightVisibility</key>
+	<string>beginnerUtilBehavior</string>
+</dict>
+</plist>

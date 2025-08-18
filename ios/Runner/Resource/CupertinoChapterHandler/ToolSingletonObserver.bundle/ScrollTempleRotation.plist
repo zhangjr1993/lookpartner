@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAndFacade</key>
+	<string>streamFrameworkScale</string>
+	<key>asyncPreviewFormat</key>
+	<string>usedLogPosition</string>
+	<key>chapterWithoutEnvironment</key>
+	<string>awaitProxyInset</string>
+	<key>pinchableCommandPadding</key>
+	<string>specifyTaskSpacing</string>
+	<key>providerWorkPadding</key>
+	<string>fixedButtonTag</string>
+	<key>singleWorkflowAlignment</key>
+	<string>metadataStyleSize</string>
+	<key>uniformRadiusBottom</key>
+	<string>queryOperationPadding</string>
+</dict>
+</plist>

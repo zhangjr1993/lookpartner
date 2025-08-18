@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFromPattern</key>
+	<string>labelBesideNumber</string>
+	<key>globalHistogramLeft</key>
+	<string>queueChainVelocity</string>
+	<key>localizationThanMemento</key>
+	<string>skinAmongTier</string>
+	<key>publicOperationAlignment</key>
+	<string>sinkFormMode</string>
+	<key>reusableSingletonTag</key>
+	<string>visibleScaffoldDepth</string>
+</dict>
+</plist>

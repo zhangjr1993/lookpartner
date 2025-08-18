@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAgainstProxy</key>
+	<string>curveWorkVisibility</string>
+	<key>compositionContainType</key>
+	<string>actionTierSkewx</string>
+	<key>enabledStampSize</key>
+	<string>compositionPerMode</string>
+	<key>modelStateTransparency</key>
+	<string>transitionAsParam</string>
+	<key>requestWorkFeedback</key>
+	<string>curveFromJob</string>
+	<key>resourceTypeOffset</key>
+	<string>promiseVisitorDelay</string>
+	<key>timerForNumber</key>
+	<string>appbarNearVar</string>
+</dict>
+</plist>

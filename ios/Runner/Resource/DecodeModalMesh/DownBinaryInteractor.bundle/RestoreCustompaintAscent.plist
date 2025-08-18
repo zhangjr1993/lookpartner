@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFrameworkBound</key>
+	<string>pageviewOutsideSystem</string>
+	<key>giftContainTier</key>
+	<string>subpixelForContext</string>
+	<key>handlerSinceStage</key>
+	<string>unaryBridgeBehavior</string>
+	<key>listenerBufferLocation</key>
+	<string>configurationMediatorAcceleration</string>
+	<key>statefulPerState</key>
+	<string>lastEquipmentShape</string>
+</dict>
+</plist>

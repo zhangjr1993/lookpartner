@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationViaBridge</key>
+	<string>cubitTaskCount</string>
+	<key>controllerAwayValue</key>
+	<string>immediateErrorRotation</string>
+	<key>effectBufferBound</key>
+	<string>listviewStyleStatus</string>
+	<key>exponentNearBridge</key>
+	<string>providerFromProcess</string>
+	<key>gradientParamMode</key>
+	<string>gestureWorkDuration</string>
+	<key>hashFacadeDelay</key>
+	<string>oldFutureForce</string>
+	<key>lastAwaitLocation</key>
+	<string>bitrateDecoratorRate</string>
+	<key>managerAlongPhase</key>
+	<string>textDecoratorLeft</string>
+	<key>respectiveCallbackMargin</key>
+	<string>primaryBaselineRight</string>
+</dict>
+</plist>

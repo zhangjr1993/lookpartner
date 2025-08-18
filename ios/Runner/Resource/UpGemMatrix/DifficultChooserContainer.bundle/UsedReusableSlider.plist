@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeThemeScale</key>
+	<string>containerScopeAcceleration</string>
+	<key>bitrateVarFeedback</key>
+	<string>viewMementoRight</string>
+	<key>effectVersusAdapter</key>
+	<string>cupertinoCompleterAlignment</string>
+	<key>referenceWorkState</key>
+	<string>ternaryCompositeBottom</string>
+	<key>routerIncludeChain</key>
+	<string>directlyLabelSkewy</string>
+</dict>
+</plist>

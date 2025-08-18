@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAmongScope</key>
+	<string>cubitWithoutScope</string>
+	<key>immutableWidgetDelay</key>
+	<string>semanticUsecaseAppearance</string>
+	<key>newestCoordinatorRotation</key>
+	<string>navigatorInsideInterpreter</string>
+	<key>repositoryExceptValue</key>
+	<string>isolateBridgeRate</string>
+	<key>serviceWithFramework</key>
+	<string>coordinatorAboutState</string>
+</dict>
+</plist>

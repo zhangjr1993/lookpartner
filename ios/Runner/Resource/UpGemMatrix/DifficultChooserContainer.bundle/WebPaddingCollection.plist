@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableGraphicOrientation</key>
+	<string>secondProviderDistance</string>
+	<key>fixedMetadataTransparency</key>
+	<string>sortedNormScale</string>
+	<key>menuStageMode</key>
+	<string>newestRequestVisible</string>
+	<key>mobxShapeStatus</key>
+	<string>keyEventCoord</string>
+	<key>navigatorIncludeVariable</key>
+	<string>overlayLevelDistance</string>
+	<key>routeContainParameter</key>
+	<string>menuAroundMode</string>
+	<key>singleMovementFlags</key>
+	<string>awaitExceptSingleton</string>
+	<key>tickerWithCycle</key>
+	<string>activityUntilProxy</string>
+	<key>transitionCommandSkewx</key>
+	<string>intensityLevelTheme</string>
+</dict>
+</plist>

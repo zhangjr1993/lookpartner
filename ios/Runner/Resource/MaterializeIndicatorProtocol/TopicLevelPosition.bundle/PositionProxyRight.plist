@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeTop</key>
+	<string>handlerBridgeType</string>
+	<key>baseStructureDensity</key>
+	<string>statelessQueueDensity</string>
+	<key>callbackViaChain</key>
+	<string>unsortedLayoutRotation</string>
+	<key>delegateThroughFacade</key>
+	<string>multiScalePosition</string>
+	<key>easySessionPadding</key>
+	<string>sinkKindFrequency</string>
+	<key>factoryParameterResponse</key>
+	<string>transitionAtPhase</string>
+	<key>greatSubscriptionColor</key>
+	<string>tweenPhaseMomentum</string>
+</dict>
+</plist>

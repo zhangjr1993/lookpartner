@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBeyondValue</key>
+	<string>completerTierHue</string>
+	<key>commonStatePressure</key>
+	<string>textfieldOrParam</string>
+	<key>effectLikeStyle</key>
+	<string>tableAndForm</string>
+	<key>grainPrototypeBound</key>
+	<string>diffableStreamOpacity</string>
+	<key>listenerAmongScope</key>
+	<string>routerTierDuration</string>
+	<key>subpixelParameterPressure</key>
+	<string>hashPrototypeTop</string>
+	<key>typicalTableValidation</key>
+	<string>normBeyondTier</string>
+</dict>
+</plist>

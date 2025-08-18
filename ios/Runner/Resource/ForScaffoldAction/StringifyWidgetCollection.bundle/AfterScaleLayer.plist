@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAroundShape</key>
+	<string>progressbarBridgeAppearance</string>
+	<key>statefulWithPlatform</key>
+	<string>effectFormContrast</string>
+	<key>tabbarOutsideDecorator</key>
+	<string>dimensionChainTheme</string>
+	<key>tweenPlatformAlignment</key>
+	<string>musicExceptMode</string>
+</dict>
+</plist>

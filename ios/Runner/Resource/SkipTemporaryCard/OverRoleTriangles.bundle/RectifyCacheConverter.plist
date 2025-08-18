@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitValueBehavior</key>
+	<string>hierarchicalPromiseSpacing</string>
+	<key>granularRiverpodState</key>
+	<string>hashThroughChain</string>
+	<key>interactiveHashPadding</key>
+	<string>decorationJobOpacity</string>
+	<key>navigatorDespiteParam</key>
+	<string>criticalCursorTint</string>
+	<key>paddingTempleOpacity</key>
+	<string>widgetBesideObserver</string>
+	<key>scrollableSkinDelay</key>
+	<string>adaptiveTickerResponse</string>
+	<key>smallBoxshadowFrequency</key>
+	<string>scrollExceptSystem</string>
+</dict>
+</plist>

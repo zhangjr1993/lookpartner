@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverKind</key>
+	<string>keyAppbarRotation</string>
+	<key>dedicatedCubeState</key>
+	<string>commandAlongProcess</string>
+	<key>elasticFlexRotation</key>
+	<string>resizableTaskShade</string>
+	<key>intuitiveHandlerPadding</key>
+	<string>dependencyParamDistance</string>
+	<key>layoutKindOrigin</key>
+	<string>completionAndObserver</string>
+	<key>persistentSkinDuration</key>
+	<string>synchronousFutureOrigin</string>
+	<key>roleFrameworkSkewx</key>
+	<string>delicateCoordinatorDensity</string>
+	<key>seamlessTechniqueKind</key>
+	<string>navigatorInterpreterCoord</string>
+	<key>techniqueActionColor</key>
+	<string>pointDuringSystem</string>
+</dict>
+</plist>

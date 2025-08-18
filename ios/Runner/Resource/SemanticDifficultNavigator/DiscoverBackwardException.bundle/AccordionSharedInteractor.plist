@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerProxyEdge</key>
+	<string>reducerBeyondDecorator</string>
+	<key>overlayFromForm</key>
+	<string>rowTaskOrigin</string>
+	<key>pointViaScope</key>
+	<string>actionIncludePhase</string>
+	<key>providerAdapterDelay</key>
+	<string>mediumTickerBrightness</string>
+	<key>resolverBridgeTail</key>
+	<string>configurationOutsidePattern</string>
+</dict>
+</plist>

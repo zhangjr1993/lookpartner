@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerAdapterFlags</key>
+	<string>priorityLayerDistance</string>
+	<key>navigatorStrategyHue</key>
+	<string>statefulMethodBehavior</string>
+	<key>progressbarStyleDirection</key>
+	<string>techniqueFacadeRotation</string>
+	<key>sliderMementoHue</key>
+	<string>giftPrototypeMargin</string>
+	<key>tabbarPhaseVisibility</key>
+	<string>frameDecoratorTheme</string>
+</dict>
+</plist>

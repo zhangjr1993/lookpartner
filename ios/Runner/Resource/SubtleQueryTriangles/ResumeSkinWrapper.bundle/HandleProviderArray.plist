@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyJobSpacing</key>
+	<string>displayableBlocBehavior</string>
+	<key>intensityLevelInteraction</key>
+	<string>alignmentExceptState</string>
+	<key>pageviewMementoBound</key>
+	<string>progressbarAmongBridge</string>
+	<key>permissiveTopicInteraction</key>
+	<string>inheritedLayoutName</string>
+	<key>precisionPhaseFrequency</key>
+	<string>fusedLayoutSize</string>
+	<key>toolBridgeBottom</key>
+	<string>entropyStageBorder</string>
+</dict>
+</plist>

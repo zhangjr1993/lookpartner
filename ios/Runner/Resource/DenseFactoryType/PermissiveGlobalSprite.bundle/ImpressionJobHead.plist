@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAwayMethod</key>
+	<string>rowOrDecorator</string>
+	<key>coordinatorAtFacade</key>
+	<string>firstCallbackRotation</string>
+	<key>invisibleAllocatorSize</key>
+	<string>challengeMethodRotation</string>
+	<key>layoutDespiteStrategy</key>
+	<string>listenerSinceParameter</string>
+	<key>tappableInkwellValidation</key>
+	<string>heapOrSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryUntilStyle</key>
+	<string>sustainableEffectSaturation</string>
+	<key>animatedCompleterVisibility</key>
+	<string>immediateCurveIndex</string>
+	<key>eagerActionResponse</key>
+	<string>eagerGrainPadding</string>
+	<key>precisionStrategyValidation</key>
+	<string>lastCompleterSaturation</string>
+	<key>rowFromShape</key>
+	<string>gramStrategyFormat</string>
+	<key>rowTempleType</key>
+	<string>temporarySymbolHue</string>
+	<key>subscriptionMementoResponse</key>
+	<string>gesturedetectorChainTail</string>
+	<key>subtleLabelEdge</key>
+	<string>touchFromStage</string>
+</dict>
+</plist>

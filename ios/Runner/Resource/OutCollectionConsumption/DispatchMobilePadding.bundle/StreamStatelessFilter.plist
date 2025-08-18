@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVisitorKind</key>
+	<string>channelsExceptCycle</string>
+	<key>cosineUntilKind</key>
+	<string>usecaseAroundCycle</string>
+	<key>durationVisitorFeedback</key>
+	<string>momentumInMode</string>
+	<key>logarithmKindDepth</key>
+	<string>navigatorShapeVelocity</string>
+	<key>observerVariablePadding</key>
+	<string>intensityWithoutAdapter</string>
+	<key>reductionOfCycle</key>
+	<string>radioFormSkewy</string>
+	<key>resourceProcessMargin</key>
+	<string>marginForLayer</string>
+	<key>streamParamForce</key>
+	<string>statefulBulletSpeed</string>
+</dict>
+</plist>

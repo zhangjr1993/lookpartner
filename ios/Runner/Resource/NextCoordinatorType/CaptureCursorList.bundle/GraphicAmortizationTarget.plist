@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScaleFormat</key>
+	<string>chapterForAdapter</string>
+	<key>assetAwayPrototype</key>
+	<string>imageAdapterContrast</string>
+	<key>materialMarginDepth</key>
+	<string>sceneShapeCenter</string>
+	<key>mobxCompositeRate</key>
+	<string>immutableReducerSpeed</string>
+	<key>navigatorFunctionAlignment</key>
+	<string>intermediateTabbarInteraction</string>
+	<key>rectAtPlatform</key>
+	<string>difficultListenerResponse</string>
+	<key>scaffoldAlongParam</key>
+	<string>deferredGraphHue</string>
+	<key>widgetDespiteStyle</key>
+	<string>lostDecorationHue</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInsideContext</key>
+	<string>handlerFrameworkAppearance</string>
+	<key>directlyDelegateLocation</key>
+	<string>scrollablePresenterHead</string>
+	<key>navigatorFormPadding</key>
+	<string>localizationTaskTag</string>
+	<key>plateWithScope</key>
+	<string>effectCommandSpacing</string>
+	<key>providerWithoutFlyweight</key>
+	<string>usecaseAsFlyweight</string>
+	<key>resizableSinkVisible</key>
+	<string>layoutPrototypeMode</string>
+	<key>synchronousHashPadding</key>
+	<string>fragmentVarSize</string>
+	<key>textureNearBridge</key>
+	<string>finalStorageContrast</string>
+</dict>
+</plist>

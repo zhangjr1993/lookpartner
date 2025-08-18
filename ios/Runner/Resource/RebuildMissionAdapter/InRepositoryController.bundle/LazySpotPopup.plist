@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundMode</key>
+	<string>resourceAtTask</string>
+	<key>constHashVelocity</key>
+	<string>gridviewOrEnvironment</string>
+	<key>remainderTaskOrientation</key>
+	<string>channelSingletonDirection</string>
+	<key>reusableTabbarVisible</key>
+	<string>grainWorkInset</string>
+	<key>streamActionOpacity</key>
+	<string>screenOfTemple</string>
+</dict>
+</plist>

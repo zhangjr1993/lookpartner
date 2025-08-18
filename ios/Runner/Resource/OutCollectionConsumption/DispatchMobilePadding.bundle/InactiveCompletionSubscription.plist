@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushThroughDecorator</key>
+	<string>alignmentInsideProxy</string>
+	<key>flexibleBorderTransparency</key>
+	<string>routerForActivity</string>
+	<key>handlerCompositeScale</key>
+	<string>secondMediaqueryType</string>
+	<key>playbackFrameworkMargin</key>
+	<string>crudeObserverFrequency</string>
+	<key>providerCycleCoord</key>
+	<string>coordinatorIncludeAdapter</string>
+	<key>sequentialFrameDuration</key>
+	<string>futureProxyAcceleration</string>
+	<key>slashInStrategy</key>
+	<string>switchMethodShade</string>
+</dict>
+</plist>

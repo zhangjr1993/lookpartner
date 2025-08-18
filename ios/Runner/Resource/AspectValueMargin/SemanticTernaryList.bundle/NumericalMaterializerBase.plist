@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpotMargin</key>
+	<string>associatedScaffoldOffset</string>
+	<key>animationActivityTransparency</key>
+	<string>scrollableIndicatorBrightness</string>
+	<key>autoPriorityLeft</key>
+	<string>retainedFeatureRight</string>
+	<key>delegateOfWork</key>
+	<string>referenceModeHue</string>
+	<key>desktopSpotRotation</key>
+	<string>referenceAgainstPattern</string>
+	<key>dropdownbuttonContextVisibility</key>
+	<string>coordinatorAmongChain</string>
+	<key>granularHandlerMode</key>
+	<string>semanticsViaObserver</string>
+	<key>multiplicationLikeFunction</key>
+	<string>tensorMomentumBorder</string>
+	<key>profileMediatorAppearance</key>
+	<string>desktopServiceFlags</string>
+	<key>themeLikeVisitor</key>
+	<string>resolverOutsideTier</string>
+</dict>
+</plist>

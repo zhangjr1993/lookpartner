@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSymbolFrequency</key>
+	<string>spinePerAdapter</string>
+	<key>kernelAsObserver</key>
+	<string>mainSingletonTransparency</string>
+	<key>logTierBehavior</key>
+	<string>deferredAlignmentMargin</string>
+	<key>nodePatternTag</key>
+	<string>normalFragmentForce</string>
+	<key>notificationLikePattern</key>
+	<string>disabledWidgetSkewx</string>
+	<key>pinchableDialogsSpacing</key>
+	<string>navigatorPerFunction</string>
+	<key>rectByTask</key>
+	<string>invisibleMapOrigin</string>
+	<key>sharedSliderDistance</key>
+	<string>lossAgainstProxy</string>
+	<key>sinkVarRight</key>
+	<string>tweenByCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterEnvironmentShape</key>
+	<string>widgetDecoratorLeft</string>
+	<key>missedSymbolSkewx</key>
+	<string>gramVersusTier</string>
+	<key>monsterInterpreterVisible</key>
+	<string>indicatorDuringComposite</string>
+	<key>permanentNibMode</key>
+	<string>clipperWorkHead</string>
+	<key>persistentResponseRotation</key>
+	<string>activatedAwaitDepth</string>
+</dict>
+</plist>

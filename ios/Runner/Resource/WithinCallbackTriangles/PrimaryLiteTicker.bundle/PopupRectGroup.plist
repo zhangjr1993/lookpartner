@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeTask</key>
+	<string>consumerAwayEnvironment</string>
+	<key>awaitWithContext</key>
+	<string>listenerAtStage</string>
+	<key>cacheExceptPattern</key>
+	<string>asyncTempleFlags</string>
+	<key>granularIsolateDistance</key>
+	<string>sinkAndMethod</string>
+	<key>labelVarDepth</key>
+	<string>viewByScope</string>
+	<key>managerStyleBottom</key>
+	<string>dependencyChainState</string>
+	<key>methodVariableTint</key>
+	<string>intensityMethodSkewy</string>
+	<key>reducerPatternHue</key>
+	<string>parallelStorageSkewy</string>
+	<key>webBlocLocation</key>
+	<string>interactiveStatefulTop</string>
+</dict>
+</plist>

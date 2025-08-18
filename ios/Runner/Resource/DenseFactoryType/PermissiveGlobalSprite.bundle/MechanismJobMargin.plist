@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledPreviewPosition</key>
+	<string>modelFlyweightForce</string>
+	<key>inkwellParameterTag</key>
+	<string>numericalPriorityCenter</string>
+	<key>sampleCompositeFormat</key>
+	<string>responsiveEqualizationDuration</string>
+	<key>transformerVisitorVisible</key>
+	<string>assetExceptProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSpineTag</key>
+	<string>canvasFromWork</string>
+	<key>featureNearForm</key>
+	<string>frameActionVisibility</string>
+	<key>localOptimizerOrientation</key>
+	<string>bufferStagePadding</string>
+	<key>presenterChainBehavior</key>
+	<string>characterStyleLeft</string>
+	<key>previewProcessDirection</key>
+	<string>channelForStyle</string>
+	<key>shaderVisitorCount</key>
+	<string>dedicatedMaterialForce</string>
+	<key>staticFragmentCount</key>
+	<string>dynamicListenerHead</string>
+</dict>
+</plist>

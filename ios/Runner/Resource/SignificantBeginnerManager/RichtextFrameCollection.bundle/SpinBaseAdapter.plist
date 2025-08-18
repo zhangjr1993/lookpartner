@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWithState</key>
+	<string>vectorParameterBottom</string>
+	<key>callbackExceptContext</key>
+	<string>monsterCycleAppearance</string>
+	<key>desktopCompositionBehavior</key>
+	<string>cursorSingletonBehavior</string>
+	<key>menuOperationTheme</key>
+	<string>lazyViewOrigin</string>
+	<key>metadataExceptAdapter</key>
+	<string>discardedGrayscaleOpacity</string>
+</dict>
+</plist>

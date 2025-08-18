@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOutsideMediator</key>
+	<string>constraintLikeForm</string>
+	<key>builderWorkAppearance</key>
+	<string>frameAndPattern</string>
+	<key>completerAlongDecorator</key>
+	<string>resourceDuringStrategy</string>
+	<key>getxObserverStatus</key>
+	<string>widgetScopeShade</string>
+	<key>immutableViewValidation</key>
+	<string>riverpodMediatorForce</string>
+	<key>invisibleHashTransparency</key>
+	<string>significantCurveFeedback</string>
+	<key>standaloneScaleTint</key>
+	<string>similarMenuPadding</string>
+	<key>subtleCurveShape</key>
+	<string>navigatorLikeStrategy</string>
+	<key>uniformCommandType</key>
+	<string>composableManagerMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderUntilBridge</key>
+	<string>graphicSingletonOrientation</string>
+	<key>bulletTierContrast</key>
+	<string>viewScopeBrightness</string>
+	<key>concurrentSignFeedback</key>
+	<string>resourceAboutFunction</string>
+	<key>crudeDelegateTint</key>
+	<string>graphicActivityDensity</string>
+	<key>ephemeralAnimationOffset</key>
+	<string>lazyResultShape</string>
+	<key>opaqueCompleterTheme</key>
+	<string>repositorySinceTier</string>
+	<key>profileAboutActivity</key>
+	<string>easyControllerTag</string>
+</dict>
+</plist>

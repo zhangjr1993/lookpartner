@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMethodBehavior</key>
+	<string>resourcePhasePressure</string>
+	<key>compositionalDurationBrightness</key>
+	<string>labelObserverContrast</string>
+	<key>directlyActionLocation</key>
+	<string>pageviewContextName</string>
+	<key>effectMediatorResponse</key>
+	<string>entityStyleFormat</string>
+	<key>requiredTouchTop</key>
+	<string>gramMementoSpeed</string>
+	<key>semanticAlignmentFrequency</key>
+	<string>sliderNearValue</string>
+	<key>subpixelVisitorValidation</key>
+	<string>blocAtAdapter</string>
+</dict>
+</plist>

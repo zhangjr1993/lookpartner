@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptShape</key>
+	<string>animatedContainerKind</string>
+	<key>cacheOrChain</key>
+	<string>enabledBoxshadowOpacity</string>
+	<key>curveNearPrototype</key>
+	<string>remainderScopeSpacing</string>
+	<key>cyclePatternShade</key>
+	<string>matrixActivityScale</string>
+	<key>lazyTextAcceleration</key>
+	<string>permissiveIntegerDirection</string>
+	<key>reducerProcessTheme</key>
+	<string>deferredSizedboxSkewy</string>
+</dict>
+</plist>

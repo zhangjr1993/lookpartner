@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameFacadeHead</key>
+	<string>lostStorageFrequency</string>
+	<key>geometricTextTheme</key>
+	<string>requiredMusicDistance</string>
+	<key>interactorStructureFeedback</key>
+	<string>standaloneStateVisibility</string>
+	<key>metadataBySystem</key>
+	<string>explicitStepInset</string>
+	<key>mutableStoreFlags</key>
+	<string>sliderPlatformAppearance</string>
+	<key>nextEffectOrientation</key>
+	<string>heroAboutAction</string>
+	<key>opaqueLayoutForce</key>
+	<string>anchorCommandLeft</string>
+	<key>screenWithoutMode</key>
+	<string>visibleChecklistTop</string>
+</dict>
+</plist>

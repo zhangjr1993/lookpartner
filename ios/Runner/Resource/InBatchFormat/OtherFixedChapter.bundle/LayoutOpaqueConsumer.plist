@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopViewState</key>
+	<string>semanticNodeRight</string>
+	<key>euclideanOffsetDensity</key>
+	<string>scrollableStatelessPadding</string>
+	<key>nextSineCount</key>
+	<string>mediaqueryIncludeDecorator</string>
+	<key>pinchableCanvasContrast</key>
+	<string>subtleProgressbarBehavior</string>
+	<key>swiftMementoColor</key>
+	<string>titleCompositeKind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionDensity</key>
+	<string>extensionVariableTint</string>
+	<key>canvasExceptBridge</key>
+	<string>sequentialAnchorVelocity</string>
+	<key>cubitAwayParameter</key>
+	<string>standaloneStatefulOrientation</string>
+	<key>heapPrototypeMode</key>
+	<string>requiredGesturedetectorState</string>
+	<key>localizationStyleForce</key>
+	<string>priorityAlongStyle</string>
+	<key>mobxInsideProcess</key>
+	<string>gridviewWithBridge</string>
+	<key>robustDimensionShape</key>
+	<string>textVisitorHead</string>
+	<key>textVarName</key>
+	<string>extensionPrototypeVelocity</string>
+</dict>
+</plist>

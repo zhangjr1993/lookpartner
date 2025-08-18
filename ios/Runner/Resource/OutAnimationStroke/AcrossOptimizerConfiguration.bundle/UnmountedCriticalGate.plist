@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionContainAdapter</key>
+	<string>staticTextureLeft</string>
+	<key>decorationExceptFlyweight</key>
+	<string>hierarchicalAssetOrientation</string>
+	<key>errorAdapterMode</key>
+	<string>signLevelTop</string>
+	<key>firstCycleKind</key>
+	<string>comprehensiveTitleBorder</string>
+	<key>sequentialFeatureName</key>
+	<string>richtextLikeStage</string>
+	<key>substantialTextureDelay</key>
+	<string>batchDuringInterpreter</string>
+</dict>
+</plist>

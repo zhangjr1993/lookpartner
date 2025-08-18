@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSystemValidation</key>
+	<string>allocatorBeyondBridge</string>
+	<key>integerInInterpreter</key>
+	<string>sharedThreadVisible</string>
+	<key>modalBeyondPrototype</key>
+	<string>basicGrayscaleOpacity</string>
+	<key>rectKindBottom</key>
+	<string>queueUntilFramework</string>
+	<key>respectiveMediaMomentum</key>
+	<string>specifierAlongStrategy</string>
+</dict>
+</plist>

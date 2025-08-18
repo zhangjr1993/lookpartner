@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideFlyweight</key>
+	<string>alignmentForVar</string>
+	<key>declarativeCupertinoBound</key>
+	<string>nibProxyDuration</string>
+	<key>uniformRowValidation</key>
+	<string>frameBesideAction</string>
+</dict>
+</plist>

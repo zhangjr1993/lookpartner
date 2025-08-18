@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleActionTail</key>
+	<string>sliderAlongFacade</string>
+	<key>descriptionOutsideContext</key>
+	<string>observerShapeFlags</string>
+	<key>mobxObserverTint</key>
+	<string>permanentCubeIndex</string>
+	<key>nativeBlocSaturation</key>
+	<string>managerCommandName</string>
+	<key>oldTabbarTheme</key>
+	<string>agileTransitionInset</string>
+	<key>primaryBaseVisible</key>
+	<string>comprehensiveButtonInset</string>
+	<key>rectWithBuffer</key>
+	<string>mobxExceptNumber</string>
+	<key>standaloneConstraintOrientation</key>
+	<string>spineBufferColor</string>
+</dict>
+</plist>

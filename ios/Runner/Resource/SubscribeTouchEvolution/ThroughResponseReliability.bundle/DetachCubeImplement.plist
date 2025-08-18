@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoBuilderTransparency</key>
+	<string>blocBeyondComposite</string>
+	<key>frameVersusChain</key>
+	<string>diffableCosineSize</string>
+	<key>immediateVariantRight</key>
+	<string>sceneObserverBorder</string>
+	<key>nativeResponseInterval</key>
+	<string>currentNodeKind</string>
+	<key>normMediatorOpacity</key>
+	<string>protectedCompositionDelay</string>
+	<key>queryAtScope</key>
+	<string>intuitiveListviewTop</string>
+	<key>requiredCanvasAppearance</key>
+	<string>resourceJobOrigin</string>
+	<key>resilientEffectRotation</key>
+	<string>permissiveCoordinatorOpacity</string>
+	<key>usedApertureTint</key>
+	<string>semanticsPerMemento</string>
+</dict>
+</plist>

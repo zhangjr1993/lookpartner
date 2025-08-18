@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartObserverMode</key>
+	<string>largeNibSpacing</string>
+	<key>globalCapsuleValidation</key>
+	<string>hashAlongFlyweight</string>
+	<key>toolForShape</key>
+	<string>mutableGrayscaleCoord</string>
+	<key>transitionBesideMethod</key>
+	<string>cupertinoTypeBottom</string>
+</dict>
+</plist>

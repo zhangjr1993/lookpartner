@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAssetMode</key>
+	<string>transitionSystemBrightness</string>
+	<key>observerLayerStatus</key>
+	<string>tweenCycleSpacing</string>
+	<key>painterSystemPosition</key>
+	<string>customizedAnimationBottom</string>
+	<key>statelessCycleInteraction</key>
+	<string>layerThroughState</string>
+</dict>
+</plist>

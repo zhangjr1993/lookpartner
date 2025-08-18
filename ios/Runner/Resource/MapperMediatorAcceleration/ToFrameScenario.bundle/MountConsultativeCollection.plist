@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerParamBehavior</key>
+	<string>cubitLevelTint</string>
+	<key>mediumTabviewVisible</key>
+	<string>awaitLikeWork</string>
+	<key>modelOrParam</key>
+	<string>statefulBlocStyle</string>
+	<key>prismaticCupertinoLocation</key>
+	<string>titleBridgeStatus</string>
+	<key>tabviewPerStyle</key>
+	<string>reusableGridOffset</string>
+	<key>tabviewStructureKind</key>
+	<string>tickerMediatorTag</string>
+	<key>utilBridgeIndex</key>
+	<string>singletonOrShape</string>
+</dict>
+</plist>

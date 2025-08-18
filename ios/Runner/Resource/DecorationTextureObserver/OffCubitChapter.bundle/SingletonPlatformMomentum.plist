@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsParam</key>
+	<string>previewAndKind</string>
+	<key>associatedAspectInteraction</key>
+	<string>offsetAdapterEdge</string>
+	<key>blocDespiteJob</key>
+	<string>isolateAtDecorator</string>
+	<key>commandSinceDecorator</key>
+	<string>normalFutureKind</string>
+	<key>constraintFormRight</key>
+	<string>cacheObserverVisible</string>
+	<key>heapTaskPosition</key>
+	<string>layoutAtVisitor</string>
+	<key>lazyRectDensity</key>
+	<string>lostConfigurationDensity</string>
+	<key>nibExceptInterpreter</key>
+	<string>contractionFrameworkMomentum</string>
+	<key>unaryInState</key>
+	<string>challengeForObserver</string>
+</dict>
+</plist>

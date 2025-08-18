@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAwayJob</key>
+	<string>routerCycleVelocity</string>
+	<key>containerCycleTension</key>
+	<string>lossStrategySkewx</string>
+	<key>mainUsecaseInset</key>
+	<string>handlerVisitorTransparency</string>
+	<key>responseParameterTint</key>
+	<string>criticalOverlayPadding</string>
+	<key>standaloneCompleterAlignment</key>
+	<string>animationStageTint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDelegateCoord</key>
+	<string>rowFromPrototype</string>
+	<key>injectionKindDirection</key>
+	<string>uniformExtensionSpacing</string>
+	<key>layerFromObserver</key>
+	<string>radiusOutsideEnvironment</string>
+	<key>profileThroughChain</key>
+	<string>repositoryScopeType</string>
+	<key>spineAsEnvironment</key>
+	<string>unsortedCoordinatorTop</string>
+	<key>usageAwayOperation</key>
+	<string>operationValueBound</string>
+	<key>widgetFrameworkTint</key>
+	<string>interactorPerKind</string>
+</dict>
+</plist>

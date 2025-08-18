@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentGateInteraction</key>
+	<string>visibleAnimationSpeed</string>
+	<key>indicatorAwayObserver</key>
+	<string>assetPerSystem</string>
+	<key>mobileAssetBrightness</key>
+	<string>reusableTernaryInset</string>
+	<key>requestOrFacade</key>
+	<string>smallBoxshadowTension</string>
+	<key>sliderThanProcess</key>
+	<string>intensityProcessAcceleration</string>
+	<key>tangentLikeActivity</key>
+	<string>parallelCurveFlags</string>
+</dict>
+</plist>

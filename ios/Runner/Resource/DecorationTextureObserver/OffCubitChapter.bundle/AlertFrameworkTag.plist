@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAgainstStrategy</key>
+	<string>storeOutsideBridge</string>
+	<key>effectAmongParameter</key>
+	<string>graphicForShape</string>
+	<key>previewShapeInset</key>
+	<string>singletonIncludeComposite</string>
+	<key>radioActivityIndex</key>
+	<string>injectionPerKind</string>
+	<key>sliderWithWork</key>
+	<string>compositionalStoryboardSkewy</string>
+	<key>storeAwayChain</key>
+	<string>boxshadowAndCommand</string>
+	<key>touchBeyondComposite</key>
+	<string>respectiveListenerBrightness</string>
+	<key>utilCompositeAcceleration</key>
+	<string>disabledTickerFlags</string>
+</dict>
+</plist>

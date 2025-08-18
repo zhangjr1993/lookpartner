@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorViaShape</key>
+	<string>enabledParticleSkewx</string>
+	<key>marginBeyondDecorator</key>
+	<string>optionViaOperation</string>
+	<key>methodFrameworkVisibility</key>
+	<string>modelDuringVisitor</string>
+	<key>providerInFacade</key>
+	<string>serviceLevelSpeed</string>
+	<key>robustSkirtOrientation</key>
+	<string>widgetNumberState</string>
+</dict>
+</plist>

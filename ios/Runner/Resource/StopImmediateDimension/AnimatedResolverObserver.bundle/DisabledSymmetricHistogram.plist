@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentModeSkewy</key>
+	<string>dropdownbuttonWithProxy</string>
+	<key>exceptionContainDecorator</key>
+	<string>nibParamStyle</string>
+	<key>rowWithLayer</key>
+	<string>completerForTier</string>
+	<key>streamCompositeAcceleration</key>
+	<string>visibleTaskCenter</string>
+</dict>
+</plist>

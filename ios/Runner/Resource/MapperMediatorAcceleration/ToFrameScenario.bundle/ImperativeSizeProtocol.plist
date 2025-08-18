@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBulletRate</key>
+	<string>transitionVarTail</string>
+	<key>declarativeExpandedSpeed</key>
+	<string>concurrentAnimationShade</string>
+	<key>dedicatedAllocatorPadding</key>
+	<string>gridviewAdapterSkewy</string>
+	<key>deferredHeapAcceleration</key>
+	<string>originalResolverDirection</string>
+	<key>mediocreGridviewSpacing</key>
+	<string>documentPatternMargin</string>
+	<key>typicalObserverAlignment</key>
+	<string>significantPositionedOrigin</string>
+	<key>widgetTaskVelocity</key>
+	<string>masterObserverDensity</string>
+</dict>
+</plist>

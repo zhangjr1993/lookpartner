@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKindDuration</key>
+	<string>labelFrameworkBound</string>
+	<key>mediocreZoneFormat</key>
+	<string>visibleProfileIndex</string>
+	<key>notifierByPhase</key>
+	<string>chartAroundCommand</string>
+	<key>widgetModeAppearance</key>
+	<string>storyboardOperationTransparency</string>
+</dict>
+</plist>

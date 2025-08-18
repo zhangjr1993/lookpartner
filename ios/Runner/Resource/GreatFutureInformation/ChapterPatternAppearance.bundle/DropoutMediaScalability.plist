@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionValueShape</key>
+	<string>hierarchicalCursorScale</string>
+	<key>buttonSinceEnvironment</key>
+	<string>scrollableRadiusIndex</string>
+	<key>configurationAdapterDensity</key>
+	<string>controllerOperationState</string>
+	<key>descriptionStrategyCount</key>
+	<string>durationAsSingleton</string>
+	<key>iterativeGraphLocation</key>
+	<string>firstSineDelay</string>
+</dict>
+</plist>

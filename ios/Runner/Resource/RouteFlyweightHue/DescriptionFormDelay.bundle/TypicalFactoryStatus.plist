@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringValue</key>
+	<string>independentMarginFlags</string>
+	<key>cosineByValue</key>
+	<string>mainConstraintBehavior</string>
+	<key>descriptionInEnvironment</key>
+	<string>gesturedetectorVersusScope</string>
+	<key>lazyGestureTail</key>
+	<string>signOutsideMethod</string>
+	<key>sequentialProjectionSpacing</key>
+	<string>builderFrameworkOffset</string>
+	<key>sizeValueTop</key>
+	<string>tappableConfigurationColor</string>
+</dict>
+</plist>

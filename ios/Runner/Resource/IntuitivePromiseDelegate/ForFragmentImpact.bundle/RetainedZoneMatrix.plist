@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModalFormat</key>
+	<string>popupPhaseResponse</string>
+	<key>asyncTransitionInteraction</key>
+	<string>presenterFrameworkSkewx</string>
+	<key>cartesianButtonFormat</key>
+	<string>titleMementoTheme</string>
+	<key>columnFormAcceleration</key>
+	<string>managerMediatorTransparency</string>
+	<key>denseTernaryStatus</key>
+	<string>usecaseVarCoord</string>
+	<key>precisionPerParam</key>
+	<string>requestCompositeBorder</string>
+	<key>sessionForVariable</key>
+	<string>borderAndObserver</string>
+</dict>
+</plist>

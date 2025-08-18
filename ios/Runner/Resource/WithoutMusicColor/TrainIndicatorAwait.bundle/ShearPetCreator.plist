@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitProxyInteraction</key>
+	<string>mainTransitionRotation</string>
+	<key>delegateProcessOrientation</key>
+	<string>immediateTransformerMomentum</string>
+	<key>drawerTempleTag</key>
+	<string>customTabviewInteraction</string>
+	<key>hardControllerIndex</key>
+	<string>sharedInterfaceCenter</string>
+	<key>multiStreamDuration</key>
+	<string>delicateHashOpacity</string>
+	<key>queryActionRate</key>
+	<string>radiusWithStyle</string>
+	<key>reactiveContractionVelocity</key>
+	<string>primaryCupertinoEdge</string>
+	<key>requestBeyondChain</key>
+	<string>plateCycleTail</string>
+</dict>
+</plist>

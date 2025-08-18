@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedOffsetBound</key>
+	<string>musicActivitySpacing</string>
+	<key>gridMementoFlags</key>
+	<string>allocatorFromScope</string>
+	<key>interactorAndScope</key>
+	<string>localizationLevelScale</string>
+	<key>managerPerStructure</key>
+	<string>radiusWithSystem</string>
+	<key>overlayWithPlatform</key>
+	<string>richtextContainEnvironment</string>
+	<key>queryProcessTag</key>
+	<string>borderUntilParameter</string>
+	<key>resultStateDepth</key>
+	<string>delegateVisitorBound</string>
+	<key>usecaseCommandCount</key>
+	<string>customizedResultCoord</string>
+</dict>
+</plist>

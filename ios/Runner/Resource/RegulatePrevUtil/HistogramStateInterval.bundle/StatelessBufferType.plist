@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBufferTop</key>
+	<string>transformerPerMethod</string>
+	<key>controllerFlyweightTop</key>
+	<string>queueViaNumber</string>
+	<key>custompaintDecoratorAppearance</key>
+	<string>precisionPatternPadding</string>
+	<key>discardedToolBrightness</key>
+	<string>commandTierKind</string>
+	<key>hierarchicalPaddingShade</key>
+	<string>accessibleScaffoldOpacity</string>
+	<key>loopDespiteStrategy</key>
+	<string>resizableSensorInteraction</string>
+	<key>nodeParamSaturation</key>
+	<string>iterativeBlocSaturation</string>
+	<key>opaqueServiceShade</key>
+	<string>gridDuringInterpreter</string>
+	<key>referenceIncludeFunction</key>
+	<string>significantTextfieldPadding</string>
+	<key>statelessViaFunction</key>
+	<string>reducerAlongFunction</string>
+</dict>
+</plist>

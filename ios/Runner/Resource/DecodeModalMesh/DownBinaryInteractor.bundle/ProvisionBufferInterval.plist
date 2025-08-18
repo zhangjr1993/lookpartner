@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstTemple</key>
+	<string>titleActivityRotation</string>
+	<key>difficultBufferInterval</key>
+	<string>stampDuringBuffer</string>
+	<key>grainAwayPattern</key>
+	<string>presenterAmongValue</string>
+	<key>priorityLayerCenter</key>
+	<string>otherBlocDuration</string>
+	<key>signBesideVisitor</key>
+	<string>buttonContainVar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButtonSpeed</key>
+	<string>modelViaCycle</string>
+	<key>checkboxFormInset</key>
+	<string>graphExceptMethod</string>
+	<key>delegateAgainstPlatform</key>
+	<string>constraintBesideJob</string>
+	<key>projectionLikeActivity</key>
+	<string>serviceAmongTask</string>
+	<key>responsiveRowTag</key>
+	<string>coordinatorIncludeSingleton</string>
+	<key>taskWorkHue</key>
+	<string>interactorIncludeVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperJobVelocity</key>
+	<string>futureLevelCount</string>
+	<key>denseGraphVisibility</key>
+	<string>adaptiveTransitionPosition</string>
+	<key>dialogsFormPadding</key>
+	<string>isolateJobVisibility</string>
+	<key>pivotalReferenceRotation</key>
+	<string>usageStrategyResponse</string>
+	<key>resourcePatternCount</key>
+	<string>mapUntilLevel</string>
+	<key>signatureFormSkewx</key>
+	<string>skinTierSize</string>
+	<key>standaloneCellMargin</key>
+	<string>explicitConvolutionRight</string>
+	<key>taskOrOperation</key>
+	<string>normalCacheKind</string>
+	<key>transformerVarCoord</key>
+	<string>mediocreMobileValidation</string>
+</dict>
+</plist>

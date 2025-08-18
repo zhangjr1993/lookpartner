@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFacadeShape</key>
+	<string>responseAndTier</string>
+	<key>declarativeHandlerInterval</key>
+	<string>decorationPlatformTint</string>
+	<key>dynamicSignatureSize</key>
+	<string>eagerRequestAlignment</string>
+	<key>heapFormTheme</key>
+	<string>usageAboutTask</string>
+</dict>
+</plist>

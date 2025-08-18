@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoErrorType</key>
+	<string>exceptionForObserver</string>
+	<key>challengePlatformResponse</key>
+	<string>resourceParameterForce</string>
+	<key>displayableRowBound</key>
+	<string>cubitIncludeMode</string>
+	<key>functionalDocumentSkewx</key>
+	<string>animatedVectorFormat</string>
+	<key>graphicEnvironmentName</key>
+	<string>localNormSpacing</string>
+	<key>mediaStageOpacity</key>
+	<string>delegateFunctionDistance</string>
+	<key>oldActionTension</key>
+	<string>spriteWithoutTier</string>
+</dict>
+</plist>

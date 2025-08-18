@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLoopBrightness</key>
+	<string>movementAndKind</string>
+	<key>coordinatorMethodFeedback</key>
+	<string>compositionalSliderDepth</string>
+	<key>displayableSizeSpacing</key>
+	<string>uniqueResourceState</string>
+	<key>euclideanExceptionOrigin</key>
+	<string>projectionContainFunction</string>
+	<key>textOutsideScope</key>
+	<string>canvasPhaseCount</string>
+</dict>
+</plist>

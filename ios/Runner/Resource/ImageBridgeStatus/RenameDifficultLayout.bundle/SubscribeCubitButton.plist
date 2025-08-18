@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBulletValidation</key>
+	<string>previewParamCoord</string>
+	<key>arithmeticAtPrototype</key>
+	<string>cubitNumberStyle</string>
+	<key>asynchronousContractionOrientation</key>
+	<string>themeWithoutComposite</string>
+	<key>basicChannelsContrast</key>
+	<string>monsterFlyweightStatus</string>
+	<key>convolutionAsParam</key>
+	<string>tabbarAgainstInterpreter</string>
+	<key>explicitIntegerContrast</key>
+	<string>grayscalePlatformDepth</string>
+	<key>handlerAndBridge</key>
+	<string>providerFunctionSize</string>
+	<key>imperativeInteractorPadding</key>
+	<string>mobileAsyncFlags</string>
+	<key>mobileProjectValidation</key>
+	<string>instructionCompositeSaturation</string>
+	<key>signatureSystemDepth</key>
+	<string>otherAlignmentForce</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyIncludeFramework</key>
+	<string>threadThanAction</string>
+	<key>localizationChainTheme</key>
+	<string>storeAlongProxy</string>
+	<key>parallelWorkflowInterval</key>
+	<string>descriptionIncludePrototype</string>
+	<key>positionOutsideMethod</key>
+	<string>kernelSingletonFlags</string>
+	<key>sizeFormFormat</key>
+	<string>characterTierShape</string>
+</dict>
+</plist>

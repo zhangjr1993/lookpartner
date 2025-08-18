@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastGrainFrequency</key>
+	<string>mediaqueryVarBound</string>
+	<key>lazySpriteVisibility</key>
+	<string>alignmentPatternCenter</string>
+	<key>mapAroundStage</key>
+	<string>bufferVisitorShape</string>
+	<key>multiMethodPosition</key>
+	<string>frameVersusBuffer</string>
+	<key>unsortedSlashShape</key>
+	<string>lastCellType</string>
+</dict>
+</plist>

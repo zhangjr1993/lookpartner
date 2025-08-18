@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalDecorationBehavior</key>
+	<string>sortedErrorVisibility</string>
+	<key>opaqueZoneStyle</key>
+	<string>isolatePrototypeRotation</string>
+	<key>particleActionIndex</key>
+	<string>popupTypeCenter</string>
+	<key>presenterSingletonTop</key>
+	<string>configurationInsideFramework</string>
+	<key>progressbarEnvironmentBehavior</key>
+	<string>swiftNumberAlignment</string>
+	<key>resilientBaseBehavior</key>
+	<string>navigationOutsideShape</string>
+	<key>workflowVersusJob</key>
+	<string>retainedTabbarInterval</string>
+</dict>
+</plist>

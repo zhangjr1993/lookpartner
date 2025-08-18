@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransformerMode</key>
+	<string>prevLocalizationTransparency</string>
+	<key>channelWithoutVariable</key>
+	<string>resilientSpriteState</string>
+	<key>constraintDuringProxy</key>
+	<string>similarTimerOrigin</string>
+	<key>enabledCubitPosition</key>
+	<string>otherTimerTag</string>
+	<key>managerNearCycle</key>
+	<string>entropyUntilPhase</string>
+	<key>radioWithoutValue</key>
+	<string>sceneVisitorTheme</string>
+	<key>sessionTaskDelay</key>
+	<string>exceptionVarForce</string>
+</dict>
+</plist>

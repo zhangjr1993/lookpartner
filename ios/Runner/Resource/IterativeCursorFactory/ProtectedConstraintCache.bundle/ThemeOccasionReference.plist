@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOrShape</key>
+	<string>eagerContainerInteraction</string>
+	<key>flexInterpreterFlags</key>
+	<string>dynamicNormColor</string>
+	<key>sampleThanLayer</key>
+	<string>multiLayoutTail</string>
+	<key>themeModeOpacity</key>
+	<string>associatedMethodOpacity</string>
+	<key>uniqueResourceDirection</key>
+	<string>missedSliderSpeed</string>
+</dict>
+</plist>

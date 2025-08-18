@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMethodState</key>
+	<string>sharedStoryboardSpacing</string>
+	<key>cycleJobPadding</key>
+	<string>asyncInLayer</string>
+	<key>exceptionFunctionSize</key>
+	<string>timerWithInterpreter</string>
+</dict>
+</plist>

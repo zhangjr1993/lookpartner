@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedPreviewInterval</key>
+	<string>singleInjectionTint</string>
+	<key>gramStateSpeed</key>
+	<string>statefulMatrixDirection</string>
+	<key>optionScopeContrast</key>
+	<string>cupertinoFrameworkKind</string>
+	<key>scrollableTangentFlags</key>
+	<string>navigatorAdapterState</string>
+	<key>serviceLayerMargin</key>
+	<string>layerBufferRate</string>
+	<key>tensorCubitSpacing</key>
+	<string>adaptiveCommandStatus</string>
+</dict>
+</plist>

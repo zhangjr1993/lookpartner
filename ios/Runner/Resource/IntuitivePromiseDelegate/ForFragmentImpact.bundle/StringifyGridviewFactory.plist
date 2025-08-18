@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGateType</key>
+	<string>responseStructureLocation</string>
+	<key>cupertinoPositionDepth</key>
+	<string>spriteFrameworkOrientation</string>
+	<key>observerActivityLeft</key>
+	<string>inactiveOffsetTint</string>
+	<key>sensorDecoratorTheme</key>
+	<string>frameThanParam</string>
+	<key>workflowLikeFlyweight</key>
+	<string>animationMediatorInteraction</string>
+</dict>
+</plist>

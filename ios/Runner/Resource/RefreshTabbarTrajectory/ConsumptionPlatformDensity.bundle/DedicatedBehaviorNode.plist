@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStageTheme</key>
+	<string>swiftOutsideActivity</string>
+	<key>effectParamDelay</key>
+	<string>fusedPainterBehavior</string>
+	<key>listviewStrategyKind</key>
+	<string>callbackStrategyState</string>
+	<key>localizationDuringBuffer</key>
+	<string>fixedAxisVisibility</string>
+	<key>permanentGateDepth</key>
+	<string>easyAlignmentLeft</string>
+	<key>subscriptionProxyBound</key>
+	<string>richtextSystemValidation</string>
+	<key>titleTierOrigin</key>
+	<string>mediocreButtonFrequency</string>
+</dict>
+</plist>

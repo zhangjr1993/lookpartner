@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextScreenOffset</key>
+	<string>smartTimerTop</string>
+	<key>requiredContractionScale</key>
+	<string>entropyFromLevel</string>
+	<key>sinkStrategySkewx</key>
+	<string>discardedConstraintContrast</string>
+	<key>statefulManagerShade</key>
+	<string>touchCycleAppearance</string>
+	<key>textWithFramework</key>
+	<string>configurationMethodDirection</string>
+</dict>
+</plist>

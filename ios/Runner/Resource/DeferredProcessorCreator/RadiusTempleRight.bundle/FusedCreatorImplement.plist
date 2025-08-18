@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOptionResponse</key>
+	<string>kernelLikeWork</string>
+	<key>animationPerFramework</key>
+	<string>sineValueHead</string>
+	<key>constraintMethodCenter</key>
+	<string>decorationStructureLocation</string>
+	<key>declarativeScrollStyle</key>
+	<string>hierarchicalTickerSkewx</string>
+	<key>draggableHandlerSize</key>
+	<string>disabledUsageSkewy</string>
+	<key>dynamicTransitionTheme</key>
+	<string>promiseSingletonRate</string>
+	<key>grainStylePressure</key>
+	<string>observerPatternTint</string>
+	<key>missionSingletonPressure</key>
+	<string>fusedFlexStatus</string>
+	<key>pinchableLogBottom</key>
+	<string>tweenScopeLocation</string>
+	<key>precisionJobBehavior</key>
+	<string>semanticGateBrightness</string>
+</dict>
+</plist>

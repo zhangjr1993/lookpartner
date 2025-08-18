@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeContrast</key>
+	<string>mobileInsideTask</string>
+	<key>cacheScopeDelay</key>
+	<string>segueParamTint</string>
+	<key>coordinatorTaskEdge</key>
+	<string>criticalActionAlignment</string>
+	<key>discardedViewInteraction</key>
+	<string>equalizationAmongPrototype</string>
+	<key>injectionBesideBuffer</key>
+	<string>resultProcessFeedback</string>
+	<key>logExceptVariable</key>
+	<string>allocatorOrSingleton</string>
+	<key>loopBeyondPlatform</key>
+	<string>configurationAdapterEdge</string>
+	<key>pinchableSliderVisibility</key>
+	<string>flexEnvironmentRate</string>
+	<key>similarStorageState</key>
+	<string>sensorAlongSingleton</string>
+</dict>
+</plist>

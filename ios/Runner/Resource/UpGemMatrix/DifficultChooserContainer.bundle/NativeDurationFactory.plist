@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constModelSpacing</key>
+	<string>intermediatePageviewHue</string>
+	<key>keyTabviewEdge</key>
+	<string>nibSinceFramework</string>
+	<key>pageviewContextDelay</key>
+	<string>scrollEnvironmentDepth</string>
+	<key>resultOutsideParam</key>
+	<string>managerLevelDepth</string>
+	<key>scaleStructureResponse</key>
+	<string>interactorAroundContext</string>
+</dict>
+</plist>

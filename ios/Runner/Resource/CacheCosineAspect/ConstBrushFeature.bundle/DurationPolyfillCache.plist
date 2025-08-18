@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBufferMode</key>
+	<string>allocatorAgainstStructure</string>
+	<key>curveJobTail</key>
+	<string>backwardIntensitySkewy</string>
+	<key>operationBesideFramework</key>
+	<string>pointLikeMethod</string>
+	<key>presenterLikeOperation</key>
+	<string>textBeyondState</string>
+	<key>rowSingletonDuration</key>
+	<string>resultInParameter</string>
+	<key>taskSingletonOffset</key>
+	<string>resolverVarLeft</string>
+	<key>techniqueStrategyDirection</key>
+	<string>heroLikeSystem</string>
+	<key>transitionByLayer</key>
+	<string>spotInPattern</string>
+</dict>
+</plist>

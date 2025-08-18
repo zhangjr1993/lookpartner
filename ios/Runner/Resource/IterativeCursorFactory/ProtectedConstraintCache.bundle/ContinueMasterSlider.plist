@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularQueryDirection</key>
+	<string>priorFactoryOpacity</string>
+	<key>optionInVariable</key>
+	<string>intensityLevelPosition</string>
+	<key>reducerWithoutAdapter</key>
+	<string>nativeStorageLocation</string>
+	<key>relationalReductionSkewx</key>
+	<string>priorPlateAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBesideContext</key>
+	<string>cupertinoWorkDelay</string>
+	<key>descriptorBufferAppearance</key>
+	<string>logMementoIndex</string>
+	<key>intensityProcessValidation</key>
+	<string>subscriptionBufferDelay</string>
+	<key>managerSingletonOpacity</key>
+	<string>gramOrCycle</string>
+	<key>queryBridgeLocation</key>
+	<string>scaffoldMediatorMargin</string>
+	<key>statefulViaFlyweight</key>
+	<string>callbackFlyweightSize</string>
+</dict>
+</plist>

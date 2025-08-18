@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegateTint</key>
+	<string>notifierFunctionTheme</string>
+	<key>aspectScopeFormat</key>
+	<string>tweenFunctionCoord</string>
+	<key>configurationSingletonVisible</key>
+	<string>resultFormSkewx</string>
+	<key>mutableCycleForce</key>
+	<string>temporarySpineIndex</string>
+	<key>storeVersusActivity</key>
+	<string>associatedOptimizerVisible</string>
+</dict>
+</plist>

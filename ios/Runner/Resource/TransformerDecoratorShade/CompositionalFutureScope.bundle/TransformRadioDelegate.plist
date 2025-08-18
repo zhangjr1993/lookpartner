@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRichtextScale</key>
+	<string>desktopEventRate</string>
+	<key>immutableCatalystPadding</key>
+	<string>inkwellPatternDepth</string>
+	<key>responseScopeDelay</key>
+	<string>protocolFrameworkForce</string>
+	<key>specifierParamMargin</key>
+	<string>catalystThanPlatform</string>
+	<key>tickerVisitorSkewx</key>
+	<string>apertureDecoratorSkewx</string>
+</dict>
+</plist>

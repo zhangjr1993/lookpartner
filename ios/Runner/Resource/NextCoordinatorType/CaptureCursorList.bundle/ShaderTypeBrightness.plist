@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInsideStrategy</key>
+	<string>gridSingletonBrightness</string>
+	<key>dependencyObserverSkewx</key>
+	<string>inactiveFeatureSaturation</string>
+	<key>equalizationAwayActivity</key>
+	<string>tabviewInsideCommand</string>
+	<key>grayscaleOutsideShape</key>
+	<string>textJobFrequency</string>
+	<key>labelOrVar</key>
+	<string>requiredTaskStyle</string>
+	<key>marginVersusStrategy</key>
+	<string>sustainableSliderInteraction</string>
+	<key>materialResponseScale</key>
+	<string>delicateAlignmentCount</string>
+	<key>widgetFlyweightOrientation</key>
+	<string>projectionModeAcceleration</string>
+</dict>
+</plist>

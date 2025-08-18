@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateModeHead</key>
+	<string>mapByOperation</string>
+	<key>equipmentNearScope</key>
+	<string>euclideanLabelSaturation</string>
+	<key>handlerPerLevel</key>
+	<string>storeAtAdapter</string>
+	<key>injectionVisitorValidation</key>
+	<string>compositionalCoordinatorVelocity</string>
+	<key>mobxFacadeShape</key>
+	<string>utilFunctionDuration</string>
+	<key>textfieldKindOrientation</key>
+	<string>kernelByWork</string>
+</dict>
+</plist>

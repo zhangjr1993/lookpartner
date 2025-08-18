@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableResourceShade</key>
+	<string>managerBridgeCenter</string>
+	<key>dependencyThanCycle</key>
+	<string>animationStageEdge</string>
+	<key>descriptorCompositeBehavior</key>
+	<string>overlayTierFrequency</string>
+	<key>grayscaleOperationTheme</key>
+	<string>navigatorFrameworkVelocity</string>
+	<key>keyTweenDelay</key>
+	<string>mutableSubscriptionLocation</string>
+</dict>
+</plist>

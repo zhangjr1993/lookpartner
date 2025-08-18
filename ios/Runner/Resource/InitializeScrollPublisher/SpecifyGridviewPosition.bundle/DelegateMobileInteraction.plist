@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMementoInteraction</key>
+	<string>marginVersusActivity</string>
+	<key>configurationStructureDelay</key>
+	<string>queueOrObserver</string>
+	<key>gemOrLevel</key>
+	<string>dialogsDecoratorBound</string>
+	<key>presenterInKind</key>
+	<string>promiseDuringAction</string>
+	<key>queryActionOrigin</key>
+	<string>immediateFlexTop</string>
+</dict>
+</plist>

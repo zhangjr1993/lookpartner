@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFlexRight</key>
+	<string>baselineCycleIndex</string>
+	<key>blocMethodContrast</key>
+	<string>displayableZoneAppearance</string>
+	<key>callbackPhaseLeft</key>
+	<string>positionTaskShade</string>
+	<key>effectSystemColor</key>
+	<string>cubeAndPattern</string>
+	<key>instructionAtFacade</key>
+	<string>largeAspectCoord</string>
+	<key>promiseBufferInset</key>
+	<string>disparateUsageAppearance</string>
+	<key>shaderAmongAdapter</key>
+	<string>accordionBinaryValidation</string>
+	<key>statelessResponseKind</key>
+	<string>subpixelSystemHue</string>
+	<key>widgetCompositeRate</key>
+	<string>deferredAsyncContrast</string>
+</dict>
+</plist>

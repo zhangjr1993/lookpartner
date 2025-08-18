@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMarginValidation</key>
+	<string>layoutAroundBuffer</string>
+	<key>collectionFromAdapter</key>
+	<string>injectionIncludeBuffer</string>
+	<key>iterativeManagerSpeed</key>
+	<string>alignmentPhaseFeedback</string>
+	<key>listviewAndBridge</key>
+	<string>compositionalTechniqueValidation</string>
+	<key>respectiveTitleVisibility</key>
+	<string>switchAtVar</string>
+	<key>sizeSystemRight</key>
+	<string>intermediateStoragePosition</string>
+</dict>
+</plist>

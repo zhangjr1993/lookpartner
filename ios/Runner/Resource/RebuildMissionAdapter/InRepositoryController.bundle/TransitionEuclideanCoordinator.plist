@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSystemAppearance</key>
+	<string>streamLevelCenter</string>
+	<key>builderDuringStage</key>
+	<string>positionBesideMode</string>
+	<key>elasticTransitionInterval</key>
+	<string>accessoryChainOrigin</string>
+	<key>equalizationOrVisitor</key>
+	<string>sharedGridLeft</string>
+	<key>graphInsideAdapter</key>
+	<string>reducerLikeBuffer</string>
+	<key>viewFromAdapter</key>
+	<string>discardedGraphicState</string>
+</dict>
+</plist>

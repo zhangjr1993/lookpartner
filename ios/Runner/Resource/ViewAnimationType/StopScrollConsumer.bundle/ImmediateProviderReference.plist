@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSliderDirection</key>
+	<string>configurationAboutBridge</string>
+	<key>activityChainTheme</key>
+	<string>tabviewProxyShade</string>
+	<key>agileRouteTail</key>
+	<string>configurationStructurePadding</string>
+	<key>handlerStyleDelay</key>
+	<string>constCycleOrientation</string>
+	<key>movementSystemInteraction</key>
+	<string>rowAboutAction</string>
+	<key>normalBatchAlignment</key>
+	<string>usedNotificationTransparency</string>
+	<key>reducerAndMemento</key>
+	<string>publicExtensionCoord</string>
+	<key>scrollableAssetKind</key>
+	<string>modelModeFlags</string>
+	<key>singleDialogsPressure</key>
+	<string>skirtModeTag</string>
+</dict>
+</plist>

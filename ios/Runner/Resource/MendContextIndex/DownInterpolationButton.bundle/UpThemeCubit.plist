@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDuringBridge</key>
+	<string>fragmentInsideSingleton</string>
+	<key>compositionalOverlayStatus</key>
+	<string>directDependencyTint</string>
+	<key>consultativeLayoutBound</key>
+	<string>notifierCommandTransparency</string>
+	<key>mutableTaskBottom</key>
+	<string>cardAdapterOffset</string>
+	<key>plateSinceMediator</key>
+	<string>listviewTypeInset</string>
+	<key>spinePhaseStyle</key>
+	<string>effectAndParam</string>
+	<key>transitionThroughFramework</key>
+	<string>futureAgainstLayer</string>
+</dict>
+</plist>

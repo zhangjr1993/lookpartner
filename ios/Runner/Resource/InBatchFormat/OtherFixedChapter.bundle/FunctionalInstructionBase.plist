@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNearSystem</key>
+	<string>durationProxyVelocity</string>
+	<key>boxKindHue</key>
+	<string>nibNumberBottom</string>
+	<key>easyReductionVisible</key>
+	<string>histogramTierSaturation</string>
+	<key>heapPerOperation</key>
+	<string>delegateCompositeDepth</string>
+	<key>iconProcessTop</key>
+	<string>multiplicationProcessSpeed</string>
+	<key>inactiveSemanticsInterval</key>
+	<string>layerCycleOrigin</string>
+	<key>layoutPatternDuration</key>
+	<string>localizationModeLeft</string>
+	<key>numericalClipperBorder</key>
+	<string>reductionContainObserver</string>
+	<key>storageMethodColor</key>
+	<string>ephemeralStoreType</string>
+</dict>
+</plist>

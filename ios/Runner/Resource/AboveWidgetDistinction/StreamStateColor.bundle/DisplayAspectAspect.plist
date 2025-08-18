@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerLikeLevel</key>
+	<string>standaloneFrameHead</string>
+	<key>dialogsCommandSaturation</key>
+	<string>variantBeyondFacade</string>
+	<key>diffableBinarySaturation</key>
+	<string>resourceContextTail</string>
+	<key>frameObserverHead</key>
+	<string>sizeDuringMemento</string>
+	<key>frameViaWork</key>
+	<string>transitionPhaseTheme</string>
+	<key>singletonIncludeCycle</key>
+	<string>equipmentAwayNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOperationTransparency</key>
+	<string>textfieldForAction</string>
+	<key>customizedTickerForce</key>
+	<string>parallelHashIndex</string>
+	<key>deferredQueueFlags</key>
+	<string>stateParameterVelocity</string>
+	<key>factoryKindInset</key>
+	<string>comprehensiveDescriptorFlags</string>
+	<key>hyperbolicProgressbarMargin</key>
+	<string>kernelWorkColor</string>
+	<key>keyRolePadding</key>
+	<string>accordionEventStatus</string>
+	<key>navigatorBeyondProxy</key>
+	<string>sortedTaskSkewy</string>
+	<key>seamlessExponentBehavior</key>
+	<string>localScreenCount</string>
+	<key>spriteOperationTop</key>
+	<string>positionedObserverOrigin</string>
+	<key>tangentNearStrategy</key>
+	<string>vectorShapeDirection</string>
+</dict>
+</plist>

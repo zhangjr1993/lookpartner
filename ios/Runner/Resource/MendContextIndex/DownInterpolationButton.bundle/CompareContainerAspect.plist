@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStoryboardFrequency</key>
+	<string>mainCommandStatus</string>
+	<key>dialogsStateResponse</key>
+	<string>reactiveCapsulePadding</string>
+	<key>drawerAdapterTransparency</key>
+	<string>frameThanObserver</string>
+	<key>histogramTypePosition</key>
+	<string>behaviorInterpreterVisibility</string>
+	<key>imperativeProgressbarResponse</key>
+	<string>delegateSingletonTag</string>
+	<key>injectionFormSaturation</key>
+	<string>stateSinceJob</string>
+	<key>interfaceFlyweightFormat</key>
+	<string>requestPatternInset</string>
+	<key>sequentialAxisSpeed</key>
+	<string>elasticHandlerCount</string>
+</dict>
+</plist>

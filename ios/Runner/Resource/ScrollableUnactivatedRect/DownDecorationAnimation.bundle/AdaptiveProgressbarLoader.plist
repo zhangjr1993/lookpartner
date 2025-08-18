@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionUntilState</key>
+	<string>widgetBufferVisible</string>
+	<key>completerViaDecorator</key>
+	<string>skinLevelSkewx</string>
+	<key>completionCompositeDensity</key>
+	<string>cubitStyleTension</string>
+	<key>compositionalDelegateOffset</key>
+	<string>globalOptionBound</string>
+	<key>opaqueScreenFrequency</key>
+	<string>firstStateTint</string>
+	<key>painterVariableShape</key>
+	<string>textViaContext</string>
+	<key>providerUntilLevel</key>
+	<string>specifyEffectOffset</string>
+	<key>storageFlyweightAcceleration</key>
+	<string>modulusDespiteMode</string>
+	<key>usecaseEnvironmentValidation</key>
+	<string>tensorLoopSize</string>
+</dict>
+</plist>

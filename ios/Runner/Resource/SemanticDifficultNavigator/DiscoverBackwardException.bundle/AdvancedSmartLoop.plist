@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalWidgetVisible</key>
+	<string>textForEnvironment</string>
+	<key>oldTransitionDelay</key>
+	<string>subpixelSinceState</string>
+	<key>publicEqualizationSkewy</key>
+	<string>alertOrEnvironment</string>
+	<key>resourceIncludePattern</key>
+	<string>listenerWithoutFramework</string>
+	<key>respectiveAsyncVelocity</key>
+	<string>clipperTierInterval</string>
+	<key>segmentLikeFacade</key>
+	<string>loopViaValue</string>
+	<key>sortedSizeFormat</key>
+	<string>equalizationProcessVelocity</string>
+	<key>temporarySpriteVisibility</key>
+	<string>resourceValueHue</string>
+</dict>
+</plist>

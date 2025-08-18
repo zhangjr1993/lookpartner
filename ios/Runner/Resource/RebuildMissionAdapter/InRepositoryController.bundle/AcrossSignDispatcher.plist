@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityViaPattern</key>
+	<string>customizedDecorationTint</string>
+	<key>expandedAdapterOrigin</key>
+	<string>lostContainerTheme</string>
+	<key>frameInValue</key>
+	<string>touchViaType</string>
+	<key>publicDurationVisible</key>
+	<string>rowProcessKind</string>
+	<key>usedRadioTheme</key>
+	<string>slashFormMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitLayerMargin</key>
+	<string>widgetWithFunction</string>
+	<key>groupLevelDepth</key>
+	<string>composableControllerBound</string>
+	<key>marginSingletonDistance</key>
+	<string>rowFacadeSpacing</string>
+	<key>mobileProtocolTail</key>
+	<string>activeFactoryColor</string>
+	<key>optimizerStyleAlignment</key>
+	<string>tabbarVersusPrototype</string>
+	<key>positionWithoutKind</key>
+	<string>fixedDrawerDirection</string>
+	<key>roleAboutMode</key>
+	<string>alertAlongShape</string>
+	<key>tabviewWithInterpreter</key>
+	<string>navigatorAndParam</string>
+	<key>tensorReferenceOrientation</key>
+	<string>interactorNearNumber</string>
+</dict>
+</plist>

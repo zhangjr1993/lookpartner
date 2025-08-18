@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverSize</key>
+	<string>sizedboxExceptTier</string>
+	<key>dynamicErrorIndex</key>
+	<string>ignoredViewEdge</string>
+	<key>imageOrComposite</key>
+	<string>disparateUsagePressure</string>
+	<key>queueModeDelay</key>
+	<string>asyncVarPadding</string>
+</dict>
+</plist>

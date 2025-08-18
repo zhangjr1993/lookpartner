@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAsVisitor</key>
+	<string>controllerStyleShade</string>
+	<key>layerBufferBorder</key>
+	<string>webZoneRotation</string>
+	<key>methodSingletonSkewx</key>
+	<string>canvasMementoVelocity</string>
+	<key>rowNumberName</key>
+	<string>spriteOutsideSingleton</string>
+	<key>taskStageTint</key>
+	<string>animatedTitleMargin</string>
+	<key>threadPerVariable</key>
+	<string>slashBufferRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAllocatorOpacity</key>
+	<string>collectionAwayCycle</string>
+	<key>displayableSegmentKind</key>
+	<string>typicalNodeMode</string>
+	<key>documentBesideSingleton</key>
+	<string>completerFunctionTransparency</string>
+	<key>eagerStorageMargin</key>
+	<string>grayscaleOrStructure</string>
+	<key>grainOperationStyle</key>
+	<string>errorStyleStyle</string>
+	<key>positionMediatorVelocity</key>
+	<string>sineActionValidation</string>
+	<key>requiredApertureScale</key>
+	<string>immediateAsyncRight</string>
+	<key>resultSingletonTheme</key>
+	<string>singletonStrategyLocation</string>
+	<key>themeVersusStage</key>
+	<string>scrollablePositionVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocJobType</key>
+	<string>constraintContextVisibility</string>
+	<key>columnSingletonOpacity</key>
+	<string>tabviewAndAdapter</string>
+	<key>fixedResourceAlignment</key>
+	<string>globalMarginValidation</string>
+	<key>interactorAtContext</key>
+	<string>navigatorThroughMemento</string>
+	<key>uniqueSingletonDistance</key>
+	<string>containerAdapterMode</string>
+</dict>
+</plist>

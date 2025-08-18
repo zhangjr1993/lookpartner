@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryViaKind</key>
+	<string>disparateConstraintSpeed</string>
+	<key>draggableObserverFlags</key>
+	<string>usecaseScopeSkewx</string>
+	<key>labelActionValidation</key>
+	<string>entityMementoCount</string>
+	<key>mobxStructureInterval</key>
+	<string>boxshadowContextPadding</string>
+	<key>optionBridgeSkewx</key>
+	<string>operationFromCommand</string>
+	<key>previewProxyDistance</key>
+	<string>similarContainerDelay</string>
+	<key>respectiveModelMargin</key>
+	<string>bitrateVariableContrast</string>
+	<key>sharedListviewOpacity</key>
+	<string>cycleAroundParameter</string>
+</dict>
+</plist>

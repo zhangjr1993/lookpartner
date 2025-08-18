@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVarShade</key>
+	<string>layoutMediatorLocation</string>
+	<key>getxSinceDecorator</key>
+	<string>animationCycleSaturation</string>
+	<key>notificationBeyondMediator</key>
+	<string>playbackFacadeMomentum</string>
+	<key>scrollablePositionIndex</key>
+	<string>progressbarAmongSystem</string>
+	<key>transitionAndOperation</key>
+	<string>behaviorParamTheme</string>
+</dict>
+</plist>

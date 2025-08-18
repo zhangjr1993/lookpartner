@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSwiftKind</key>
+	<string>characterFromProcess</string>
+	<key>missionAndFramework</key>
+	<string>eventWithState</string>
+	<key>missionFormPosition</key>
+	<string>scrollInterpreterDelay</string>
+	<key>taskParamDirection</key>
+	<string>declarativeStatefulPosition</string>
+</dict>
+</plist>

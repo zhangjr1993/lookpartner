@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsExceptOperation</key>
+	<string>constraintThroughValue</string>
+	<key>isolateTempleLeft</key>
+	<string>cardContainOperation</string>
+	<key>lazyCanvasFormat</key>
+	<string>unsortedDelegateTop</string>
+	<key>litePointState</key>
+	<string>gridSystemColor</string>
+	<key>playbackCompositeSpeed</key>
+	<string>cardWithFacade</string>
+	<key>resourceStageForce</key>
+	<string>skirtAsTier</string>
+	<key>taskEnvironmentValidation</key>
+	<string>segueInsideState</string>
+</dict>
+</plist>

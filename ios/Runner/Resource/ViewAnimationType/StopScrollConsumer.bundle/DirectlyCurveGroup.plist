@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAlongEnvironment</key>
+	<string>resourceByParam</string>
+	<key>associatedMobileTransparency</key>
+	<string>interactiveModulusInset</string>
+	<key>behaviorOutsidePlatform</key>
+	<string>decorationPerState</string>
+	<key>logarithmByType</key>
+	<string>iterativeRiverpodBottom</string>
+	<key>normalCallbackLeft</key>
+	<string>sharedConstraintPressure</string>
+	<key>spritePlatformBottom</key>
+	<string>beginnerIsolateDuration</string>
+</dict>
+</plist>

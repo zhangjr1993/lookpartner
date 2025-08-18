@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentParamKind</key>
+	<string>storeThanLayer</string>
+	<key>denseDecorationShade</key>
+	<string>widgetWithoutSystem</string>
+	<key>dimensionMementoContrast</key>
+	<string>similarNavigatorColor</string>
+	<key>geometricConvolutionMode</key>
+	<string>tweenAsBuffer</string>
+	<key>prevReductionDirection</key>
+	<string>independentCertificateFormat</string>
+	<key>queryAsContext</key>
+	<string>screenForDecorator</string>
+	<key>rectFlyweightDirection</key>
+	<string>subscriptionCommandTag</string>
+	<key>scrollableFeatureBound</key>
+	<string>animatedEquipmentTheme</string>
+	<key>sensorFunctionOrientation</key>
+	<string>unsortedTextState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryFunctionFlags</key>
+	<string>imperativeStateAlignment</string>
+	<key>positionStageCount</key>
+	<string>subpixelLikeStyle</string>
+	<key>prismaticTransitionInset</key>
+	<string>singletonAlongLayer</string>
+	<key>protocolWithOperation</key>
+	<string>resolverAtParameter</string>
+	<key>rowParamHead</key>
+	<string>oldSemanticsSpeed</string>
+	<key>sinkAndPhase</key>
+	<string>liteToolKind</string>
+	<key>sortedSwiftShade</key>
+	<string>backwardAsyncScale</string>
+	<key>taskStateTint</key>
+	<string>allocatorScopeCenter</string>
+</dict>
+</plist>

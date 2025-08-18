@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMapSkewy</key>
+	<string>transitionParamFrequency</string>
+	<key>behaviorContextValidation</key>
+	<string>stackSinceNumber</string>
+	<key>eventMediatorPosition</key>
+	<string>routeShapeMomentum</string>
+	<key>lastVectorMode</key>
+	<string>sequentialTransitionBound</string>
+	<key>operationPhaseBound</key>
+	<string>capsuleOperationTransparency</string>
+	<key>zoneModeVelocity</key>
+	<string>resolverProcessScale</string>
+</dict>
+</plist>

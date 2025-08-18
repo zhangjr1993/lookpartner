@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureLikeType</key>
+	<string>uniqueFeatureSize</string>
+	<key>apertureOrStructure</key>
+	<string>assetInsideParam</string>
+	<key>buttonFacadeTag</key>
+	<string>textSingletonBrightness</string>
+	<key>explicitAnimationTail</key>
+	<string>collectionMediatorIndex</string>
+	<key>storageValueContrast</key>
+	<string>sliderLayerDensity</string>
+</dict>
+</plist>

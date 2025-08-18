@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInMode</key>
+	<string>movementProcessValidation</string>
+	<key>composableFactoryContrast</key>
+	<string>spriteThanProxy</string>
+	<key>histogramProcessHue</key>
+	<string>labelActionPressure</string>
+	<key>logTypeAcceleration</key>
+	<string>kernelLayerDirection</string>
+</dict>
+</plist>

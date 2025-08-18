@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveKernelFormat</key>
+	<string>granularDelegateKind</string>
+	<key>basicSubscriptionSkewy</key>
+	<string>accessoryAndBridge</string>
+	<key>blocFlyweightStyle</key>
+	<string>newestCollectionInset</string>
+	<key>grainContextAlignment</key>
+	<string>tickerSinceActivity</string>
+	<key>hyperbolicGridTag</key>
+	<string>associatedSignSize</string>
+	<key>modelBeyondStructure</key>
+	<string>isolateModeSaturation</string>
+	<key>sliderPrototypeFeedback</key>
+	<string>descriptionAgainstPlatform</string>
+	<key>swiftAlongForm</key>
+	<string>aspectratioFunctionLocation</string>
+	<key>titleAgainstVar</key>
+	<string>globalInterfaceBound</string>
+</dict>
+</plist>

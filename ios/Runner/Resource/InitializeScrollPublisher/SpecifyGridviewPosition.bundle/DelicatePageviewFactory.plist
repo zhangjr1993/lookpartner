@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMetadataTheme</key>
+	<string>sequentialVectorFeedback</string>
+	<key>disparateBlocType</key>
+	<string>consumerPlatformDelay</string>
+	<key>draggableDecorationOpacity</key>
+	<string>controllerMementoPosition</string>
+	<key>modalStateDelay</key>
+	<string>fragmentAlongFramework</string>
+	<key>modelWithoutStructure</key>
+	<string>unactivatedVectorRate</string>
+	<key>offsetDuringTask</key>
+	<string>reducerBridgeTop</string>
+	<key>segmentInterpreterFrequency</key>
+	<string>offsetInterpreterType</string>
+	<key>smallTaskDensity</key>
+	<string>tangentStyleBottom</string>
+</dict>
+</plist>

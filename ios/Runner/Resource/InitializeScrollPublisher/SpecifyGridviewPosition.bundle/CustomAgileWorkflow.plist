@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSubpixelVisibility</key>
+	<string>operationThroughDecorator</string>
+	<key>featureLevelScale</key>
+	<string>entityOperationVelocity</string>
+	<key>navigatorWithMode</key>
+	<string>spriteNearPrototype</string>
+	<key>topicAlongBuffer</key>
+	<string>localizationAlongScope</string>
+	<key>typicalChartFrequency</key>
+	<string>statefulAnimationCoord</string>
+</dict>
+</plist>

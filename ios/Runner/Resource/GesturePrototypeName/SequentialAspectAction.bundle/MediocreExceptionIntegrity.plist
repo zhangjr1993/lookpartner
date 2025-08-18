@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCacheStyle</key>
+	<string>projectDuringForm</string>
+	<key>gateSinceBridge</key>
+	<string>containerValueBehavior</string>
+	<key>imageObserverTint</key>
+	<string>managerWithoutVar</string>
+	<key>labelThroughMediator</key>
+	<string>singletonAgainstValue</string>
+	<key>sizeTaskAppearance</key>
+	<string>granularScrollHue</string>
+</dict>
+</plist>

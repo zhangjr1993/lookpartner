@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContractionType</key>
+	<string>respectiveSemanticsContrast</string>
+	<key>aspectJobVisibility</key>
+	<string>containerAroundDecorator</string>
+	<key>drawerLikeSingleton</key>
+	<string>specifyStorageDirection</string>
+	<key>graphValueValidation</key>
+	<string>heroAndOperation</string>
+	<key>offsetUntilFacade</key>
+	<string>signSingletonTop</string>
+	<key>statefulTextureLeft</key>
+	<string>observerFacadeShade</string>
+	<key>tangentCycleState</key>
+	<string>movementLevelSpacing</string>
+	<key>viewInsideParameter</key>
+	<string>streamOfShape</string>
+	<key>zoneThanMediator</key>
+	<string>permissiveProviderVisibility</string>
+</dict>
+</plist>

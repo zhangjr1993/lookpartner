@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRectStyle</key>
+	<string>columnStateTheme</string>
+	<key>backwardTaskDelay</key>
+	<string>previewCompositeHue</string>
+	<key>fusedDimensionTint</key>
+	<string>stateNearShape</string>
+	<key>parallelModalEdge</key>
+	<string>featureUntilMediator</string>
+	<key>previewBeyondKind</key>
+	<string>pageviewSinceContext</string>
+	<key>repositoryAboutVar</key>
+	<string>responseFunctionHue</string>
+</dict>
+</plist>

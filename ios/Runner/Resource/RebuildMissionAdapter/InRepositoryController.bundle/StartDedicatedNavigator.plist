@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalOfStage</key>
+	<string>granularPageviewValidation</string>
+	<key>requestOrPhase</key>
+	<string>ephemeralScreenVisible</string>
+	<key>responseWorkBottom</key>
+	<string>retainedContainerSize</string>
+	<key>richtextDespiteParameter</key>
+	<string>overlayAtMethod</string>
+	<key>richtextDespiteProcess</key>
+	<string>staticPresenterBound</string>
+	<key>serviceInsideContext</key>
+	<string>reducerExceptVisitor</string>
+	<key>sizeFromStyle</key>
+	<string>listenerAboutFacade</string>
+</dict>
+</plist>

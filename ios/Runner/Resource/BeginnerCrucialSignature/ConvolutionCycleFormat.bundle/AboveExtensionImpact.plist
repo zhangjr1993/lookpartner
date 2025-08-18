@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAndScope</key>
+	<string>dedicatedPrecisionTint</string>
+	<key>asyncByMethod</key>
+	<string>spriteStyleState</string>
+	<key>completionInFramework</key>
+	<string>themePhaseAppearance</string>
+	<key>dialogsNearParam</key>
+	<string>previewProcessStyle</string>
+	<key>transitionPatternRate</key>
+	<string>serviceAsVisitor</string>
+	<key>usedOffsetVelocity</key>
+	<string>lostTaskStyle</string>
+	<key>viewTaskSaturation</key>
+	<string>monsterProxyFormat</string>
+</dict>
+</plist>

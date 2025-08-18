@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCellFormat</key>
+	<string>sampleBesideLevel</string>
+	<key>collectionProcessSize</key>
+	<string>builderAndFlyweight</string>
+	<key>columnNearPattern</key>
+	<string>storyboardLikeStrategy</string>
+	<key>controllerStateDelay</key>
+	<string>listenerOutsideJob</string>
+	<key>decorationOrTier</key>
+	<string>cursorEnvironmentSaturation</string>
+	<key>expandedBufferDirection</key>
+	<string>sliderAlongMediator</string>
+	<key>imperativeTaskDuration</key>
+	<string>containerWithoutLevel</string>
+	<key>observerTypeCount</key>
+	<string>gradientSinceFunction</string>
+	<key>sceneSystemValidation</key>
+	<string>streamViaAdapter</string>
+</dict>
+</plist>

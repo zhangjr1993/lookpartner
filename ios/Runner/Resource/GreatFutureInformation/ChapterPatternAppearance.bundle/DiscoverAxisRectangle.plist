@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAtMode</key>
+	<string>queueDespiteProxy</string>
+	<key>gateExceptShape</key>
+	<string>queueStateHead</string>
+	<key>mediumRemainderOrigin</key>
+	<string>gridFunctionShape</string>
+	<key>reducerObserverAlignment</key>
+	<string>labelStrategyKind</string>
+	<key>signatureSinceFacade</key>
+	<string>persistentHashOrientation</string>
+</dict>
+</plist>

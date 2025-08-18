@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorScopeCoord</key>
+	<string>transformerInDecorator</string>
+	<key>dependencyInStyle</key>
+	<string>custompaintWithBridge</string>
+	<key>gesturedetectorExceptVariable</key>
+	<string>spriteExceptEnvironment</string>
+	<key>ignoredAsyncHue</key>
+	<string>activityDespiteNumber</string>
+	<key>missedBorderKind</key>
+	<string>delegateNearKind</string>
+	<key>normalRowSaturation</key>
+	<string>nextDurationIndex</string>
+	<key>persistentPetMargin</key>
+	<string>independentThreadFormat</string>
+	<key>statelessSizedboxType</key>
+	<string>variantFunctionSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutDecorator</key>
+	<string>localMovementValidation</string>
+	<key>criticalRoutePadding</key>
+	<string>containerCommandCenter</string>
+	<key>dependencyVersusStage</key>
+	<string>boxNumberRotation</string>
+	<key>gestureViaStructure</key>
+	<string>builderWithBuffer</string>
+	<key>localMasterBottom</key>
+	<string>providerAwayEnvironment</string>
+	<key>managerVisitorTheme</key>
+	<string>topicBufferDirection</string>
+</dict>
+</plist>

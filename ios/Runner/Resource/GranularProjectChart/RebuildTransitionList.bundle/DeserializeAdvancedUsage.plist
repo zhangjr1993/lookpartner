@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleThreadInterval</key>
+	<string>uniformFutureBottom</string>
+	<key>fixedGramVelocity</key>
+	<string>bitrateOrEnvironment</string>
+	<key>intuitiveSegueAppearance</key>
+	<string>activatedSinkInteraction</string>
+	<key>pinchableAsyncPadding</key>
+	<string>labelDuringFunction</string>
+	<key>sineWorkSpeed</key>
+	<string>largeTimerDelay</string>
+</dict>
+</plist>

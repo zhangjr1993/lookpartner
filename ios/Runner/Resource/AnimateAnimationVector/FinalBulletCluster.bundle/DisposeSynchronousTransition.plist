@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCoordinatorPadding</key>
+	<string>threadTempleMargin</string>
+	<key>bulletActionContrast</key>
+	<string>sequentialAspectStyle</string>
+	<key>constraintAtValue</key>
+	<string>interfaceDuringActivity</string>
+	<key>mutableSkinState</key>
+	<string>dynamicDocumentVisibility</string>
+	<key>persistentTaskInteraction</key>
+	<string>animationModeAppearance</string>
+	<key>positionContextAlignment</key>
+	<string>delegateStructureFeedback</string>
+	<key>subpixelInInterpreter</key>
+	<string>intensityMementoSpacing</string>
+	<key>usedStackName</key>
+	<string>positionedOutsidePrototype</string>
+</dict>
+</plist>

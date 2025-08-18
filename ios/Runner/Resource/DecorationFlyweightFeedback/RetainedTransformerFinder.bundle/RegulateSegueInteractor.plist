@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContainFramework</key>
+	<string>accessoryEnvironmentTag</string>
+	<key>challengeIncludeVisitor</key>
+	<string>projectionScopeMode</string>
+	<key>diffableAccessoryRotation</key>
+	<string>adaptiveTaskStyle</string>
+	<key>factoryAgainstVar</key>
+	<string>permanentEventBehavior</string>
+	<key>respectiveEquipmentValidation</key>
+	<string>granularIndicatorTail</string>
+	<key>reusableGrayscaleSize</key>
+	<string>storeParamVisible</string>
+	<key>singleUtilBound</key>
+	<string>resultContextDirection</string>
+	<key>zoneExceptAdapter</key>
+	<string>basicMenuMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledContainerDepth</key>
+	<string>coordinatorTaskEdge</string>
+	<key>graphPatternTop</key>
+	<string>localScaleEdge</string>
+	<key>lostTaskVisibility</key>
+	<string>masterFromParameter</string>
+	<key>mainSampleTheme</key>
+	<string>consumerThanKind</string>
+	<key>publicCollectionSpeed</key>
+	<string>protectedNavigatorPadding</string>
+	<key>responseVariableSaturation</key>
+	<string>transformerNearFlyweight</string>
+	<key>stateOperationShape</key>
+	<string>batchDecoratorPressure</string>
+	<key>subsequentSpecifierInset</key>
+	<string>composableShaderRotation</string>
+	<key>tappableMatrixDirection</key>
+	<string>radioExceptShape</string>
+</dict>
+</plist>

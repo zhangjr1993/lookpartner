@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkSaturation</key>
+	<string>querySystemBrightness</string>
+	<key>interfaceIncludeAction</key>
+	<string>buttonMethodFrequency</string>
+	<key>priorityVisitorSkewy</key>
+	<string>mediaObserverShade</string>
+	<key>projectBesideMemento</key>
+	<string>buttonDecoratorRate</string>
+	<key>relationalAccessoryInterval</key>
+	<string>staticLayoutAlignment</string>
+	<key>rowScopeHead</key>
+	<string>cacheLevelKind</string>
+	<key>singletonDuringValue</key>
+	<string>navigatorVarDirection</string>
+	<key>subtleSegueBound</key>
+	<string>ignoredResourceRotation</string>
+	<key>textfieldFrameworkColor</key>
+	<string>equipmentFromScope</string>
+</dict>
+</plist>

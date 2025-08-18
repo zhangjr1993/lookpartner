@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCompositeShape</key>
+	<string>routeInPattern</string>
+	<key>durationViaCommand</key>
+	<string>hyperbolicGraphTop</string>
+	<key>gestureObserverMode</key>
+	<string>reducerWithFunction</string>
+	<key>projectionTypeType</key>
+	<string>retainedConstraintScale</string>
+	<key>sharedControllerSpeed</key>
+	<string>cubitActionSkewy</string>
+</dict>
+</plist>

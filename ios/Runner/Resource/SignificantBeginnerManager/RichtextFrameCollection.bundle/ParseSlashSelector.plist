@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBeyondStrategy</key>
+	<string>transitionActivityFeedback</string>
+	<key>criticalExponentOrigin</key>
+	<string>responseDuringContext</string>
+	<key>globalProviderAppearance</key>
+	<string>featureWorkShade</string>
+	<key>interpolationWithoutPattern</key>
+	<string>primaryCycleDistance</string>
+	<key>newestVectorSkewx</key>
+	<string>mobxForCommand</string>
+	<key>particleBeyondOperation</key>
+	<string>difficultCallbackRate</string>
+	<key>providerThroughVisitor</key>
+	<string>positionedTypeResponse</string>
+	<key>sessionInComposite</key>
+	<string>featureOfFramework</string>
+	<key>unaryExceptFunction</key>
+	<string>multiplicationVersusFacade</string>
+</dict>
+</plist>

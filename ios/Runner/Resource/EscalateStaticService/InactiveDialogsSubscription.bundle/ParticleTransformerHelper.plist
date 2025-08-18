@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRequestPressure</key>
+	<string>smallResponseDirection</string>
+	<key>autoQueryLocation</key>
+	<string>observerStageFlags</string>
+	<key>comprehensiveInkwellFeedback</key>
+	<string>featureForVar</string>
+	<key>cubitVarVelocity</key>
+	<string>retainedAsyncFeedback</string>
+	<key>delegateCompositeVelocity</key>
+	<string>eagerMetadataAlignment</string>
+	<key>elasticTextDistance</key>
+	<string>momentumInterpreterHead</string>
+	<key>enabledGradientShape</key>
+	<string>significantOptimizerMomentum</string>
+	<key>variantAboutFacade</key>
+	<string>skinOrVisitor</string>
+	<key>zoneValueVisibility</key>
+	<string>cubitBridgeIndex</string>
+</dict>
+</plist>

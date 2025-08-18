@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonJobShape</key>
+	<string>clipperOperationBound</string>
+	<key>diffableRowDensity</key>
+	<string>navigatorSystemAcceleration</string>
+	<key>functionalMissionShade</key>
+	<string>globalPlaybackDepth</string>
+	<key>layoutInterpreterRight</key>
+	<string>themeProxyRotation</string>
+	<key>pageviewViaAdapter</key>
+	<string>blocForVar</string>
+	<key>presenterValueFrequency</key>
+	<string>documentStageAcceleration</string>
+	<key>responsiveReducerDelay</key>
+	<string>metadataSingletonSaturation</string>
+	<key>riverpodTaskMode</key>
+	<string>referenceAroundForm</string>
+	<key>screenOutsideMemento</key>
+	<string>stateSystemBehavior</string>
+	<key>sortedFlexOpacity</key>
+	<string>presenterAroundLayer</string>
+</dict>
+</plist>

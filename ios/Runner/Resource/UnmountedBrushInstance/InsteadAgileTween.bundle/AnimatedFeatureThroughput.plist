@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAwayAction</key>
+	<string>aspectAroundCommand</string>
+	<key>exceptionThanActivity</key>
+	<string>lostTouchLeft</string>
+	<key>functionalResponseDistance</key>
+	<string>kernelIncludePattern</string>
+	<key>switchViaProcess</key>
+	<string>protectedShaderRotation</string>
+	<key>switchWithSystem</key>
+	<string>cubitDuringContext</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFromTask</key>
+	<string>contractionViaBuffer</string>
+	<key>delicateLossStyle</key>
+	<string>techniqueModeDelay</string>
+	<key>lossDuringForm</key>
+	<string>deferredCallbackResponse</string>
+	<key>touchMediatorBound</key>
+	<string>sliderStateFlags</string>
+	<key>widgetFormVelocity</key>
+	<string>localizationActivitySpeed</string>
+</dict>
+</plist>

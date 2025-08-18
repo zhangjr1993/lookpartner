@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPatternIndex</key>
+	<string>themeByShape</string>
+	<key>paddingLevelSpacing</key>
+	<string>requestPhaseVelocity</string>
+	<key>signShapeScale</key>
+	<string>constSemanticsVelocity</string>
+	<key>sliderDuringPrototype</key>
+	<string>spinePlatformHead</string>
+</dict>
+</plist>

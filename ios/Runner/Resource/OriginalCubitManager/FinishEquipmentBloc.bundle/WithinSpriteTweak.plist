@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRadiusForce</key>
+	<string>shaderParamMomentum</string>
+	<key>equalizationBeyondActivity</key>
+	<string>singletonAtComposite</string>
+	<key>heroCycleHead</key>
+	<string>statefulPlatformSize</string>
+	<key>histogramNearBuffer</key>
+	<string>singleTangentFormat</string>
+	<key>layoutWithoutTask</key>
+	<string>taskContainFacade</string>
+	<key>radioLevelTransparency</key>
+	<string>queryAboutPhase</string>
+	<key>subtleCardType</key>
+	<string>animatedOptimizerBrightness</string>
+	<key>tabbarNumberType</key>
+	<string>positionStageTransparency</string>
+	<key>utilScopeSpeed</key>
+	<string>sceneWorkDepth</string>
+</dict>
+</plist>

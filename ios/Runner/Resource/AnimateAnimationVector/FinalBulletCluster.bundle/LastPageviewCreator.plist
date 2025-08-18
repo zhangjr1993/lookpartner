@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAndAdapter</key>
+	<string>composableMobileDistance</string>
+	<key>baselineForProxy</key>
+	<string>providerStructurePosition</string>
+	<key>chapterCompositeFeedback</key>
+	<string>errorContainVariable</string>
+	<key>eventLayerInterval</key>
+	<string>storeProxyDirection</string>
+	<key>imageSinceTask</key>
+	<string>accessibleProgressbarInset</string>
+	<key>skinStateLocation</key>
+	<string>specifyTextCount</string>
+</dict>
+</plist>

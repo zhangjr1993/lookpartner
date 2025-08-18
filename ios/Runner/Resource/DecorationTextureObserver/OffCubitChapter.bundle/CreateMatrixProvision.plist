@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioProcessBound</key>
+	<string>exponentStyleAcceleration</string>
+	<key>cubitFunctionStyle</key>
+	<string>independentTitleValidation</string>
+	<key>curveFromDecorator</key>
+	<string>playbackPatternBottom</string>
+	<key>featureAndAdapter</key>
+	<string>modelAwayStrategy</string>
+	<key>inheritedStatefulSaturation</key>
+	<string>streamValueBound</string>
+	<key>observerBufferRight</key>
+	<string>drawerEnvironmentVisibility</string>
+	<key>prismaticAssetInterval</key>
+	<string>alertMethodVisibility</string>
+</dict>
+</plist>

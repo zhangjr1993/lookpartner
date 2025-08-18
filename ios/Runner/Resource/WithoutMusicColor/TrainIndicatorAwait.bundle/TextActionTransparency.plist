@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorViaSystem</key>
+	<string>tappableTransitionBehavior</string>
+	<key>exponentTypeScale</key>
+	<string>persistentMobxSaturation</string>
+	<key>missedModelOpacity</key>
+	<string>collectionActivityDuration</string>
+	<key>primaryAnimationSpeed</key>
+	<string>interactorAgainstMode</string>
+	<key>usecaseSystemIndex</key>
+	<string>rapidMenuSize</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGridviewVisibility</key>
+	<string>coordinatorAtVisitor</string>
+	<key>boxObserverFeedback</key>
+	<string>playbackAgainstParam</string>
+	<key>getxShapeFeedback</key>
+	<string>equalizationPhaseFrequency</string>
+	<key>grainMementoPosition</key>
+	<string>normalReferenceOrigin</string>
+	<key>independentManagerBehavior</key>
+	<string>loopShapeTint</string>
+	<key>injectionUntilCycle</key>
+	<string>sensorAwayAdapter</string>
+	<key>presenterJobHead</key>
+	<string>sophisticatedAlphaPosition</string>
+	<key>retainedPainterBound</key>
+	<string>arithmeticGrayscaleAcceleration</string>
+	<key>slashObserverAlignment</key>
+	<string>unactivatedSpriteContrast</string>
+	<key>subsequentEffectDistance</key>
+	<string>batchLikeProxy</string>
+</dict>
+</plist>

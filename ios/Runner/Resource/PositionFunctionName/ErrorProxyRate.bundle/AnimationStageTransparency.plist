@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOperationKind</key>
+	<string>cupertinoShapeAlignment</string>
+	<key>backwardRowContrast</key>
+	<string>desktopWidgetVisible</string>
+	<key>configurationPerPlatform</key>
+	<string>cellBeyondKind</string>
+	<key>imageInterpreterCoord</key>
+	<string>plateDecoratorSpeed</string>
+	<key>prevCurveBorder</key>
+	<string>progressbarForEnvironment</string>
+	<key>providerPerPlatform</key>
+	<string>streamOrFacade</string>
+	<key>reactiveCoordinatorTransparency</key>
+	<string>radiusTypeShade</string>
+	<key>statefulEntityBehavior</key>
+	<string>cursorAsPattern</string>
+</dict>
+</plist>

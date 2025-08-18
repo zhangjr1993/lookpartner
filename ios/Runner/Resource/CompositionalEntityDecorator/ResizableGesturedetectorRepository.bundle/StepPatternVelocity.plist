@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeScreenFlags</key>
+	<string>coordinatorVersusSingleton</string>
+	<key>factoryThroughWork</key>
+	<string>sizedboxPrototypeSaturation</string>
+	<key>interactiveEffectMargin</key>
+	<string>secondPointTransparency</string>
+	<key>navigatorMediatorHue</key>
+	<string>skinPlatformAcceleration</string>
+	<key>specifyEqualizationIndex</key>
+	<string>nodeLayerTint</string>
+	<key>stateVersusActivity</key>
+	<string>menuDuringProxy</string>
+</dict>
+</plist>

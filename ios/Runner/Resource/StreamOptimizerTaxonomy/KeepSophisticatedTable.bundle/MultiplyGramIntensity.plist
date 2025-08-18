@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForEnvironment</key>
+	<string>alignmentOrCycle</string>
+	<key>backwardCubitFlags</key>
+	<string>storeAlongPattern</string>
+	<key>collectionTempleSaturation</key>
+	<string>sineFrameworkInset</string>
+	<key>methodVariableBehavior</key>
+	<string>enabledStateDelay</string>
+	<key>statelessDespiteVisitor</key>
+	<string>actionCycleSkewx</string>
+</dict>
+</plist>

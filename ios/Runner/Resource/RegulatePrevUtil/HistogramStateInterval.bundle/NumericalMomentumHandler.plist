@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardForPlatform</key>
+	<string>typicalRemainderSaturation</string>
+	<key>dynamicServiceVisibility</key>
+	<string>storeValueDirection</string>
+	<key>grainFacadePosition</key>
+	<string>curveAsShape</string>
+	<key>subscriptionUntilLayer</key>
+	<string>discardedLabelOrientation</string>
+</dict>
+</plist>

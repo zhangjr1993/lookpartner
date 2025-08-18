@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStyleBehavior</key>
+	<string>flexibleCompletionBrightness</string>
+	<key>basicPromiseAlignment</key>
+	<string>iterativeContractionOrientation</string>
+	<key>constraintWorkScale</key>
+	<string>listviewOutsideComposite</string>
+	<key>cubitProxyHue</key>
+	<string>invisibleDependencyOffset</string>
+	<key>euclideanEntityDensity</key>
+	<string>sizedboxUntilStage</string>
+	<key>precisionBeyondKind</key>
+	<string>webLayoutOpacity</string>
+	<key>retainedAwaitHue</key>
+	<string>transitionVersusPrototype</string>
+	<key>sliderInterpreterOffset</key>
+	<string>aspectratioAboutParam</string>
+	<key>smartWidgetResponse</key>
+	<string>backwardDescriptorPadding</string>
+	<key>unaryPrototypeShape</key>
+	<string>themeBridgeTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionExceptParam</key>
+	<string>activityIncludeCommand</string>
+	<key>declarativeSemanticsAlignment</key>
+	<string>timerAlongSingleton</string>
+	<key>observerTypeForce</key>
+	<string>concreteCheckboxStyle</string>
+	<key>unsortedFactoryName</key>
+	<string>channelShapeSaturation</string>
+</dict>
+</plist>

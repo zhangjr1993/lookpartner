@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDespiteSingleton</key>
+	<string>logStrategyBrightness</string>
+	<key>modelValueTop</key>
+	<string>ternaryAsCommand</string>
+	<key>particleShapeDepth</key>
+	<string>activatedMenuIndex</string>
+	<key>plateDuringOperation</key>
+	<string>enabledFutureBound</string>
+	<key>rapidTransitionDelay</key>
+	<string>multiOffsetCount</string>
+	<key>relationalRowLeft</key>
+	<string>requestMediatorLocation</string>
+	<key>resourceNumberName</key>
+	<string>protocolVisitorFlags</string>
+</dict>
+</plist>

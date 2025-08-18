@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCoordinatorFrequency</key>
+	<string>rectStructureTint</string>
+	<key>drawerBeyondStructure</key>
+	<string>publicIndicatorOpacity</string>
+	<key>keyColumnStyle</key>
+	<string>completionFormState</string>
+	<key>previewFormStatus</key>
+	<string>stateActivityRight</string>
+	<key>unaryJobSkewx</key>
+	<string>dedicatedSpriteDirection</string>
+</dict>
+</plist>

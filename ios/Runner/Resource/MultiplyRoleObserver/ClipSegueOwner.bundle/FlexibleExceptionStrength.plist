@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSemanticsFlags</key>
+	<string>nodeForJob</string>
+	<key>basicRowOffset</key>
+	<string>resultParamScale</string>
+	<key>checkboxNumberFormat</key>
+	<string>newestMonsterRate</string>
+	<key>intuitiveProjectionSize</key>
+	<string>techniqueJobSpeed</string>
+	<key>metadataIncludeShape</key>
+	<string>missedNavigatorFormat</string>
+	<key>popupAroundChain</key>
+	<string>missionTierTint</string>
+	<key>positionSingletonPosition</key>
+	<string>keySliderStyle</string>
+	<key>referenceStateAcceleration</key>
+	<string>cupertinoInFramework</string>
+</dict>
+</plist>

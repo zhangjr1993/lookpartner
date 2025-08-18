@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsChainInteraction</key>
+	<string>reusableReferenceAlignment</string>
+	<key>cubitLayerBrightness</key>
+	<string>textureFlyweightDepth</string>
+	<key>difficultGraphicForce</key>
+	<string>interfaceContainKind</string>
+	<key>futureMediatorBottom</key>
+	<string>taskFrameworkRate</string>
+	<key>gestureAtContext</key>
+	<string>granularTextBrightness</string>
+	<key>nextDocumentHue</key>
+	<string>rowFacadeHue</string>
+	<key>significantContainerShade</key>
+	<string>captionAboutObserver</string>
+	<key>transformerStructureOrientation</key>
+	<string>unaryFacadeShade</string>
+	<key>usecaseWithoutShape</key>
+	<string>materialIncludeLevel</string>
+	<key>visibleTextfieldPadding</key>
+	<string>skinForType</string>
+</dict>
+</plist>

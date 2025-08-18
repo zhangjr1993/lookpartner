@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTweenResponse</key>
+	<string>grayscaleAndBuffer</string>
+	<key>cosineWorkFormat</key>
+	<string>characterOutsideNumber</string>
+	<key>dependencyScopeDelay</key>
+	<string>metadataIncludeScope</string>
+	<key>dimensionVersusFunction</key>
+	<string>sliderActionOrigin</string>
+	<key>eagerPlateScale</key>
+	<string>flexibleInjectionBound</string>
+	<key>pinchableTabviewDistance</key>
+	<string>invisibleScreenResponse</string>
+	<key>rectBesideLevel</key>
+	<string>timerStrategyOffset</string>
+</dict>
+</plist>

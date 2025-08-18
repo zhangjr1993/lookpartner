@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureExceptValue</key>
+	<string>bufferInterpreterBound</string>
+	<key>immutableTextTransparency</key>
+	<string>finalSingletonTransparency</string>
+	<key>pointStageVisible</key>
+	<string>tickerIncludeOperation</string>
+	<key>presenterContainMethod</key>
+	<string>greatCacheTail</string>
+	<key>priorObserverValidation</key>
+	<string>cartesianMediaqueryVisible</string>
+	<key>tickerParamTail</key>
+	<string>nativeChecklistHue</string>
+	<key>usecaseCompositeColor</key>
+	<string>variantAtFramework</string>
+</dict>
+</plist>

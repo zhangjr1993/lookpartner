@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRepositoryKind</key>
+	<string>positionScopeRight</string>
+	<key>layerBeyondMethod</key>
+	<string>lostActionDelay</string>
+	<key>multiInteractorOrientation</key>
+	<string>mediumGraphInteraction</string>
+	<key>scrollFormDistance</key>
+	<string>convolutionWithMemento</string>
+	<key>spotWithoutMediator</key>
+	<string>resourceAlongProcess</string>
+	<key>typicalStoryboardRate</key>
+	<string>textureContainMethod</string>
+</dict>
+</plist>

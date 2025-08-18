@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInteractorOffset</key>
+	<string>crudeActivityRotation</string>
+	<key>flexibleAllocatorSpacing</key>
+	<string>callbackTierRotation</string>
+	<key>loopThroughScope</key>
+	<string>progressbarNumberTop</string>
+	<key>remainderDespiteSingleton</key>
+	<string>layoutFrameworkTransparency</string>
+	<key>sharedStoreInset</key>
+	<string>timerForValue</string>
+	<key>singleInteractorCount</key>
+	<string>particleSinceVisitor</string>
+</dict>
+</plist>

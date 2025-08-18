@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompleterEdge</key>
+	<string>criticalContainerLeft</string>
+	<key>activatedBitrateFlags</key>
+	<string>painterPerEnvironment</string>
+	<key>expandedTypeInteraction</key>
+	<string>stateParameterTransparency</string>
+	<key>invisibleConstraintScale</key>
+	<string>equalizationObserverColor</string>
+	<key>lostProfileSaturation</key>
+	<string>methodContainBuffer</string>
+	<key>mediocreBoxshadowOrigin</key>
+	<string>fixedModelDepth</string>
+	<key>presenterDecoratorOpacity</key>
+	<string>workflowStructureTag</string>
+	<key>sequentialTransformerInteraction</key>
+	<string>clipperStageHead</string>
+</dict>
+</plist>

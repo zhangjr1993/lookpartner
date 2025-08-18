@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationBesideStyle</key>
+	<string>sineLayerInteraction</string>
+	<key>coordinatorMethodVelocity</key>
+	<string>activeNavigationOffset</string>
+	<key>grayscaleExceptParam</key>
+	<string>animatedcontainerNearLevel</string>
+	<key>profileObserverContrast</key>
+	<string>containerChainDistance</string>
+	<key>projectionEnvironmentFeedback</key>
+	<string>canvasStyleDensity</string>
+	<key>streamDecoratorDepth</key>
+	<string>respectiveControllerOrientation</string>
+</dict>
+</plist>

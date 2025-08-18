@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBorderDuration</key>
+	<string>plateDecoratorScale</string>
+	<key>cellAgainstMemento</key>
+	<string>localizationJobKind</string>
+	<key>deferredResponseDirection</key>
+	<string>imageAmongMemento</string>
+	<key>labelSinceStyle</key>
+	<string>callbackProxyRotation</string>
+	<key>labelVersusStrategy</key>
+	<string>retainedTabviewTheme</string>
+	<key>listenerAndLevel</key>
+	<string>graphValueEdge</string>
+	<key>providerOperationLocation</key>
+	<string>framePatternCount</string>
+</dict>
+</plist>

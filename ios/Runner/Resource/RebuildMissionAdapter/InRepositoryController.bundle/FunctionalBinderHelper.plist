@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeFromPrototype</key>
+	<string>methodOutsideScope</string>
+	<key>matrixShapeSpeed</key>
+	<string>sliderStageVisibility</string>
+	<key>pivotalProjectBorder</key>
+	<string>spriteStrategyScale</string>
+	<key>smartPositionedRotation</key>
+	<string>activitySystemForce</string>
+	<key>transformerDecoratorEdge</key>
+	<string>appbarIncludeObserver</string>
+</dict>
+</plist>

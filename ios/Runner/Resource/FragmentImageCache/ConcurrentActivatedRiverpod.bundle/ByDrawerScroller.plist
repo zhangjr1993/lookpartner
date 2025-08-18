@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamFormat</key>
+	<string>newestMissionLeft</string>
+	<key>intensityViaMemento</key>
+	<string>richtextBesideParam</string>
+	<key>interfaceFormSize</key>
+	<string>elasticPresenterDistance</string>
+	<key>segueUntilKind</key>
+	<string>delegateFrameworkSpacing</string>
+	<key>streamInterpreterFlags</key>
+	<string>numericalRequestColor</string>
+</dict>
+</plist>

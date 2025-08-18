@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerVariableTop</key>
+	<string>animatedMobileIndex</string>
+	<key>effectAtPlatform</key>
+	<string>entropyAsComposite</string>
+	<key>responseLevelPadding</key>
+	<string>commonPriorityFormat</string>
+	<key>standaloneTaskScale</key>
+	<string>oldSizeName</string>
+	<key>timerMediatorShade</key>
+	<string>containerExceptFacade</string>
+	<key>zoneDespiteScope</key>
+	<string>associatedDocumentOrigin</string>
+</dict>
+</plist>

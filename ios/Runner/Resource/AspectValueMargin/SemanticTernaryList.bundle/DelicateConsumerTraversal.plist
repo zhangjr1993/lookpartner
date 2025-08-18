@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCallbackSize</key>
+	<string>permissiveCubePressure</string>
+	<key>navigatorVersusBridge</key>
+	<string>inkwellTaskPressure</string>
+	<key>painterObserverAcceleration</key>
+	<string>secondPresenterInteraction</string>
+	<key>progressbarCompositeInterval</key>
+	<string>allocatorContextValidation</string>
+	<key>rapidProtocolTop</key>
+	<string>elasticPriorityState</string>
+	<key>rapidVectorEdge</key>
+	<string>resultNearPrototype</string>
+	<key>textfieldOrFunction</key>
+	<string>denseHandlerHue</string>
+</dict>
+</plist>

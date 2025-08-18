@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForPhase</key>
+	<string>ternaryStageOrientation</string>
+	<key>buttonInParam</key>
+	<string>platePrototypeVisible</string>
+	<key>curveActivityFeedback</key>
+	<string>sceneAwayShape</string>
+	<key>dependencySystemEdge</key>
+	<string>mapFunctionEdge</string>
+	<key>effectValueDistance</key>
+	<string>allocatorActivityDistance</string>
+	<key>gridStageBottom</key>
+	<string>modalBeyondSingleton</string>
+	<key>indicatorStyleLocation</key>
+	<string>globalSpriteIndex</string>
+	<key>inkwellEnvironmentOrigin</key>
+	<string>cellTierCount</string>
+	<key>reductionThroughMemento</key>
+	<string>serviceBeyondVariable</string>
+	<key>tensorOverlayIndex</key>
+	<string>tweenOperationTail</string>
+</dict>
+</plist>

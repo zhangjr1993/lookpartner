@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAdapterInteraction</key>
+	<string>materialPhaseAlignment</string>
+	<key>explicitResourceScale</key>
+	<string>previewUntilMode</string>
+	<key>isolateActivityStyle</key>
+	<string>decorationInWork</string>
+	<key>navigationStateRight</key>
+	<string>fusedMultiplicationFlags</string>
+	<key>referenceActivityVisibility</key>
+	<string>sharedCubitSkewx</string>
+	<key>sinkBridgeCount</key>
+	<string>statelessForPrototype</string>
+	<key>tweenBeyondEnvironment</key>
+	<string>coordinatorUntilLayer</string>
+</dict>
+</plist>

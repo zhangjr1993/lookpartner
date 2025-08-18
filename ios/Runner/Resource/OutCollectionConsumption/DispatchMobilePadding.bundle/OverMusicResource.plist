@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLevelValidation</key>
+	<string>relationalInterfaceType</string>
+	<key>grayscaleSinceCommand</key>
+	<string>iterativeChartFormat</string>
+	<key>labelStructureSpeed</key>
+	<string>responsiveLossSkewy</string>
+	<key>tweenCompositeLocation</key>
+	<string>semanticSpineOffset</string>
+</dict>
+</plist>

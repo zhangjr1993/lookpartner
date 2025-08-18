@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseContextSpacing</key>
+	<string>imageValueDepth</string>
+	<key>controllerInsideChain</key>
+	<string>resilientSkinShape</string>
+	<key>deferredStatefulPosition</key>
+	<string>graphShapeOrientation</string>
+	<key>draggableLogSpeed</key>
+	<string>fusedAxisDuration</string>
+	<key>listviewAtStage</key>
+	<string>extensionActionSpacing</string>
+	<key>robustCompletionDensity</key>
+	<string>euclideanClipperFormat</string>
+	<key>synchronousNibValidation</key>
+	<string>transformerByVar</string>
+	<key>variantInterpreterPosition</key>
+	<string>observerModeHead</string>
+</dict>
+</plist>

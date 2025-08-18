@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionAsChain</key>
+	<string>viewMediatorStyle</string>
+	<key>lazyWidgetSaturation</key>
+	<string>sizeLikeNumber</string>
+	<key>mainResponseShade</key>
+	<string>resourceChainBehavior</string>
+	<key>offsetLayerBorder</key>
+	<string>subscriptionParamCoord</string>
+	<key>publicEntityInteraction</key>
+	<string>declarativeSessionCoord</string>
+	<key>signInContext</key>
+	<string>resilientInterpolationType</string>
+	<key>singleStatefulEdge</key>
+	<string>interfaceFrameworkMargin</string>
+	<key>textureForTier</key>
+	<string>imageOrValue</string>
+</dict>
+</plist>

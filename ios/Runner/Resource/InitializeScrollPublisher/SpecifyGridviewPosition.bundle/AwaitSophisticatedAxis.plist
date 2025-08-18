@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAgainstPrototype</key>
+	<string>streamPerParam</string>
+	<key>drawerStrategyInteraction</key>
+	<string>descriptionParamResponse</string>
+	<key>inactiveBuilderBehavior</key>
+	<string>overlayAboutAdapter</string>
+	<key>lazySineVisible</key>
+	<string>navigatorAgainstBridge</string>
+	<key>painterDespiteComposite</key>
+	<string>euclideanClipperTop</string>
+	<key>semanticDecorationContrast</key>
+	<string>largeResourceOpacity</string>
+</dict>
+</plist>

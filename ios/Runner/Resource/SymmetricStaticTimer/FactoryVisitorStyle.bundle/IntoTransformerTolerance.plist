@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAlongVisitor</key>
+	<string>normalServiceColor</string>
+	<key>cursorAndVariable</key>
+	<string>bufferNearLevel</string>
+	<key>featureLevelColor</key>
+	<string>synchronousInteractorState</string>
+	<key>labelBufferVisibility</key>
+	<string>getxActivityShape</string>
+	<key>largePromiseTail</key>
+	<string>topicNumberBottom</string>
+	<key>providerTaskOpacity</key>
+	<string>integerFormBrightness</string>
+	<key>roleIncludeComposite</key>
+	<string>storeBufferBound</string>
+</dict>
+</plist>

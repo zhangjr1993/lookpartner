@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPatternPadding</key>
+	<string>collectionAgainstAdapter</string>
+	<key>animationKindContrast</key>
+	<string>riverpodLikeMediator</string>
+	<key>entropyForFunction</key>
+	<string>behaviorNearAction</string>
+	<key>optionInJob</key>
+	<string>sensorAndJob</string>
+	<key>uniqueLogFlags</key>
+	<string>directlyCacheBound</string>
+</dict>
+</plist>

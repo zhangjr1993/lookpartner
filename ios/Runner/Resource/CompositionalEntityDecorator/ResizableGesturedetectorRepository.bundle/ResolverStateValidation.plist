@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGraphMode</key>
+	<string>gramBeyondFlyweight</string>
+	<key>frameValueValidation</key>
+	<string>firstSessionHead</string>
+	<key>inheritedSubpixelLocation</key>
+	<string>roleIncludeShape</string>
+	<key>missedProgressbarCoord</key>
+	<string>priorSampleSize</string>
+	<key>rectAwayMethod</key>
+	<string>sampleObserverValidation</string>
+	<key>resilientConvolutionSpacing</key>
+	<string>containerAwayEnvironment</string>
+	<key>sampleCommandFrequency</key>
+	<string>managerAmongJob</string>
+	<key>symmetricPreviewBorder</key>
+	<string>petPatternTint</string>
+</dict>
+</plist>

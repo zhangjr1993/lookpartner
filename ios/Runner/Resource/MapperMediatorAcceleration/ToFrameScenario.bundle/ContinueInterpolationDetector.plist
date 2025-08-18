@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableIsolateTransparency</key>
+	<string>immutableNibValidation</string>
+	<key>displayableNibEdge</key>
+	<string>crudeCommandSkewy</string>
+	<key>inheritedCosineTag</key>
+	<string>stepStrategyOpacity</string>
+	<key>textureFrameworkOpacity</key>
+	<string>dropdownbuttonChainBrightness</string>
+	<key>timerAdapterShade</key>
+	<string>observerWithFlyweight</string>
+</dict>
+</plist>
