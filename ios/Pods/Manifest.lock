@@ -1,0 +1,240 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - audioplayers_darwin (0.0.1):
+    - Flutter
+  - AvoidCrash (2.5.2)
+  - BDASignalSDK (1.0.3)
+  - Bugly (2.6.1)
+  - DZNEmptyDataSet (1.8.1)
+  - FLAnimatedImage (1.0.12)
+  - Flutter (1.0.0)
+  - GT3Captcha-iOS (0.15.2)
+  - HCHollyOC (0.9.7)
+  - image_gallery_saver (2.0.2):
+    - Flutter
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - in_app_purchase_storekit (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - JCore (5.1.0)
+  - JDStatusBarNotification (1.6.1)
+  - JHChainableAnimations (3.0.1)
+  - JPush (4.6.6):
+    - JCore (>= 2.0.0)
+  - JSONModel (1.8.0)
+  - JVerification (3.2.8):
+    - JCore (>= 2.1.6)
+  - JXCategoryView (1.5.2)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJCorePod (1.0.0)
+  - MJRefresh (3.7.9)
+  - MMLayout (0.2.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - pop (1.0.12)
+  - Protobuf (3.29.5)
+  - QGVAPlayer (1.0.19)
+  - Reachability (3.7.6)
+  - ReactiveObjC (3.1.0)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - SocketRocket (0.5.1)
+  - SQLiteRepairKit (1.2.2):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - SSZipArchive (2.2.2)
+  - StreamingKit (0.1.30)
+  - SVGAPlayer (2.3.4):
+    - SVGAPlayer/Core (= 2.3.4)
+    - SVGAPlayer/ProtoFiles (= 2.3.4)
+  - SVGAPlayer/Core (2.3.4):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.3.4):
+    - Protobuf (~> 3.4)
+  - TPKeyboardAvoiding (1.3.5)
+  - TXIMSDK_Plus_iOS_Bitcode (5.8.1672)
+  - TXLiteAVSDK_Professional (11.4.14571):
+    - TXLiteAVSDK_Professional/Professional (= 11.4.14571)
+  - TXLiteAVSDK_Professional/Professional (11.4.14571)
+  - UMCCommon (7.1.3)
+  - WCDB (1.0.7.5):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0.1)
+  - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/ios`)
+  - AvoidCrash (= 2.5.2)
+  - BDASignalSDK (= 1.0.3)
+  - Bugly (~> 2.6.1)
+  - DZNEmptyDataSet (= 1.8.1)
+  - FLAnimatedImage (= 1.0.12)
+  - Flutter (from `Flutter`)
+  - GT3Captcha-iOS (= 0.15.2)
+  - HCHollyOC (~> 0.9.6)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - in_app_purchase_storekit (from `.symlinks/plugins/in_app_purchase_storekit/darwin`)
+  - JDStatusBarNotification (~> 1.6.1)
+  - JHChainableAnimations (= 3.0.1)
+  - JPush (~> 4.6.4)
+  - JSONModel (~> 1.8.0)
+  - JVerification (~> 3.2.1)
+  - JXCategoryView (= 1.5.2)
+  - Masonry (= 1.1.0)
+  - MBProgressHUD (~> 1.2.0)
+  - MJCorePod (from `MJCorePod`)
+  - MJRefresh (= 3.7.9)
+  - MMLayout (= 0.2.0)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - pop (= 1.0.12)
+  - QGVAPlayer (~> 1.0.16)
+  - Reachability (= 3.7.6)
+  - ReactiveObjC (= 3.1.0)
+  - SDWebImage (= 5.19.1)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - SocketRocket (= 0.5.1)
+  - SSZipArchive (= 2.2.2)
+  - StreamingKit (~> 0.1.30)
+  - SVGAPlayer (= 2.3.4)
+  - TPKeyboardAvoiding (= 1.3.5)
+  - TXIMSDK_Plus_iOS_Bitcode (= 5.8.1672)
+  - TXLiteAVSDK_Professional (~> 11.4.14445)
+  - UMCCommon (= 7.1.3)
+  - WCDB (~> 1.0.7.5)
+  - WCDBOptimizedSQLCipher (= 1.2.1)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - AvoidCrash
+    - BDASignalSDK
+    - Bugly
+    - DZNEmptyDataSet
+    - FLAnimatedImage
+    - GT3Captcha-iOS
+    - HCHollyOC
+    - JCore
+    - JDStatusBarNotification
+    - JHChainableAnimations
+    - JPush
+    - JSONModel
+    - JVerification
+    - JXCategoryView
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - MMLayout
+    - pop
+    - Protobuf
+    - QGVAPlayer
+    - Reachability
+    - ReactiveObjC
+    - SDWebImage
+    - SocketRocket
+    - SQLiteRepairKit
+    - SSZipArchive
+    - StreamingKit
+    - SVGAPlayer
+    - TPKeyboardAvoiding
+    - TXIMSDK_Plus_iOS_Bitcode
+    - TXLiteAVSDK_Professional
+    - UMCCommon
+    - WCDB
+    - WCDBOptimizedSQLCipher
+
+EXTERNAL SOURCES:
+  audioplayers_darwin:
+    :path: ".symlinks/plugins/audioplayers_darwin/ios"
+  Flutter:
+    :path: Flutter
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  in_app_purchase_storekit:
+    :path: ".symlinks/plugins/in_app_purchase_storekit/darwin"
+  MJCorePod:
+    :path: MJCorePod
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  audioplayers_darwin: ccf9c770ee768abb07e26d90af093f7bab1c12ab
+  AvoidCrash: 28c6916fe19bd2b84126b8dec7cbe61c9a12741d
+  BDASignalSDK: 5128e64a084bf1b0b74089eac0be8915e97f3b45
+  Bugly: 217ac2ce5f0f2626d43dbaa4f70764c953a26a31
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  GT3Captcha-iOS: 7ae08a5421c8e40463ec84ae807e82c19be3929a
+  HCHollyOC: f0a22c5e1499e27bc918ca96a153463d07a178fa
+  image_gallery_saver: 14711d79da40581063e8842a11acf1969d781ed7
+  image_picker_ios: 7fe1ff8e34c1790d6fff70a32484959f563a928a
+  in_app_purchase_storekit: d1a48cb0f8b29dbf5f85f782f5dd79b21b90a5e6
+  JCore: fcad36c11a5c70518322770db33408c23ff1ba7a
+  JDStatusBarNotification: 6052ca9a51ee0bb058f8dc09cf1d63554ef0f743
+  JHChainableAnimations: 0237489ed063f0ec5b351f5c7bb26c1891517074
+  JPush: 95c8f0b93ee40b76ea97b6c9eaaa0247947185ba
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  JVerification: eb21534bee67e1f609cb18c77b8fd5df4b2da123
+  JXCategoryView: b284d35a7a8772eada05dd78642233e1eb763ea8
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJCorePod: d15d0ab6b68fd90e34db263fb9bb1137ab26ae11
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  MMLayout: 3fb59d58eeb8656c64e61d550fb0088e10666c11
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  permission_handler_apple: 4ed2196e43d0651e8ff7ca3483a069d469701f2d
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  Protobuf: 164aea2ae380c3951abdc3e195220c01d17400e0
+  QGVAPlayer: a0bca68c9bd6f1c8de5ac2d10ddf98be6038cce9
+  Reachability: fd0ecd23705e2599e4cceeb943222ae02296cbc6
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  shared_preferences_foundation: 9e1978ff2562383bd5676f64ec4e9aa8fa06a6f7
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+  StreamingKit: 70ca8608c206864b4d54a577eacb3c8bf7c72209
+  SVGAPlayer: d55f1e7b4d2873507d27f1e8b40de1b729de9ad7
+  TPKeyboardAvoiding: d55b3ea7b362540af8fcf36aa3ed2e87bf210cc6
+  TXIMSDK_Plus_iOS_Bitcode: b19d8129c7c79fca53c99ef8ee82e37f46d48b7a
+  TXLiteAVSDK_Professional: d4db8d4ee81a7dc5d653b72b44463322bbe58f24
+  UMCCommon: 0cb2629b93884531621100ed66ff2bca8b181f1f
+  WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+
+PODFILE CHECKSUM: ef31808c1b1b0506dd37035311d986fbc3acf852
+
+COCOAPODS: 1.16.2
