@@ -40,9 +40,7 @@ import AppTrackingTransparency
               }
           }
       }
-      let logo = UIImageView(image: UIImage(named: "AppLog")!)
-      window.addSubview(logo)
-
+     
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
   
