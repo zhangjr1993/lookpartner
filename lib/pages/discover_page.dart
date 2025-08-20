@@ -216,18 +216,24 @@ class _DiscoverPageState extends State<DiscoverPage>
                         clipBehavior: Clip.none,
                         children: [
                           // 空卡片2 - 最先入场 (最浅灰色)
+                          // 以mainCard为准，左右上约束比mainCard内边距均小18px，底部超出mainCard的18px
                           _buildEmptyCard(
-                            width: cardWidth - 32,
+                            width: cardWidth - 36, // 比mainCard宽度小18px*2
                             color: const Color(0xFFE8E8E8),
-                            bottomOffset: -12,
+                            topOffset: 18, // 比mainCard顶部大18px
+                            leftOffset: 18, // 比mainCard左边大18px
+                            bottomOffset: -18, // 底部超出mainCard的18px
                             animation: _emptyCard2Animation,
                           ),
                           
                           // 空卡片1 - 第二个入场 (中灰色)
+                          // 以mainCard为准，左右上约束比mainCard内边距均小10px，底部超出mainCard的12px
                           _buildEmptyCard(
-                            width: cardWidth - 16,
+                            width: cardWidth - 20, // 比mainCard宽度小10px*2
                             color: const Color(0xFFAAAAAA),
-                            bottomOffset: -6,
+                            topOffset: 10, // 比mainCard顶部大10px
+                            leftOffset: 10, // 比mainCard左边大10px
+                            bottomOffset: -12, // 底部超出mainCard的12px
                             animation: _emptyCard1Animation,
                           ),
                           
@@ -253,6 +259,8 @@ class _DiscoverPageState extends State<DiscoverPage>
   Widget _buildEmptyCard({
     required double width,
     required Color color,
+    required double topOffset,
+    required double leftOffset,
     required double bottomOffset,
     required Animation<double> animation,
   }) {
@@ -260,8 +268,9 @@ class _DiscoverPageState extends State<DiscoverPage>
       animation: animation,
       builder: (context, child) {
         return Positioned(
+          top: topOffset,
+          left: leftOffset,
           bottom: bottomOffset,
-          left: (AppSizes.getScreenWidth(context) - 32 - width) / 2,
           child: Transform.translate(
             offset: Offset(-100 * (1 - animation.value), 0), // 从左侧滑入
             child: Opacity(
