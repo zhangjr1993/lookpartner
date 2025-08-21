@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationExceptComposite</key>
+	<string>cycleModeTag</string>
+	<key>delicateInterfaceAlignment</key>
+	<string>symbolAtAdapter</string>
+	<key>easySwitchInteraction</key>
+	<string>uniqueOffsetSize</string>
+	<key>entityParameterAlignment</key>
+	<string>scrollAsContext</string>
+</dict>
+</plist>

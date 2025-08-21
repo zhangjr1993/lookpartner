@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActivityHead</key>
+	<string>controllerViaCommand</string>
+	<key>extensionByMethod</key>
+	<string>localizationAmongMethod</string>
+	<key>injectionInterpreterAcceleration</key>
+	<string>fragmentPerContext</string>
+	<key>methodAwayActivity</key>
+	<string>grainExceptAdapter</string>
+	<key>toolFacadeRight</key>
+	<string>smartBorderContrast</string>
+</dict>
+</plist>

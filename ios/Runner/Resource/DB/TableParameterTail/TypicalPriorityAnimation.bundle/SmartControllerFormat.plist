@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAsFacade</key>
+	<string>mobileButtonPressure</string>
+	<key>buttonFromParam</key>
+	<string>semanticBufferContrast</string>
+	<key>chartStateShade</key>
+	<string>groupVersusPhase</string>
+	<key>compositionalCaptionDirection</key>
+	<string>adaptiveUsecaseSkewy</string>
+	<key>denseContractionSkewy</key>
+	<string>playbackMethodFlags</string>
+	<key>newestGraphBottom</key>
+	<string>associatedPreviewSaturation</string>
+	<key>pivotalChannelStyle</key>
+	<string>subtleFlexOrientation</string>
+	<key>protectedAlphaFlags</key>
+	<string>capsuleAndStructure</string>
+	<key>resourceCommandTop</key>
+	<string>spineWithChain</string>
+	<key>substantialBoxshadowDirection</key>
+	<string>animatedcontainerFormHue</string>
+</dict>
+</plist>

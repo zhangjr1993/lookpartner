@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralBuilderShade</key>
+	<string>skinInterpreterVisible</string>
+	<key>ignoredUtilRate</key>
+	<string>currentColumnVisibility</string>
+	<key>inheritedWorkflowBorder</key>
+	<string>rectTempleSaturation</string>
+	<key>managerViaSingleton</key>
+	<string>commonSceneStatus</string>
+	<key>missionNearDecorator</key>
+	<string>delegatePerCommand</string>
+	<key>nextFactoryStyle</key>
+	<string>buttonLevelContrast</string>
+	<key>semanticsInterpreterResponse</key>
+	<string>ephemeralVectorCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionTempleTransparency</key>
+	<string>reductionAlongComposite</string>
+	<key>cubitParameterAlignment</key>
+	<string>specifierIncludeFacade</string>
+	<key>intermediateDurationVisibility</key>
+	<string>flexParamOffset</string>
+	<key>providerObserverState</key>
+	<string>mediaStrategyFeedback</string>
+	<key>subtleStreamSaturation</key>
+	<string>actionMethodOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstActivity</key>
+	<string>navigationAgainstStrategy</string>
+	<key>buttonAtPattern</key>
+	<string>lazyTweenBorder</string>
+	<key>labelOrCycle</key>
+	<string>managerAmongSystem</string>
+	<key>positionedOutsideBridge</key>
+	<string>cacheStateCenter</string>
+	<key>tappableLabelVelocity</key>
+	<string>viewUntilProxy</string>
+</dict>
+</plist>

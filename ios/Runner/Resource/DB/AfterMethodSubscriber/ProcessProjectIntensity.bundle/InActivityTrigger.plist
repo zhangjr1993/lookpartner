@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateCycleState</key>
+	<string>symmetricMenuForce</string>
+	<key>frameAdapterMode</key>
+	<string>gateOfPrototype</string>
+	<key>grainJobBehavior</key>
+	<string>interactiveTablePosition</string>
+	<key>invisibleStatefulMargin</key>
+	<string>reductionWithoutShape</string>
+	<key>mediumLayerAcceleration</key>
+	<string>storageByFunction</string>
+	<key>pinchableMethodResponse</key>
+	<string>adaptiveApertureOffset</string>
+	<key>prevUsageInterval</key>
+	<string>effectAroundKind</string>
+</dict>
+</plist>

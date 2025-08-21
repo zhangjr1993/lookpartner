@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPlatformRight</key>
+	<string>widgetVisitorAppearance</string>
+	<key>denseConvolutionSkewy</key>
+	<string>buttonTaskDepth</string>
+	<key>interactorNearObserver</key>
+	<string>customTransitionRight</string>
+	<key>matrixAtMethod</key>
+	<string>lazyBuilderOpacity</string>
+	<key>publicMobileCoord</key>
+	<string>spriteVersusKind</string>
+	<key>uniqueLayoutBehavior</key>
+	<string>storeJobForce</string>
+</dict>
+</plist>

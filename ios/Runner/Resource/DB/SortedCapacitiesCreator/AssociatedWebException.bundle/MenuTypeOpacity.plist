@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFlyweightBehavior</key>
+	<string>animatedcontainerWithComposite</string>
+	<key>decorationAlongMediator</key>
+	<string>rowFunctionCenter</string>
+	<key>dedicatedOffsetSkewx</key>
+	<string>visibleEffectSpeed</string>
+	<key>resilientBorderOpacity</key>
+	<string>reusableBlocCoord</string>
+	<key>resilientResolverTint</key>
+	<string>nextRowBottom</string>
+	<key>synchronousFragmentResponse</key>
+	<string>subscriptionOutsideTier</string>
+	<key>tweenOrShape</key>
+	<string>gramKindScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateCubitResponse</key>
+	<string>nibInsideScope</string>
+	<key>injectionFacadeOrientation</key>
+	<string>uniformFutureSpeed</string>
+	<key>interfaceLevelSpeed</key>
+	<string>sliderActionCount</string>
+	<key>standaloneColumnDistance</key>
+	<string>variantActionMode</string>
+	<key>threadLikeCommand</key>
+	<string>requestEnvironmentResponse</string>
+	<key>toolInOperation</key>
+	<string>grainValuePadding</string>
+</dict>
+</plist>

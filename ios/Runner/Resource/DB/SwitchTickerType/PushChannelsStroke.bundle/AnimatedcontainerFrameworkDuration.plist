@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionUntilKind</key>
+	<string>futureStyleStatus</string>
+	<key>nativeResolverPressure</key>
+	<string>beginnerCapacitiesSkewx</string>
+	<key>persistentBehaviorSkewx</key>
+	<string>persistentRouteSaturation</string>
+	<key>pointCommandStyle</key>
+	<string>requestAmongProcess</string>
+	<key>rowChainHead</key>
+	<string>currentTouchRight</string>
+	<key>semanticFactoryDuration</key>
+	<string>adaptiveRectSkewx</string>
+	<key>tensorPaddingSkewy</key>
+	<string>responseViaSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOperationVisible</key>
+	<string>publicTableVisible</string>
+	<key>gramTierMode</key>
+	<string>batchProcessPadding</string>
+	<key>metadataAroundMediator</key>
+	<string>featureValueOrigin</string>
+	<key>missionBridgeSize</key>
+	<string>optionIncludePattern</string>
+	<key>routeMediatorBehavior</key>
+	<string>drawerJobVisibility</string>
+	<key>scaffoldOrBridge</key>
+	<string>clipperDespiteLevel</string>
+	<key>stackScopeCount</key>
+	<string>numericalSubpixelCenter</string>
+</dict>
+</plist>

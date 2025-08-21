@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionBufferCount</key>
+	<string>largeRouterResponse</string>
+	<key>compositionNumberName</key>
+	<string>semanticTweenVisible</string>
+	<key>controllerStageSaturation</key>
+	<string>zoneStateRight</string>
+	<key>coordinatorPerDecorator</key>
+	<string>resourceCycleCoord</string>
+	<key>geometricNibAlignment</key>
+	<string>nextBlocScale</string>
+	<key>granularDialogsName</key>
+	<string>stateWithLevel</string>
+	<key>granularEventTheme</key>
+	<string>ternaryAmongSingleton</string>
+	<key>listviewShapeBrightness</key>
+	<string>actionMementoContrast</string>
+	<key>pageviewOfMediator</key>
+	<string>previewShapeAppearance</string>
+	<key>singletonAgainstStage</key>
+	<string>seamlessDescriptionType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeMemento</key>
+	<string>methodAwayAction</string>
+	<key>constraintInsideType</key>
+	<string>composableProgressbarPosition</string>
+	<key>desktopFactoryShape</key>
+	<string>normalGrainEdge</string>
+	<key>invisibleScrollAcceleration</key>
+	<string>segueOrBridge</string>
+	<key>modelFacadeRight</key>
+	<string>sensorForPlatform</string>
+	<key>persistentBufferTop</key>
+	<string>drawerThroughBridge</string>
+	<key>resourceThanChain</key>
+	<string>positionStrategyBound</string>
+	<key>utilStrategySkewx</key>
+	<string>responsiveResourceBrightness</string>
+</dict>
+</plist>

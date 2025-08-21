@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVarInteraction</key>
+	<string>optimizerDuringParam</string>
+	<key>consumerViaParam</key>
+	<string>controllerChainLocation</string>
+	<key>eagerRowHue</key>
+	<string>accessibleChannelsIndex</string>
+	<key>fragmentStateTheme</key>
+	<string>notificationFromLevel</string>
+	<key>oldChannelPosition</key>
+	<string>radioStyleFormat</string>
+	<key>sortedLabelOrientation</key>
+	<string>giftActionOpacity</string>
+</dict>
+</plist>

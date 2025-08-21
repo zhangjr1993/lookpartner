@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAsBridge</key>
+	<string>routerOrProcess</string>
+	<key>blocBesideFlyweight</key>
+	<string>modelIncludeState</string>
+	<key>cupertinoAroundLevel</key>
+	<string>gesturedetectorMementoInset</string>
+	<key>customizedBatchTheme</key>
+	<string>constraintPhaseTail</string>
+	<key>effectMethodTint</key>
+	<string>statelessStrategySkewy</string>
+	<key>hyperbolicActionShape</key>
+	<string>priorRouterStyle</string>
+	<key>listenerPerStrategy</key>
+	<string>builderMementoDuration</string>
+	<key>protectedEntityBehavior</key>
+	<string>uniformMenuBrightness</string>
+	<key>screenMementoTheme</key>
+	<string>labelInMediator</string>
+	<key>scrollableMasterPressure</key>
+	<string>skirtContainProcess</string>
+</dict>
+</plist>

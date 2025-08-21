@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSystemVisibility</key>
+	<string>storageViaPrototype</string>
+	<key>dynamicOptimizerForce</key>
+	<string>dependencyFrameworkCenter</string>
+	<key>independentChapterStatus</key>
+	<string>managerCycleForce</string>
+	<key>mobxStyleHue</key>
+	<string>immediateExceptionSpacing</string>
+	<key>playbackThroughCycle</key>
+	<string>grainOutsidePlatform</string>
+	<key>queueStateMode</key>
+	<string>radioPrototypeBrightness</string>
+	<key>stateMethodTag</key>
+	<string>radiusDespiteTier</string>
+</dict>
+</plist>

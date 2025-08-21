@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionTierInset</key>
+	<string>configurationAndPattern</string>
+	<key>layerLevelMargin</key>
+	<string>activatedNodeLocation</string>
+	<key>rowFromOperation</key>
+	<string>viewCycleDirection</string>
+	<key>semanticLossPadding</key>
+	<string>mobileFormDirection</string>
+	<key>uniqueChannelName</key>
+	<string>greatNavigatorSkewx</string>
+</dict>
+</plist>

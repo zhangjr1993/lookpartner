@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerTaskOffset</key>
+	<string>routerFromMethod</string>
+	<key>flexInterpreterRight</key>
+	<string>protocolAmongSingleton</string>
+	<key>immutableLoopAcceleration</key>
+	<string>viewActivityAcceleration</string>
+	<key>lossInsideFunction</key>
+	<string>swiftValuePosition</string>
+	<key>progressbarStageStyle</key>
+	<string>checklistProxyAlignment</string>
+	<key>transformerLikeForm</key>
+	<string>futureProcessTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveWithSystem</key>
+	<string>drawerPatternBehavior</string>
+	<key>descriptorOrState</key>
+	<string>bulletLikeProxy</string>
+	<key>localizationTypeRate</key>
+	<string>menuVersusLevel</string>
+	<key>resilientObserverRate</key>
+	<string>hierarchicalWidgetVelocity</string>
+	<key>tableContainJob</key>
+	<string>scrollStageForce</string>
+</dict>
+</plist>

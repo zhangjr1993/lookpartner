@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCertificateAcceleration</key>
+	<string>indicatorDespiteMode</string>
+	<key>effectPhaseStyle</key>
+	<string>containerWithoutShape</string>
+	<key>modelInContext</key>
+	<string>numericalButtonRotation</string>
+	<key>nodePlatformShape</key>
+	<string>delegateAroundBuffer</string>
+	<key>originalHandlerTag</key>
+	<string>movementNearMode</string>
+	<key>permissiveDelegateRight</key>
+	<string>arithmeticVectorPressure</string>
+	<key>persistentChannelTint</key>
+	<string>roleAdapterStatus</string>
+	<key>priorOptionTail</key>
+	<string>backwardPreviewShade</string>
+	<key>tickerByStrategy</key>
+	<string>uniformOperationHead</string>
+</dict>
+</plist>

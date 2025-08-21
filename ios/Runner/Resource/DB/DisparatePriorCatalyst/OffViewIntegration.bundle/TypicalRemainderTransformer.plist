@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitScopeFrequency</key>
+	<string>webCaptionTag</string>
+	<key>deferredMediaqueryTop</key>
+	<string>nibBridgeSaturation</string>
+	<key>getxOutsideFlyweight</key>
+	<string>heroPhaseDelay</string>
+	<key>labelVarBehavior</key>
+	<string>frameAboutStage</string>
+	<key>layerDespiteFlyweight</key>
+	<string>staticSingletonDuration</string>
+	<key>uniformScaffoldFeedback</key>
+	<string>euclideanPositionFeedback</string>
+</dict>
+</plist>

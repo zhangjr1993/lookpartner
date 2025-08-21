@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorProxyTransparency</key>
+	<string>enabledGraphicType</string>
+	<key>resizableZoneTop</key>
+	<string>textThroughScope</string>
+	<key>retainedEffectVisibility</key>
+	<string>mainDropdownbuttonTheme</string>
+	<key>taskVarTag</key>
+	<string>mobileCosineTheme</string>
+	<key>visibleQueryInterval</key>
+	<string>usageOfTask</string>
+</dict>
+</plist>

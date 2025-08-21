@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderChainDensity</key>
+	<string>eagerEventDelay</string>
+	<key>criticalChannelBound</key>
+	<string>titleProcessIndex</string>
+	<key>equipmentParameterTag</key>
+	<string>resourcePerContext</string>
+	<key>granularGridPressure</key>
+	<string>utilOperationOrigin</string>
+	<key>interactorWithoutShape</key>
+	<string>bitrateNearAdapter</string>
+	<key>roleInsideForm</key>
+	<string>handlerContainAction</string>
+	<key>webContainerSize</key>
+	<string>blocStrategyCoord</string>
+</dict>
+</plist>

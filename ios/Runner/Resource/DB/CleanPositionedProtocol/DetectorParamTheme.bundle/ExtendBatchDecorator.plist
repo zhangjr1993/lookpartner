@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandUntilMode</key>
+	<string>unsortedViewStyle</string>
+	<key>completionEnvironmentInset</key>
+	<string>priorRouterDistance</string>
+	<key>containerTempleType</key>
+	<string>inkwellViaComposite</string>
+	<key>curveBeyondParam</key>
+	<string>roleBeyondShape</string>
+	<key>gesturedetectorAroundMemento</key>
+	<string>disabledStatefulKind</string>
+	<key>observerCycleShape</key>
+	<string>interactorForLayer</string>
+	<key>resolverSystemCoord</key>
+	<string>sinkPhaseRotation</string>
+	<key>transformerEnvironmentFeedback</key>
+	<string>localizationOperationInterval</string>
+</dict>
+</plist>

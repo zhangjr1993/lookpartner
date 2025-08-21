@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStoreBehavior</key>
+	<string>hashTaskFrequency</string>
+	<key>futurePatternMode</key>
+	<string>reactiveRowDuration</string>
+	<key>heapFacadeFrequency</key>
+	<string>remainderContextTension</string>
+	<key>petOutsideCycle</key>
+	<string>discardedSceneHue</string>
+	<key>protectedMetadataInteraction</key>
+	<string>animatedMobilePadding</string>
+	<key>scaleAroundEnvironment</key>
+	<string>firstProviderSize</string>
+	<key>statefulAlphaDistance</key>
+	<string>arithmeticOptimizerDistance</string>
+	<key>usecasePerPhase</key>
+	<string>parallelSceneKind</string>
+	<key>zoneObserverFlags</key>
+	<string>cubitFormTag</string>
+</dict>
+</plist>

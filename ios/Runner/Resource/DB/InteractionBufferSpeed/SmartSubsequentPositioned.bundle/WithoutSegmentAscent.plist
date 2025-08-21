@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFromStage</key>
+	<string>buttonWorkBorder</string>
+	<key>checkboxAndTask</key>
+	<string>progressbarVersusCycle</string>
+	<key>fragmentMediatorName</key>
+	<string>desktopOverlayEdge</string>
+	<key>futureTypeDistance</key>
+	<string>constraintDecoratorOffset</string>
+	<key>greatThemeAcceleration</key>
+	<string>segmentScopeTag</string>
+	<key>injectionJobTail</key>
+	<string>localizationLayerShape</string>
+	<key>interfaceBesideForm</key>
+	<string>isolateTaskFormat</string>
+	<key>nibTypeStatus</key>
+	<string>concurrentMarginPadding</string>
+	<key>protocolPerTemple</key>
+	<string>extensionObserverCount</string>
+	<key>stepDuringFunction</key>
+	<string>ignoredIsolateTransparency</string>
+</dict>
+</plist>

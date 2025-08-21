@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWorkVelocity</key>
+	<string>mapActionTag</string>
+	<key>animatedMomentumDuration</key>
+	<string>sceneOutsideFacade</string>
+	<key>channelThroughProxy</key>
+	<string>tweenUntilValue</string>
+	<key>eventFacadeValidation</key>
+	<string>descriptorValueBrightness</string>
+	<key>firstBrushValidation</key>
+	<string>notifierWithoutPhase</string>
+	<key>isolateVersusInterpreter</key>
+	<string>listenerInsideProcess</string>
+	<key>oldLayerMode</key>
+	<string>opaqueIntensityScale</string>
+</dict>
+</plist>

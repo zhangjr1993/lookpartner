@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderScopeName</key>
+	<string>projectionBesideAdapter</string>
+	<key>exceptionAmongCommand</key>
+	<string>toolObserverCount</string>
+	<key>gestureUntilAction</key>
+	<string>localGestureVisibility</string>
+	<key>interactorUntilProxy</key>
+	<string>seamlessTitleTheme</string>
+	<key>keyTransformerTransparency</key>
+	<string>hardInjectionAlignment</string>
+	<key>nodeStageBehavior</key>
+	<string>decorationInsideStyle</string>
+	<key>providerOrForm</key>
+	<string>operationByFramework</string>
+	<key>spotAndFacade</key>
+	<string>viewAroundFramework</string>
+</dict>
+</plist>

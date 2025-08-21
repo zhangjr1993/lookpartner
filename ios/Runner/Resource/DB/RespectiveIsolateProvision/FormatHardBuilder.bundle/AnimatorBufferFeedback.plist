@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarNearStage</key>
+	<string>animationMediatorBorder</string>
+	<key>futureObserverEdge</key>
+	<string>boxshadowFromChain</string>
+	<key>memberAtPrototype</key>
+	<string>completionLayerDelay</string>
+	<key>providerOperationLocation</key>
+	<string>opaqueQueueVisibility</string>
+	<key>spriteSystemIndex</key>
+	<string>subpixelActivityInset</string>
+	<key>usecaseJobShape</key>
+	<string>spotBufferHead</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVariablePadding</key>
+	<string>boxshadowPerFunction</string>
+	<key>channelIncludeCommand</key>
+	<string>gesturedetectorPhaseDepth</string>
+	<key>controllerContextMode</key>
+	<string>desktopViewColor</string>
+	<key>dimensionShapeContrast</key>
+	<string>typicalActivityMargin</string>
+	<key>disabledQueueTension</key>
+	<string>precisionViaStyle</string>
+	<key>invisibleTabbarDirection</key>
+	<string>buttonStrategyEdge</string>
+	<key>rapidInterpolationFeedback</key>
+	<string>specifierStructureCoord</string>
+	<key>sampleForPrototype</key>
+	<string>taskStructureVisible</string>
+	<key>scrollableSpineEdge</key>
+	<string>typicalNodeResponse</string>
+	<key>serviceMethodMomentum</key>
+	<string>capacitiesPerDecorator</string>
+</dict>
+</plist>

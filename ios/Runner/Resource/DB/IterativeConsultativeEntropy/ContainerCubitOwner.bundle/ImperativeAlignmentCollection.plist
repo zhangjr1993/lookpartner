@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExceptionAlignment</key>
+	<string>storyboardAgainstProxy</string>
+	<key>groupBeyondCommand</key>
+	<string>durationProxyInteraction</string>
+	<key>originalTechniqueSpacing</key>
+	<string>cubeMethodBehavior</string>
+	<key>segueAroundValue</key>
+	<string>eventOrStrategy</string>
+	<key>stackOutsideStructure</key>
+	<string>mobileDescriptionLocation</string>
+</dict>
+</plist>

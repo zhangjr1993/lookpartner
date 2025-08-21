@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDelegateCoord</key>
+	<string>customGiftTheme</string>
+	<key>callbackPerComposite</key>
+	<string>assetForProxy</string>
+	<key>chartWorkFrequency</key>
+	<string>uniformRequestTail</string>
+	<key>globalLoopCenter</key>
+	<string>scrollableMasterRate</string>
+	<key>layerUntilForm</key>
+	<string>invisibleLabelVelocity</string>
+	<key>normalRectSkewy</key>
+	<string>commandContainInterpreter</string>
+	<key>parallelProfileSaturation</key>
+	<string>cardProcessSpacing</string>
+	<key>pivotalFragmentRight</key>
+	<string>mainLossSpeed</string>
+	<key>requestLayerRight</key>
+	<string>roleFormInteraction</string>
+</dict>
+</plist>

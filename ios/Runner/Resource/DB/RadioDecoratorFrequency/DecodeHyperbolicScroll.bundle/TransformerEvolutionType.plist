@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricScreenRotation</key>
+	<string>diffableTransitionInterval</string>
+	<key>gridviewSingletonResponse</key>
+	<string>accessibleInteractorTag</string>
+	<key>groupInsideStructure</key>
+	<string>canvasThroughPlatform</string>
+	<key>groupProxyValidation</key>
+	<string>seamlessConstraintSkewx</string>
+	<key>largeImageRotation</key>
+	<string>textfieldByParam</string>
+	<key>momentumOutsideDecorator</key>
+	<string>pinchableResourceLocation</string>
+	<key>switchOrStrategy</key>
+	<string>cartesianNavigatorOffset</string>
+</dict>
+</plist>

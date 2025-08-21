@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAgainstChain</key>
+	<string>stampAtBuffer</string>
+	<key>interactorAlongMode</key>
+	<string>dedicatedLayoutColor</string>
+	<key>missionObserverMode</key>
+	<string>popupPlatformFrequency</string>
+	<key>publicHistogramVisibility</key>
+	<string>completionFromVar</string>
+	<key>queryKindTheme</key>
+	<string>baseVisitorFormat</string>
+	<key>sampleMethodStyle</key>
+	<string>resultForPattern</string>
+	<key>sliderPlatformType</key>
+	<string>directGesturedetectorBound</string>
+	<key>topicNearContext</key>
+	<string>methodChainIndex</string>
+	<key>tweenSinceForm</key>
+	<string>blocIncludeCommand</string>
+	<key>unsortedCubitRate</key>
+	<string>specifyChannelState</string>
+</dict>
+</plist>

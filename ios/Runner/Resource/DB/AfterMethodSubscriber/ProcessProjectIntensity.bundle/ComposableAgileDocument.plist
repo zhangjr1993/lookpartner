@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionActivityPadding</key>
+	<string>deferredNodeRate</string>
+	<key>futureEnvironmentScale</key>
+	<string>webScreenDelay</string>
+	<key>scrollableRectDirection</key>
+	<string>specifierLayerSize</string>
+	<key>webAssetBorder</key>
+	<string>scaffoldExceptWork</string>
+	<key>webRadioSaturation</key>
+	<string>geometricInteractorBottom</string>
+</dict>
+</plist>

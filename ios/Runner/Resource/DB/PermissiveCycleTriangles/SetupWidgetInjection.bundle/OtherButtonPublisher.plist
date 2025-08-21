@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTypeType</key>
+	<string>menuOutsideComposite</string>
+	<key>descriptionLevelLocation</key>
+	<string>labelOfMode</string>
+	<key>frameContainOperation</key>
+	<string>requestInsideActivity</string>
+	<key>optionByTask</key>
+	<string>certificateShapeCenter</string>
+	<key>resultAmongStage</key>
+	<string>cubeLayerSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedImageSpeed</key>
+	<string>queueWithProxy</string>
+	<key>fragmentAgainstVisitor</key>
+	<string>hierarchicalContainerSkewx</string>
+	<key>geometricAllocatorLocation</key>
+	<string>secondRemainderDelay</string>
+	<key>prevIsolateShape</key>
+	<string>utilAroundFramework</string>
+	<key>primaryFutureVisible</key>
+	<string>usageAdapterOffset</string>
+	<key>scrollableWorkflowTint</key>
+	<string>statelessRouteBrightness</string>
+	<key>storyboardOutsideParam</key>
+	<string>routeLikeOperation</string>
+</dict>
+</plist>

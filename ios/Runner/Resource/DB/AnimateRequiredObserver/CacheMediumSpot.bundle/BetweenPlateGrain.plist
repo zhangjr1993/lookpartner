@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicExceptionTint</key>
+	<string>profileAroundCommand</string>
+	<key>eventOfProcess</key>
+	<string>nativeTaskOffset</string>
+	<key>pointOutsideDecorator</key>
+	<string>accordionUsecaseEdge</string>
+	<key>responseModeDensity</key>
+	<string>columnFunctionMode</string>
+	<key>sceneParamSkewx</key>
+	<string>navigatorTaskLocation</string>
+	<key>statefulInteractorSaturation</key>
+	<string>inheritedCompositionFormat</string>
+	<key>substantialCubitVisible</key>
+	<string>localLoopPadding</string>
+	<key>substantialGramDirection</key>
+	<string>variantInsideType</string>
+</dict>
+</plist>

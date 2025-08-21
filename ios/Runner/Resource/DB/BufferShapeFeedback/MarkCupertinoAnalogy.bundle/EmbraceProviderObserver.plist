@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOfType</key>
+	<string>cupertinoNumberKind</string>
+	<key>anchorPerState</key>
+	<string>popupMediatorEdge</string>
+	<key>declarativeTransformerOffset</key>
+	<string>resizableRowInteraction</string>
+	<key>interactorViaPhase</key>
+	<string>chapterThroughPrototype</string>
+	<key>secondTernaryTheme</key>
+	<string>mapActivityType</string>
+	<key>sophisticatedVectorDistance</key>
+	<string>graphPhaseTint</string>
+</dict>
+</plist>

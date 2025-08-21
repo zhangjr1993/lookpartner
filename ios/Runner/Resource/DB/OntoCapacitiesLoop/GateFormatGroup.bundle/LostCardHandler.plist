@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGateBottom</key>
+	<string>priorTopicTheme</string>
+	<key>fragmentFlyweightDelay</key>
+	<string>streamScopeDistance</string>
+	<key>resilientPriorityBottom</key>
+	<string>segueVersusWork</string>
+	<key>unsortedTaskInset</key>
+	<string>semanticObserverState</string>
+</dict>
+</plist>

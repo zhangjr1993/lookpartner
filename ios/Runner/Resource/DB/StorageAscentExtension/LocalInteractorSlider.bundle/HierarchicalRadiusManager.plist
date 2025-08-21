@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFrameRotation</key>
+	<string>giftAsFramework</string>
+	<key>keyCommandPadding</key>
+	<string>sortedEntityEdge</string>
+	<key>missedBehaviorSpeed</key>
+	<string>transitionTaskVisibility</string>
+	<key>mobileNearJob</key>
+	<string>explicitCommandCount</string>
+	<key>notificationLevelBottom</key>
+	<string>logBeyondComposite</string>
+	<key>scrollableCoordinatorFeedback</key>
+	<string>controllerTypeState</string>
+	<key>subscriptionContainType</key>
+	<string>remainderTierTop</string>
+	<key>tickerNumberAppearance</key>
+	<string>drawerBesideProxy</string>
+</dict>
+</plist>

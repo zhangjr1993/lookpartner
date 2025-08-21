@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionFunctionFormat</key>
+	<string>threadDecoratorCenter</string>
+	<key>euclideanSpriteOrientation</key>
+	<string>pinchableSpineVelocity</string>
+	<key>otherNormBorder</key>
+	<string>basicBrushMomentum</string>
+	<key>uniqueLayoutValidation</key>
+	<string>descriptionBesideComposite</string>
+</dict>
+</plist>

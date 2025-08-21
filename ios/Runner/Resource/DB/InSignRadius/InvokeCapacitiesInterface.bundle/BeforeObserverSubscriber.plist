@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constResourceAlignment</key>
+	<string>substantialSampleDelay</string>
+	<key>currentEffectInteraction</key>
+	<string>touchThroughWork</string>
+	<key>discardedAsyncPadding</key>
+	<string>requestPerSingleton</string>
+	<key>easySubscriptionShade</key>
+	<string>subpixelAroundAction</string>
+	<key>inheritedUsecaseSpacing</key>
+	<string>configurationAsLevel</string>
+	<key>loopPlatformAlignment</key>
+	<string>mobileContainerOffset</string>
+	<key>mobileForVisitor</key>
+	<string>featureByDecorator</string>
+	<key>relationalBoxDistance</key>
+	<string>baselineOrCycle</string>
+	<key>scrollableScaffoldInset</key>
+	<string>menuAndCycle</string>
+</dict>
+</plist>

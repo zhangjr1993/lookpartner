@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEffectMargin</key>
+	<string>tabviewNearBuffer</string>
+	<key>coordinatorNearCycle</key>
+	<string>loopScopeSize</string>
+	<key>cupertinoRadioAcceleration</key>
+	<string>viewPhaseLocation</string>
+	<key>decorationAgainstInterpreter</key>
+	<string>specifyResolverEdge</string>
+	<key>directlyThreadBorder</key>
+	<string>delegateBeyondVariable</string>
+	<key>mediocreContainerPressure</key>
+	<string>usedAlertAlignment</string>
+	<key>tabviewVariableCount</key>
+	<string>labelOperationRate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScaffoldBorder</key>
+	<string>cupertinoChallengeFormat</string>
+	<key>buttonParamRotation</key>
+	<string>controllerPrototypeScale</string>
+	<key>characterParameterSpeed</key>
+	<string>spriteWithKind</string>
+	<key>dynamicSemanticsAppearance</key>
+	<string>expandedSinceParameter</string>
+	<key>invisibleFlexHead</key>
+	<string>borderProxyBrightness</string>
+	<key>oldProgressbarSize</key>
+	<string>sliderWithMemento</string>
+	<key>symmetricSliderBrightness</key>
+	<string>storageVarInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinarySpeed</key>
+	<string>activityExceptFramework</string>
+	<key>concreteRowBorder</key>
+	<string>gridviewTempleDepth</string>
+	<key>futureTierInset</key>
+	<string>featurePerFlyweight</string>
+	<key>kernelViaPrototype</key>
+	<string>labelVariableVelocity</string>
+	<key>materialPriorityPosition</key>
+	<string>viewBufferInteraction</string>
+	<key>rectInsideJob</key>
+	<string>mobxCompositeAlignment</string>
+	<key>staticListenerTag</key>
+	<string>imperativePositionVisible</string>
+</dict>
+</plist>

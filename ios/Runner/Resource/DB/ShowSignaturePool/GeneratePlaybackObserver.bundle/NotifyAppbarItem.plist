@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredSignForce</key>
+	<string>standaloneModalAcceleration</string>
+	<key>nodeModeIndex</key>
+	<string>ephemeralProtocolShape</string>
+	<key>observerViaComposite</key>
+	<string>playbackOfPhase</string>
+	<key>previewTierResponse</key>
+	<string>eventFlyweightRate</string>
+	<key>uniformCapacitiesInterval</key>
+	<string>cupertinoAnimationLeft</string>
+</dict>
+</plist>

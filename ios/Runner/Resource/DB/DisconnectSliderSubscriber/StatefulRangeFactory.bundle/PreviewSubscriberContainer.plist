@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOrChain</key>
+	<string>radioPerOperation</string>
+	<key>cacheNearStrategy</key>
+	<string>resilientTouchLeft</string>
+	<key>disparateSceneAlignment</key>
+	<string>boxshadowUntilLevel</string>
+	<key>exceptionViaBuffer</key>
+	<string>lostPrecisionKind</string>
+	<key>gesturedetectorAlongCycle</key>
+	<string>dialogsLevelResponse</string>
+	<key>granularIconBehavior</key>
+	<string>containerInsideChain</string>
+	<key>interfaceStateSkewx</key>
+	<string>ignoredWorkflowPadding</string>
+	<key>reductionByVar</key>
+	<string>reductionLikeProcess</string>
+	<key>referenceCommandContrast</key>
+	<string>imperativeIconResponse</string>
+	<key>storeLevelTint</key>
+	<string>displayableObserverAcceleration</string>
+</dict>
+</plist>

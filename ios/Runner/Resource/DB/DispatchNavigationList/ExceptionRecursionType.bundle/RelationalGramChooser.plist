@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOptimizerAcceleration</key>
+	<string>animatedViewVisible</string>
+	<key>animationValueVisible</key>
+	<string>materialRoleVisibility</string>
+	<key>listenerTypeCoord</key>
+	<string>buttonAgainstFunction</string>
+	<key>modelParameterFormat</key>
+	<string>methodMediatorFrequency</string>
+	<key>notifierInsideFacade</key>
+	<string>resizableGroupKind</string>
+	<key>positionAmongValue</key>
+	<string>activeAlphaTransparency</string>
+	<key>requiredResolverBound</key>
+	<string>repositoryVariableTag</string>
+	<key>vectorAgainstVar</key>
+	<string>descriptionPhasePosition</string>
+</dict>
+</plist>

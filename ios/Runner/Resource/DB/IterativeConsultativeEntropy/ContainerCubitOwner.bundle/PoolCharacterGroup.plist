@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAboutMemento</key>
+	<string>fixedSpriteDelay</string>
+	<key>intuitiveResolverCount</key>
+	<string>fusedTickerVelocity</string>
+	<key>synchronousVectorFeedback</key>
+	<string>sortedLoopAcceleration</string>
+	<key>tickerFrameworkDelay</key>
+	<string>sizedboxAwayChain</string>
+</dict>
+</plist>

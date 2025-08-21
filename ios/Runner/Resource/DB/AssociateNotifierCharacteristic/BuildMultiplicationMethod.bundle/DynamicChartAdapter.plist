@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorStrategyInset</key>
+	<string>sensorThanScope</string>
+	<key>errorStrategySpacing</key>
+	<string>dimensionThroughMemento</string>
+	<key>exceptionAsEnvironment</key>
+	<string>seamlessCardHue</string>
+	<key>managerMediatorInteraction</key>
+	<string>decorationParamIndex</string>
+</dict>
+</plist>

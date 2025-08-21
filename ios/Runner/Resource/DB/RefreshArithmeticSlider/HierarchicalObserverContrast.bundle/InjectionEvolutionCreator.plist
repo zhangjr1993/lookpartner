@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAtMethod</key>
+	<string>cubitKindIndex</string>
+	<key>flexAdapterCoord</key>
+	<string>usedIsolatePressure</string>
+	<key>isolateKindRight</key>
+	<string>mediumFutureType</string>
+	<key>listenerBufferRotation</key>
+	<string>spriteVariableAppearance</string>
+	<key>pivotalDelegateOffset</key>
+	<string>multiProviderTransparency</string>
+	<key>scaffoldAgainstLevel</key>
+	<string>priorityValueEdge</string>
+	<key>serviceProcessSaturation</key>
+	<string>globalDescriptorPosition</string>
+	<key>sharedRemainderKind</key>
+	<string>completerAlongNumber</string>
+	<key>threadBufferSpeed</key>
+	<string>equipmentContainValue</string>
+	<key>timerWorkTail</key>
+	<string>independentTimerPressure</string>
+</dict>
+</plist>

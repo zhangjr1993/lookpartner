@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellValueBorder</key>
+	<string>uniqueRichtextRotation</string>
+	<key>collectionPerValue</key>
+	<string>associatedProfileInteraction</string>
+	<key>custompaintActionAppearance</key>
+	<string>channelShapeEdge</string>
+	<key>geometricBulletDensity</key>
+	<string>toolAndCommand</string>
+	<key>materialLayerOffset</key>
+	<string>rowStrategySkewy</string>
+	<key>multiDecorationLocation</key>
+	<string>ignoredNibBottom</string>
+	<key>observerAtJob</key>
+	<string>offsetOutsideForm</string>
+	<key>smallUsageColor</key>
+	<string>geometricIsolateValidation</string>
+</dict>
+</plist>

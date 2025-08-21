@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineAtStrategy</key>
+	<string>constSubscriptionDuration</string>
+	<key>customizedFrameSkewy</key>
+	<string>reusableGramPosition</string>
+	<key>disabledTransitionOpacity</key>
+	<string>resourceProxyAlignment</string>
+	<key>graphicMediatorIndex</key>
+	<string>presenterValueOrientation</string>
+	<key>numericalMetadataFeedback</key>
+	<string>gridviewPhaseBehavior</string>
+	<key>sessionActionFormat</key>
+	<string>positionDecoratorPosition</string>
+	<key>significantCycleValidation</key>
+	<string>transitionObserverMomentum</string>
+</dict>
+</plist>

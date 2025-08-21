@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorUntilPattern</key>
+	<string>desktopRouterCoord</string>
+	<key>localizationFacadeVisible</key>
+	<string>resolverBufferTint</string>
+	<key>modelParamRate</key>
+	<string>specifierStageFeedback</string>
+	<key>queueInAction</key>
+	<string>functionalStreamContrast</string>
+	<key>routeOutsideMediator</key>
+	<string>discardedProfileRate</string>
+	<key>scrollObserverPadding</key>
+	<string>queueOutsidePrototype</string>
+	<key>ternaryNearShape</key>
+	<string>errorPlatformVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFunctionOrigin</key>
+	<string>associatedInteractorBound</string>
+	<key>cycleStatePosition</key>
+	<string>notifierMediatorAlignment</string>
+	<key>mobileAtPattern</key>
+	<string>painterInVariable</string>
+	<key>requestAmongJob</key>
+	<string>pinchableNodeFlags</string>
+	<key>subpixelViaPlatform</key>
+	<string>ephemeralFrameDuration</string>
+	<key>subsequentButtonVisibility</key>
+	<string>sliderDecoratorTint</string>
+</dict>
+</plist>

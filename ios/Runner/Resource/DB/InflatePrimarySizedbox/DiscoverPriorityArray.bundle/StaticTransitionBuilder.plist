@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoContextSkewx</key>
+	<string>resultExceptStructure</string>
+	<key>histogramDuringInterpreter</key>
+	<string>touchAgainstForm</string>
+	<key>layoutByType</key>
+	<string>disabledViewDirection</string>
+	<key>relationalAssetShade</key>
+	<string>parallelChartPressure</string>
+	<key>resizableButtonOffset</key>
+	<string>flexibleSemanticsMargin</string>
+	<key>semanticAwaitRight</key>
+	<string>nodeDecoratorOpacity</string>
+	<key>zoneTaskMode</key>
+	<string>accordionStackLocation</string>
+</dict>
+</plist>

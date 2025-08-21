@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorWorkLeft</key>
+	<string>deferredLayoutHue</string>
+	<key>localSinkMode</key>
+	<string>routeAwayMethod</string>
+	<key>secondProgressbarMomentum</key>
+	<string>appbarAsStyle</string>
+	<key>slashTypeSpacing</key>
+	<string>dimensionIncludeBuffer</string>
+	<key>spotActivityBound</key>
+	<string>topicCommandPadding</string>
+</dict>
+</plist>

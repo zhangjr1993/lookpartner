@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitNumberBrightness</key>
+	<string>fixedControllerStatus</string>
+	<key>compositionalMatrixVelocity</key>
+	<string>isolateBufferAlignment</string>
+	<key>eventLikeDecorator</key>
+	<string>futureContainBuffer</string>
+	<key>interactiveGiftScale</key>
+	<string>sequentialConsumerOffset</string>
+	<key>movementInsideLayer</key>
+	<string>disabledAwaitTint</string>
+	<key>statelessLocalizationDirection</key>
+	<string>intermediateMonsterTop</string>
+	<key>tappableListenerTint</key>
+	<string>marginForCommand</string>
+</dict>
+</plist>

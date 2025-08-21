@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSceneBound</key>
+	<string>directLayoutBehavior</string>
+	<key>collectionJobOpacity</key>
+	<string>rectLikeObserver</string>
+	<key>disabledNotifierStatus</key>
+	<string>titleSystemSaturation</string>
+	<key>mobileTextPressure</key>
+	<string>storyboardIncludeActivity</string>
+	<key>normalNotificationTail</key>
+	<string>retainedProviderSpeed</string>
+	<key>primaryPreviewName</key>
+	<string>hierarchicalAnchorDirection</string>
+	<key>signPhaseCount</key>
+	<string>channelMementoMode</string>
+	<key>subtleSegueTop</key>
+	<string>standaloneMobxName</string>
+	<key>viewThanParam</key>
+	<string>spriteVarBorder</string>
+</dict>
+</plist>

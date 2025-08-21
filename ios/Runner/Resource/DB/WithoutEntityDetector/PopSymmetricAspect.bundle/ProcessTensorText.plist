@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOfAdapter</key>
+	<string>dynamicInteractorStatus</string>
+	<key>dialogsInsideProcess</key>
+	<string>gridInTask</string>
+	<key>intuitiveRequestInteraction</key>
+	<string>prevAsyncBrightness</string>
+	<key>overlayActivityType</key>
+	<string>directBehaviorPosition</string>
+	<key>significantMenuDistance</key>
+	<string>catalystChainRotation</string>
+	<key>textfieldValueDirection</key>
+	<string>borderThanFlyweight</string>
+	<key>tickerWorkInteraction</key>
+	<string>subscriptionInterpreterOffset</string>
+</dict>
+</plist>

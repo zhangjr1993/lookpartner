@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLayoutVisibility</key>
+	<string>matrixOperationStyle</string>
+	<key>expandedStyleValidation</key>
+	<string>currentChartState</string>
+	<key>interpolationSinceDecorator</key>
+	<string>optionContextCoord</string>
+	<key>loopPrototypeTransparency</key>
+	<string>constraintExceptTask</string>
+	<key>resolverNumberSpeed</key>
+	<string>requestCompositeType</string>
+	<key>screenCompositePressure</key>
+	<string>lazyNormBound</string>
+	<key>zoneAwayDecorator</key>
+	<string>responsiveRouterColor</string>
+</dict>
+</plist>

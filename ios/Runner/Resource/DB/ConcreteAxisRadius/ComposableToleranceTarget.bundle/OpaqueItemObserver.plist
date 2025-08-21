@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOperationInterval</key>
+	<string>spriteTierSkewy</string>
+	<key>decorationSystemInteraction</key>
+	<string>independentTitlePadding</string>
+	<key>entropyShapeTheme</key>
+	<string>pivotalBinaryOrientation</string>
+	<key>managerEnvironmentKind</key>
+	<string>layoutMethodBehavior</string>
+	<key>sceneForChain</key>
+	<string>advancedConfigurationCoord</string>
+	<key>sequentialCheckboxColor</key>
+	<string>rectInPlatform</string>
+	<key>usedToolVisible</key>
+	<string>pinchableGestureAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInCycle</key>
+	<string>momentumCycleAlignment</string>
+	<key>blocJobFeedback</key>
+	<string>equalizationVersusPhase</string>
+	<key>ephemeralNotifierBehavior</key>
+	<string>indicatorBridgeTheme</string>
+	<key>exceptionContextAcceleration</key>
+	<string>stackAwayEnvironment</string>
+	<key>themeParameterType</key>
+	<string>resilientChartRotation</string>
+</dict>
+</plist>

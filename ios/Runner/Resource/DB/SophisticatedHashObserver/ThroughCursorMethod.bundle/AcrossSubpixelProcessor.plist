@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFunctionFrequency</key>
+	<string>durationValueKind</string>
+	<key>animationStrategySize</key>
+	<string>missedTabbarTheme</string>
+	<key>cardInsideStyle</key>
+	<string>dynamicLogRight</string>
+	<key>controllerContextRight</key>
+	<string>firstBrushForce</string>
+	<key>cubeLevelHead</key>
+	<string>eventSystemType</string>
+	<key>cupertinoHeroMode</key>
+	<string>baseOperationFormat</string>
+	<key>multiplicationVarSpacing</key>
+	<string>subsequentRouteDuration</string>
+	<key>screenSingletonRotation</key>
+	<string>explicitResolverOpacity</string>
+	<key>sensorAgainstPrototype</key>
+	<string>synchronousFutureForce</string>
+</dict>
+</plist>

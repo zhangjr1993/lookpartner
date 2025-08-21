@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStampVisible</key>
+	<string>interpolationAsVariable</string>
+	<key>anchorDuringCommand</key>
+	<string>stampInterpreterName</string>
+	<key>criticalLayerRight</key>
+	<string>deferredCheckboxBehavior</string>
+	<key>extensionInterpreterStatus</key>
+	<string>grainByMode</string>
+	<key>navigatorOfActivity</key>
+	<string>segueNearNumber</string>
+	<key>newestTextureDistance</key>
+	<string>iterativeStoryboardAlignment</string>
+	<key>rowStageInset</key>
+	<string>relationalBinaryVisible</string>
+	<key>transitionInType</key>
+	<string>composableChartVisibility</string>
+</dict>
+</plist>

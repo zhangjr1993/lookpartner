@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateExceptVariable</key>
+	<string>marginChainVisible</string>
+	<key>injectionProxyVisible</key>
+	<string>toolMediatorSpacing</string>
+	<key>interactiveBehaviorOpacity</key>
+	<string>inheritedSkinTransparency</string>
+	<key>labelIncludeCommand</key>
+	<string>discardedResourceDensity</string>
+	<key>lastCurveType</key>
+	<string>usecaseActionInterval</string>
+	<key>layerAdapterName</key>
+	<string>intensityInterpreterVisibility</string>
+	<key>previewShapeSaturation</key>
+	<string>commonParticleKind</string>
+	<key>providerPhaseDuration</key>
+	<string>graphAmongObserver</string>
+	<key>vectorThanOperation</key>
+	<string>resizableWidgetPressure</string>
+</dict>
+</plist>

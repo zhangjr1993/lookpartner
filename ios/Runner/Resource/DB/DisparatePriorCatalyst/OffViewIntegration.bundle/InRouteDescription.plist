@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverCount</key>
+	<string>pageviewForNumber</string>
+	<key>buttonForBridge</key>
+	<string>builderAdapterShape</string>
+	<key>cellDecoratorBorder</key>
+	<string>greatRequestInterval</string>
+	<key>draggableSensorInteraction</key>
+	<string>prevSessionFormat</string>
+	<key>frameAlongKind</key>
+	<string>spriteFrameworkInteraction</string>
+	<key>priorReferenceDistance</key>
+	<string>monsterAgainstPlatform</string>
+	<key>variantStrategyOrientation</key>
+	<string>sophisticatedTextfieldFrequency</string>
+</dict>
+</plist>

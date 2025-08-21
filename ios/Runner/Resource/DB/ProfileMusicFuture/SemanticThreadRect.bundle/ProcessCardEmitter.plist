@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTaskBorder</key>
+	<string>boxshadowThroughCycle</string>
+	<key>frameAndCommand</key>
+	<string>factoryFunctionSaturation</string>
+	<key>inactiveDrawerStatus</key>
+	<string>customMenuOrientation</string>
+	<key>publicResourceFlags</key>
+	<string>taskContainSingleton</string>
+	<key>robustTransitionRight</key>
+	<string>transformerFromValue</string>
+	<key>tweenContextTransparency</key>
+	<string>cupertinoSingletonBound</string>
+</dict>
+</plist>

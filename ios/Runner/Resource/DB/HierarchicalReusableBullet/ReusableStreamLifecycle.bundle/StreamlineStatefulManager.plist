@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintDecoratorMargin</key>
+	<string>currentSegmentMargin</string>
+	<key>functionalOptimizerSize</key>
+	<string>themeProcessFormat</string>
+	<key>fusedStreamInteraction</key>
+	<string>rectInsideParameter</string>
+	<key>handlerStyleTop</key>
+	<string>oldProjectPosition</string>
+	<key>modalInsideSingleton</key>
+	<string>positionTypeFormat</string>
+	<key>previewViaEnvironment</key>
+	<string>semanticStoreAppearance</string>
+	<key>viewShapeSize</key>
+	<string>visiblePresenterForce</string>
+</dict>
+</plist>

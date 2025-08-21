@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMobileBound</key>
+	<string>spriteDespitePrototype</string>
+	<key>interactorVersusLayer</key>
+	<string>euclideanSinkStyle</string>
+	<key>observerThanPlatform</key>
+	<string>cupertinoBufferSpacing</string>
+	<key>resourceIncludeDecorator</key>
+	<string>activeErrorFrequency</string>
+	<key>resultJobBound</key>
+	<string>factoryThroughStage</string>
+	<key>rowFlyweightRight</key>
+	<string>stateLevelName</string>
+	<key>semanticTabbarPadding</key>
+	<string>semanticCatalystVelocity</string>
+	<key>ternaryViaInterpreter</key>
+	<string>catalystValueVisibility</string>
+</dict>
+</plist>

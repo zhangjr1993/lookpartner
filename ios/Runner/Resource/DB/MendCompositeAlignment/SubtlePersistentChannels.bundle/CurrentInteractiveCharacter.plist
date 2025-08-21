@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVariableBrightness</key>
+	<string>rapidDecorationInterval</string>
+	<key>constraintAgainstForm</key>
+	<string>currentLabelFrequency</string>
+	<key>persistentEffectSaturation</key>
+	<string>taskDespiteState</string>
+	<key>providerCommandScale</key>
+	<string>topicActivityLocation</string>
+	<key>rowThanCycle</key>
+	<string>cupertinoAsVariable</string>
+	<key>unsortedQuerySkewx</key>
+	<string>interfaceSingletonVisibility</string>
+</dict>
+</plist>

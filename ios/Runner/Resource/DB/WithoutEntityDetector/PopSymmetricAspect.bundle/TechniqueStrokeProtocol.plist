@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardQueueMode</key>
+	<string>nextGrayscaleForce</string>
+	<key>discardedSingletonSkewx</key>
+	<string>anchorIncludeMemento</string>
+	<key>modelModeAlignment</key>
+	<string>displayableHistogramDensity</string>
+	<key>previewOperationPadding</key>
+	<string>standaloneSceneScale</string>
+	<key>sizeUntilPlatform</key>
+	<string>channelsBesideOperation</string>
+	<key>sophisticatedGridDirection</key>
+	<string>resourceAboutTask</string>
+	<key>techniqueBesideOperation</key>
+	<string>normalBorderInterval</string>
+</dict>
+</plist>

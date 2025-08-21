@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveCycleBottom</key>
+	<string>skinAlongAdapter</string>
+	<key>deferredGestureStyle</key>
+	<string>adaptiveChannelsSkewx</string>
+	<key>desktopDropdownbuttonRotation</key>
+	<string>numericalCurveForce</string>
+	<key>priorExceptionFeedback</key>
+	<string>slashOperationSkewy</string>
+	<key>priorStreamBorder</key>
+	<string>publicBorderRight</string>
+	<key>radioByState</key>
+	<string>providerFormVisible</string>
+	<key>sensorParamFlags</key>
+	<string>titleFormSpeed</string>
+	<key>uniqueTitlePosition</key>
+	<string>compositionPatternInset</string>
+</dict>
+</plist>

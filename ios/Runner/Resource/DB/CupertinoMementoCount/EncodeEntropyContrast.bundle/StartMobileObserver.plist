@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPhaseFlags</key>
+	<string>normalContainerTop</string>
+	<key>menuTierEdge</key>
+	<string>sequentialDependencyDensity</string>
+	<key>opaqueSliderDepth</key>
+	<string>dimensionProcessSpeed</string>
+	<key>smallSessionState</key>
+	<string>flexibleSceneCount</string>
+	<key>textureLevelHue</key>
+	<string>dropdownbuttonAmongFramework</string>
+	<key>timerBufferBottom</key>
+	<string>globalDependencyFrequency</string>
+</dict>
+</plist>

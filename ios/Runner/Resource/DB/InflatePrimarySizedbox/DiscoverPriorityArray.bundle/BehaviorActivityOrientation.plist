@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoWorkScale</key>
+	<string>storyboardInStyle</string>
+	<key>dependencyDuringShape</key>
+	<string>subtlePreviewType</string>
+	<key>mutableTitleDelay</key>
+	<string>appbarAsStrategy</string>
+	<key>newestAwaitTop</key>
+	<string>metadataWithoutSingleton</string>
+	<key>viewLayerBorder</key>
+	<string>positionKindFrequency</string>
+</dict>
+</plist>

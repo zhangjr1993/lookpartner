@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureSystemOrientation</key>
+	<string>independentLogVisible</string>
+	<key>interpolationVariableRotation</key>
+	<string>resilientSpotContrast</string>
+	<key>labelStateEdge</key>
+	<string>commandThroughLayer</string>
+	<key>resolverAsBridge</key>
+	<string>subsequentBaseSkewx</string>
+	<key>semanticButtonCoord</key>
+	<string>graphicBesideMemento</string>
+</dict>
+</plist>

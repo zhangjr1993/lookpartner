@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalModalEdge</key>
+	<string>viewCommandFeedback</string>
+	<key>fusedResolverPadding</key>
+	<string>rectExceptOperation</string>
+	<key>navigatorBufferVelocity</key>
+	<string>robustCosineDirection</string>
+	<key>progressbarProxyDistance</key>
+	<string>effectVisitorIndex</string>
+	<key>storageDecoratorShape</key>
+	<string>delegateUntilForm</string>
+</dict>
+</plist>

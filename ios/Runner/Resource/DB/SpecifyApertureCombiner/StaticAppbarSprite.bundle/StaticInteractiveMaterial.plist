@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPerParam</key>
+	<string>numericalCapsuleDuration</string>
+	<key>controllerPlatformFeedback</key>
+	<string>indicatorFlyweightOpacity</string>
+	<key>dropdownbuttonPlatformTension</key>
+	<string>typicalBitrateVisible</string>
+	<key>errorWithoutKind</key>
+	<string>segueFromParameter</string>
+	<key>pinchableRouterVelocity</key>
+	<string>desktopAnchorDelay</string>
+	<key>resolverEnvironmentCount</key>
+	<string>subpixelSinceStructure</string>
+	<key>usecaseVarState</key>
+	<string>directReferenceCount</string>
+	<key>zoneNearKind</key>
+	<string>serviceBesideSingleton</string>
+</dict>
+</plist>

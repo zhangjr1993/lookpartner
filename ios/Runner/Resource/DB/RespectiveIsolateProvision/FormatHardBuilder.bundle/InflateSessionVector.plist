@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringTemple</key>
+	<string>sequentialTextfieldColor</string>
+	<key>curveModeBehavior</key>
+	<string>mutableConstraintCenter</string>
+	<key>dedicatedFrameDensity</key>
+	<string>delegateMediatorIndex</string>
+	<key>dialogsAroundScope</key>
+	<string>queueSinceComposite</string>
+	<key>durationByVariable</key>
+	<string>delegateVisitorMargin</string>
+	<key>statefulScaffoldTail</key>
+	<string>taskScopeValidation</string>
+</dict>
+</plist>

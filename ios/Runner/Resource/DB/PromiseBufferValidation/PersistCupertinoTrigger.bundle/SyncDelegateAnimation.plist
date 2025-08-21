@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPerEnvironment</key>
+	<string>taskWithActivity</string>
+	<key>denseCheckboxAlignment</key>
+	<string>kernelInPlatform</string>
+	<key>hierarchicalIconVisible</key>
+	<string>kernelProxyIndex</string>
+	<key>layoutFunctionPosition</key>
+	<string>roleAsProxy</string>
+	<key>methodStageShape</key>
+	<string>hashActivityFeedback</string>
+	<key>permanentCollectionDuration</key>
+	<string>hardTextKind</string>
+	<key>priorBoxOrigin</key>
+	<string>staticStatefulScale</string>
+	<key>scaleAgainstInterpreter</key>
+	<string>logViaProxy</string>
+	<key>semanticCaptionVisibility</key>
+	<string>relationalCallbackCount</string>
+	<key>titleChainLeft</key>
+	<string>mediocrePaddingBottom</string>
+</dict>
+</plist>

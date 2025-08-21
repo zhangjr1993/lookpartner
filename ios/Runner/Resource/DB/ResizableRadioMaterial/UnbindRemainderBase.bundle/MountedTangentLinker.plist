@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMarginContrast</key>
+	<string>precisionAmongVar</string>
+	<key>cubitOutsideMediator</key>
+	<string>usecasePatternFrequency</string>
+	<key>customLoopEdge</key>
+	<string>behaviorContextAcceleration</string>
+	<key>immediateZoneTag</key>
+	<string>roleShapeName</string>
+	<key>mediaNumberOrigin</key>
+	<string>beginnerGestureLocation</string>
+	<key>scaleVersusState</key>
+	<string>exponentFunctionBehavior</string>
+	<key>tappableResourceSaturation</key>
+	<string>textAsContext</string>
+	<key>tweenAboutFlyweight</key>
+	<string>signFacadeShade</string>
+	<key>usedWorkflowValidation</key>
+	<string>asynchronousSkinCenter</string>
+</dict>
+</plist>

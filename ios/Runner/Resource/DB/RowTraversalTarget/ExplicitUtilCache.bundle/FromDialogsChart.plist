@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSubpixelState</key>
+	<string>mediaquerySinceFlyweight</string>
+	<key>offsetAmongCycle</key>
+	<string>seamlessMatrixRight</string>
+	<key>resilientDelegateRight</key>
+	<string>permissiveEffectRight</string>
+	<key>resourceMethodVelocity</key>
+	<string>staticDelegateTension</string>
+	<key>tickerAsBridge</key>
+	<string>interactorIncludeProxy</string>
+</dict>
+</plist>

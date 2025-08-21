@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLoopBehavior</key>
+	<string>descriptorFormOpacity</string>
+	<key>documentPerEnvironment</key>
+	<string>navigatorBesideStage</string>
+	<key>frameFormFlags</key>
+	<string>mediocreResolverRotation</string>
+	<key>keyInteractorFormat</key>
+	<string>completerFlyweightTransparency</string>
+	<key>mediumGraphRate</key>
+	<string>inheritedSignTheme</string>
+	<key>nodeVariableRotation</key>
+	<string>listviewAsCommand</string>
+	<key>numericalPopupLeft</key>
+	<string>contractionTypePressure</string>
+	<key>tickerLayerMode</key>
+	<string>signBridgeInteraction</string>
+	<key>topicStructureVisibility</key>
+	<string>newestBufferDistance</string>
+</dict>
+</plist>

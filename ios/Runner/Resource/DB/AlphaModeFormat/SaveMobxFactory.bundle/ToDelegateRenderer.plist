@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionActionTheme</key>
+	<string>alertAboutWork</string>
+	<key>coordinatorInsideFacade</key>
+	<string>tappableListviewAcceleration</string>
+	<key>enabledReductionCoord</key>
+	<string>elasticZoneDistance</string>
+	<key>mediocreContractionAcceleration</key>
+	<string>prevAllocatorColor</string>
+	<key>momentumBesideComposite</key>
+	<string>subsequentNodeName</string>
+	<key>timerBeyondInterpreter</key>
+	<string>awaitChainBrightness</string>
+</dict>
+</plist>

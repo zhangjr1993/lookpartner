@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectUntilWork</key>
+	<string>blocIncludeStage</string>
+	<key>futureCycleVisibility</key>
+	<string>specifierAboutFramework</string>
+	<key>gesturedetectorProxyCount</key>
+	<string>consumerTaskDistance</string>
+	<key>heapOperationCount</key>
+	<string>richtextNearLevel</string>
+	<key>histogramOperationName</key>
+	<string>associatedNavigatorOrigin</string>
+	<key>navigatorAdapterResponse</key>
+	<string>viewModeOrientation</string>
+	<key>sliderBeyondPrototype</key>
+	<string>dialogsParamSkewy</string>
+	<key>tickerByTask</key>
+	<string>concurrentInterfaceBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureChainFlags</key>
+	<string>localizationPerBridge</string>
+	<key>decorationAboutFlyweight</key>
+	<string>progressbarVarTheme</string>
+	<key>directlyExpandedInteraction</key>
+	<string>actionTierForce</string>
+	<key>independentObserverKind</key>
+	<string>localAnimationCoord</string>
+	<key>layoutInPhase</key>
+	<string>permissiveModelPosition</string>
+	<key>popupStyleEdge</key>
+	<string>flexibleHandlerPressure</string>
+	<key>scrollableRowInterval</key>
+	<string>buttonSystemSkewx</string>
+	<key>similarChannelPadding</key>
+	<string>subtleCardInteraction</string>
+	<key>taskUntilLayer</key>
+	<string>previewStructureForce</string>
+</dict>
+</plist>

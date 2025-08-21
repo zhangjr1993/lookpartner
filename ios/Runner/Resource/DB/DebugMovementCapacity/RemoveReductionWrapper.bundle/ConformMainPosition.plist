@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTitleSaturation</key>
+	<string>sequentialParticleBound</string>
+	<key>asynchronousStampMargin</key>
+	<string>grainInSingleton</string>
+	<key>directlySpriteRotation</key>
+	<string>sampleNearFacade</string>
+	<key>futureFacadeBrightness</key>
+	<string>vectorIncludeMode</string>
+	<key>inactiveServiceValidation</key>
+	<string>unactivatedLayerAcceleration</string>
+	<key>threadOutsideType</key>
+	<string>statelessCycleDensity</string>
+	<key>usecaseStateBehavior</key>
+	<string>rowStateCenter</string>
+</dict>
+</plist>

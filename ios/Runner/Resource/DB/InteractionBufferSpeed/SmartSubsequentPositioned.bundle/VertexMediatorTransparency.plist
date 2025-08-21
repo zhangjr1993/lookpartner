@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeFlags</key>
+	<string>optimizerBesideTemple</string>
+	<key>deferredMethodFlags</key>
+	<string>multiTextValidation</string>
+	<key>disabledStatelessContrast</key>
+	<string>mutableAssetLocation</string>
+	<key>entityAlongChain</key>
+	<string>widgetWithoutBridge</string>
+	<key>grainPlatformResponse</key>
+	<string>adaptiveDelegateDistance</string>
+	<key>inheritedResourceCount</key>
+	<string>injectionMementoStatus</string>
+	<key>scrollFunctionBehavior</key>
+	<string>labelIncludeContext</string>
+	<key>secondSinkOffset</key>
+	<string>playbackActionEdge</string>
+	<key>storeAndFramework</key>
+	<string>inheritedRouterInterval</string>
+</dict>
+</plist>

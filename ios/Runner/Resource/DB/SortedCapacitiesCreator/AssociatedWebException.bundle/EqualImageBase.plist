@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsNumberStyle</key>
+	<string>popupByScope</string>
+	<key>menuPerJob</key>
+	<string>grayscaleWithoutInterpreter</string>
+	<key>methodThroughMediator</key>
+	<string>requiredEquipmentAppearance</string>
+	<key>modelMediatorSkewy</key>
+	<string>missionAlongTask</string>
+	<key>presenterFromMethod</key>
+	<string>uniformTweenBound</string>
+	<key>similarWorkflowRate</key>
+	<string>criticalThemeState</string>
+	<key>widgetMediatorBottom</key>
+	<string>prevDescriptionTop</string>
+</dict>
+</plist>

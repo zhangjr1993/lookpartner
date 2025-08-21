@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitLevelDirection</key>
+	<string>draggablePointOffset</string>
+	<key>blocAroundObserver</key>
+	<string>workflowInsideStage</string>
+	<key>eventMementoResponse</key>
+	<string>gridStageOpacity</string>
+	<key>gramAboutVar</key>
+	<string>animationThanBridge</string>
+	<key>hashShapeStyle</key>
+	<string>declarativeCoordinatorPosition</string>
+	<key>imperativeCacheLeft</key>
+	<string>customizedPageviewTheme</string>
+	<key>materialPatternDensity</key>
+	<string>modelInsideCommand</string>
+	<key>taskAdapterDensity</key>
+	<string>desktopExceptionTail</string>
+</dict>
+</plist>

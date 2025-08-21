@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCoordinatorBehavior</key>
+	<string>builderInsidePrototype</string>
+	<key>bulletForSystem</key>
+	<string>currentAspectVisibility</string>
+	<key>interactiveProjectTail</key>
+	<string>usecaseStageStyle</string>
+	<key>listenerStageSkewy</key>
+	<string>durationProxyDuration</string>
+	<key>nibNumberDensity</key>
+	<string>routerAboutActivity</string>
+	<key>observerPlatformSpeed</key>
+	<string>interactiveChallengeDuration</string>
+	<key>rectTierVisible</key>
+	<string>rowAsStage</string>
+	<key>requiredProfileLeft</key>
+	<string>vectorIncludeVisitor</string>
+	<key>sizeOutsideActivity</key>
+	<string>capsuleUntilValue</string>
+</dict>
+</plist>

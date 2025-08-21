@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTextureValidation</key>
+	<string>sceneWithNumber</string>
+	<key>blocBeyondMethod</key>
+	<string>anchorObserverTint</string>
+	<key>canvasPlatformTag</key>
+	<string>relationalCallbackPosition</string>
+	<key>coordinatorPerMediator</key>
+	<string>custompaintMediatorState</string>
+	<key>discardedGroupDelay</key>
+	<string>factoryExceptChain</string>
+	<key>immutableIsolatePadding</key>
+	<string>channelUntilScope</string>
+	<key>mediaqueryStrategyLeft</key>
+	<string>sampleThroughFunction</string>
+	<key>missionAgainstOperation</key>
+	<string>buttonAboutParameter</string>
+	<key>nibWorkFlags</key>
+	<string>requiredViewState</string>
+</dict>
+</plist>

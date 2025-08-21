@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProtocolValidation</key>
+	<string>referenceOutsideMemento</string>
+	<key>asyncControllerTail</key>
+	<string>enabledAlertFlags</string>
+	<key>gateContextAppearance</key>
+	<string>navigatorStageOffset</string>
+	<key>inactiveRouterScale</key>
+	<string>matrixFlyweightFlags</string>
+	<key>lostInterfaceTail</key>
+	<string>crucialScrollSkewy</string>
+	<key>scaleUntilJob</key>
+	<string>sceneAwayFunction</string>
+	<key>sophisticatedCardLocation</key>
+	<string>getxEnvironmentShade</string>
+	<key>storyboardKindDepth</key>
+	<string>scaffoldAdapterDirection</string>
+	<key>widgetFromOperation</key>
+	<string>profilePerWork</string>
+</dict>
+</plist>

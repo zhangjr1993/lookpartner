@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAroundCommand</key>
+	<string>granularStreamValidation</string>
+	<key>callbackKindResponse</key>
+	<string>pinchableMobileInset</string>
+	<key>crudeProtocolShade</key>
+	<string>priorViewFrequency</string>
+	<key>cycleAsContext</key>
+	<string>providerViaPlatform</string>
+	<key>gesturedetectorAmongShape</key>
+	<string>accessibleDecorationCount</string>
+	<key>intensitySinceVariable</key>
+	<string>chapterFrameworkDuration</string>
+	<key>queueOutsideProcess</key>
+	<string>missedSubscriptionInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverCoord</key>
+	<string>touchInterpreterInset</string>
+	<key>gesturedetectorActionBehavior</key>
+	<string>decorationEnvironmentBottom</string>
+	<key>integerVisitorSize</key>
+	<string>cubePhaseDensity</string>
+	<key>queryAdapterBehavior</key>
+	<string>iterativeActivityMomentum</string>
+	<key>secondPopupType</key>
+	<string>viewVersusLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDropdownbuttonBrightness</key>
+	<string>usecasePatternLeft</string>
+	<key>capsuleScopeColor</key>
+	<string>gesturedetectorStagePadding</string>
+	<key>expandedMediatorVisible</key>
+	<string>accessibleWidgetOpacity</string>
+	<key>granularSessionState</key>
+	<string>storeAlongVar</string>
+	<key>immediateActionPressure</key>
+	<string>asynchronousDescriptorLocation</string>
+	<key>rapidTextAppearance</key>
+	<string>assetVariableSpeed</string>
+	<key>secondTextfieldRight</key>
+	<string>arithmeticVectorSize</string>
+	<key>statefulForFacade</key>
+	<string>backwardTransitionEdge</string>
+	<key>workflowTierState</key>
+	<string>opaqueSineFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopControllerMomentum</key>
+	<string>pinchableChannelRotation</string>
+	<key>eventExceptSystem</key>
+	<string>frameOrMemento</string>
+	<key>previewInsideObserver</key>
+	<string>activatedTaskState</string>
+	<key>tabviewWithVar</key>
+	<string>mobileAllocatorSpacing</string>
+	<key>transitionFunctionOrigin</key>
+	<string>textureAlongJob</string>
+</dict>
+</plist>

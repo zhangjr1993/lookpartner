@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandDecoratorBehavior</key>
+	<string>callbackBeyondTier</string>
+	<key>ignoredResponseRotation</key>
+	<string>displayableToolValidation</string>
+	<key>interactorBridgeAppearance</key>
+	<string>exponentInStructure</string>
+	<key>managerShapeContrast</key>
+	<string>subpixelAroundVisitor</string>
+	<key>methodFromNumber</key>
+	<string>decorationThanPattern</string>
+	<key>navigatorMediatorOrientation</key>
+	<string>stepContextSize</string>
+	<key>navigatorProxyOffset</key>
+	<string>fusedSliderTension</string>
+	<key>routeCommandHue</key>
+	<string>progressbarAdapterDelay</string>
+	<key>tangentIncludeMediator</key>
+	<string>responsiveDecorationLocation</string>
+</dict>
+</plist>

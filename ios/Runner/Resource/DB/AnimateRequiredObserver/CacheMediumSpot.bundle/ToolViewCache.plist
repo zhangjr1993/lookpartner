@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureTypeFeedback</key>
+	<string>promiseBeyondVar</string>
+	<key>imageExceptType</key>
+	<string>granularPreviewRate</string>
+	<key>intuitiveGesturedetectorTint</key>
+	<string>difficultFrameInterval</string>
+	<key>pinchableConfigurationPressure</key>
+	<string>hashTempleMode</string>
+	<key>priorityThroughLevel</key>
+	<string>actionAdapterTheme</string>
+	<key>responseLayerStyle</key>
+	<string>hardPositionName</string>
+	<key>specifierAmongStructure</key>
+	<string>screenMementoTint</string>
+</dict>
+</plist>

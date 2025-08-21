@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerStageFrequency</key>
+	<string>animatedPositionResponse</string>
+	<key>graphIncludeVariable</key>
+	<string>localizationLikeDecorator</string>
+	<key>groupAlongObserver</key>
+	<string>transitionLikeStrategy</string>
+	<key>localTechniqueVisible</key>
+	<string>durationAgainstStage</string>
+	<key>modelPatternKind</key>
+	<string>positionEnvironmentDirection</string>
+	<key>pinchableCurveFrequency</key>
+	<string>memberActivityDelay</string>
+	<key>rectUntilForm</key>
+	<string>variantInsideScope</string>
+</dict>
+</plist>

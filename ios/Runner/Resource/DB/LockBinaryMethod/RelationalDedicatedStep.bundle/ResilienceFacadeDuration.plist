@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAmongParam</key>
+	<string>compositionOperationCenter</string>
+	<key>comprehensiveTextContrast</key>
+	<string>ignoredVectorKind</string>
+	<key>entityExceptPlatform</key>
+	<string>configurationVariableStyle</string>
+	<key>firstApertureAppearance</key>
+	<string>imageValueTransparency</string>
+	<key>lostPageviewFeedback</key>
+	<string>disabledSemanticsDelay</string>
+	<key>navigationMediatorOrientation</key>
+	<string>errorForPrototype</string>
+	<key>symmetricWidgetDirection</key>
+	<string>skinPhaseInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBridgeInset</key>
+	<string>diversifiedRequestContrast</string>
+	<key>granularResolverTheme</key>
+	<string>timerThroughMethod</string>
+	<key>parallelCapsuleDelay</key>
+	<string>grainUntilFlyweight</string>
+	<key>taskVariableTheme</key>
+	<string>resultOutsidePrototype</string>
+	<key>transformerTempleVisibility</key>
+	<string>themeAgainstMediator</string>
+</dict>
+</plist>

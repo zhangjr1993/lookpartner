@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeCheckboxDirection</key>
+	<string>widgetProcessVisibility</string>
+	<key>localizationOfAction</key>
+	<string>permanentBrushBehavior</string>
+	<key>normalSlashCount</key>
+	<string>interactiveMemberTag</string>
+	<key>priorityTierDuration</key>
+	<string>asyncAndInterpreter</string>
+	<key>protectedPaddingAlignment</key>
+	<string>opaqueTabbarBound</string>
+	<key>statelessConstraintAcceleration</key>
+	<string>sequentialOptimizerAcceleration</string>
+	<key>tappableLayerTension</key>
+	<string>subtleInteractorShade</string>
+</dict>
+</plist>

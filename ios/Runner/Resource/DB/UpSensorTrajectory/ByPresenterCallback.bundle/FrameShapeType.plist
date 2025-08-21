@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeBorder</key>
+	<string>layoutTierTransparency</string>
+	<key>compositionalSampleAppearance</key>
+	<string>spineBesideContext</string>
+	<key>futureBufferOffset</key>
+	<string>presenterOutsideFunction</string>
+	<key>imperativeTickerName</key>
+	<string>resourceOrValue</string>
+	<key>managerByParam</key>
+	<string>parallelPaddingContrast</string>
+	<key>momentumCycleRate</key>
+	<string>localCompleterMargin</string>
+	<key>popupOutsideFacade</key>
+	<string>awaitVarStyle</string>
+	<key>specifierModeStyle</key>
+	<string>lastSessionTheme</string>
+	<key>techniqueBeyondShape</key>
+	<string>respectiveSinkBound</string>
+</dict>
+</plist>

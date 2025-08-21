@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStoryboardInteraction</key>
+	<string>frameAsFacade</string>
+	<key>currentUsecasePressure</key>
+	<string>retainedActionIndex</string>
+	<key>observerExceptJob</key>
+	<string>notificationLikeSystem</string>
+	<key>operationContextTransparency</key>
+	<string>radiusFacadeStatus</string>
+	<key>reducerAsFlyweight</key>
+	<string>permanentInterfaceScale</string>
+	<key>seguePatternName</key>
+	<string>chartForObserver</string>
+</dict>
+</plist>

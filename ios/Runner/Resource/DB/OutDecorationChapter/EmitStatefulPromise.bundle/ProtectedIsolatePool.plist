@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramAndDecorator</key>
+	<string>eventThroughSingleton</string>
+	<key>mobileAlongVar</key>
+	<string>constButtonDuration</string>
+	<key>playbackStructureDirection</key>
+	<string>reactiveGraphSpeed</string>
+	<key>queueStateFormat</key>
+	<string>standaloneGateState</string>
+	<key>seamlessChartTop</key>
+	<string>arithmeticMissionMargin</string>
+	<key>serviceVarTheme</key>
+	<string>layerForType</string>
+	<key>storageUntilPattern</key>
+	<string>inactiveSignStatus</string>
+</dict>
+</plist>

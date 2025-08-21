@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePatternLocation</key>
+	<string>globalScrollTransparency</string>
+	<key>exponentTierResponse</key>
+	<string>storyboardSingletonLocation</string>
+	<key>groupOrContext</key>
+	<string>singleModalBorder</string>
+	<key>serviceBeyondVar</key>
+	<string>activityNearProcess</string>
+</dict>
+</plist>

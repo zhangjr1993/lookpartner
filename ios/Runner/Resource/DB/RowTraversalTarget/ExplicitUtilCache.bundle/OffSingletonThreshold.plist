@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAndCommand</key>
+	<string>alignmentSingletonLeft</string>
+	<key>commonParticleFlags</key>
+	<string>cartesianAlignmentOffset</string>
+	<key>effectActionBottom</key>
+	<string>grainUntilChain</string>
+	<key>errorDespiteNumber</key>
+	<string>baselineFlyweightSpeed</string>
+	<key>priorityViaPhase</key>
+	<string>functionalEqualizationTag</string>
+</dict>
+</plist>

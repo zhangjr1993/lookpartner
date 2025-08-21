@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentWithFacade</key>
+	<string>mediumVectorType</string>
+	<key>labelNearProcess</key>
+	<string>columnAsFacade</string>
+	<key>particleInterpreterFormat</key>
+	<string>sineOfComposite</string>
+	<key>segueFromStructure</key>
+	<string>viewValueDelay</string>
+	<key>spriteMementoInterval</key>
+	<string>variantVisitorFrequency</string>
+	<key>stepContainWork</key>
+	<string>staticOperationScale</string>
+</dict>
+</plist>

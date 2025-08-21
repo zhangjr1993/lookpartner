@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystIncludeTier</key>
+	<string>factoryIncludePhase</string>
+	<key>decorationFromDecorator</key>
+	<string>visibleSceneRotation</string>
+	<key>ignoredGestureTop</key>
+	<string>widgetBesidePhase</string>
+	<key>observerActionOffset</key>
+	<string>managerCommandValidation</string>
+	<key>threadAndSingleton</key>
+	<string>hardSymbolOpacity</string>
+	<key>zoneKindContrast</key>
+	<string>matrixPerKind</string>
+</dict>
+</plist>

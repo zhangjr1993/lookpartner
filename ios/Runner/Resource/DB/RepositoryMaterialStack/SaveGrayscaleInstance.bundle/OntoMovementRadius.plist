@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRemainderFrequency</key>
+	<string>listenerOperationDelay</string>
+	<key>descriptorForLayer</key>
+	<string>controllerTierTag</string>
+	<key>geometricBlocEdge</key>
+	<string>cubitIncludeEnvironment</string>
+	<key>grayscaleNumberSkewx</key>
+	<string>exceptionMementoOpacity</string>
+	<key>queryPerParam</key>
+	<string>dynamicPainterRotation</string>
+	<key>semanticPointBottom</key>
+	<string>builderBridgeScale</string>
+</dict>
+</plist>

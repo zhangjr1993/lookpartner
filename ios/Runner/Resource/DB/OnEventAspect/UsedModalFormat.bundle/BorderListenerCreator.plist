@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTaskShade</key>
+	<string>semanticsMementoBrightness</string>
+	<key>controllerParamBrightness</key>
+	<string>tableActivityCount</string>
+	<key>interfaceEnvironmentBorder</key>
+	<string>curveAroundSystem</string>
+	<key>providerTaskOrigin</key>
+	<string>specifyConstraintSpacing</string>
+	<key>utilParamVisible</key>
+	<string>modalThroughMode</string>
+</dict>
+</plist>

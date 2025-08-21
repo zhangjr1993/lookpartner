@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTickerInset</key>
+	<string>similarTitleMargin</string>
+	<key>criticalDimensionAcceleration</key>
+	<string>denseBlocBehavior</string>
+	<key>notifierFacadePadding</key>
+	<string>displayableCharacterBehavior</string>
+	<key>requestOperationBottom</key>
+	<string>nibViaProcess</string>
+	<key>statelessVectorState</key>
+	<string>aspectratioExceptVisitor</string>
+</dict>
+</plist>

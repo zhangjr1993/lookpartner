@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardAnimationType</key>
+	<string>textForChain</string>
+	<key>methodAgainstObserver</key>
+	<string>swiftActivitySpacing</string>
+	<key>radioMediatorDelay</key>
+	<string>tabviewStructureShape</string>
+	<key>shaderProcessAppearance</key>
+	<string>routeDespiteValue</string>
+	<key>staticDurationAppearance</key>
+	<string>loopBesidePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMasterOrientation</key>
+	<string>sharedCursorOpacity</string>
+	<key>graphFromDecorator</key>
+	<string>tangentAtBridge</string>
+	<key>hashInsideFunction</key>
+	<string>logViaScope</string>
+	<key>mobxValueOffset</key>
+	<string>sessionOperationAlignment</string>
+	<key>optimizerLevelMargin</key>
+	<string>titleJobSaturation</string>
+	<key>subscriptionOutsideOperation</key>
+	<string>channelMethodLeft</string>
+</dict>
+</plist>

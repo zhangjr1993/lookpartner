@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAwayPattern</key>
+	<string>inkwellBeyondVisitor</string>
+	<key>curveOutsideFramework</key>
+	<string>equalizationCommandSaturation</string>
+	<key>factoryNearStrategy</key>
+	<string>bufferPerContext</string>
+	<key>protocolStructureFormat</key>
+	<string>callbackFacadeKind</string>
+	<key>specifierProxyForce</key>
+	<string>zoneFormType</string>
+</dict>
+</plist>

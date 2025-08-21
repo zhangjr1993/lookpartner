@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWorkSpeed</key>
+	<string>denseGroupResponse</string>
+	<key>extensionPhaseOrigin</key>
+	<string>otherCompositionCount</string>
+	<key>handlerPerProxy</key>
+	<string>streamActionPressure</string>
+	<key>lossInMode</key>
+	<string>adaptiveButtonMode</string>
+	<key>numericalIndicatorOffset</key>
+	<string>modalAsOperation</string>
+	<key>queryAndPattern</key>
+	<string>semanticTabbarCount</string>
+	<key>visibleCubitDistance</key>
+	<string>persistentWidgetIndex</string>
+</dict>
+</plist>

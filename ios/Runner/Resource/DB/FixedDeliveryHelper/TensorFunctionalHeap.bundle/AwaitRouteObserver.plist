@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOutsideDecorator</key>
+	<string>buttonPhaseOpacity</string>
+	<key>containerBufferResponse</key>
+	<string>interactiveConstraintFlags</string>
+	<key>displayableGraphicShape</key>
+	<string>serviceAtBridge</string>
+	<key>durationExceptNumber</key>
+	<string>interpolationValueOpacity</string>
+	<key>localTransformerName</key>
+	<string>pivotalAlphaLeft</string>
+	<key>otherWidgetCount</key>
+	<string>symmetricCurveTail</string>
+	<key>permanentEqualizationCoord</key>
+	<string>animatedIconTop</string>
+	<key>respectiveCubitVelocity</key>
+	<string>operationNumberSkewx</string>
+	<key>spotSingletonTail</key>
+	<string>stampCommandVelocity</string>
+</dict>
+</plist>

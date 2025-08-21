@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInStyle</key>
+	<string>painterTypeType</string>
+	<key>constraintFacadeFeedback</key>
+	<string>immutableCurveLocation</string>
+	<key>progressbarMementoInteraction</key>
+	<string>alphaBeyondComposite</string>
+	<key>usageBufferHead</key>
+	<string>sliderTaskFeedback</string>
+	<key>usedCacheInteraction</key>
+	<string>composableVectorPadding</string>
+</dict>
+</plist>

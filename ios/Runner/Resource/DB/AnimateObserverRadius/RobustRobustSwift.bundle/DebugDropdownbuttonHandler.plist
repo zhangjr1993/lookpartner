@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInterfaceBehavior</key>
+	<string>reusableHashRotation</string>
+	<key>baseOutsideLevel</key>
+	<string>inheritedGradientVelocity</string>
+	<key>currentTimerBottom</key>
+	<string>textBridgeSpeed</string>
+	<key>disabledStepName</key>
+	<string>optionForValue</string>
+	<key>opaqueCallbackScale</key>
+	<string>scaleFromPattern</string>
+	<key>smallPositionedTransparency</key>
+	<string>secondAlignmentEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOutsideState</key>
+	<string>hierarchicalNavigatorBehavior</string>
+	<key>dynamicOptionSpacing</key>
+	<string>beginnerDurationBehavior</string>
+	<key>intuitiveScenePressure</key>
+	<string>standaloneAllocatorVisibility</string>
+	<key>priorityVersusMemento</key>
+	<string>ignoredMobileTag</string>
+</dict>
+</plist>

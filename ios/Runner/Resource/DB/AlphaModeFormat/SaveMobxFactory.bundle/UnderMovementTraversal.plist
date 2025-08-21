@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCapsuleCenter</key>
+	<string>displayableBrushColor</string>
+	<key>boxPerState</key>
+	<string>primaryPaddingResponse</string>
+	<key>completionModeDepth</key>
+	<string>resourceAgainstWork</string>
+	<key>menuAlongCycle</key>
+	<string>coordinatorOrMediator</string>
+	<key>modalPlatformBottom</key>
+	<string>responsiveMobxTop</string>
+	<key>navigatorByStrategy</key>
+	<string>immediateInkwellContrast</string>
+	<key>routeMediatorHead</key>
+	<string>binaryInsideBuffer</string>
+	<key>viewAtKind</key>
+	<string>titleOutsideAdapter</string>
+</dict>
+</plist>

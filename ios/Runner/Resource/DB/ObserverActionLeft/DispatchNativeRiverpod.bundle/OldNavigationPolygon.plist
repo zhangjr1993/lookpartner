@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOverlayEdge</key>
+	<string>builderFromType</string>
+	<key>diffableProgressbarBehavior</key>
+	<string>pointAboutFlyweight</string>
+	<key>futureOutsideMode</key>
+	<string>rowViaBridge</string>
+	<key>hashBeyondFlyweight</key>
+	<string>routeOrObserver</string>
+	<key>isolateInterpreterRate</key>
+	<string>modelLevelDirection</string>
+	<key>layoutFromContext</key>
+	<string>numericalGridBottom</string>
+	<key>modelObserverTransparency</key>
+	<string>signatureFunctionBottom</string>
+	<key>serviceCommandDensity</key>
+	<string>hashInterpreterEdge</string>
+	<key>subpixelAlongInterpreter</key>
+	<string>accordionEntityLocation</string>
+	<key>textureSinceVar</key>
+	<string>optionParameterFlags</string>
+</dict>
+</plist>

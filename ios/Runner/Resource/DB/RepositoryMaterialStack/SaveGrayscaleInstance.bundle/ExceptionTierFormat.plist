@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAlongVisitor</key>
+	<string>tensorRequestStyle</string>
+	<key>heapMementoSpacing</key>
+	<string>hierarchicalStreamStyle</string>
+	<key>methodStructureKind</key>
+	<string>grainAboutContext</string>
+	<key>streamAwayCommand</key>
+	<string>documentCycleTension</string>
+</dict>
+</plist>

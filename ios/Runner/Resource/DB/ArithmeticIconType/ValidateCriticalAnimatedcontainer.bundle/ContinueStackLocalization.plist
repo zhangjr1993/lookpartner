@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTextureAlignment</key>
+	<string>managerAsAction</string>
+	<key>alertParameterIndex</key>
+	<string>gesturedetectorParamKind</string>
+	<key>blocShapeState</key>
+	<string>callbackBeyondComposite</string>
+	<key>denseFutureHue</key>
+	<string>logarithmEnvironmentInterval</string>
+	<key>reusablePositionDirection</key>
+	<string>elasticGraphInteraction</string>
+</dict>
+</plist>

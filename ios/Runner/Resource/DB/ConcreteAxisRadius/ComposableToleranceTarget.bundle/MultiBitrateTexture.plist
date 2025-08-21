@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectUntilAdapter</key>
+	<string>labelTierFlags</string>
+	<key>eagerTopicTheme</key>
+	<string>resizableRoleTint</string>
+	<key>iconIncludeStage</key>
+	<string>decorationAdapterScale</string>
+	<key>independentContainerTint</key>
+	<string>eventTempleBrightness</string>
+</dict>
+</plist>

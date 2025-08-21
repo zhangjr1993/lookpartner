@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDuringActivity</key>
+	<string>contractionInMemento</string>
+	<key>callbackByType</key>
+	<string>responseOperationSaturation</string>
+	<key>intuitiveSingletonRight</key>
+	<string>smartCubeRotation</string>
+	<key>resizableTechniqueFeedback</key>
+	<string>cursorActionFormat</string>
+	<key>respectiveProviderDensity</key>
+	<string>resourcePatternCoord</string>
+	<key>smallRadiusDirection</key>
+	<string>tappableListviewDepth</string>
+	<key>statelessOrPattern</key>
+	<string>vectorProcessScale</string>
+	<key>viewPhaseState</key>
+	<string>directlyAnimationBound</string>
+</dict>
+</plist>

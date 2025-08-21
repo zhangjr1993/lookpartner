@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOrMethod</key>
+	<string>chapterSingletonInteraction</string>
+	<key>commandCommandInteraction</key>
+	<string>queueTypeCoord</string>
+	<key>declarativeDependencyInset</key>
+	<string>granularFramePressure</string>
+	<key>layoutStructureBottom</key>
+	<string>elasticRadiusVisibility</string>
+	<key>modalActivityFormat</key>
+	<string>blocBufferStyle</string>
+	<key>navigationTypeDistance</key>
+	<string>precisionExceptLayer</string>
+	<key>specifierProcessDuration</key>
+	<string>stateCommandState</string>
+	<key>taskPerMemento</key>
+	<string>titleOrScope</string>
+</dict>
+</plist>

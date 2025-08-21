@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarExceptScope</key>
+	<string>unsortedInteractorInset</string>
+	<key>dedicatedEqualizationBound</key>
+	<string>futureByStyle</string>
+	<key>offsetExceptStage</key>
+	<string>invisibleCubeBrightness</string>
+	<key>protocolTaskVisibility</key>
+	<string>bitrateTempleBound</string>
+	<key>subscriptionMementoDistance</key>
+	<string>priorResolverTag</string>
+	<key>toolPerFlyweight</key>
+	<string>inheritedMusicInset</string>
+</dict>
+</plist>

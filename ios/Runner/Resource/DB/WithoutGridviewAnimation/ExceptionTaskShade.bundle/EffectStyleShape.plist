@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTierVelocity</key>
+	<string>decorationPerAction</string>
+	<key>autoRouterScale</key>
+	<string>streamByShape</string>
+	<key>boxshadowFlyweightHue</key>
+	<string>decorationProcessTail</string>
+	<key>consultativeShaderDelay</key>
+	<string>constPaddingVisible</string>
+	<key>materialAtStrategy</key>
+	<string>momentumContainObserver</string>
+	<key>mobxFunctionDuration</key>
+	<string>requestWorkRight</string>
+	<key>resilientBuilderForce</key>
+	<string>requestAroundKind</string>
+	<key>textThroughObserver</key>
+	<string>requestExceptShape</string>
+	<key>textfieldSingletonMargin</key>
+	<string>opaqueNormCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionIncludeStyle</key>
+	<string>sceneExceptCommand</string>
+	<key>crudeLayoutType</key>
+	<string>declarativeProviderOffset</string>
+	<key>documentVariableVelocity</key>
+	<string>appbarFlyweightDensity</string>
+	<key>inheritedSwiftRight</key>
+	<string>popupPhaseOrientation</string>
+	<key>labelPerParameter</key>
+	<string>sustainableConfigurationTag</string>
+	<key>sizePlatformOrigin</key>
+	<string>slashVisitorColor</string>
+	<key>statelessResponseEdge</key>
+	<string>dedicatedSensorShape</string>
+	<key>usedCardBehavior</key>
+	<string>callbackVarTheme</string>
+	<key>usedTweenTop</key>
+	<string>handlerChainOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonActionSpacing</key>
+	<string>independentTransitionShape</string>
+	<key>criticalAllocatorStyle</key>
+	<string>frameByCycle</string>
+	<key>directlyCertificateColor</key>
+	<string>bulletFacadeDelay</string>
+	<key>globalDurationMode</key>
+	<string>switchAmongTask</string>
+	<key>similarSwiftDistance</key>
+	<string>specifyAnimatedcontainerShape</string>
+	<key>spineAndCycle</key>
+	<string>requiredProviderVisible</string>
+</dict>
+</plist>

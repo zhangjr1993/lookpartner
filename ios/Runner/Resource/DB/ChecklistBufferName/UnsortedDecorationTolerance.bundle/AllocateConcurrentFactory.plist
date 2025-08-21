@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideType</key>
+	<string>layerPhaseName</string>
+	<key>cubitForStrategy</key>
+	<string>resourceModeBound</string>
+	<key>descriptionBridgeVelocity</key>
+	<string>specifyDependencyBrightness</string>
+	<key>explicitQueryCount</key>
+	<string>durationStrategyPressure</string>
+	<key>fixedIsolateFormat</key>
+	<string>denseResourceValidation</string>
+	<key>imperativeBuilderPressure</key>
+	<string>interactorFromBridge</string>
+	<key>invisibleCycleFormat</key>
+	<string>providerThanStyle</string>
+	<key>promiseValueAppearance</key>
+	<string>sineAdapterPadding</string>
+	<key>stateSinceObserver</key>
+	<string>textOutsideKind</string>
+	<key>topicPlatformVelocity</key>
+	<string>sliderFromComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShapeCount</key>
+	<string>labelCompositeContrast</string>
+	<key>appbarDuringInterpreter</key>
+	<string>radiusOutsideLayer</string>
+	<key>bufferTierSpeed</key>
+	<string>mutableBlocAcceleration</string>
+	<key>disabledBulletBorder</key>
+	<string>completerFormBehavior</string>
+	<key>enabledStateSkewx</key>
+	<string>robustUsecaseDensity</string>
+	<key>imageAgainstBuffer</key>
+	<string>indicatorPhaseTransparency</string>
+	<key>isolateOutsideValue</key>
+	<string>geometricCellDelay</string>
+	<key>popupWithStage</key>
+	<string>giftPatternShade</string>
+	<key>scrollStageDelay</key>
+	<string>observerVisitorVelocity</string>
+	<key>subsequentExponentType</key>
+	<string>playbackContainVariable</string>
+</dict>
+</plist>

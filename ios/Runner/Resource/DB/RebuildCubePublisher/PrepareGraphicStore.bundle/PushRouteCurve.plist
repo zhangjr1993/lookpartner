@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionFeedback</key>
+	<string>subscriptionStageStyle</string>
+	<key>gestureAndFunction</key>
+	<string>gateLikeSingleton</string>
+	<key>graphParameterDirection</key>
+	<string>tensorAspectratioShape</string>
+	<key>interfaceTypeFlags</key>
+	<string>dependencyLevelCenter</string>
+	<key>singletonFromPlatform</key>
+	<string>graphWithoutBuffer</string>
+	<key>temporaryAlertInteraction</key>
+	<string>gateActivityStatus</string>
+	<key>workflowSingletonCoord</key>
+	<string>particleAroundShape</string>
+</dict>
+</plist>

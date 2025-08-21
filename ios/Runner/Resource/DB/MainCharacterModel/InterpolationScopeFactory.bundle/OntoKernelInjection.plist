@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFunctionStatus</key>
+	<string>asyncLoopValidation</string>
+	<key>entityPerFramework</key>
+	<string>callbackStrategyHue</string>
+	<key>graphicVisitorAlignment</key>
+	<string>reductionStructureColor</string>
+	<key>painterTierShade</key>
+	<string>buttonOutsideState</string>
+	<key>protectedRowTop</key>
+	<string>toolWithContext</string>
+	<key>queueNumberRight</key>
+	<string>toolTypeType</string>
+	<key>tappableDurationInset</key>
+	<string>resourceAndAdapter</string>
+	<key>toolContainType</key>
+	<string>resultSinceTask</string>
+	<key>unsortedLayoutSkewy</key>
+	<string>checklistScopeMargin</string>
+</dict>
+</plist>

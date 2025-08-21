@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleName</key>
+	<string>groupFormName</string>
+	<key>capsuleCommandFormat</key>
+	<string>radiusContextCoord</string>
+	<key>logarithmOrProxy</key>
+	<string>mobileProviderScale</string>
+	<key>utilAtStrategy</key>
+	<string>shaderLayerInterval</string>
+</dict>
+</plist>

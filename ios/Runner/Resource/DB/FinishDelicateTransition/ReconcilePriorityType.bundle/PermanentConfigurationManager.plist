@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPrototypeVisible</key>
+	<string>mediaqueryAgainstFramework</string>
+	<key>managerAwayStructure</key>
+	<string>rowPerPlatform</string>
+	<key>missedDurationResponse</key>
+	<string>firstIntensityTop</string>
+	<key>reusableBufferState</key>
+	<string>euclideanMobileRotation</string>
+	<key>synchronousAwaitContrast</key>
+	<string>crudeActionInset</string>
+</dict>
+</plist>

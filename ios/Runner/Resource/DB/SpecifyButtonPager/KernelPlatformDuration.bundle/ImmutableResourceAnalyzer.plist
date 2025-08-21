@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaffoldPressure</key>
+	<string>priorTopicTint</string>
+	<key>animationOrAction</key>
+	<string>layoutBySingleton</string>
+	<key>builderAboutKind</key>
+	<string>compositionFrameworkVisible</string>
+	<key>resolverWithKind</key>
+	<string>sinkForProcess</string>
+	<key>slashInsideOperation</key>
+	<string>missionFlyweightOpacity</string>
+	<key>statelessDelegateAppearance</key>
+	<string>streamLayerStatus</string>
+	<key>transitionEnvironmentDuration</key>
+	<string>nativeCubitEdge</string>
+</dict>
+</plist>

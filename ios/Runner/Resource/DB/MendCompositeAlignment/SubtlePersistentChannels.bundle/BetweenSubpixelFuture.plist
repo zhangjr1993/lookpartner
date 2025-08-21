@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureParameterStatus</key>
+	<string>queueContextOrigin</string>
+	<key>asyncErrorAlignment</key>
+	<string>responseOfAction</string>
+	<key>clipperActionMode</key>
+	<string>stepByWork</string>
+	<key>fusedMapRate</key>
+	<string>spriteWithFramework</string>
+	<key>gridModeFrequency</key>
+	<string>pointStageLocation</string>
+	<key>groupPatternFlags</key>
+	<string>futureAtState</string>
+	<key>methodFlyweightBottom</key>
+	<string>scrollableMethodRate</string>
+	<key>routeDecoratorOrigin</key>
+	<string>transformerProxyTheme</string>
+	<key>spriteVersusFacade</key>
+	<string>musicMediatorHead</string>
+</dict>
+</plist>

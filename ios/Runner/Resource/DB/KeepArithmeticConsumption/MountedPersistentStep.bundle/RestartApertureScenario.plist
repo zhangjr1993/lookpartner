@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRowBound</key>
+	<string>parallelApertureBrightness</string>
+	<key>graphProxyCoord</key>
+	<string>screenInsideStage</string>
+	<key>hashAndBuffer</key>
+	<string>pointValueDensity</string>
+	<key>presenterAlongLevel</key>
+	<string>containerEnvironmentIndex</string>
+	<key>statelessStructureVisibility</key>
+	<string>routeByStructure</string>
+	<key>streamFormValidation</key>
+	<string>containerFlyweightDensity</string>
+	<key>textViaSystem</key>
+	<string>giftPrototypeVisible</string>
+	<key>widgetActionFeedback</key>
+	<string>autoObserverTint</string>
+	<key>workflowByVar</key>
+	<string>ternaryThroughMode</string>
+</dict>
+</plist>

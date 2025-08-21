@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePainterFlags</key>
+	<string>actionInsideStage</string>
+	<key>compositionContainScope</key>
+	<string>utilStrategyOpacity</string>
+	<key>cubitByBridge</key>
+	<string>sustainableMomentumShade</string>
+	<key>easyCaptionSize</key>
+	<string>priorityTypeSpacing</string>
+	<key>intuitiveServiceAlignment</key>
+	<string>switchPrototypeRight</string>
+	<key>lazyProgressbarPadding</key>
+	<string>aspectratioOperationVisibility</string>
+	<key>presenterWorkShape</key>
+	<string>draggableAccessoryTag</string>
+	<key>scaffoldParamOpacity</key>
+	<string>delicateMobileOffset</string>
+	<key>scrollableCurveDensity</key>
+	<string>handlerProcessVisible</string>
+	<key>tweenVersusChain</key>
+	<string>canvasDespiteLayer</string>
+</dict>
+</plist>

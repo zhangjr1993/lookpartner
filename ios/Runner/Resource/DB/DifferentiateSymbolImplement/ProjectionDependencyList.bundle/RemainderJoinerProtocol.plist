@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSinceBuffer</key>
+	<string>appbarJobTransparency</string>
+	<key>exceptionSinceScope</key>
+	<string>queueUntilMediator</string>
+	<key>localizationBeyondMemento</key>
+	<string>appbarBridgeVelocity</string>
+	<key>mainInterpolationSize</key>
+	<string>gesturedetectorNumberDensity</string>
+	<key>navigatorModeLocation</key>
+	<string>sequentialPositionLocation</string>
+	<key>reducerFrameworkRate</key>
+	<string>builderEnvironmentIndex</string>
+	<key>storeFlyweightTop</key>
+	<string>callbackStageDirection</string>
+</dict>
+</plist>

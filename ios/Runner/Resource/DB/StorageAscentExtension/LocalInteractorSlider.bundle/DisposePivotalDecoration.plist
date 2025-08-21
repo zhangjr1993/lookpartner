@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForInterpreter</key>
+	<string>cardOrMode</string>
+	<key>hardLocalizationDirection</key>
+	<string>usageFromWork</string>
+	<key>lazyCycleBehavior</key>
+	<string>smartPrecisionStyle</string>
+	<key>lazyFactoryVelocity</key>
+	<string>alphaInObserver</string>
+	<key>mediumConvolutionTransparency</key>
+	<string>interactorCycleEdge</string>
+	<key>mobileProxyRight</key>
+	<string>immediateMediaqueryFrequency</string>
+	<key>observerVersusAdapter</key>
+	<string>segmentTempleDelay</string>
+	<key>scaffoldPhaseShape</key>
+	<string>graphVisitorVelocity</string>
+	<key>specifierStageAcceleration</key>
+	<string>titleThanTemple</string>
+</dict>
+</plist>

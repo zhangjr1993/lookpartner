@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVersusParameter</key>
+	<string>cartesianMatrixValidation</string>
+	<key>controllerSystemValidation</key>
+	<string>mainCanvasFlags</string>
+	<key>coordinatorTaskSkewy</key>
+	<string>responsivePreviewFormat</string>
+	<key>getxFlyweightTint</key>
+	<string>textStrategyOffset</string>
+	<key>lastColumnShape</key>
+	<string>boxshadowModeOrientation</string>
+	<key>localRouterSkewy</key>
+	<string>fusedMetadataShape</string>
+	<key>memberPhaseInterval</key>
+	<string>offsetInBridge</string>
+	<key>stepMethodInteraction</key>
+	<string>particleLevelVisible</string>
+	<key>utilFlyweightName</key>
+	<string>autoRiverpodScale</string>
+</dict>
+</plist>

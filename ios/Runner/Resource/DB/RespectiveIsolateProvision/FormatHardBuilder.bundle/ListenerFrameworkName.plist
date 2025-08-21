@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormInteraction</key>
+	<string>basicAppbarPosition</string>
+	<key>borderActionVelocity</key>
+	<string>alignmentAgainstState</string>
+	<key>ignoredResultKind</key>
+	<string>diversifiedProgressbarTint</string>
+	<key>labelDecoratorDistance</key>
+	<string>integerChainTheme</string>
+	<key>localizationOutsidePhase</key>
+	<string>requiredListenerPressure</string>
+	<key>oldThemePadding</key>
+	<string>missedSineBottom</string>
+	<key>providerWorkLocation</key>
+	<string>firstAwaitValidation</string>
+	<key>storeValueValidation</key>
+	<string>tweenOperationTransparency</string>
+</dict>
+</plist>

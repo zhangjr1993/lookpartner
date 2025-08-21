@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationModeDensity</key>
+	<string>modalFunctionBrightness</string>
+	<key>inkwellAgainstSystem</key>
+	<string>themeIncludeCycle</string>
+	<key>rectTaskFormat</key>
+	<string>rowTypeHue</string>
+	<key>spineInsideTier</key>
+	<string>streamIncludeForm</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataThroughFlyweight</key>
+	<string>hierarchicalEquipmentFeedback</string>
+	<key>pageviewOutsidePlatform</key>
+	<string>tabviewAmongMethod</string>
+	<key>scrollableFlexInteraction</key>
+	<string>currentCoordinatorSize</string>
+</dict>
+</plist>

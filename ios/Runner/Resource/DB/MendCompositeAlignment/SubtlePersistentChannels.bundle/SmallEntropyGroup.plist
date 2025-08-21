@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlignmentInset</key>
+	<string>binaryEnvironmentDensity</string>
+	<key>chapterLikeEnvironment</key>
+	<string>decorationInsidePlatform</string>
+	<key>futureOrType</key>
+	<string>transitionAlongForm</string>
+	<key>layoutPatternDelay</key>
+	<string>sustainableTextOrientation</string>
+	<key>marginAdapterMargin</key>
+	<string>ternaryDespiteProxy</string>
+	<key>repositoryMementoCount</key>
+	<string>spriteStateStyle</string>
+	<key>roleAroundVisitor</key>
+	<string>framePatternVisible</string>
+</dict>
+</plist>

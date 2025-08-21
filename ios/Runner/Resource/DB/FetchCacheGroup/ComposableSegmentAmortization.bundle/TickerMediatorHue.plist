@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateIncludeMethod</key>
+	<string>durationAmongOperation</string>
+	<key>dependencyLikeContext</key>
+	<string>discardedProviderState</string>
+	<key>navigatorIncludeObserver</key>
+	<string>radiusAtPattern</string>
+	<key>otherSpriteState</key>
+	<string>statefulAmongMemento</string>
+	<key>routeBeyondComposite</key>
+	<string>descriptionSystemDistance</string>
+	<key>tabbarPerMediator</key>
+	<string>priorOptimizerHead</string>
+	<key>usecaseDecoratorOrigin</key>
+	<string>mediumResourceEdge</string>
+</dict>
+</plist>

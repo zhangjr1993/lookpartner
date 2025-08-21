@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAtNumber</key>
+	<string>capacitiesViaStage</string>
+	<key>bufferVarKind</key>
+	<string>switchAboutLevel</string>
+	<key>containerOutsideKind</key>
+	<string>callbackSingletonType</string>
+	<key>gramBeyondState</key>
+	<string>observerBesideEnvironment</string>
+	<key>nativeSliderName</key>
+	<string>streamCommandInterval</string>
+	<key>spriteKindOffset</key>
+	<string>firstSpecifierDelay</string>
+	<key>uniqueStateState</key>
+	<string>frameFromContext</string>
+</dict>
+</plist>

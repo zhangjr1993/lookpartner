@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFrameworkDelay</key>
+	<string>queueOutsidePhase</string>
+	<key>alertFrameworkPadding</key>
+	<string>declarativeSliderVisibility</string>
+	<key>columnDespiteShape</key>
+	<string>viewFlyweightShade</string>
+	<key>discardedProgressbarSize</key>
+	<string>scrollStrategyForce</string>
+	<key>gridAndBuffer</key>
+	<string>multiplicationInProcess</string>
+	<key>listviewVariableDelay</key>
+	<string>configurationContainAdapter</string>
+	<key>localizationValueMode</key>
+	<string>deferredBorderPressure</string>
+	<key>sineVisitorRight</key>
+	<string>disparateStoreInteraction</string>
+	<key>subpixelNumberTop</key>
+	<string>documentVersusPhase</string>
+	<key>textAboutLayer</key>
+	<string>gradientInPhase</string>
+</dict>
+</plist>

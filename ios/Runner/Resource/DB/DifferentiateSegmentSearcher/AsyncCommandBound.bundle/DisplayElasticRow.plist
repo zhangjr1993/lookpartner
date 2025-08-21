@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedThreadBorder</key>
+	<string>tickerMediatorRotation</string>
+	<key>activeCanvasStyle</key>
+	<string>elasticCurveDepth</string>
+	<key>delegateBufferResponse</key>
+	<string>discardedViewAlignment</string>
+	<key>easyPopupTint</key>
+	<string>popupOutsideMethod</string>
+	<key>histogramThroughStage</key>
+	<string>layoutBeyondLevel</string>
+	<key>modelAwayFlyweight</key>
+	<string>chartModeTransparency</string>
+</dict>
+</plist>

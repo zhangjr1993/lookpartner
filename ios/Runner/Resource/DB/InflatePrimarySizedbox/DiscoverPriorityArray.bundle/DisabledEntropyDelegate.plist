@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedOptionPadding</key>
+	<string>intermediateLayerTransparency</string>
+	<key>constraintDecoratorPosition</key>
+	<string>hierarchicalVectorMargin</string>
+	<key>gesturedetectorTaskForce</key>
+	<string>providerFormSpeed</string>
+	<key>nodeLikeLayer</key>
+	<string>responsiveMethodDelay</string>
+	<key>oldFutureAppearance</key>
+	<string>queryAndVar</string>
+	<key>priorFutureValidation</key>
+	<string>batchFlyweightVelocity</string>
+</dict>
+</plist>

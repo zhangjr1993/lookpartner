@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFutureKind</key>
+	<string>injectionWithInterpreter</string>
+	<key>cubitShapeCount</key>
+	<string>widgetParamCoord</string>
+	<key>resultAwayCycle</key>
+	<string>beginnerCallbackScale</string>
+	<key>sessionWithoutMediator</key>
+	<string>sizeAtObserver</string>
+	<key>skirtContainPattern</key>
+	<string>composableNormKind</string>
+	<key>threadWorkDuration</key>
+	<string>responseOfAction</string>
+</dict>
+</plist>

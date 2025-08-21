@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtType</key>
+	<string>arithmeticRadiusHead</string>
+	<key>draggablePopupInteraction</key>
+	<string>baseCompositePosition</string>
+	<key>geometricGroupRotation</key>
+	<string>callbackVisitorOpacity</string>
+	<key>modelProcessDepth</key>
+	<string>apertureActivityMomentum</string>
+	<key>navigationSinceLayer</key>
+	<string>featureContextStyle</string>
+	<key>tickerProxyDuration</key>
+	<string>marginFunctionSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProcessInteraction</key>
+	<string>requiredBinaryValidation</string>
+	<key>delegateActionSkewy</key>
+	<string>cubitBeyondStructure</string>
+	<key>ignoredHeroTag</key>
+	<string>activityEnvironmentInset</string>
+	<key>repositoryAgainstStructure</key>
+	<string>behaviorBeyondBuffer</string>
+	<key>tensorCubeOpacity</key>
+	<string>localColumnSize</string>
+</dict>
+</plist>

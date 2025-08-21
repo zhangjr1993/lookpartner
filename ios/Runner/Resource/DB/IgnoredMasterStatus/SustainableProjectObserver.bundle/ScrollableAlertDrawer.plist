@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFrameworkBorder</key>
+	<string>entityBesideKind</string>
+	<key>denseWidgetVisibility</key>
+	<string>asyncShapeRight</string>
+	<key>eagerImageMargin</key>
+	<string>statelessLayoutState</string>
+	<key>requiredRadiusDistance</key>
+	<string>lastLabelTag</string>
+	<key>retainedStoryboardDuration</key>
+	<string>subscriptionAndFramework</string>
+</dict>
+</plist>

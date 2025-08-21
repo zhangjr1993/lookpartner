@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationViaSingleton</key>
+	<string>primarySubscriptionSize</string>
+	<key>delicateCheckboxColor</key>
+	<string>graphStrategyFrequency</string>
+	<key>inactiveSensorDelay</key>
+	<string>labelParameterMargin</string>
+	<key>localCallbackColor</key>
+	<string>observerSingletonValidation</string>
+	<key>localizationStrategyDuration</key>
+	<string>publicVectorEdge</string>
+	<key>sampleThanChain</key>
+	<string>awaitDuringAdapter</string>
+	<key>subsequentAssetSaturation</key>
+	<string>retainedTitleAcceleration</string>
+</dict>
+</plist>

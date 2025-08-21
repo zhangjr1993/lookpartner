@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPatternHue</key>
+	<string>rectWithAction</string>
+	<key>inheritedProjectRate</key>
+	<string>cursorPlatformInteraction</string>
+	<key>listenerThroughJob</key>
+	<string>rowMediatorInset</string>
+	<key>modelLikeMode</key>
+	<string>priorFactoryMomentum</string>
+	<key>nibPerStyle</key>
+	<string>controllerLevelAcceleration</string>
+	<key>requestProxyDensity</key>
+	<string>swiftByPlatform</string>
+</dict>
+</plist>

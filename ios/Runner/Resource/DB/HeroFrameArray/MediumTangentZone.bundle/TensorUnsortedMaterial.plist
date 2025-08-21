@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyDensity</key>
+	<string>sliderAsSingleton</string>
+	<key>chartVariableSaturation</key>
+	<string>temporaryGestureCenter</string>
+	<key>inheritedConstraintVisibility</key>
+	<string>ignoredGrainVelocity</string>
+	<key>missedLabelTransparency</key>
+	<string>tablePerFramework</string>
+	<key>projectionBesideFunction</key>
+	<string>transformerFacadeTension</string>
+	<key>rectAtProcess</key>
+	<string>allocatorAlongContext</string>
+</dict>
+</plist>

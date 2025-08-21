@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTypeInterval</key>
+	<string>tangentBesideCommand</string>
+	<key>blocVisitorTransparency</key>
+	<string>desktopSinkVelocity</string>
+	<key>constRouteBrightness</key>
+	<string>layoutVariableAppearance</string>
+	<key>enabledExceptionBrightness</key>
+	<string>widgetAtComposite</string>
+	<key>hierarchicalLayerScale</key>
+	<string>tensorProviderShape</string>
+	<key>intermediateWorkflowLocation</key>
+	<string>ephemeralInterfaceDepth</string>
+	<key>isolatePatternCount</key>
+	<string>matrixInEnvironment</string>
+	<key>reusableFramePosition</key>
+	<string>listviewContainSingleton</string>
+	<key>specifyCursorCount</key>
+	<string>timerShapeBound</string>
+	<key>unactivatedListviewBottom</key>
+	<string>controllerAtScope</string>
+</dict>
+</plist>

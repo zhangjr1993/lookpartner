@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableBlocHead</key>
+	<string>zoneEnvironmentCenter</string>
+	<key>factoryPatternFeedback</key>
+	<string>blocWithShape</string>
+	<key>heroPhaseHue</key>
+	<string>capsuleAsPattern</string>
+	<key>textfieldWithoutFacade</key>
+	<string>transformerOperationTheme</string>
+</dict>
+</plist>

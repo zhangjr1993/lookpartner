@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSinceSingleton</key>
+	<string>cardNearTemple</string>
+	<key>animationExceptValue</key>
+	<string>capacitiesProcessPressure</string>
+	<key>borderViaStyle</key>
+	<string>localizationKindEdge</string>
+	<key>customizedUsecaseAppearance</key>
+	<string>interactorJobAcceleration</string>
+	<key>graphicMementoAppearance</key>
+	<string>listenerTypeBound</string>
+	<key>lossOperationShade</key>
+	<string>inheritedDrawerTransparency</string>
+	<key>mobxMementoRotation</key>
+	<string>activityCommandDuration</string>
+	<key>sessionMementoPosition</key>
+	<string>backwardGraphicBrightness</string>
+	<key>swiftStrategyContrast</key>
+	<string>alignmentDecoratorTheme</string>
+</dict>
+</plist>

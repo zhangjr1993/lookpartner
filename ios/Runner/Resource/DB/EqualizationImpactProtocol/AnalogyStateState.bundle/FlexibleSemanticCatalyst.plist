@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutViaInterpreter</key>
+	<string>permissiveSliderValidation</string>
+	<key>nextRouteFeedback</key>
+	<string>modalTaskRate</string>
+	<key>priorDependencyInset</key>
+	<string>radiusVariableFrequency</string>
+	<key>reducerAsShape</key>
+	<string>sinkBridgeHead</string>
+	<key>tappableSegueVisibility</key>
+	<string>aspectSingletonInterval</string>
+	<key>tensorRouteFlags</key>
+	<string>compositionalTaskStatus</string>
+	<key>transitionBeyondBuffer</key>
+	<string>observerAwayLayer</string>
+	<key>usecaseTierValidation</key>
+	<string>gradientForVisitor</string>
+</dict>
+</plist>

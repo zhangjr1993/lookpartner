@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeTask</key>
+	<string>ternaryViaFacade</string>
+	<key>callbackCycleSkewx</key>
+	<string>titleInsideFacade</string>
+	<key>fixedModulusInset</key>
+	<string>methodFunctionOffset</string>
+	<key>optimizerFunctionSpacing</key>
+	<string>interfaceDuringFunction</string>
+	<key>resultProcessHue</key>
+	<string>profileBeyondPlatform</string>
+	<key>sensorKindContrast</key>
+	<string>memberAlongParameter</string>
+	<key>singletonThroughStrategy</key>
+	<string>cacheAgainstWork</string>
+</dict>
+</plist>

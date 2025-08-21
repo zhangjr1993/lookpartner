@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterVisitorColor</key>
+	<string>symmetricLayerAppearance</string>
+	<key>customizedTouchSpeed</key>
+	<string>modalOutsideStyle</string>
+	<key>dimensionFromComposite</key>
+	<string>sliderOrMemento</string>
+	<key>metadataBufferPosition</key>
+	<string>popupPrototypeEdge</string>
+	<key>particleExceptContext</key>
+	<string>previewOperationMargin</string>
+	<key>particleFlyweightForce</key>
+	<string>behaviorIncludeJob</string>
+	<key>publicBaselineShape</key>
+	<string>concurrentSpecifierTheme</string>
+	<key>requestLevelForce</key>
+	<string>tabviewCycleType</string>
+	<key>secondWidgetSize</key>
+	<string>factoryNumberTheme</string>
+	<key>spotNumberPressure</key>
+	<string>layoutOutsideShape</string>
+</dict>
+</plist>

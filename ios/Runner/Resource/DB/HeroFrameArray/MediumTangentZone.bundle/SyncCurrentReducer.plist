@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDespiteProxy</key>
+	<string>alertFromForm</string>
+	<key>exceptionIncludeForm</key>
+	<string>mediaWithComposite</string>
+	<key>groupWithLayer</key>
+	<string>specifierDespiteStrategy</string>
+	<key>instructionWithJob</key>
+	<string>tensorSliderSaturation</string>
+	<key>numericalLoopDistance</key>
+	<string>customSpineVisibility</string>
+</dict>
+</plist>

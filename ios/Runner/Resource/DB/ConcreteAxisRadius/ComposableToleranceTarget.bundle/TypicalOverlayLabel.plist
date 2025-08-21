@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyLevelMode</key>
+	<string>nativeGroupType</string>
+	<key>getxAroundComposite</key>
+	<string>gesturedetectorTierDepth</string>
+	<key>localConstraintShape</key>
+	<string>playbackFunctionLeft</string>
+	<key>memberBridgeKind</key>
+	<string>managerInsideAction</string>
+	<key>nextCallbackHead</key>
+	<string>gateLevelCount</string>
+	<key>protectedModelPadding</key>
+	<string>techniqueAdapterFlags</string>
+	<key>routerProcessVelocity</key>
+	<string>transitionContextFeedback</string>
+	<key>storeObserverResponse</key>
+	<string>dimensionFormRate</string>
+	<key>subsequentGridOpacity</key>
+	<string>capsuleFrameworkColor</string>
+</dict>
+</plist>

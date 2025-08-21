@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuringInterpreter</key>
+	<string>painterThanPrototype</string>
+	<key>canvasValueTint</key>
+	<string>appbarThanStyle</string>
+	<key>protocolActivityVisibility</key>
+	<string>screenAndType</string>
+	<key>queueSinceCycle</key>
+	<string>navigatorLayerForce</string>
+	<key>resourceLayerDelay</key>
+	<string>grainTypeSize</string>
+	<key>significantSpotCoord</key>
+	<string>cupertinoBufferDirection</string>
+	<key>tappableAnchorCenter</key>
+	<string>listviewVariableSaturation</string>
+	<key>unsortedSwitchHue</key>
+	<string>swiftViaMethod</string>
+</dict>
+</plist>

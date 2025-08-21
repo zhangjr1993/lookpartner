@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAroundPhase</key>
+	<string>checklistBeyondLevel</string>
+	<key>finalLayerLeft</key>
+	<string>interactorStateOrientation</string>
+	<key>instructionUntilState</key>
+	<string>euclideanBehaviorFlags</string>
+	<key>invisibleLoopPadding</key>
+	<string>sessionCommandOffset</string>
+	<key>mediaqueryCommandVisibility</key>
+	<string>layoutExceptCommand</string>
+	<key>queueThanParam</key>
+	<string>disparateZoneDirection</string>
+	<key>similarCellMargin</key>
+	<string>resourceNearVariable</string>
+	<key>sineWorkResponse</key>
+	<string>storagePerProxy</string>
+	<key>visibleConstraintMargin</key>
+	<string>curveOutsideStructure</string>
+</dict>
+</plist>

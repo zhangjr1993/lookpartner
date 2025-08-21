@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeCurveKind</key>
+	<string>compositionOutsideForm</string>
+	<key>localScreenMargin</key>
+	<string>pivotalConstraintVisibility</string>
+	<key>logLikeProxy</key>
+	<string>parallelGestureScale</string>
+	<key>nibModeBound</key>
+	<string>iconByProcess</string>
+	<key>rapidGrayscaleInterval</key>
+	<string>menuCompositeColor</string>
+	<key>serviceAdapterOpacity</key>
+	<string>animationAtAction</string>
+	<key>sliderUntilTask</key>
+	<string>sampleCycleMargin</string>
+	<key>variantObserverBottom</key>
+	<string>mediumAlertDistance</string>
+</dict>
+</plist>

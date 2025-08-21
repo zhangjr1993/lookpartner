@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAroundStrategy</key>
+	<string>viewSingletonFeedback</string>
+	<key>desktopDependencyLocation</key>
+	<string>specifyRemainderForce</string>
+	<key>diffableCycleTint</key>
+	<string>cubitActivityCoord</string>
+	<key>mutableCatalystInset</key>
+	<string>mediaqueryTierSpeed</string>
+	<key>robustServiceVisible</key>
+	<string>progressbarBeyondForm</string>
+	<key>similarLayoutTint</key>
+	<string>sequentialMatrixRate</string>
+	<key>subsequentWidgetRotation</key>
+	<string>catalystPatternOffset</string>
+	<key>ternaryShapeSpacing</key>
+	<string>handlerShapeBottom</string>
+	<key>usedSinkCenter</key>
+	<string>serviceViaMethod</string>
+</dict>
+</plist>

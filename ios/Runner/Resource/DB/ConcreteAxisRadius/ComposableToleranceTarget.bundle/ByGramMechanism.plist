@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customErrorDuration</key>
+	<string>subtleTaskBorder</string>
+	<key>directChecklistFlags</key>
+	<string>effectBeyondProxy</string>
+	<key>draggableBlocFeedback</key>
+	<string>lostTopicVisible</string>
+	<key>firstCellTheme</key>
+	<string>decorationVarTail</string>
+	<key>immediateResponseBorder</key>
+	<string>largeSubscriptionScale</string>
+	<key>localDelegateTransparency</key>
+	<string>eventPatternTop</string>
+	<key>marginKindContrast</key>
+	<string>ephemeralErrorValidation</string>
+	<key>repositoryAroundValue</key>
+	<string>titleSingletonResponse</string>
+	<key>reusableInterfaceDistance</key>
+	<string>injectionFlyweightDirection</string>
+</dict>
+</plist>

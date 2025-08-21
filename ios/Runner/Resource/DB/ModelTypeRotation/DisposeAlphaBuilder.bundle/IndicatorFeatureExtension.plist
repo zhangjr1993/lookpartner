@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleCoordinatorDuration</key>
+	<string>singletonStyleHead</string>
+	<key>stateAndInterpreter</key>
+	<string>crudeCompositionFormat</string>
+	<key>storyboardCompositeVisibility</key>
+	<string>spotThroughStage</string>
+	<key>subtleEffectStatus</key>
+	<string>behaviorUntilValue</string>
+</dict>
+</plist>

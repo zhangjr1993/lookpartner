@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFromType</key>
+	<string>resourceParamSaturation</string>
+	<key>explicitBoxBorder</key>
+	<string>accordionSubscriptionSize</string>
+	<key>handlerFunctionVelocity</key>
+	<string>transformerOrStrategy</string>
+	<key>mobileNavigationResponse</key>
+	<string>standalonePriorityTop</string>
+	<key>providerCommandPadding</key>
+	<string>errorTaskBehavior</string>
+</dict>
+</plist>

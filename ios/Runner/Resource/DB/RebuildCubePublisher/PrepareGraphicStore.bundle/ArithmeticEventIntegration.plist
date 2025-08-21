@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFunctionVisibility</key>
+	<string>ternaryVarTag</string>
+	<key>collectionStyleDensity</key>
+	<string>subpixelSystemOrientation</string>
+	<key>commandUntilAdapter</key>
+	<string>otherGrainInset</string>
+	<key>cupertinoMethodMode</key>
+	<string>requestObserverFrequency</string>
+	<key>lazyResourceSpeed</key>
+	<string>titleStageFlags</string>
+	<key>particleAmongContext</key>
+	<string>smartAccessoryStyle</string>
+	<key>previewNearLayer</key>
+	<string>independentMetadataForce</string>
+	<key>previewUntilComposite</key>
+	<string>difficultWidgetSpacing</string>
+	<key>singlePointFormat</key>
+	<string>activatedResolverOrigin</string>
+</dict>
+</plist>

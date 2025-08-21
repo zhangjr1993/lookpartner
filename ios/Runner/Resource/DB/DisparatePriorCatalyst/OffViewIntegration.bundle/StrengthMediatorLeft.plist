@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAlongObserver</key>
+	<string>asyncStepHead</string>
+	<key>cycleStateBorder</key>
+	<string>webAlphaHue</string>
+	<key>ignoredSkinCoord</key>
+	<string>originalTextfieldStatus</string>
+	<key>rectBeyondParam</key>
+	<string>mobxShapeColor</string>
+	<key>statefulRichtextFormat</key>
+	<string>mutableLayoutMargin</string>
+</dict>
+</plist>

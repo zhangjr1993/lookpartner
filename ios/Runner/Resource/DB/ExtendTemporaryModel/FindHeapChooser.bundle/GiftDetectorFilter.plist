@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioModeInteraction</key>
+	<string>publicGraphicResponse</string>
+	<key>assetModeInterval</key>
+	<string>viewBufferSkewy</string>
+	<key>concurrentGrainAppearance</key>
+	<string>reactiveNavigatorTop</string>
+	<key>newestSineLocation</key>
+	<string>durationStyleBound</string>
+	<key>protectedLoopScale</key>
+	<string>awaitVersusStyle</string>
+	<key>sortedSignRight</key>
+	<string>heapOrSystem</string>
+</dict>
+</plist>

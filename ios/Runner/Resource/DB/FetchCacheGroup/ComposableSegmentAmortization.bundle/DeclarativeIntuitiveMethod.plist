@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContainPattern</key>
+	<string>smallCoordinatorPressure</string>
+	<key>animationThroughChain</key>
+	<string>newestListenerIndex</string>
+	<key>batchActivityVisibility</key>
+	<string>composableChartScale</string>
+	<key>cacheSystemStatus</key>
+	<string>prevPopupPadding</string>
+	<key>crucialEffectTop</key>
+	<string>builderStrategyCenter</string>
+	<key>gestureThroughTask</key>
+	<string>relationalCupertinoTransparency</string>
+	<key>mobileStorageInset</key>
+	<string>desktopExtensionDensity</string>
+	<key>textBeyondAction</key>
+	<string>remainderDespiteFunction</string>
+	<key>topicKindEdge</key>
+	<string>checkboxBeyondAdapter</string>
+</dict>
+</plist>

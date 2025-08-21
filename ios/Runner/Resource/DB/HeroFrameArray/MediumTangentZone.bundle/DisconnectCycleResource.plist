@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationScopeOrientation</key>
+	<string>stampOrEnvironment</string>
+	<key>builderFunctionSkewx</key>
+	<string>scenePerBuffer</string>
+	<key>builderSingletonPosition</key>
+	<string>smartZoneSpeed</string>
+	<key>popupKindShape</key>
+	<string>statelessParameterBound</string>
+	<key>projectionPlatformDuration</key>
+	<string>masterOutsideChain</string>
+	<key>spotParamDuration</key>
+	<string>intermediateDurationPosition</string>
+	<key>tabviewSingletonInteraction</key>
+	<string>numericalSliderInterval</string>
+	<key>taskParameterState</key>
+	<string>alertCommandName</string>
+	<key>typicalRowCenter</key>
+	<string>interfaceAwayCommand</string>
+	<key>unaryOutsideContext</key>
+	<string>futureContextTransparency</string>
+</dict>
+</plist>

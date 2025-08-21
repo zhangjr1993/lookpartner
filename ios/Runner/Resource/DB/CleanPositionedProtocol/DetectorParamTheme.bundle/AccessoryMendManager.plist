@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesVarDuration</key>
+	<string>desktopCatalystDuration</string>
+	<key>descriptionAgainstEnvironment</key>
+	<string>signContainChain</string>
+	<key>immediateStampFormat</key>
+	<string>stateContainParam</string>
+	<key>projectionVersusEnvironment</key>
+	<string>vectorObserverCenter</string>
+	<key>publicReferenceBound</key>
+	<string>alertOperationPosition</string>
+	<key>respectivePreviewPosition</key>
+	<string>sliderOperationInteraction</string>
+	<key>zoneInsideMemento</key>
+	<string>decorationStyleMargin</string>
+</dict>
+</plist>

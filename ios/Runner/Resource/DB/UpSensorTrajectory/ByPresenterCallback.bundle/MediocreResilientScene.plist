@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAmongActivity</key>
+	<string>blocOrMediator</string>
+	<key>compositionalSymbolVisible</key>
+	<string>transitionExceptScope</string>
+	<key>containerActivityPressure</key>
+	<string>lastDecorationValidation</string>
+	<key>criticalNavigationDirection</key>
+	<string>alphaPrototypeCoord</string>
+	<key>isolatePlatformContrast</key>
+	<string>firstEventColor</string>
+	<key>labelDuringTask</key>
+	<string>numericalUsecaseBehavior</string>
+	<key>lostFragmentInteraction</key>
+	<string>spotMementoEdge</string>
+	<key>originalBatchEdge</key>
+	<string>activityFrameworkResponse</string>
+	<key>visibleTechniqueHead</key>
+	<string>semanticResourceSpeed</string>
+</dict>
+</plist>

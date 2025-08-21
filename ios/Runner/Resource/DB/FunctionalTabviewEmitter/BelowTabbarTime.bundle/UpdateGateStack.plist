@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOutsideScope</key>
+	<string>queueWithoutKind</string>
+	<key>consumerNearMediator</key>
+	<string>mobileThroughFacade</string>
+	<key>currentUsecaseTag</key>
+	<string>webBasePressure</string>
+	<key>customizedQueueOrigin</key>
+	<string>specifierStructureSpacing</string>
+	<key>dialogsProxyStyle</key>
+	<string>reducerPrototypeBrightness</string>
+	<key>finalCardSaturation</key>
+	<string>descriptionPatternDuration</string>
+</dict>
+</plist>

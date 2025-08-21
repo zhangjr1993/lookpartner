@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReductionFeedback</key>
+	<string>cubitKindContrast</string>
+	<key>keyBatchFrequency</key>
+	<string>animationIncludeScope</string>
+	<key>smartHashBorder</key>
+	<string>interfaceObserverDelay</string>
+	<key>statefulStreamSpeed</key>
+	<string>parallelMatrixOpacity</string>
+	<key>substantialChapterVisible</key>
+	<string>sizeByProxy</string>
+	<key>tabviewParamInterval</key>
+	<string>usecaseForType</string>
+	<key>vectorStyleAlignment</key>
+	<string>firstAllocatorTail</string>
+</dict>
+</plist>

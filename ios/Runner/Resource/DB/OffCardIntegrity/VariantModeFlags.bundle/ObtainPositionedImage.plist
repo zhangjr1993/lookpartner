@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTextName</key>
+	<string>sampleBridgePosition</string>
+	<key>constReferenceOffset</key>
+	<string>drawerVisitorRight</string>
+	<key>sliderVarTint</key>
+	<string>baselineExceptStyle</string>
+	<key>spineFrameworkBorder</key>
+	<string>secondBufferHead</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGramMode</key>
+	<string>specifyGrayscaleBrightness</string>
+	<key>crudeCubitEdge</key>
+	<string>dedicatedTaskAlignment</string>
+	<key>dependencyParamScale</key>
+	<string>tickerObserverHead</string>
+	<key>durationStructureVelocity</key>
+	<string>discardedTweenInteraction</string>
+	<key>heroStageStyle</key>
+	<string>channelNumberDensity</string>
+	<key>intensityAsSystem</key>
+	<string>normalCaptionOrientation</string>
+	<key>listenerByProxy</key>
+	<string>spotDecoratorSkewx</string>
+	<key>missedFrameInterval</key>
+	<string>segueContainParam</string>
+	<key>nextObserverTension</key>
+	<string>requestWithoutTask</string>
+</dict>
+</plist>

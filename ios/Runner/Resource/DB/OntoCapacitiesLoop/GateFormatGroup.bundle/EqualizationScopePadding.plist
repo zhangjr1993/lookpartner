@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTitleDelay</key>
+	<string>stateValueFrequency</string>
+	<key>cubeFlyweightAppearance</key>
+	<string>liteListviewEdge</string>
+	<key>featureBeyondComposite</key>
+	<string>toolKindSaturation</string>
+	<key>localCycleScale</key>
+	<string>controllerStrategyOrientation</string>
+	<key>mobileKernelBehavior</key>
+	<string>radioParamLocation</string>
+	<key>painterThanSingleton</key>
+	<string>sophisticatedRemainderOrientation</string>
+	<key>petDespiteValue</key>
+	<string>projectLevelDensity</string>
+	<key>transitionSinceContext</key>
+	<string>flexAgainstFunction</string>
+</dict>
+</plist>

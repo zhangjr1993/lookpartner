@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAgainstBuffer</key>
+	<string>keyUtilDelay</string>
+	<key>commandSingletonResponse</key>
+	<string>subsequentResultBehavior</string>
+	<key>customGateBehavior</key>
+	<string>mediaqueryBeyondProcess</string>
+	<key>dropdownbuttonFrameworkKind</key>
+	<string>singletonPhaseDuration</string>
+	<key>kernelOperationRight</key>
+	<string>widgetObserverEdge</string>
+	<key>methodFromPlatform</key>
+	<string>storageExceptKind</string>
+	<key>scrollableImageVelocity</key>
+	<string>awaitModeLeft</string>
+	<key>staticSegmentOrientation</key>
+	<string>overlayInterpreterRight</string>
+</dict>
+</plist>

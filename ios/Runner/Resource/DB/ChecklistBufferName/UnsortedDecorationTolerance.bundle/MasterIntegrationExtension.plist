@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAdapterTint</key>
+	<string>bufferFacadeStyle</string>
+	<key>contractionWithoutTask</key>
+	<string>robustStoryboardMode</string>
+	<key>decorationBeyondComposite</key>
+	<string>toolStructureDensity</string>
+	<key>lastProfileIndex</key>
+	<string>sortedBlocBottom</string>
+	<key>playbackObserverScale</key>
+	<string>semanticStorageDistance</string>
+	<key>specifierThroughBuffer</key>
+	<string>referenceFormCenter</string>
+	<key>transitionStyleCount</key>
+	<string>substantialConfigurationSaturation</string>
+</dict>
+</plist>

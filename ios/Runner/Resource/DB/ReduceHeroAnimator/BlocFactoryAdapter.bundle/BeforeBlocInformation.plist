@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodeThroughMode</key>
+	<string>decorationFormAppearance</string>
+	<key>permissiveTouchBehavior</key>
+	<string>inkwellByParameter</string>
+	<key>responseVisitorInteraction</key>
+	<string>baselineKindHue</string>
+	<key>statelessVectorName</key>
+	<string>associatedControllerAcceleration</string>
+	<key>swiftPerMediator</key>
+	<string>toolLayerEdge</string>
+	<key>widgetStateHead</key>
+	<string>providerNearFramework</string>
+</dict>
+</plist>

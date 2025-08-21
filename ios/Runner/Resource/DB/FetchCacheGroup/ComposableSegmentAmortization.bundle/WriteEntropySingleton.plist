@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithKind</key>
+	<string>gesturedetectorOfFacade</string>
+	<key>canvasActionInteraction</key>
+	<string>segmentActionRate</string>
+	<key>characterForNumber</key>
+	<string>consumerTypeValidation</string>
+	<key>constraintJobFeedback</key>
+	<string>routeFlyweightBound</string>
+	<key>deferredManagerOrientation</key>
+	<string>sineKindHue</string>
+	<key>errorVarOpacity</key>
+	<string>dedicatedAlignmentShape</string>
+	<key>expandedOrInterpreter</key>
+	<string>robustTextureHead</string>
+	<key>promiseAtScope</key>
+	<string>layoutContainLayer</string>
+	<key>seamlessContainerFormat</key>
+	<string>streamDuringEnvironment</string>
+</dict>
+</plist>

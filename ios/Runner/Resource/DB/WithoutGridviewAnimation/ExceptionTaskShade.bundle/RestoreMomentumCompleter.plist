@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStageSpeed</key>
+	<string>synchronousPositionMode</string>
+	<key>dependencySinceCommand</key>
+	<string>controllerTypeFrequency</string>
+	<key>drawerFromParameter</key>
+	<string>displayableNodeLocation</string>
+	<key>effectNumberCenter</key>
+	<string>appbarAtTask</string>
+	<key>labelForVariable</key>
+	<string>nodeAgainstSystem</string>
+	<key>projectionAsType</key>
+	<string>displayableDropdownbuttonSize</string>
+	<key>responsiveZoneScale</key>
+	<string>specifyCharacterTop</string>
+	<key>widgetIncludeFlyweight</key>
+	<string>chapterProcessHue</string>
+</dict>
+</plist>

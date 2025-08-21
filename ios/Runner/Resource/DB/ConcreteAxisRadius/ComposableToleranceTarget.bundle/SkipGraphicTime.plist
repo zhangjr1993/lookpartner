@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSystemState</key>
+	<string>accessibleCacheRotation</string>
+	<key>capacitiesStructureAppearance</key>
+	<string>observerAroundDecorator</string>
+	<key>dependencySinceDecorator</key>
+	<string>boxFlyweightPadding</string>
+	<key>isolateFunctionTension</key>
+	<string>flexibleAlertBrightness</string>
+	<key>subscriptionChainBrightness</key>
+	<string>heapAgainstInterpreter</string>
+	<key>unactivatedTickerResponse</key>
+	<string>directlyInkwellSpeed</string>
+</dict>
+</plist>

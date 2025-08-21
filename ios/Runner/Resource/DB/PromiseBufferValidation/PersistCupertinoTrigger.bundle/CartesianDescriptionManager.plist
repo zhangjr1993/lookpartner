@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseActivityTheme</key>
+	<string>modelDuringActivity</string>
+	<key>decorationThroughMethod</key>
+	<string>storeDuringStyle</string>
+	<key>disparateCommandVisibility</key>
+	<string>advancedWidgetOrientation</string>
+	<key>toolMethodFeedback</key>
+	<string>intermediateSubscriptionBound</string>
+</dict>
+</plist>

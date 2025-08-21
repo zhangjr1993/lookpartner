@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconFormSpacing</key>
+	<string>smartManagerPosition</string>
+	<key>imperativeMultiplicationBehavior</key>
+	<string>presenterStateScale</string>
+	<key>interpolationKindPadding</key>
+	<string>mainCallbackDelay</string>
+	<key>materialFrameworkKind</key>
+	<string>skirtIncludeStyle</string>
+	<key>particleAsStructure</key>
+	<string>memberPerStructure</string>
+	<key>queueExceptStage</key>
+	<string>autoNormTag</string>
+	<key>tweenSingletonFrequency</key>
+	<string>seamlessNotifierHue</string>
+</dict>
+</plist>

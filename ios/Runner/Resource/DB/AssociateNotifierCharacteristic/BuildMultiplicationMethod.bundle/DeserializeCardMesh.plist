@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScreenSize</key>
+	<string>drawerAwaySingleton</string>
+	<key>behaviorCycleValidation</key>
+	<string>eagerActivityPressure</string>
+	<key>compositionalListenerEdge</key>
+	<string>keyInteractorInset</string>
+	<key>containerObserverFormat</key>
+	<string>grayscaleFormRotation</string>
+	<key>diversifiedTransitionKind</key>
+	<string>projectionOperationRate</string>
+	<key>mutableIntensityTransparency</key>
+	<string>managerBesideForm</string>
+	<key>overlayAwayBuffer</key>
+	<string>sharedExceptionForce</string>
+	<key>requestWorkShade</key>
+	<string>themeSystemState</string>
+	<key>transformerProcessTag</key>
+	<string>queueOutsideState</string>
+</dict>
+</plist>

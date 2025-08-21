@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPhaseVisible</key>
+	<string>lazyListenerBorder</string>
+	<key>dynamicTextBehavior</key>
+	<string>iconAmongFunction</string>
+	<key>featureVersusVariable</key>
+	<string>nativeSingletonTint</string>
+	<key>materialScopeSkewy</key>
+	<string>pivotalDecorationLocation</string>
+	<key>pivotalUsageVisible</key>
+	<string>slashTypeTransparency</string>
+	<key>queueExceptStyle</key>
+	<string>usageSystemSkewx</string>
+	<key>rectDecoratorBrightness</key>
+	<string>canvasFacadeSkewy</string>
+</dict>
+</plist>

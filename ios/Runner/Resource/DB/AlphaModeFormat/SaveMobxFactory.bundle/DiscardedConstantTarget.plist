@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularMediaquerySpeed</key>
+	<string>cacheOrStrategy</string>
+	<key>handlerOutsideFunction</key>
+	<string>radiusFromPhase</string>
+	<key>loopLayerDuration</key>
+	<string>queueValueVelocity</string>
+	<key>modulusFormOrientation</key>
+	<string>screenNumberVisibility</string>
+	<key>resultAsOperation</key>
+	<string>widgetFormSkewx</string>
+	<key>subsequentSignatureSpeed</key>
+	<string>numericalSingletonMode</string>
+</dict>
+</plist>

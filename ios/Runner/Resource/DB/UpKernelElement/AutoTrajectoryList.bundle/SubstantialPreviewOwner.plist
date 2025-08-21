@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoReductionInterval</key>
+	<string>timerScopeHue</string>
+	<key>diffableTopicTheme</key>
+	<string>asynchronousChallengeAppearance</string>
+	<key>intuitiveActionBorder</key>
+	<string>inactiveResolverInset</string>
+	<key>loopNearScope</key>
+	<string>normalProtocolHue</string>
+	<key>robustStatelessState</key>
+	<string>decorationStructureMomentum</string>
+	<key>storeAsOperation</key>
+	<string>providerPerEnvironment</string>
+	<key>zoneStyleSkewx</key>
+	<string>disparateCellValidation</string>
+</dict>
+</plist>

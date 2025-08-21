@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionIncludeDecorator</key>
+	<string>flexibleSignaturePadding</string>
+	<key>criticalCycleOpacity</key>
+	<string>gradientAtLevel</string>
+	<key>cubitFlyweightDirection</key>
+	<string>heapFromContext</string>
+	<key>draggableCubeInterval</key>
+	<string>invisibleCachePadding</string>
+	<key>euclideanLayerVelocity</key>
+	<string>expandedAgainstStage</string>
+	<key>extensionForCycle</key>
+	<string>localGroupLeft</string>
+	<key>granularModelResponse</key>
+	<string>imperativeStoreLocation</string>
+	<key>heapLevelIndex</key>
+	<string>declarativeFutureColor</string>
+	<key>projectAboutStrategy</key>
+	<string>streamAlongMode</string>
+	<key>providerKindAcceleration</key>
+	<string>activePaddingTag</string>
+</dict>
+</plist>

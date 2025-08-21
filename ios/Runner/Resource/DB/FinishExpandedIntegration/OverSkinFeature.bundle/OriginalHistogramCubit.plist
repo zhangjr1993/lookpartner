@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalVectorTheme</key>
+	<string>nodeActionBound</string>
+	<key>modelAtFlyweight</key>
+	<string>movementNearDecorator</string>
+	<key>oldTextContrast</key>
+	<string>promiseOutsideOperation</string>
+	<key>queryObserverKind</key>
+	<string>nativePreviewResponse</string>
+	<key>sophisticatedCallbackRotation</key>
+	<string>transformerFromState</string>
+</dict>
+</plist>

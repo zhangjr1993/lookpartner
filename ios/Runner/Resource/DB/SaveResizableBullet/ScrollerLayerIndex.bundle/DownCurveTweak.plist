@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPrototypeSpeed</key>
+	<string>modalOrAdapter</string>
+	<key>dependencyPlatformRate</key>
+	<string>adaptiveModelCount</string>
+	<key>gradientSinceBuffer</key>
+	<string>scrollPlatformCoord</string>
+	<key>localizationSinceProcess</key>
+	<string>sessionProcessVisible</string>
+	<key>localizationWithShape</key>
+	<string>independentAllocatorFlags</string>
+	<key>resultExceptType</key>
+	<string>semanticSymbolSkewy</string>
+	<key>roleViaCommand</key>
+	<string>mapAboutMediator</string>
+	<key>tabbarFunctionColor</key>
+	<string>textModeOrientation</string>
+	<key>tabbarObserverHead</key>
+	<string>sceneBeyondTier</string>
+	<key>techniqueActivitySize</key>
+	<string>subpixelContainPlatform</string>
+</dict>
+</plist>

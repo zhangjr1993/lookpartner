@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnByStyle</key>
+	<string>geometricSpotDistance</string>
+	<key>durationObserverPosition</key>
+	<string>materialStreamMode</string>
+	<key>iterativePreviewMargin</key>
+	<string>permanentRouteState</string>
+	<key>keyMissionBottom</key>
+	<string>mobileDelegatePressure</string>
+	<key>notificationObserverName</key>
+	<string>errorIncludeShape</string>
+</dict>
+</plist>

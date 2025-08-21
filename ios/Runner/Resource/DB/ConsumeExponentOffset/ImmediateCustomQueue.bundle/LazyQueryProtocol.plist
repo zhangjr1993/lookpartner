@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAndTier</key>
+	<string>tweenSinceState</string>
+	<key>dependencyVarBrightness</key>
+	<string>commandFromStructure</string>
+	<key>enabledAllocatorPressure</key>
+	<string>variantAsType</string>
+	<key>menuPerNumber</key>
+	<string>gestureVersusPhase</string>
+	<key>otherGestureBrightness</key>
+	<string>currentRowDuration</string>
+	<key>sinkTaskStatus</key>
+	<string>missedInterfaceSize</string>
+	<key>titleLayerRotation</key>
+	<string>offsetSystemSkewx</string>
+</dict>
+</plist>

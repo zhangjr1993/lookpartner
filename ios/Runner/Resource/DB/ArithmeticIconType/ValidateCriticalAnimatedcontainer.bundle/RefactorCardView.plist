@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOutsideState</key>
+	<string>symmetricDelegateInset</string>
+	<key>notificationAndFunction</key>
+	<string>aspectDuringLayer</string>
+	<key>repositoryByDecorator</key>
+	<string>resourceForVar</string>
+	<key>signProcessLeft</key>
+	<string>textSingletonLocation</string>
+</dict>
+</plist>

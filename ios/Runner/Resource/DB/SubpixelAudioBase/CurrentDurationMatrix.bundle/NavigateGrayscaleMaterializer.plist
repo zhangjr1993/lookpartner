@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitObserverTheme</key>
+	<string>robustIntensityCenter</string>
+	<key>euclideanStampSkewy</key>
+	<string>accordionEffectBottom</string>
+	<key>operationTaskStyle</key>
+	<string>textureEnvironmentDepth</string>
+	<key>standaloneMapHead</key>
+	<string>difficultInstructionVisibility</string>
+	<key>tickerAgainstObserver</key>
+	<string>missionChainRotation</string>
+</dict>
+</plist>

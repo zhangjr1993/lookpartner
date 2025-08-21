@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerStrategyRotation</key>
+	<string>pageviewActionStatus</string>
+	<key>curveParamBottom</key>
+	<string>statefulTaskIndex</string>
+	<key>equalizationTypeVisible</key>
+	<string>criticalBlocAlignment</string>
+	<key>hierarchicalBufferTransparency</key>
+	<string>progressbarEnvironmentDirection</string>
+	<key>histogramWithoutComposite</key>
+	<string>otherSliderInteraction</string>
+	<key>memberScopeTheme</key>
+	<string>gridAmongValue</string>
+	<key>queueBridgeTheme</key>
+	<string>dynamicPetTint</string>
+	<key>serviceInterpreterSize</key>
+	<string>singletonPerVisitor</string>
+	<key>toolStyleSpeed</key>
+	<string>segueDecoratorPadding</string>
+</dict>
+</plist>

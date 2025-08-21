@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceStrategy</key>
+	<string>interpolationPhaseVisible</string>
+	<key>challengeViaBridge</key>
+	<string>builderAlongCommand</string>
+	<key>factoryOrPlatform</key>
+	<string>otherMarginDepth</string>
+	<key>fusedChannelIndex</key>
+	<string>usageParameterFlags</string>
+	<key>mobileFuturePressure</key>
+	<string>immutableHashPressure</string>
+	<key>mobileTextDelay</key>
+	<string>observerVariableRotation</string>
+	<key>radioChainPosition</key>
+	<string>optionLayerShape</string>
+	<key>semanticEventSkewy</key>
+	<string>slashStageInset</string>
+	<key>taskBeyondPhase</key>
+	<string>challengePerOperation</string>
+	<key>webWidgetResponse</key>
+	<string>indicatorBeyondStrategy</string>
+</dict>
+</plist>

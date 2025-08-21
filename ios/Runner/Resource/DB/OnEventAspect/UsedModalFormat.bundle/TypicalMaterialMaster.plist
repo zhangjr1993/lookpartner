@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCallbackPosition</key>
+	<string>dynamicCanvasRate</string>
+	<key>bufferNumberSaturation</key>
+	<string>crucialGridBound</string>
+	<key>denseStoreStatus</key>
+	<string>missedModulusSize</string>
+	<key>localizationNumberShade</key>
+	<string>offsetBridgeDirection</string>
+	<key>mutablePresenterInterval</key>
+	<string>missionStructureStatus</string>
+	<key>previewAgainstFunction</key>
+	<string>optionSinceTask</string>
+	<key>sharedStorageTail</key>
+	<string>temporaryTextDuration</string>
+	<key>streamTierFrequency</key>
+	<string>futureLevelState</string>
+	<key>symmetricTaskShade</key>
+	<string>webRepositoryPosition</string>
+	<key>workflowActionAlignment</key>
+	<string>profileByMethod</string>
+</dict>
+</plist>

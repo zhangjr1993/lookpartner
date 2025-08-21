@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAwayEnvironment</key>
+	<string>reusableSegmentMode</string>
+	<key>descriptionContextDistance</key>
+	<string>commandAndComposite</string>
+	<key>grayscaleWithBuffer</key>
+	<string>unactivatedStateSaturation</string>
+	<key>modalScopeTint</key>
+	<string>sophisticatedEffectBound</string>
+	<key>reusablePromiseSpacing</key>
+	<string>completerStyleFrequency</string>
+	<key>taskMethodContrast</key>
+	<string>desktopListviewMargin</string>
+</dict>
+</plist>

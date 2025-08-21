@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOutsideCycle</key>
+	<string>sensorLevelStatus</string>
+	<key>asyncChannelSpeed</key>
+	<string>curveNearComposite</string>
+	<key>decorationChainFrequency</key>
+	<string>promiseNearCycle</string>
+	<key>dropdownbuttonVariableOrientation</key>
+	<string>cupertinoNavigatorFrequency</string>
+	<key>hashAlongStage</key>
+	<string>configurationByShape</string>
+	<key>injectionMethodBottom</key>
+	<string>iconChainMargin</string>
+	<key>modelTierInterval</key>
+	<string>dynamicCubitSize</string>
+	<key>navigatorVisitorVisible</key>
+	<string>consumerAtDecorator</string>
+	<key>sequentialTaskFlags</key>
+	<string>modalAsPhase</string>
+</dict>
+</plist>

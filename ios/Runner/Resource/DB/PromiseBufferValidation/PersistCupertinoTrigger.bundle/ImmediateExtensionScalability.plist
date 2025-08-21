@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOfStrategy</key>
+	<string>mobileSpineHead</string>
+	<key>hardStepHead</key>
+	<string>localCubitBound</string>
+	<key>intensitySinceActivity</key>
+	<string>storyboardUntilAdapter</string>
+	<key>methodAtActivity</key>
+	<string>handlerModeAcceleration</string>
+	<key>requestLikeVariable</key>
+	<string>intermediateErrorInterval</string>
+	<key>textureOutsideParameter</key>
+	<string>allocatorAwayProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContainFlyweight</key>
+	<string>particleSingletonCount</string>
+	<key>cellCompositeTheme</key>
+	<string>futureOrDecorator</string>
+	<key>interactorObserverEdge</key>
+	<string>screenIncludeMethod</string>
+	<key>priorUnaryTail</key>
+	<string>ternaryOutsideEnvironment</string>
+	<key>responsiveExtensionCount</key>
+	<string>apertureAwayStage</string>
+	<key>routeDespiteParam</key>
+	<string>tabbarOutsideMode</string>
+	<key>scrollableFutureScale</key>
+	<string>transitionCommandBottom</string>
+	<key>subsequentTableValidation</key>
+	<string>errorPlatformFlags</string>
+</dict>
+</plist>

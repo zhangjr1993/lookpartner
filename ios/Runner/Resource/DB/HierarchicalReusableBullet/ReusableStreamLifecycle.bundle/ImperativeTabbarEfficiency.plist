@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPatternVisibility</key>
+	<string>permissiveCompletionTail</string>
+	<key>animationObserverTag</key>
+	<string>smallVectorPressure</string>
+	<key>chapterCycleVelocity</key>
+	<string>previewStageRight</string>
+	<key>checkboxIncludeFramework</key>
+	<string>diffableCatalystSkewy</string>
+	<key>constMarginIndex</key>
+	<string>brushBufferValidation</string>
+	<key>switchAtContext</key>
+	<string>cacheLevelTheme</string>
+	<key>touchIncludeParameter</key>
+	<string>borderOfObserver</string>
+</dict>
+</plist>

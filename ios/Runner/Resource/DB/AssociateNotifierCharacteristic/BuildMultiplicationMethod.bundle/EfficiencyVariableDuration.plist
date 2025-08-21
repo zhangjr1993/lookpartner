@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyBesideDecorator</key>
+	<string>indicatorThroughType</string>
+	<key>servicePerDecorator</key>
+	<string>fusedConfigurationCount</string>
+	<key>transitionByAdapter</key>
+	<string>canvasShapeTail</string>
+	<key>typicalInjectionSkewy</key>
+	<string>nodeWithBuffer</string>
+</dict>
+</plist>

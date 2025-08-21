@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainMediatorState</key>
+	<string>flexibleStatefulBehavior</string>
+	<key>hierarchicalNavigatorStyle</key>
+	<string>decorationSingletonKind</string>
+	<key>layoutPatternIndex</key>
+	<string>crudeCollectionAcceleration</string>
+	<key>techniqueTempleShape</key>
+	<string>promiseOrStage</string>
+</dict>
+</plist>

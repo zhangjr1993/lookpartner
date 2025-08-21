@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackThroughChain</key>
+	<string>providerParameterTint</string>
+	<key>disabledPageviewInterval</key>
+	<string>transitionAsPlatform</string>
+	<key>finalViewVisibility</key>
+	<string>uniqueGrainFlags</string>
+	<key>immediateRowHue</key>
+	<string>bitrateTypeBehavior</string>
+	<key>sensorBridgeOrigin</key>
+	<string>adaptiveSingletonTail</string>
+	<key>vectorVersusPhase</key>
+	<string>immediateBlocLocation</string>
+</dict>
+</plist>

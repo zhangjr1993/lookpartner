@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLossAlignment</key>
+	<string>movementFrameworkFeedback</string>
+	<key>completionContextFlags</key>
+	<string>groupDuringAdapter</string>
+	<key>grainStructureFormat</key>
+	<string>subscriptionTypeAcceleration</string>
+	<key>routerFunctionType</key>
+	<string>utilSingletonFrequency</string>
+	<key>scrollMementoInteraction</key>
+	<string>isolateDuringMediator</string>
+	<key>tappableArithmeticTop</key>
+	<string>visibleScreenDelay</string>
+	<key>threadWithoutVisitor</key>
+	<string>composableDurationEdge</string>
+</dict>
+</plist>

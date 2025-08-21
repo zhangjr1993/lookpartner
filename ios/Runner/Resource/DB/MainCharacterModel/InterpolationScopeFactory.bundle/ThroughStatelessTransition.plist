@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSystemPressure</key>
+	<string>paddingAmongStyle</string>
+	<key>bufferPhaseSkewy</key>
+	<string>missedSinkResponse</string>
+	<key>consultativeConstraintVelocity</key>
+	<string>otherStoreShade</string>
+	<key>immutableStatelessName</key>
+	<string>providerProxyOpacity</string>
+	<key>interactiveInteractorSpacing</key>
+	<string>resourceStrategyShape</string>
+	<key>scaffoldAdapterMargin</key>
+	<string>completerInMode</string>
+	<key>textLikeStage</key>
+	<string>composableCollectionFrequency</string>
+	<key>topicKindPadding</key>
+	<string>backwardDrawerShade</string>
+</dict>
+</plist>

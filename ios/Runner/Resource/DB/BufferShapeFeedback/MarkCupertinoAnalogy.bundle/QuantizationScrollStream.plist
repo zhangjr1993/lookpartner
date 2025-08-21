@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFormOrientation</key>
+	<string>controllerVersusInterpreter</string>
+	<key>delegateOperationStatus</key>
+	<string>modelStyleFlags</string>
+	<key>mapLevelContrast</key>
+	<string>seamlessTransformerOffset</string>
+	<key>normalStatelessRotation</key>
+	<string>riverpodFlyweightSize</string>
+	<key>otherKernelBrightness</key>
+	<string>vectorParamVisibility</string>
+</dict>
+</plist>

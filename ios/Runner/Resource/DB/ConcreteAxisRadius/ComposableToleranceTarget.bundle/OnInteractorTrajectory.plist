@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResolverPressure</key>
+	<string>animatedcontainerFormAcceleration</string>
+	<key>buttonAroundProcess</key>
+	<string>streamThroughDecorator</string>
+	<key>layoutSystemSpacing</key>
+	<string>deferredBufferRotation</string>
+	<key>resilientGraphicDepth</key>
+	<string>resilientInkwellShade</string>
+	<key>temporaryTickerForce</key>
+	<string>parallelCubitBrightness</string>
+</dict>
+</plist>

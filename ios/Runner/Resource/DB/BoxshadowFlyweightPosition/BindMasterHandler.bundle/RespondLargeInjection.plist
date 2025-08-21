@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionInsideProcess</key>
+	<string>materialTransformerOrigin</string>
+	<key>greatServiceOrientation</key>
+	<string>permanentCompleterCenter</string>
+	<key>tickerNumberLocation</key>
+	<string>materialIconState</string>
+	<key>unsortedExpandedInset</key>
+	<string>largeGrayscaleInteraction</string>
+</dict>
+</plist>

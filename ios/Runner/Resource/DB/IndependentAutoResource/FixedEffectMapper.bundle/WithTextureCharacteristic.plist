@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRouterFormat</key>
+	<string>completerFacadeEdge</string>
+	<key>draggableActionPressure</key>
+	<string>mediumRowRotation</string>
+	<key>modulusAlongMediator</key>
+	<string>normalRowHead</string>
+	<key>rowOfFlyweight</key>
+	<string>canvasWithoutType</string>
+	<key>sessionProxyInteraction</key>
+	<string>semanticAnimationCount</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringParameter</key>
+	<string>metadataInsideNumber</string>
+	<key>decorationProcessFlags</key>
+	<string>invisiblePointBrightness</string>
+	<key>interactorForLayer</key>
+	<string>staticGraphRate</string>
+	<key>responsiveThreadDepth</key>
+	<string>immediatePageviewValidation</string>
+	<key>storeVersusMode</key>
+	<string>titleWithoutInterpreter</string>
+</dict>
+</plist>

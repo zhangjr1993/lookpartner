@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTierBottom</key>
+	<string>priorityPerFramework</string>
+	<key>curveAroundStrategy</key>
+	<string>arithmeticFacadeTop</string>
+	<key>dependencyWithoutLayer</key>
+	<string>largeMetadataDepth</string>
+	<key>difficultCosineFormat</key>
+	<string>sizedboxFormPressure</string>
+	<key>lostTransitionRate</key>
+	<string>spineNearInterpreter</string>
+	<key>notificationAlongPlatform</key>
+	<string>projectionAlongMode</string>
+	<key>transitionValueDistance</key>
+	<string>immediateInjectionDuration</string>
+</dict>
+</plist>

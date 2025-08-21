@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionJobMode</key>
+	<string>asyncStateMomentum</string>
+	<key>mediumReducerEdge</key>
+	<string>rowContainPattern</string>
+	<key>menuAroundScope</key>
+	<string>subscriptionTaskStatus</string>
+	<key>tickerContextSkewx</key>
+	<string>apertureCommandName</string>
+	<key>variantContextOffset</key>
+	<string>batchForParam</string>
+</dict>
+</plist>

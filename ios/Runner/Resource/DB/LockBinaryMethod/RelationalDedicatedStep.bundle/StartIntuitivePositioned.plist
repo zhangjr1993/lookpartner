@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraphOrigin</key>
+	<string>mobileStoryboardOrientation</string>
+	<key>dedicatedTransitionOrigin</key>
+	<string>prismaticTableTop</string>
+	<key>heroOfLevel</key>
+	<string>techniqueSingletonBottom</string>
+	<key>labelWithoutTier</key>
+	<string>profileCompositeShade</string>
+	<key>menuInParameter</key>
+	<string>scaleDecoratorStyle</string>
+	<key>radiusVariableMode</key>
+	<string>specifyPositionedInset</string>
+	<key>sampleStageRotation</key>
+	<string>graphicPlatformForce</string>
+	<key>statefulStackShade</key>
+	<string>nodeParamEdge</string>
+	<key>switchShapePressure</key>
+	<string>cupertinoCompositionPressure</string>
+</dict>
+</plist>

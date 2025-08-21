@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerObserverShade</key>
+	<string>interactorNearAdapter</string>
+	<key>textAroundFunction</key>
+	<string>activeGraphDelay</string>
+	<key>textCycleInterval</key>
+	<string>immediateSampleContrast</string>
+	<key>timerIncludeStyle</key>
+	<string>alignmentBridgeScale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushParamDistance</key>
+	<string>labelAlongPrototype</string>
+	<key>disabledCatalystLocation</key>
+	<string>precisionAsCycle</string>
+	<key>flexibleProviderOpacity</key>
+	<string>cubitExceptDecorator</string>
+	<key>relationalMatrixSkewy</key>
+	<string>borderActivityIndex</string>
+	<key>semanticFactoryOrientation</key>
+	<string>observerProxyOpacity</string>
+</dict>
+</plist>

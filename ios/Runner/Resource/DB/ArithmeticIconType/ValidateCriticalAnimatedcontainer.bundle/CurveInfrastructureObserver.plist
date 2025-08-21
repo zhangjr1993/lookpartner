@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWithState</key>
+	<string>viewUntilProxy</string>
+	<key>comprehensiveSignatureDirection</key>
+	<string>frameVariableBottom</string>
+	<key>hardChecklistBorder</key>
+	<string>globalSessionStatus</string>
+	<key>titleMethodBound</key>
+	<string>painterAmongType</string>
+</dict>
+</plist>

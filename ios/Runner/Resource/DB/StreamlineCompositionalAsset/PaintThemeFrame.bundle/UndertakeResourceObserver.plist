@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLevelBehavior</key>
+	<string>playbackScopePressure</string>
+	<key>arithmeticFromKind</key>
+	<string>utilJobTheme</string>
+	<key>brushPlatformRight</key>
+	<string>difficultAnchorDirection</string>
+	<key>commonTransitionMode</key>
+	<string>exceptionForNumber</string>
+	<key>lossMediatorCount</key>
+	<string>publicFutureScale</string>
+	<key>pageviewLevelOrigin</key>
+	<string>immutableParticleDuration</string>
+	<key>referenceScopeShade</key>
+	<string>reactiveWorkflowBehavior</string>
+	<key>specifyConsumerPressure</key>
+	<string>criticalGridDirection</string>
+	<key>statefulMethodIndex</key>
+	<string>accessoryBufferContrast</string>
+</dict>
+</plist>

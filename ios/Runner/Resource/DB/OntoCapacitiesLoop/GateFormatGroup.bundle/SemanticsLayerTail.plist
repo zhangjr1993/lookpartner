@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFrameworkBottom</key>
+	<string>labelParameterLeft</string>
+	<key>displayableBoxContrast</key>
+	<string>storyboardOrWork</string>
+	<key>globalEntityAppearance</key>
+	<string>axisPhaseCoord</string>
+	<key>positionedLikePhase</key>
+	<string>responseMediatorFormat</string>
+	<key>requiredEventSkewy</key>
+	<string>cartesianPlaybackSkewx</string>
+	<key>routeScopeDelay</key>
+	<string>invisibleQueueContrast</string>
+	<key>scaleInObserver</key>
+	<string>mobileCoordinatorFormat</string>
+	<key>secondCurveDepth</key>
+	<string>heroParameterAppearance</string>
+	<key>sliderVersusLayer</key>
+	<string>denseDrawerType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonInStage</key>
+	<string>nativeViewPressure</string>
+	<key>explicitScaffoldDepth</key>
+	<string>fixedCompositionCoord</string>
+	<key>geometricStreamShade</key>
+	<string>popupCompositeStatus</string>
+	<key>managerDespiteScope</key>
+	<string>consumerAsParameter</string>
+	<key>popupThroughAdapter</key>
+	<string>diversifiedEventContrast</string>
+	<key>routeLevelVelocity</key>
+	<string>pinchableAppbarDepth</string>
+	<key>segmentPlatformSkewy</key>
+	<string>missionMethodBehavior</string>
+	<key>transitionJobTint</key>
+	<string>specifyOptimizerInterval</string>
+</dict>
+</plist>

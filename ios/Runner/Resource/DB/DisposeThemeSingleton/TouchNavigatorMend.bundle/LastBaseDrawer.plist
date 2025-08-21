@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSliderShape</key>
+	<string>curveNumberPosition</string>
+	<key>gradientInsideAdapter</key>
+	<string>blocViaEnvironment</string>
+	<key>imageOperationOffset</key>
+	<string>discardedAsyncSaturation</string>
+	<key>viewViaActivity</key>
+	<string>bulletBridgeVisibility</string>
+</dict>
+</plist>

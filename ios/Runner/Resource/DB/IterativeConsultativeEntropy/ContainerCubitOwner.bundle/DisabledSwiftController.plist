@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSampleHue</key>
+	<string>cacheTierBorder</string>
+	<key>flexibleBrushOrigin</key>
+	<string>cubitWithoutStrategy</string>
+	<key>intermediateConvolutionSize</key>
+	<string>ternaryContextFrequency</string>
+	<key>layoutParameterForce</key>
+	<string>currentDialogsVisibility</string>
+	<key>mutableTextfieldColor</key>
+	<string>featureFromEnvironment</string>
+	<key>reusableQueryTint</key>
+	<string>specifyChapterFormat</string>
+	<key>workflowLayerEdge</key>
+	<string>imperativeDescriptionBottom</string>
+</dict>
+</plist>

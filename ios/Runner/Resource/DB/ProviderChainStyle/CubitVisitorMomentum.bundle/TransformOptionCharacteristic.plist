@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineWithoutFacade</key>
+	<string>visibleTransitionSkewy</string>
+	<key>bufferInObserver</key>
+	<string>originalMovementAppearance</string>
+	<key>cartesianCapacitiesState</key>
+	<string>multiScreenAlignment</string>
+	<key>flexibleVectorSize</key>
+	<string>largeMaterialRotation</string>
+	<key>interpolationDecoratorHue</key>
+	<string>appbarLikeActivity</string>
+	<key>overlayDecoratorOffset</key>
+	<string>painterAtOperation</string>
+	<key>sceneDuringActivity</key>
+	<string>draggableTabbarType</string>
+	<key>synchronousActionName</key>
+	<string>scrollFromMemento</string>
+</dict>
+</plist>

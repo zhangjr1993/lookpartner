@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeEdge</key>
+	<string>numericalLocalizationMode</string>
+	<key>graphFormSaturation</key>
+	<string>coordinatorOutsideTemple</string>
+	<key>mapContainForm</key>
+	<string>hierarchicalRouterMode</string>
+	<key>providerChainForce</key>
+	<string>cupertinoActivityInteraction</string>
+	<key>providerProxyBehavior</key>
+	<string>resolverFacadeMode</string>
+	<key>reusableDialogsHead</key>
+	<string>mobileTopicValidation</string>
+	<key>stepShapeFlags</key>
+	<string>rapidKernelAcceleration</string>
+</dict>
+</plist>

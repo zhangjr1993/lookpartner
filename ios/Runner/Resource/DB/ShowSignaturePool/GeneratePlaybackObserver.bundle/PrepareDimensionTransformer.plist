@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCubitTop</key>
+	<string>prismaticConstraintInterval</string>
+	<key>repositoryFacadeOffset</key>
+	<string>commandThroughAction</string>
+	<key>sensorBridgeInterval</key>
+	<string>dependencyOfChain</string>
+	<key>visibleDescriptionAlignment</key>
+	<string>backwardNodeDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotifierForce</key>
+	<string>alertLikeCycle</string>
+	<key>advancedSliderRight</key>
+	<string>musicSingletonOpacity</string>
+	<key>eventBySystem</key>
+	<string>localizationBridgeSkewy</string>
+	<key>globalOptionMargin</key>
+	<string>cupertinoSemanticsDepth</string>
+	<key>iterativeSkirtPadding</key>
+	<string>grayscaleByContext</string>
+	<key>musicNumberDirection</key>
+	<string>lazyNormContrast</string>
+	<key>resolverAwayState</key>
+	<string>decorationCycleCount</string>
+	<key>usecaseOrAdapter</key>
+	<string>errorWithPhase</string>
+</dict>
+</plist>

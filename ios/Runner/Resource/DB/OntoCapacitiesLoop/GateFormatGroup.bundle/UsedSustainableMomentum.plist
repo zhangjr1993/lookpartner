@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContextStyle</key>
+	<string>positionEnvironmentInterval</string>
+	<key>modelPrototypeVisible</key>
+	<string>intuitiveButtonTop</string>
+	<key>normalRepositoryStatus</key>
+	<string>menuStructureAppearance</string>
+	<key>taskAgainstNumber</key>
+	<string>sharedAnchorBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerVariableCoord</key>
+	<string>compositionalDelegateDelay</string>
+	<key>persistentDocumentAcceleration</key>
+	<string>sensorTierContrast</string>
+	<key>singleUsecaseOffset</key>
+	<string>configurationObserverHead</string>
+</dict>
+</plist>

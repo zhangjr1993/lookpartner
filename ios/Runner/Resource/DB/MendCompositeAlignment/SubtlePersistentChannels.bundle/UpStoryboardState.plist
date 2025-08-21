@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStrategyVelocity</key>
+	<string>semanticsSingletonVelocity</string>
+	<key>dependencyAboutChain</key>
+	<string>routerExceptPhase</string>
+	<key>desktopSemanticsState</key>
+	<string>asyncProcessVelocity</string>
+	<key>gestureTemplePressure</key>
+	<string>swiftNumberInterval</string>
+	<key>mobileBesideMode</key>
+	<string>sliderThroughStyle</string>
+	<key>relationalCosineAlignment</key>
+	<string>customizedAllocatorVisibility</string>
+	<key>topicFormBrightness</key>
+	<string>asynchronousHashAlignment</string>
+</dict>
+</plist>

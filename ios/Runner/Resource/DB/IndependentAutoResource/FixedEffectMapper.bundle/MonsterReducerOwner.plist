@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCurveRotation</key>
+	<string>switchScopeFrequency</string>
+	<key>allocatorOrParam</key>
+	<string>tweenFromProxy</string>
+	<key>animationFromFramework</key>
+	<string>chartAtFramework</string>
+	<key>basicCurveAcceleration</key>
+	<string>sharedMetadataKind</string>
+	<key>completerVersusMediator</key>
+	<string>ternaryFlyweightValidation</string>
+	<key>descriptionActivityAppearance</key>
+	<string>menuFromSingleton</string>
+	<key>layerInterpreterDirection</key>
+	<string>sustainableRadioTension</string>
+	<key>nodeModeBound</key>
+	<string>relationalVariantAlignment</string>
+	<key>typicalCallbackType</key>
+	<string>cardActivitySize</string>
+</dict>
+</plist>

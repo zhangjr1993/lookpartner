@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitIncludeVisitor</key>
+	<string>mediocreTransitionFrequency</string>
+	<key>multiplicationWithBridge</key>
+	<string>independentRequestDelay</string>
+	<key>temporaryProviderCoord</key>
+	<string>queueStyleKind</string>
+</dict>
+</plist>

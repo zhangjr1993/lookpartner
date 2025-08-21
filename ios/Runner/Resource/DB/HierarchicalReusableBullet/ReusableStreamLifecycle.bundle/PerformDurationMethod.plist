@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInStage</key>
+	<string>sequentialStatelessValidation</string>
+	<key>eagerEffectForce</key>
+	<string>standaloneFrameRight</string>
+	<key>hierarchicalProgressbarMargin</key>
+	<string>previewExceptVar</string>
+	<key>monsterPrototypeBrightness</key>
+	<string>ignoredProtocolResponse</string>
+	<key>streamWithMemento</key>
+	<string>listviewLikeComposite</string>
+	<key>touchViaScope</key>
+	<string>utilOfEnvironment</string>
+	<key>visibleLayoutKind</key>
+	<string>mediaFacadeContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAsyncMargin</key>
+	<string>labelInForm</string>
+	<key>boxshadowFormStyle</key>
+	<string>nibAtScope</string>
+	<key>configurationModeOrigin</key>
+	<string>resultByBridge</string>
+	<key>euclideanPopupBrightness</key>
+	<string>ignoredRectSpacing</string>
+	<key>layoutSystemOffset</key>
+	<string>coordinatorParamName</string>
+	<key>lossNearPhase</key>
+	<string>grayscaleMethodLeft</string>
+	<key>movementViaParam</key>
+	<string>semanticPlateOrigin</string>
+	<key>remainderAroundType</key>
+	<string>resourceBeyondVisitor</string>
+	<key>sceneInContext</key>
+	<string>mobileUntilStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVarTransparency</key>
+	<string>particleAndContext</string>
+	<key>controllerPatternMomentum</key>
+	<string>denseSingletonVisible</string>
+	<key>disabledVectorScale</key>
+	<string>previewBeyondMediator</string>
+	<key>intermediateHandlerRotation</key>
+	<string>threadUntilFlyweight</string>
+	<key>iterativeTextfieldDirection</key>
+	<string>completionStructurePosition</string>
+	<key>sessionStructureBrightness</key>
+	<string>borderDespiteLayer</string>
+	<key>sharedNotifierIndex</key>
+	<string>dependencyOfFunction</string>
+</dict>
+</plist>

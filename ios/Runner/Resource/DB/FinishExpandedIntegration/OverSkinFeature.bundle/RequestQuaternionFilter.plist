@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureModeFrequency</key>
+	<string>overlayParamBehavior</string>
+	<key>interactiveAccessoryState</key>
+	<string>textfieldAlongScope</string>
+	<key>optionBesideAdapter</key>
+	<string>axisAroundMode</string>
+	<key>tangentOutsideLevel</key>
+	<string>requiredGraphDuration</string>
+	<key>temporaryScrollAcceleration</key>
+	<string>skinAndStructure</string>
+	<key>unsortedEntropySaturation</key>
+	<string>checklistContainKind</string>
+</dict>
+</plist>

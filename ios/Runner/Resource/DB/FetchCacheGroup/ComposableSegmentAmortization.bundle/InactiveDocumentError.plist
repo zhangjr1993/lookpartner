@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedSubscriptionDelay</key>
+	<string>nativeAwaitTag</string>
+	<key>layoutActivityDistance</key>
+	<string>webLayoutVisible</string>
+	<key>mainResolverLocation</key>
+	<string>sinkPhaseLeft</string>
+	<key>resolverByStructure</key>
+	<string>containerVersusKind</string>
+	<key>robustHashContrast</key>
+	<string>subscriptionFrameworkAppearance</string>
+	<key>sortedFlexBottom</key>
+	<string>channelTypeInterval</string>
+	<key>stackVariableFormat</key>
+	<string>curveFlyweightTop</string>
+	<key>tangentOutsideTask</key>
+	<string>layoutAndActivity</string>
+	<key>threadStructureDistance</key>
+	<string>disabledHeroVelocity</string>
+	<key>timerStageRotation</key>
+	<string>offsetDespiteFlyweight</string>
+</dict>
+</plist>

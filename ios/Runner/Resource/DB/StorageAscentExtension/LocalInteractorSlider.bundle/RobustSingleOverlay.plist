@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOrBridge</key>
+	<string>directlyCubitMode</string>
+	<key>concurrentVariantTheme</key>
+	<string>cupertinoProxyShade</string>
+	<key>delegateWorkRotation</key>
+	<string>effectLikeMemento</string>
+	<key>geometricSingletonDuration</key>
+	<string>resilientPainterAppearance</string>
+	<key>lazyMetadataState</key>
+	<string>serviceAndMediator</string>
+	<key>overlayMethodSaturation</key>
+	<string>keyUnarySkewy</string>
+	<key>rapidStoreContrast</key>
+	<string>subscriptionFromPattern</string>
+	<key>synchronousMobileFormat</key>
+	<string>sortedGrainTension</string>
+</dict>
+</plist>

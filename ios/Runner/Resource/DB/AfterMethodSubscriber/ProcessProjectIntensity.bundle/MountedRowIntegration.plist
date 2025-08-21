@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByTemple</key>
+	<string>transitionOfSingleton</string>
+	<key>buttonIncludeMediator</key>
+	<string>controllerViaTemple</string>
+	<key>fusedCharacterRotation</key>
+	<string>mutableTaskRight</string>
+	<key>gemJobValidation</key>
+	<string>permissiveSkinInterval</string>
+	<key>gridviewFacadeTail</key>
+	<string>textProxyVisible</string>
+	<key>signatureBeyondBridge</key>
+	<string>missionMethodContrast</string>
+</dict>
+</plist>

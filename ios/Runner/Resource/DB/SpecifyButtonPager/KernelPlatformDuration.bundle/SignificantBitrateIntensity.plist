@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouteScale</key>
+	<string>layoutOrFramework</string>
+	<key>featureCommandCenter</key>
+	<string>standaloneMethodInteraction</string>
+	<key>invisibleDependencyDirection</key>
+	<string>layerScopeTail</string>
+	<key>storyboardInScope</key>
+	<string>loopPlatformFlags</string>
+</dict>
+</plist>

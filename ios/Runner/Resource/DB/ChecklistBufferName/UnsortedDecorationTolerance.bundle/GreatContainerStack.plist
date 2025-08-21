@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionNumberSize</key>
+	<string>batchVisitorRate</string>
+	<key>dependencyOutsideStage</key>
+	<string>spineAndTask</string>
+	<key>graphLikeVariable</key>
+	<string>localShaderFrequency</string>
+	<key>notifierBeyondPlatform</key>
+	<string>dependencyFlyweightBound</string>
+	<key>observerActivityDuration</key>
+	<string>nodeActivityTint</string>
+	<key>segueStructureSpeed</key>
+	<string>decorationProcessTheme</string>
+	<key>tangentLevelAlignment</key>
+	<string>signUntilPhase</string>
+	<key>viewUntilForm</key>
+	<string>delegateVersusContext</string>
+</dict>
+</plist>

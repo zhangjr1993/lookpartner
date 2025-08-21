@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVersusObserver</key>
+	<string>extensionStageVisibility</string>
+	<key>consumerScopeKind</key>
+	<string>menuPerProxy</string>
+	<key>eagerRouteKind</key>
+	<string>appbarFrameworkVisibility</string>
+	<key>invisibleCubitVisibility</key>
+	<string>semanticCompletionInterval</string>
+	<key>missedInterfaceTint</key>
+	<string>cubitAtEnvironment</string>
+	<key>storeIncludeOperation</key>
+	<string>eagerMomentumTheme</string>
+	<key>subpixelAsVariable</key>
+	<string>finalGateContrast</string>
+</dict>
+</plist>

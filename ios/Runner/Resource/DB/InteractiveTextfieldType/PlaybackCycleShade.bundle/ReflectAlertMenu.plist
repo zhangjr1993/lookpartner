@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertThroughDecorator</key>
+	<string>referenceWithTier</string>
+	<key>commandFromComposite</key>
+	<string>gridAwayPlatform</string>
+	<key>labelBesidePattern</key>
+	<string>serviceBufferDepth</string>
+	<key>matrixStyleRotation</key>
+	<string>scaleThanMethod</string>
+	<key>originalButtonShade</key>
+	<string>statefulTaskLocation</string>
+</dict>
+</plist>

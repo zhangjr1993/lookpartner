@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineModePadding</key>
+	<string>nodeBesideFramework</string>
+	<key>compositionalWidgetStatus</key>
+	<string>requestJobStatus</string>
+	<key>cubitAtFacade</key>
+	<string>movementStageResponse</string>
+	<key>graphFromCycle</key>
+	<string>actionFlyweightSize</string>
+	<key>intensityScopeRight</key>
+	<string>staticLoopShade</string>
+	<key>permissiveBulletFeedback</key>
+	<string>cacheForType</string>
+	<key>relationalUnaryAcceleration</key>
+	<string>prismaticNavigatorShape</string>
+</dict>
+</plist>

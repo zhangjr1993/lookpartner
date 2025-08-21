@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFunctionType</key>
+	<string>cupertinoActionType</string>
+	<key>effectNearScope</key>
+	<string>masterBeyondMediator</string>
+	<key>listenerPhaseType</key>
+	<string>opaqueTransitionTop</string>
+	<key>materialGradientPadding</key>
+	<string>widgetAwaySingleton</string>
+	<key>sharedDecorationCount</key>
+	<string>ternaryFrameworkOffset</string>
+	<key>textAmongNumber</key>
+	<string>subsequentTitleFlags</string>
+	<key>unactivatedQueryType</key>
+	<string>playbackStrategyBound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintUntilPattern</key>
+	<string>anchorAtVariable</string>
+	<key>cycleDuringMethod</key>
+	<string>channelsBesideOperation</string>
+	<key>disabledEntropyAlignment</key>
+	<string>handlerValueRight</string>
+	<key>metadataAdapterAppearance</key>
+	<string>declarativeGrainResponse</string>
+	<key>singletonPerForm</key>
+	<string>painterValueFlags</string>
+	<key>tickerMediatorDuration</key>
+	<string>stepAndVariable</string>
+</dict>
+</plist>

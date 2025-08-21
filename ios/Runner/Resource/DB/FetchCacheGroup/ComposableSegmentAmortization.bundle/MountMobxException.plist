@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentUsageMode</key>
+	<string>routeAroundShape</string>
+	<key>decorationInMethod</key>
+	<string>repositoryFromScope</string>
+	<key>labelBesideKind</key>
+	<string>sessionWithForm</string>
+	<key>resilientNavigatorTransparency</key>
+	<string>invisibleThemeScale</string>
+	<key>singletonContextPosition</key>
+	<string>compositionTypeEdge</string>
+	<key>stampNearStyle</key>
+	<string>respectiveRemainderDirection</string>
+	<key>statefulSignatureDelay</key>
+	<string>presenterKindAcceleration</string>
+</dict>
+</plist>

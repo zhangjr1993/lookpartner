@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSinkShade</key>
+	<string>anchorSingletonVelocity</string>
+	<key>directSceneDelay</key>
+	<string>subtleCupertinoCoord</string>
+	<key>imperativeFactoryCoord</key>
+	<string>transitionEnvironmentHue</string>
+	<key>responseUntilFramework</key>
+	<string>mobileDecorationEdge</string>
+	<key>smartDialogsDepth</key>
+	<string>persistentViewBrightness</string>
+	<key>zoneParamBottom</key>
+	<string>widgetOfProcess</string>
+</dict>
+</plist>

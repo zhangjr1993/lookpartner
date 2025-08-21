@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTempleBrightness</key>
+	<string>drawerCompositeDelay</string>
+	<key>extensionParamMode</key>
+	<string>widgetLayerRight</string>
+	<key>gemAboutMode</key>
+	<string>titleAlongBuffer</string>
+	<key>labelIncludeTier</key>
+	<string>mediaThroughMemento</string>
+	<key>plateContextPadding</key>
+	<string>crudeTransitionInterval</string>
+	<key>statelessOptimizerSize</key>
+	<string>adaptiveEventFormat</string>
+</dict>
+</plist>

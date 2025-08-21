@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextIndex</key>
+	<string>animationContextMomentum</string>
+	<key>fixedSymbolState</key>
+	<string>globalCaptionEdge</string>
+	<key>intermediateAsyncDelay</key>
+	<string>interactorFlyweightShape</string>
+	<key>largeQueuePressure</key>
+	<string>themePerPhase</string>
+	<key>layoutAroundKind</key>
+	<string>lastCubitPosition</string>
+	<key>menuSingletonTension</key>
+	<string>awaitAlongFunction</string>
+	<key>priorButtonStatus</key>
+	<string>petLayerOrigin</string>
+	<key>queueCommandBehavior</key>
+	<string>multiplicationLikeFacade</string>
+	<key>topicPerFacade</key>
+	<string>callbackModeMargin</string>
+</dict>
+</plist>

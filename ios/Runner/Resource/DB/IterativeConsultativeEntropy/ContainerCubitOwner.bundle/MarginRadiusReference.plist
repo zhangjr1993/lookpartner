@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConsumerTransparency</key>
+	<string>hardDecorationTop</string>
+	<key>animationAndPhase</key>
+	<string>containerPatternIndex</string>
+	<key>delegateStatePadding</key>
+	<string>sliderAsObserver</string>
+	<key>labelBeyondObserver</key>
+	<string>secondPositionedTop</string>
+	<key>loopPerFunction</key>
+	<string>injectionObserverBrightness</string>
+	<key>responsiveInkwellScale</key>
+	<string>hardTextfieldPadding</string>
+	<key>titleAtFunction</key>
+	<string>tabbarAwayKind</string>
+	<key>topicMethodLeft</key>
+	<string>interfaceAwayBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMobileFeedback</key>
+	<string>interfaceTaskBrightness</string>
+	<key>blocValueBorder</key>
+	<string>blocJobResponse</string>
+	<key>consultativeErrorBrightness</key>
+	<string>equalizationOfPrototype</string>
+	<key>cubitLayerDuration</key>
+	<string>synchronousCoordinatorContrast</string>
+	<key>cursorSystemInterval</key>
+	<string>durationMethodOrientation</string>
+	<key>gradientJobLocation</key>
+	<string>typicalTransitionSpeed</string>
+	<key>graphicFrameworkTag</key>
+	<string>nodeAgainstParam</string>
+	<key>localizationFromMemento</key>
+	<string>tangentAsStrategy</string>
+	<key>monsterBeyondValue</key>
+	<string>dynamicShaderCenter</string>
+</dict>
+</plist>

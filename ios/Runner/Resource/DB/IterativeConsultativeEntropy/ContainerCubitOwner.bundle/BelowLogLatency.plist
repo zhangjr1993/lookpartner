@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureMediatorOffset</key>
+	<string>scrollCycleTag</string>
+	<key>isolatePatternBrightness</key>
+	<string>activeProjectDistance</string>
+	<key>layoutStructureShade</key>
+	<string>cursorProxyState</string>
+	<key>optionFrameworkLeft</key>
+	<string>blocTypeInterval</string>
+</dict>
+</plist>

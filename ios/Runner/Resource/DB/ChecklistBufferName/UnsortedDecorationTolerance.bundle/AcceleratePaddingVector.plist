@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitActionVisible</key>
+	<string>frameWithoutAction</string>
+	<key>eagerChapterBrightness</key>
+	<string>widgetStrategyDistance</string>
+	<key>indicatorContainDecorator</key>
+	<string>logOrTier</string>
+	<key>invisibleAssetBehavior</key>
+	<string>textureInPlatform</string>
+	<key>unaryFromOperation</key>
+	<string>delegateDuringShape</string>
+</dict>
+</plist>

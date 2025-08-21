@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptContext</key>
+	<string>entitySingletonSkewx</string>
+	<key>alertWithCommand</key>
+	<string>unsortedSliderFormat</string>
+	<key>cupertinoWorkAlignment</key>
+	<string>comprehensiveChecklistTint</string>
+	<key>exceptionByPrototype</key>
+	<string>localizationParameterPosition</string>
+	<key>robustUnaryIndex</key>
+	<string>eagerTangentDelay</string>
+	<key>sceneBridgeHue</key>
+	<string>binaryLikeLevel</string>
+	<key>staticStepAcceleration</key>
+	<string>customizedGrayscaleAlignment</string>
+	<key>swiftOutsideStructure</key>
+	<string>ephemeralBoxshadowForce</string>
+</dict>
+</plist>

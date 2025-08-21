@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityParamFormat</key>
+	<string>requiredMultiplicationFormat</string>
+	<key>functionalCellOffset</key>
+	<string>awaitFunctionTint</string>
+	<key>immutableControllerCenter</key>
+	<string>paddingAlongTemple</string>
+	<key>pivotalRectEdge</key>
+	<string>standaloneBulletResponse</string>
+	<key>textOrLayer</key>
+	<string>injectionStyleMargin</string>
+</dict>
+</plist>

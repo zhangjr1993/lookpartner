@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePainterTransparency</key>
+	<string>mutableStreamBrightness</string>
+	<key>channelsScopeHue</key>
+	<string>tangentStructureSaturation</string>
+	<key>containerStateVelocity</key>
+	<string>adaptiveProviderPressure</string>
+	<key>intuitiveConfigurationDirection</key>
+	<string>delicateActionDensity</string>
+	<key>liteMapDelay</key>
+	<string>particleLevelShape</string>
+	<key>rectOutsideForm</key>
+	<string>spriteViaLevel</string>
+</dict>
+</plist>

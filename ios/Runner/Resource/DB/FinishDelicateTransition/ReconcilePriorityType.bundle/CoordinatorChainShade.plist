@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompositionSpacing</key>
+	<string>frameOfShape</string>
+	<key>actionNumberHue</key>
+	<string>richtextExceptFunction</string>
+	<key>autoGraphMode</key>
+	<string>resilientDependencyHue</string>
+	<key>enabledSignaturePadding</key>
+	<string>publicViewDelay</string>
+	<key>layoutExceptBuffer</key>
+	<string>directDrawerPressure</string>
+	<key>richtextBufferTint</key>
+	<string>gridviewFlyweightVisible</string>
+	<key>tabviewViaVisitor</key>
+	<string>memberCycleInterval</string>
+</dict>
+</plist>

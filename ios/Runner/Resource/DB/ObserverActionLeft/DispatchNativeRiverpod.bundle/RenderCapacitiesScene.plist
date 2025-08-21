@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAlongCycle</key>
+	<string>diffableGroupCount</string>
+	<key>diffableCubeCoord</key>
+	<string>nativeResponseCoord</string>
+	<key>grainExceptScope</key>
+	<string>prevFlexFlags</string>
+	<key>immutableProgressbarTheme</key>
+	<string>extensionContainSingleton</string>
+	<key>lastDimensionAppearance</key>
+	<string>accessibleCoordinatorBottom</string>
+	<key>observerAndScope</key>
+	<string>integerPatternCount</string>
+	<key>promiseLayerContrast</key>
+	<string>instructionAndType</string>
+	<key>repositoryContainMemento</key>
+	<string>coordinatorAboutPhase</string>
+</dict>
+</plist>

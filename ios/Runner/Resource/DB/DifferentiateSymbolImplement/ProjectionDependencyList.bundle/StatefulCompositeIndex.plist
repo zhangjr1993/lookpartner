@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScopeFormat</key>
+	<string>tappableTextfieldDepth</string>
+	<key>blocLayerInterval</key>
+	<string>timerTierFrequency</string>
+	<key>concurrentInterfaceContrast</key>
+	<string>themeTaskRate</string>
+	<key>concurrentTextVisibility</key>
+	<string>flexibleReducerPressure</string>
+	<key>hierarchicalNavigatorHead</key>
+	<string>cellStateDuration</string>
+	<key>mainMobileTop</key>
+	<string>durationTaskAcceleration</string>
+	<key>optionActivityPressure</key>
+	<string>specifyRouteFeedback</string>
+	<key>positionedProxyBrightness</key>
+	<string>flexActivityPressure</string>
+	<key>serviceWorkDirection</key>
+	<string>labelFormSpacing</string>
+	<key>storeWithoutLayer</key>
+	<string>notificationStageRight</string>
+</dict>
+</plist>

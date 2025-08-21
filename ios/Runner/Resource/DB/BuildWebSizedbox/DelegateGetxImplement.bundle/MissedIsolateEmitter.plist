@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedSignInset</key>
+	<string>drawerStageTail</string>
+	<key>imageForProcess</key>
+	<string>scrollOrContext</string>
+	<key>localThreadColor</key>
+	<string>unsortedConvolutionContrast</string>
+	<key>permissiveHeroKind</key>
+	<string>grainStyleOffset</string>
+</dict>
+</plist>

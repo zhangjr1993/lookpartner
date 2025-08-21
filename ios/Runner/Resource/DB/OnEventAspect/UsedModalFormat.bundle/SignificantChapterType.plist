@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaAction</key>
+	<string>desktopControllerHue</string>
+	<key>callbackFlyweightBehavior</key>
+	<string>ignoredPointSpacing</string>
+	<key>desktopGetxSkewx</key>
+	<string>tangentObserverMode</string>
+	<key>gradientNearStrategy</key>
+	<string>providerAtSingleton</string>
+	<key>managerThanContext</key>
+	<string>greatStepRate</string>
+	<key>transformerNumberSaturation</key>
+	<string>chartPlatformTransparency</string>
+</dict>
+</plist>

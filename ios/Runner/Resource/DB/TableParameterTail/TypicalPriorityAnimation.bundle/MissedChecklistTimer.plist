@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticGraphicStatus</key>
+	<string>standaloneSingletonOffset</string>
+	<key>fragmentCompositeTag</key>
+	<string>commandDuringCycle</string>
+	<key>materialTabbarTheme</key>
+	<string>spriteAdapterCoord</string>
+	<key>observerViaLevel</key>
+	<string>threadOutsideDecorator</string>
+	<key>reusableContainerMargin</key>
+	<string>nodeAgainstComposite</string>
+	<key>storageStageSkewy</key>
+	<string>persistentStackEdge</string>
+	<key>unsortedServiceState</key>
+	<string>aspectratioForAction</string>
+	<key>widgetMethodDistance</key>
+	<string>symmetricChartCoord</string>
+</dict>
+</plist>

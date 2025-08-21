@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateFlyweightTheme</key>
+	<string>checklistContextContrast</string>
+	<key>painterStrategyBrightness</key>
+	<string>mobileThroughCommand</string>
+	<key>seamlessZoneBrightness</key>
+	<string>providerAlongVisitor</string>
+	<key>signAtLevel</key>
+	<string>rowLayerMode</string>
+	<key>timerProxyVisibility</key>
+	<string>resolverFrameworkFormat</string>
+</dict>
+</plist>

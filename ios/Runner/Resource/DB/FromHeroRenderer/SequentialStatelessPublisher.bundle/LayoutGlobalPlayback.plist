@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheViaNumber</key>
+	<string>activeResultDirection</string>
+	<key>catalystScopeVisibility</key>
+	<string>eventPerBridge</string>
+	<key>configurationContextFrequency</key>
+	<string>factoryIncludeStyle</string>
+	<key>tweenIncludeFlyweight</key>
+	<string>buttonAboutComposite</string>
+	<key>widgetInParameter</key>
+	<string>grainAndObserver</string>
+</dict>
+</plist>

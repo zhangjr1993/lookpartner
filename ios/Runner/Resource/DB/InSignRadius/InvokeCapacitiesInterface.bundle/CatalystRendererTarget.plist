@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeIsolateFlags</key>
+	<string>desktopNotificationBrightness</string>
+	<key>blocTempleFeedback</key>
+	<string>asyncAtMemento</string>
+	<key>featureStructureVisible</key>
+	<string>dialogsFacadePosition</string>
+	<key>futureProcessVisibility</key>
+	<string>histogramSinceLayer</string>
+	<key>optimizerWithoutPrototype</key>
+	<string>providerStageVelocity</string>
+	<key>otherTransitionInset</key>
+	<string>frameVariableMode</string>
+	<key>storyboardVarStatus</key>
+	<string>unaryValueTop</string>
+	<key>viewAboutStructure</key>
+	<string>mainActivityIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiModelTint</key>
+	<string>binaryThroughType</string>
+	<key>otherSymbolDistance</key>
+	<string>usecaseBeyondStrategy</string>
+	<key>semanticCubitAcceleration</key>
+	<string>viewScopeDistance</string>
+	<key>tensorActionState</key>
+	<string>finalMarginBound</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaPlatform</key>
+	<string>liteStorageBottom</string>
+	<key>composableConfigurationFrequency</key>
+	<string>widgetStrategyValidation</string>
+	<key>constraintKindOffset</key>
+	<string>unactivatedIntegerFeedback</string>
+	<key>dedicatedErrorResponse</key>
+	<string>autoProtocolValidation</string>
+	<key>immediateGrayscaleOrientation</key>
+	<string>temporaryMenuMode</string>
+	<key>liteIsolateFlags</key>
+	<string>capsulePerStructure</string>
+	<key>sampleFlyweightInteraction</key>
+	<string>compositionInBridge</string>
+</dict>
+</plist>

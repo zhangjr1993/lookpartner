@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQueueSkewx</key>
+	<string>queueBesideStage</string>
+	<key>captionTierVelocity</key>
+	<string>curveObserverResponse</string>
+	<key>queryAndContext</key>
+	<string>presenterDecoratorSaturation</string>
+	<key>sharedCacheFlags</key>
+	<string>opaqueIntensityLeft</string>
+	<key>stateThanForm</key>
+	<string>tappableAccessoryBorder</string>
+	<key>taskStateType</key>
+	<string>durationValuePosition</string>
+</dict>
+</plist>

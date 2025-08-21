@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityExceptTask</key>
+	<string>normalPreviewScale</string>
+	<key>interactiveOptionForce</key>
+	<string>tappableCharacterCoord</string>
+	<key>queueAtFlyweight</key>
+	<string>skirtDespiteDecorator</string>
+	<key>repositoryFunctionOrientation</key>
+	<string>navigatorLikeValue</string>
+	<key>segueVariableVelocity</key>
+	<string>immediateAllocatorTop</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianNavigatorOrigin</key>
+	<string>normValuePadding</string>
+	<key>cellIncludeSystem</key>
+	<string>logActivityKind</string>
+	<key>coordinatorTierCenter</key>
+	<string>inheritedFlexDensity</string>
+	<key>directInteractorVisible</key>
+	<string>desktopAlphaColor</string>
+	<key>graphStrategyHead</key>
+	<string>graphicMediatorMargin</string>
+	<key>groupActivityFrequency</key>
+	<string>lossPatternInterval</string>
+	<key>hashForNumber</key>
+	<string>interactorExceptBridge</string>
+	<key>significantErrorVisibility</key>
+	<string>sliderFlyweightRight</string>
+	<key>topicOrKind</key>
+	<string>gramSingletonTail</string>
+</dict>
+</plist>

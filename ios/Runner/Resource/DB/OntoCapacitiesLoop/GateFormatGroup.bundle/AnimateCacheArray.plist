@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContextBottom</key>
+	<string>robustMaterialInteraction</string>
+	<key>factoryIncludeType</key>
+	<string>momentumMethodSkewy</string>
+	<key>interactiveStreamAlignment</key>
+	<string>fixedRadiusCoord</string>
+	<key>mediaqueryLikeChain</key>
+	<string>reductionValueDuration</string>
+	<key>musicAndOperation</key>
+	<string>resolverTierLocation</string>
+	<key>requestStateSkewy</key>
+	<string>robustCanvasDensity</string>
+	<key>resourceSinceInterpreter</key>
+	<string>frameSinceMode</string>
+</dict>
+</plist>

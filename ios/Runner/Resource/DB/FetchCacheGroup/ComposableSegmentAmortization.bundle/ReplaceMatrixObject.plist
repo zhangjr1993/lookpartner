@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAssetSaturation</key>
+	<string>modulusDecoratorRate</string>
+	<key>cacheAroundSystem</key>
+	<string>taskIncludeProcess</string>
+	<key>navigatorAndFacade</key>
+	<string>observerChainRate</string>
+	<key>reusableMethodMode</key>
+	<string>normalStepBottom</string>
+	<key>rowParameterInterval</key>
+	<string>screenAtEnvironment</string>
+	<key>sharedGateDensity</key>
+	<string>groupActivityRotation</string>
+	<key>titleForMode</key>
+	<string>notificationContainCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlexMargin</key>
+	<string>draggableMetadataSize</string>
+	<key>catalystAtKind</key>
+	<string>tickerFrameworkAppearance</string>
+	<key>chartPrototypeCoord</key>
+	<string>protocolIncludeContext</string>
+	<key>delegateStructureAppearance</key>
+	<string>visibleRouterBrightness</string>
+	<key>riverpodFrameworkOpacity</key>
+	<string>resilientBinaryKind</string>
+	<key>unaryLikeStrategy</key>
+	<string>eagerTickerFormat</string>
+</dict>
+</plist>

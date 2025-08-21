@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureShapeInset</key>
+	<string>isolateForStyle</string>
+	<key>controllerMethodHead</key>
+	<string>imperativeCommandTheme</string>
+	<key>missedObserverBrightness</key>
+	<string>viewCommandPadding</string>
+	<key>musicBridgeTail</key>
+	<string>projectionInterpreterTransparency</string>
+	<key>permissiveBuilderValidation</key>
+	<string>spriteOfScope</string>
+</dict>
+</plist>

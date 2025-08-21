@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextFrequency</key>
+	<string>heroBufferHead</string>
+	<key>controllerStateShape</key>
+	<string>getxSinceTask</string>
+	<key>currentDrawerCoord</key>
+	<string>pivotalProgressbarDensity</string>
+	<key>finalContainerMomentum</key>
+	<string>signatureObserverSkewy</string>
+	<key>menuByActivity</key>
+	<string>lostRectFrequency</string>
+	<key>prevDescriptorType</key>
+	<string>widgetStyleSaturation</string>
+	<key>requiredTickerOrigin</key>
+	<string>synchronousAccessoryTop</string>
+	<key>respectiveTabviewRotation</key>
+	<string>techniqueAndChain</string>
+	<key>similarFactoryMargin</key>
+	<string>viewProxyStatus</string>
+	<key>statefulCycleMomentum</key>
+	<string>challengeFrameworkFrequency</string>
+</dict>
+</plist>

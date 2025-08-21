@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskShape</key>
+	<string>sampleWithLayer</string>
+	<key>controllerVersusCycle</key>
+	<string>factoryVersusFacade</string>
+	<key>gemKindBottom</key>
+	<string>cosineLikeAdapter</string>
+	<key>respectiveListenerCoord</key>
+	<string>mediumQueryBorder</string>
+	<key>segmentContainActivity</key>
+	<string>deferredScaleAppearance</string>
+</dict>
+</plist>

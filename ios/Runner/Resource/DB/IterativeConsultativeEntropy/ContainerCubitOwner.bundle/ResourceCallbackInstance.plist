@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionMethodTransparency</key>
+	<string>spotPerObserver</string>
+	<key>nodeStageFeedback</key>
+	<string>segmentOutsideStage</string>
+	<key>positionUntilAdapter</key>
+	<string>resourceAsWork</string>
+	<key>repositoryLikeStructure</key>
+	<string>catalystAgainstMemento</string>
+	<key>signatureCompositeStyle</key>
+	<string>resourceAndShape</string>
+	<key>subscriptionStateForce</key>
+	<string>baselineThroughObserver</string>
+	<key>webVectorTheme</key>
+	<string>gramNumberCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerReferenceInset</key>
+	<string>iterativeSingletonBorder</string>
+	<key>collectionForOperation</key>
+	<string>significantRowMargin</string>
+	<key>concurrentAlignmentPosition</key>
+	<string>futureStageOpacity</string>
+	<key>mediaqueryFlyweightBottom</key>
+	<string>eagerButtonKind</string>
+	<key>nextQueryForce</key>
+	<string>popupOutsideKind</string>
+	<key>resultAsCycle</key>
+	<string>screenOutsideInterpreter</string>
+	<key>transformerStructureFlags</key>
+	<string>radiusExceptParameter</string>
+</dict>
+</plist>

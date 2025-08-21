@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCompleterBehavior</key>
+	<string>iterativeHandlerDuration</string>
+	<key>builderVersusActivity</key>
+	<string>effectVersusBuffer</string>
+	<key>drawerUntilInterpreter</key>
+	<string>equalizationOutsideTier</string>
+	<key>mediumPopupKind</key>
+	<string>featureKindTransparency</string>
+	<key>monsterThanStyle</key>
+	<string>rapidHeapPosition</string>
+	<key>permissiveInjectionAppearance</key>
+	<string>effectAndScope</string>
+	<key>popupInAction</key>
+	<string>stampDuringSingleton</string>
+	<key>responsiveLogarithmOrientation</key>
+	<string>primaryBehaviorTheme</string>
+	<key>sineCycleType</key>
+	<string>effectParameterMode</string>
+	<key>vectorWithoutStrategy</key>
+	<string>easyBorderBrightness</string>
+</dict>
+</plist>

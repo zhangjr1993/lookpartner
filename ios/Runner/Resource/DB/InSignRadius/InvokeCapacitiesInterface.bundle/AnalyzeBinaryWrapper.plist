@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSubscriptionFlags</key>
+	<string>listenerLevelVisibility</string>
+	<key>delegateForJob</key>
+	<string>descriptionNearKind</string>
+	<key>musicSystemOrigin</key>
+	<string>primaryCompleterPressure</string>
+	<key>operationWithoutWork</key>
+	<string>checkboxStageDuration</string>
+	<key>sharedTaskValidation</key>
+	<string>statelessAroundSystem</string>
+	<key>swiftExceptPlatform</key>
+	<string>materialCycleBottom</string>
+</dict>
+</plist>

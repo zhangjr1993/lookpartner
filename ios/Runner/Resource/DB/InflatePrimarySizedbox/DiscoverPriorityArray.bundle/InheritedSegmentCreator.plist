@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPerType</key>
+	<string>gesturedetectorStageCenter</string>
+	<key>comprehensiveSpriteCenter</key>
+	<string>interfaceCommandSpeed</string>
+	<key>interactorObserverTail</key>
+	<string>previewAboutDecorator</string>
+	<key>observerAsScope</key>
+	<string>chapterPatternCenter</string>
+	<key>responseActivityStyle</key>
+	<string>blocInterpreterOrigin</string>
+	<key>retainedWidgetHead</key>
+	<string>similarMapSkewy</string>
+	<key>smartListviewBorder</key>
+	<string>lostChannelHue</string>
+	<key>stampFromVariable</key>
+	<string>momentumCycleCount</string>
+</dict>
+</plist>

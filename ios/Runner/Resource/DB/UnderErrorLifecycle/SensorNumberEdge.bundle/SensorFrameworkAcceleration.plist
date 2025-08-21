@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchUntilCycle</key>
+	<string>materialLayerShade</string>
+	<key>immutableAspectratioBound</key>
+	<string>semanticsForFlyweight</string>
+	<key>providerActivityForce</key>
+	<string>animatedServiceInteraction</string>
+	<key>specifyTaskMode</key>
+	<string>buttonAtCommand</string>
+</dict>
+</plist>

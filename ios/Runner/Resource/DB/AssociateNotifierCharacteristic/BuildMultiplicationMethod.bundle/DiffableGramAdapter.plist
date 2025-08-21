@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTopicMargin</key>
+	<string>prevAnimationTint</string>
+	<key>cellIncludeLayer</key>
+	<string>crudeTouchDensity</string>
+	<key>decorationStageDensity</key>
+	<string>semanticActionOrientation</string>
+	<key>gridviewAroundSingleton</key>
+	<string>factoryFunctionPosition</string>
+	<key>lossTaskTransparency</key>
+	<string>commonLayerTag</string>
+	<key>queueThroughPhase</key>
+	<string>advancedHeroContrast</string>
+	<key>typicalStreamScale</key>
+	<string>relationalOffsetSaturation</string>
+	<key>variantBridgeBrightness</key>
+	<string>otherNibDistance</string>
+</dict>
+</plist>

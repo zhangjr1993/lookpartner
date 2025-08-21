@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaProxyBehavior</key>
+	<string>managerSingletonFlags</string>
+	<key>commandIncludeStrategy</key>
+	<string>directMatrixSpeed</string>
+	<key>iterativeThreadForce</key>
+	<string>keyInterfaceInteraction</string>
+	<key>priorGraphKind</key>
+	<string>cupertinoThreadDensity</string>
+	<key>streamModeFormat</key>
+	<string>precisionOperationTension</string>
+</dict>
+</plist>

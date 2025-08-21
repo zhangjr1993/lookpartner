@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerExceptSystem</key>
+	<string>routeByCommand</string>
+	<key>multiplicationValueFormat</key>
+	<string>respectiveHashScale</string>
+	<key>nextSingletonBound</key>
+	<string>desktopSliderForce</string>
+	<key>spriteScopeMode</key>
+	<string>unsortedCurveAppearance</string>
+	<key>tensorCallbackVelocity</key>
+	<string>uniqueDurationBottom</string>
+</dict>
+</plist>

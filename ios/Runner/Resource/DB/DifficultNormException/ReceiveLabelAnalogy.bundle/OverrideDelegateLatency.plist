@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionOfMode</key>
+	<string>bufferFacadeCount</string>
+	<key>fragmentFunctionFormat</key>
+	<string>playbackExceptLevel</string>
+	<key>positionTierDepth</key>
+	<string>symmetricGraphicIndex</string>
+	<key>retainedReferenceTransparency</key>
+	<string>delegateAroundParam</string>
+	<key>uniqueRowScale</key>
+	<string>vectorAndFlyweight</string>
+</dict>
+</plist>

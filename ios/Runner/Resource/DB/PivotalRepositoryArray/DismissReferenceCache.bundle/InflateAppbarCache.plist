@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStyleSpeed</key>
+	<string>lazyDropdownbuttonDensity</string>
+	<key>durationSystemVelocity</key>
+	<string>collectionAsParam</string>
+	<key>iterativeSliderFeedback</key>
+	<string>taskActivityContrast</string>
+	<key>kernelCycleVelocity</key>
+	<string>factoryObserverStyle</string>
+	<key>observerBesideState</key>
+	<string>modelVisitorTheme</string>
+	<key>retainedAlertCount</key>
+	<string>statelessCycleVisibility</string>
+	<key>serviceAmongVisitor</key>
+	<string>bitrateOperationAppearance</string>
+	<key>specifierIncludeVariable</key>
+	<string>uniformPetEdge</string>
+	<key>typicalBufferSaturation</key>
+	<string>reducerInsideMemento</string>
+</dict>
+</plist>

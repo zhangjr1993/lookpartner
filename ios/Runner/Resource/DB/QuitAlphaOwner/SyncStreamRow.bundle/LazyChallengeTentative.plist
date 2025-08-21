@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFacadeStyle</key>
+	<string>mainTweenRotation</string>
+	<key>documentStrategyMomentum</key>
+	<string>frameWithPrototype</string>
+	<key>grainTierAlignment</key>
+	<string>baselineNearPattern</string>
+	<key>inheritedOperationType</key>
+	<string>tickerAsSystem</string>
+	<key>managerVersusProxy</key>
+	<string>criticalCatalystPadding</string>
+	<key>requiredInterfaceInset</key>
+	<string>stateAtChain</string>
+	<key>riverpodProxyDirection</key>
+	<string>overlayNumberIndex</string>
+	<key>transformerStructureRotation</key>
+	<string>layoutWorkVisible</string>
+</dict>
+</plist>

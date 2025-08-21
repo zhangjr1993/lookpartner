@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAndParam</key>
+	<string>consultativeViewAlignment</string>
+	<key>capsuleTaskBottom</key>
+	<string>pinchableGraphicShape</string>
+	<key>eagerResultValidation</key>
+	<string>priorityShapeTint</string>
+	<key>shaderIncludeAction</key>
+	<string>coordinatorChainRate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsAdapter</key>
+	<string>vectorFromVisitor</string>
+	<key>asyncBehaviorContrast</key>
+	<string>temporaryAllocatorTop</string>
+	<key>captionVariableAppearance</key>
+	<string>chartOfAction</string>
+	<key>exceptionParamMode</key>
+	<string>standaloneAnimationType</string>
+	<key>painterOfMemento</key>
+	<string>subpixelScopeForce</string>
+	<key>requestOrAdapter</key>
+	<string>customModelShade</string>
+	<key>signOutsideFacade</key>
+	<string>notifierPatternCenter</string>
+	<key>singletonPerChain</key>
+	<string>mediaqueryAmongStyle</string>
+	<key>usecaseTypeHue</key>
+	<string>anchorAwayMediator</string>
+</dict>
+</plist>

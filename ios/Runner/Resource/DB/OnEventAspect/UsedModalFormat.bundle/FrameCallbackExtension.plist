@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondValue</key>
+	<string>clipperOutsideAction</string>
+	<key>coordinatorWorkBehavior</key>
+	<string>gradientFormTop</string>
+	<key>permanentSampleMomentum</key>
+	<string>awaitUntilFlyweight</string>
+	<key>rapidTangentSpacing</key>
+	<string>curveFacadeRotation</string>
+	<key>visibleVectorTheme</key>
+	<string>subpixelPlatformHue</string>
+</dict>
+</plist>

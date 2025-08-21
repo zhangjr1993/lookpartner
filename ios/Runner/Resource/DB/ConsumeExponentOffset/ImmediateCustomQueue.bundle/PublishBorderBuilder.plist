@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocNearProcess</key>
+	<string>crudeSkinValidation</string>
+	<key>convolutionOutsideFunction</key>
+	<string>boxUntilBuffer</string>
+	<key>denseMetadataSpeed</key>
+	<string>singletonWithoutLevel</string>
+	<key>dimensionStyleColor</key>
+	<string>buttonBesideMemento</string>
+	<key>directlyPriorityForce</key>
+	<string>featureThanStage</string>
+	<key>discardedLossColor</key>
+	<string>ignoredCompleterType</string>
+	<key>explicitGramAlignment</key>
+	<string>zoneVarOrientation</string>
+	<key>threadVersusActivity</key>
+	<string>presenterInCycle</string>
+	<key>titleAdapterDepth</key>
+	<string>metadataAgainstStage</string>
+	<key>usecaseAndFacade</key>
+	<string>sophisticatedStorageContrast</string>
+</dict>
+</plist>

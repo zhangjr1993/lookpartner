@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStyleColor</key>
+	<string>skinSystemInset</string>
+	<key>layerForStrategy</key>
+	<string>fragmentForVar</string>
+	<key>nodeSinceVariable</key>
+	<string>controllerFacadeTag</string>
+	<key>routeActionOffset</key>
+	<string>observerParameterAppearance</string>
+	<key>uniqueEntropyVisible</key>
+	<string>normalCycleCount</string>
+</dict>
+</plist>

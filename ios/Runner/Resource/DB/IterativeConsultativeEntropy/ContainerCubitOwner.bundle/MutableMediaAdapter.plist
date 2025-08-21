@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFormSkewy</key>
+	<string>rowInFacade</string>
+	<key>discardedTernaryBrightness</key>
+	<string>iconSingletonMode</string>
+	<key>elasticSegueTop</key>
+	<string>bufferNumberPadding</string>
+	<key>originalLocalizationRotation</key>
+	<string>textActionOrigin</string>
+	<key>parallelCanvasTension</key>
+	<string>graphAwayShape</string>
+</dict>
+</plist>

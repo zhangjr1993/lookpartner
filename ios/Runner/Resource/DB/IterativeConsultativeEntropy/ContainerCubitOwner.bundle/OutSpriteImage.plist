@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionDespiteStructure</key>
+	<string>monsterOutsideFunction</string>
+	<key>primaryTextfieldContrast</key>
+	<string>mobileTimerMargin</string>
+	<key>publicLocalizationColor</key>
+	<string>semanticGroupSaturation</string>
+	<key>sizeExceptTier</key>
+	<string>missedSingletonLeft</string>
+</dict>
+</plist>

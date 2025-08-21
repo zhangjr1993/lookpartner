@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMediatorBound</key>
+	<string>basicButtonDuration</string>
+	<key>finalSinkBound</key>
+	<string>observerOfValue</string>
+	<key>injectionTypeVisibility</key>
+	<string>smartSliderPosition</string>
+	<key>priorIndicatorIndex</key>
+	<string>prismaticButtonSpeed</string>
+	<key>radiusTypeAlignment</key>
+	<string>localCaptionAppearance</string>
+	<key>sceneAgainstFunction</key>
+	<string>blocOperationStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelThanMediator</key>
+	<string>requiredPreviewVisible</string>
+	<key>nativeDependencyValidation</key>
+	<string>curveLikeMediator</string>
+	<key>oldMarginRight</key>
+	<string>semanticEntityFrequency</string>
+	<key>queueScopeDistance</key>
+	<string>semanticCubeAcceleration</string>
+	<key>secondAnimationRate</key>
+	<string>subtleConstraintDepth</string>
+	<key>singleProviderFrequency</key>
+	<string>buttonAsMethod</string>
+	<key>statelessJobCoord</key>
+	<string>secondDialogsPressure</string>
+</dict>
+</plist>

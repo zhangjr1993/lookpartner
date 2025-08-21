@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWidgetBehavior</key>
+	<string>lostChapterDuration</string>
+	<key>builderInStage</key>
+	<string>alignmentForCycle</string>
+	<key>controllerTierTheme</key>
+	<string>cupertinoInterfaceTop</string>
+	<key>crudeBlocSpacing</key>
+	<string>listenerParamVelocity</string>
+	<key>descriptionAndProcess</key>
+	<string>progressbarDecoratorFeedback</string>
+	<key>iterativeTweenSaturation</key>
+	<string>mediocreNormKind</string>
+	<key>nextErrorMargin</key>
+	<string>progressbarFunctionRight</string>
+	<key>temporaryEquipmentVelocity</key>
+	<string>sequentialZonePadding</string>
+</dict>
+</plist>

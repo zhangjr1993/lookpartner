@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardQuerySpeed</key>
+	<string>asyncSingletonAcceleration</string>
+	<key>columnOfParam</key>
+	<string>commandAlongPattern</string>
+	<key>difficultLabelVisibility</key>
+	<string>pageviewPhaseTransparency</string>
+	<key>futureTempleState</key>
+	<string>clipperFacadeFlags</string>
+	<key>precisionAmongStrategy</key>
+	<string>subsequentScrollName</string>
+	<key>stateDecoratorName</key>
+	<string>transformerForPlatform</string>
+	<key>synchronousUnaryState</key>
+	<string>backwardPageviewAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainContext</key>
+	<string>queryCycleValidation</string>
+	<key>consultativeCurveBehavior</key>
+	<string>collectionInComposite</string>
+	<key>consultativeEffectPressure</key>
+	<string>matrixObserverDirection</string>
+	<key>contractionTierPressure</key>
+	<string>descriptionVarMomentum</string>
+	<key>coordinatorSinceTier</key>
+	<string>smartCanvasVisible</string>
+	<key>draggableLayerShape</key>
+	<string>streamSystemCoord</string>
+	<key>iterativeSizeDepth</key>
+	<string>transformerVariableMode</string>
+	<key>tickerCompositeRight</key>
+	<string>cartesianPositionedForce</string>
+</dict>
+</plist>

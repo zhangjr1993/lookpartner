@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatePerScope</key>
+	<string>menuSinceMode</string>
+	<key>intuitiveButtonType</key>
+	<string>animatedTickerBorder</string>
+	<key>previewIncludeShape</key>
+	<string>smallResourceTransparency</string>
+	<key>specifyQueueTint</key>
+	<string>oldSubscriptionMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeServicePressure</key>
+	<string>curveWithoutPhase</string>
+	<key>arithmeticOutsideBridge</key>
+	<string>mobxAtLevel</string>
+	<key>brushValueDensity</key>
+	<string>gradientAlongTier</string>
+	<key>cupertinoTaskInteraction</key>
+	<string>transformerBeyondParam</string>
+	<key>descriptorFacadeMode</key>
+	<string>buttonObserverVisibility</string>
+	<key>expandedObserverDepth</key>
+	<string>projectionCompositeVelocity</string>
+	<key>immutableCallbackBrightness</key>
+	<string>resultStageRotation</string>
+	<key>imperativePetDuration</key>
+	<string>marginPerTier</string>
+	<key>normPlatformMode</key>
+	<string>globalFactoryCoord</string>
+	<key>rowAwayParam</key>
+	<string>usageAwayFramework</string>
+</dict>
+</plist>

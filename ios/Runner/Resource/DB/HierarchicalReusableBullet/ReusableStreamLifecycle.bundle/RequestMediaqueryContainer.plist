@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotificationHue</key>
+	<string>transitionByFacade</string>
+	<key>animationJobBehavior</key>
+	<string>containerByStage</string>
+	<key>inactiveExtensionBound</key>
+	<string>radioForWork</string>
+	<key>navigatorMediatorColor</key>
+	<string>normalGrainShape</string>
+	<key>offsetForParameter</key>
+	<string>futureFunctionShade</string>
+	<key>zoneBridgeTransparency</key>
+	<string>crucialPresenterFormat</string>
+</dict>
+</plist>

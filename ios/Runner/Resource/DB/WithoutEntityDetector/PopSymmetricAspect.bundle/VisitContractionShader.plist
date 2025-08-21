@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLoopOffset</key>
+	<string>integerModeDensity</string>
+	<key>behaviorPrototypeFeedback</key>
+	<string>asyncRemainderStyle</string>
+	<key>ignoredSessionFrequency</key>
+	<string>cycleActivitySaturation</string>
+	<key>inactivePetRotation</key>
+	<string>positionedInFlyweight</string>
+	<key>lastExceptionHead</key>
+	<string>blocBridgeBorder</string>
+	<key>mobxFlyweightSkewy</key>
+	<string>plateParamMomentum</string>
+	<key>rowAmongProxy</key>
+	<string>cartesianRectEdge</string>
+	<key>screenActionInset</key>
+	<string>respectiveMemberPressure</string>
+	<key>tabviewOutsidePhase</key>
+	<string>mediumPreviewColor</string>
+</dict>
+</plist>

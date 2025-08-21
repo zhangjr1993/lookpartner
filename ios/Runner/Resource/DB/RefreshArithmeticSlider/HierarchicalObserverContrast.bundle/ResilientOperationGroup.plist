@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInFramework</key>
+	<string>materialFromAction</string>
+	<key>animatedRoleState</key>
+	<string>dropdownbuttonStrategySkewx</string>
+	<key>bulletObserverMode</key>
+	<string>liteProjectionHue</string>
+	<key>completerForAction</key>
+	<string>buttonBufferSpeed</string>
+	<key>inactiveMonsterShape</key>
+	<string>criticalContainerScale</string>
+	<key>lazyBlocScale</key>
+	<string>cacheTempleAcceleration</string>
+	<key>mapPrototypeBorder</key>
+	<string>appbarDespiteBuffer</string>
+</dict>
+</plist>

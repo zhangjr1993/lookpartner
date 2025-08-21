@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContainStage</key>
+	<string>segmentAndTier</string>
+	<key>displayableProgressbarTheme</key>
+	<string>iterativeChannelDuration</string>
+	<key>indicatorAndTask</key>
+	<string>primaryErrorHead</string>
+	<key>labelOperationPadding</key>
+	<string>symmetricBuilderType</string>
+	<key>liteTaskSize</key>
+	<string>interfaceInterpreterCount</string>
+	<key>normContainStage</key>
+	<string>directlyRouteInset</string>
+	<key>utilAdapterDuration</key>
+	<string>mutableListenerFrequency</string>
+</dict>
+</plist>

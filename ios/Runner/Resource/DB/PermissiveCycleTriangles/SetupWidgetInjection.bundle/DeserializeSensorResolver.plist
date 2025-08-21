@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMultiplicationBound</key>
+	<string>navigatorOrBridge</string>
+	<key>entityFormOrigin</key>
+	<string>commandViaSingleton</string>
+	<key>instructionCompositeCoord</key>
+	<string>publicProviderVisible</string>
+	<key>missedLayoutCount</key>
+	<string>associatedCoordinatorMode</string>
+	<key>queryDecoratorTension</key>
+	<string>asynchronousOffsetTail</string>
+	<key>resilientFeatureAppearance</key>
+	<string>secondRectTension</string>
+</dict>
+</plist>

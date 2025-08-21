@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterUntilPlatform</key>
+	<string>decorationThroughVisitor</string>
+	<key>constraintCompositeMargin</key>
+	<string>brushAgainstContext</string>
+	<key>convolutionModeSize</key>
+	<string>baselineFromCommand</string>
+	<key>dependencyStructureName</key>
+	<string>currentCallbackDistance</string>
+	<key>instructionAmongType</key>
+	<string>mobileTextureContrast</string>
+	<key>usecaseMethodVisibility</key>
+	<string>injectionLikeEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubePerMemento</key>
+	<string>smartTextureBrightness</string>
+	<key>effectAgainstTask</key>
+	<string>characterIncludeVisitor</string>
+	<key>protectedAssetState</key>
+	<string>characterContainVisitor</string>
+	<key>rowScopeCount</key>
+	<string>aspectDuringState</string>
+</dict>
+</plist>

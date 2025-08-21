@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticImageValidation</key>
+	<string>viewDecoratorBorder</string>
+	<key>bitrateBufferMargin</key>
+	<string>flexibleMusicTint</string>
+	<key>commandContextBrightness</key>
+	<string>specifyAlphaDirection</string>
+	<key>dedicatedTitleSpacing</key>
+	<string>descriptionPatternRight</string>
+	<key>easyScrollTint</key>
+	<string>imageAboutTemple</string>
+	<key>statefulPhaseBehavior</key>
+	<string>constraintProcessShade</string>
+	<key>workflowFacadeBorder</key>
+	<string>interactorUntilDecorator</string>
+</dict>
+</plist>

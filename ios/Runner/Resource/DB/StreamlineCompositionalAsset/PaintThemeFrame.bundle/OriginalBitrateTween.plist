@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMetadataScale</key>
+	<string>cubitAdapterBrightness</string>
+	<key>explicitNodeTension</key>
+	<string>alignmentProxyIndex</string>
+	<key>firstButtonRotation</key>
+	<string>iterativeThreadForce</string>
+	<key>requiredNavigationFrequency</key>
+	<string>inkwellShapeColor</string>
+	<key>singletonScopeDepth</key>
+	<string>layerFromStage</string>
+	<key>sliderNumberSpeed</key>
+	<string>lazyBaselineDepth</string>
+	<key>variantDuringChain</key>
+	<string>dialogsForCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionToolTransparency</key>
+	<string>subsequentGrainFormat</string>
+	<key>containerVarBound</key>
+	<string>gridviewIncludeMemento</string>
+	<key>dropdownbuttonPatternBorder</key>
+	<string>reusableEffectFeedback</string>
+	<key>modelPrototypeLeft</key>
+	<string>pinchableExceptionRight</string>
+	<key>movementCycleIndex</key>
+	<string>cosineOutsideVisitor</string>
+	<key>plateNumberSaturation</key>
+	<string>promiseTempleInset</string>
+	<key>routerShapeType</key>
+	<string>cupertinoLayoutInset</string>
+	<key>viewPrototypeKind</key>
+	<string>radiusStructureName</string>
+</dict>
+</plist>

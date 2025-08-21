@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedAnimationResponse</key>
+	<string>cursorSinceForm</string>
+	<key>flexiblePrecisionOpacity</key>
+	<string>textSingletonAcceleration</string>
+	<key>geometricResolverShade</key>
+	<string>appbarTypeInset</string>
+	<key>intensityTypeFrequency</key>
+	<string>otherConstraintTint</string>
+	<key>interfaceSincePattern</key>
+	<string>precisionExceptFunction</string>
+	<key>listenerContextAppearance</key>
+	<string>sortedGrayscaleVisibility</string>
+	<key>viewStageDelay</key>
+	<string>robustHeapDuration</string>
+</dict>
+</plist>

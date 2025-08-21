@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAlignmentOrigin</key>
+	<string>symbolStylePadding</string>
+	<key>coordinatorBufferFlags</key>
+	<string>uniqueBuilderTail</string>
+	<key>ignoredEffectDelay</key>
+	<string>listenerStateOrigin</string>
+	<key>marginWithoutParam</key>
+	<string>integerBufferInset</string>
+	<key>materialBitrateAlignment</key>
+	<string>statefulReferenceDensity</string>
+	<key>originalListenerFormat</key>
+	<string>allocatorFormOffset</string>
+	<key>primaryLogarithmKind</key>
+	<string>containerAwayCycle</string>
+	<key>progressbarViaCycle</key>
+	<string>grainFrameworkLocation</string>
+	<key>resultWithoutAdapter</key>
+	<string>baseMementoTop</string>
+</dict>
+</plist>

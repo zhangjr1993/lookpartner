@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaLevelShade</key>
+	<string>richtextInsideInterpreter</string>
+	<key>menuPhaseVelocity</key>
+	<string>primaryPositionedRotation</string>
+	<key>scaffoldInMediator</key>
+	<string>coordinatorStyleStyle</string>
+	<key>sustainablePaddingOrientation</key>
+	<string>interactorBufferShape</string>
+</dict>
+</plist>

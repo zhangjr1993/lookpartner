@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDecoratorDuration</key>
+	<string>numericalBorderContrast</string>
+	<key>elasticDocumentOffset</key>
+	<string>frameSystemPadding</string>
+	<key>ephemeralViewMode</key>
+	<string>mainSinkDelay</string>
+	<key>instructionContextRate</key>
+	<string>effectObserverFrequency</string>
+	<key>serviceCommandTail</key>
+	<string>projectActivityPressure</string>
+	<key>similarRowSize</key>
+	<string>specifyCubitDuration</string>
+	<key>specifierProcessHead</key>
+	<string>materialStampTail</string>
+</dict>
+</plist>

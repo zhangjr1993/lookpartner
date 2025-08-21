@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCatalystInterval</key>
+	<string>vectorAndState</string>
+	<key>indicatorCommandPressure</key>
+	<string>queueViaFlyweight</string>
+	<key>metadataOrStyle</key>
+	<string>radiusNumberContrast</string>
+	<key>notifierParamOpacity</key>
+	<string>logarithmVersusProcess</string>
+	<key>permissiveIntensityInteraction</key>
+	<string>spriteAroundPattern</string>
+	<key>popupAmongStage</key>
+	<string>prismaticTextureScale</string>
+	<key>resolverPhaseTransparency</key>
+	<string>lastBaseCoord</string>
+	<key>stackAsComposite</key>
+	<string>delegateKindBorder</string>
+	<key>uniqueAnchorOffset</key>
+	<string>slashAsFlyweight</string>
+</dict>
+</plist>

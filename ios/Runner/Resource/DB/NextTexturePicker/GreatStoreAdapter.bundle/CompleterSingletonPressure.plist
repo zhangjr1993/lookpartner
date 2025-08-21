@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFacadeCount</key>
+	<string>sliderSystemDuration</string>
+	<key>hardControllerVelocity</key>
+	<string>coordinatorLayerDuration</string>
+	<key>injectionFromCycle</key>
+	<string>numericalSignAlignment</string>
+	<key>largeSliderMomentum</key>
+	<string>serviceLevelPressure</string>
+	<key>permissiveProviderOrientation</key>
+	<string>servicePhaseBrightness</string>
+	<key>semanticsSingletonShade</key>
+	<string>serviceParamVisibility</string>
+	<key>widgetShapeContrast</key>
+	<string>containerForParameter</string>
+</dict>
+</plist>

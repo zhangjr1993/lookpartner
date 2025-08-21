@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAwaitDistance</key>
+	<string>queueStateShade</string>
+	<key>criticalNibType</key>
+	<string>labelUntilLevel</string>
+	<key>dynamicFragmentStatus</key>
+	<string>difficultNibPosition</string>
+	<key>ephemeralBaselineInterval</key>
+	<string>scaleThroughMediator</string>
+	<key>hashTierOrientation</key>
+	<string>transformerCompositeDirection</string>
+	<key>interfaceBridgeDistance</key>
+	<string>equalizationThroughCommand</string>
+	<key>semanticPreviewVisibility</key>
+	<string>futureFunctionDensity</string>
+	<key>utilFromDecorator</key>
+	<string>cupertinoBuilderRate</string>
+</dict>
+</plist>

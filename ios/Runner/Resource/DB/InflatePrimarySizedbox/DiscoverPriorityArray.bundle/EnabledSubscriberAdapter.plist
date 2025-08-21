@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonStrategyAlignment</key>
+	<string>interactorJobLocation</string>
+	<key>listenerLayerSkewx</key>
+	<string>transitionObserverFeedback</string>
+	<key>mobxByContext</key>
+	<string>memberParameterRate</string>
+	<key>pinchableAwaitForce</key>
+	<string>singleTextureDistance</string>
+	<key>spriteMementoRotation</key>
+	<string>sineTaskShape</string>
+	<key>streamStateBehavior</key>
+	<string>routerJobInterval</string>
+	<key>transitionUntilObserver</key>
+	<string>sophisticatedMobileMargin</string>
+	<key>zoneAsStructure</key>
+	<string>groupLevelPressure</string>
+</dict>
+</plist>

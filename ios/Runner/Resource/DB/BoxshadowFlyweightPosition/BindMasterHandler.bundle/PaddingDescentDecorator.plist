@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionIncludeActivity</key>
+	<string>listviewDuringPhase</string>
+	<key>dimensionVersusPlatform</key>
+	<string>layerVarSize</string>
+	<key>disabledLogHue</key>
+	<string>appbarLayerAcceleration</string>
+	<key>documentCompositeFeedback</key>
+	<string>baseShapeHead</string>
+	<key>featureAgainstKind</key>
+	<string>configurationInterpreterColor</string>
+	<key>petAmongStyle</key>
+	<string>controllerContextFrequency</string>
+	<key>playbackParameterFormat</key>
+	<string>builderBufferHue</string>
+	<key>resizableLayoutBound</key>
+	<string>criticalTransformerVelocity</string>
+	<key>switchChainDistance</key>
+	<string>queryBeyondState</string>
+	<key>ternaryAwayComposite</key>
+	<string>callbackChainColor</string>
+</dict>
+</plist>

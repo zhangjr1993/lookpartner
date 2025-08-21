@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableButtonFormat</key>
+	<string>layoutShapeMomentum</string>
+	<key>layoutPatternTint</key>
+	<string>commandThroughMethod</string>
+	<key>mediumResponseMode</key>
+	<string>inkwellOperationAlignment</string>
+	<key>notificationFlyweightDuration</key>
+	<string>mutableDialogsVelocity</string>
+	<key>originalProgressbarState</key>
+	<string>lazySinkBorder</string>
+	<key>progressbarStateRate</key>
+	<string>bufferActivityLocation</string>
+</dict>
+</plist>

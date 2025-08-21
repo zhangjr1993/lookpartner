@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopConstraintBorder</key>
+	<string>usecaseStyleScale</string>
+	<key>logarithmExceptObserver</key>
+	<string>reductionAgainstJob</string>
+	<key>radiusDuringProxy</key>
+	<string>interactorInterpreterSkewy</string>
+	<key>usecaseAroundBridge</key>
+	<string>interactorForAction</string>
+</dict>
+</plist>

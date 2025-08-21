@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupPerBuffer</key>
+	<string>kernelTierInteraction</string>
+	<key>imageCompositeDistance</key>
+	<string>textStateStyle</string>
+	<key>integerSingletonValidation</key>
+	<string>persistentTweenDensity</string>
+	<key>interactorUntilSystem</key>
+	<string>layoutProxyKind</string>
+	<key>resilientTransitionRate</key>
+	<string>containerContainOperation</string>
+	<key>storyboardInsideParameter</key>
+	<string>capacitiesPerParameter</string>
+</dict>
+</plist>

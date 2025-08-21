@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleExceptAction</key>
+	<string>containerForForm</string>
+	<key>imperativeCollectionDelay</key>
+	<string>zoneAgainstForm</string>
+	<key>metadataVarPadding</key>
+	<string>grayscaleAsObserver</string>
+	<key>mobileParamFeedback</key>
+	<string>materialCollectionTint</string>
+	<key>pivotalSemanticsInteraction</key>
+	<string>resourceChainName</string>
+	<key>resultBufferInteraction</key>
+	<string>nextCompositionTheme</string>
+</dict>
+</plist>

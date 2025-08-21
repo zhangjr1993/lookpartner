@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDuringPhase</key>
+	<string>dependencyMementoAppearance</string>
+	<key>brushChainEdge</key>
+	<string>coordinatorContainActivity</string>
+	<key>effectIncludeParam</key>
+	<string>scrollableObserverVelocity</string>
+	<key>frameByChain</key>
+	<string>playbackPhaseState</string>
+	<key>sceneWithoutJob</key>
+	<string>inactiveStoreValidation</string>
+	<key>unactivatedMaterialRate</key>
+	<string>factoryContainChain</string>
+	<key>variantNearMediator</key>
+	<string>switchThroughSingleton</string>
+</dict>
+</plist>

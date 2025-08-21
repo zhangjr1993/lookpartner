@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAmongFacade</key>
+	<string>playbackOrPattern</string>
+	<key>callbackLayerStyle</key>
+	<string>materialCapsuleTag</string>
+	<key>managerAsContext</key>
+	<string>handlerAdapterTransparency</string>
+	<key>metadataStructureBound</key>
+	<string>enabledCommandAcceleration</string>
+	<key>reducerOutsideFramework</key>
+	<string>granularSessionVisibility</string>
+	<key>slashWithParameter</key>
+	<string>popupStyleFeedback</string>
+</dict>
+</plist>

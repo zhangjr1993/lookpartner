@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTempleForce</key>
+	<string>requiredCompleterBorder</string>
+	<key>buttonBufferHue</key>
+	<string>listviewStrategyOffset</string>
+	<key>intensityOutsideTask</key>
+	<string>drawerNumberTint</string>
+	<key>primaryTimerDelay</key>
+	<string>sessionMediatorTail</string>
+	<key>zoneIncludeSystem</key>
+	<string>queryOfObserver</string>
+</dict>
+</plist>

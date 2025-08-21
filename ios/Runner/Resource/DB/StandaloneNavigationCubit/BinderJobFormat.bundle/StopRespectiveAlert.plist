@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAdapterSkewy</key>
+	<string>concurrentQueryDirection</string>
+	<key>animatedcontainerActionDistance</key>
+	<string>uniformAlertRate</string>
+	<key>iconInsideAction</key>
+	<string>geometricTransitionInset</string>
+	<key>localizationWithoutVariable</key>
+	<string>disabledOffsetBound</string>
+	<key>mediaqueryByMediator</key>
+	<string>unsortedIntensityTop</string>
+	<key>notifierVarCount</key>
+	<string>uniformSubscriptionMargin</string>
+	<key>presenterStageHue</key>
+	<string>agilePointPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCacheFrequency</key>
+	<string>constParticleAlignment</string>
+	<key>compositionalSymbolPosition</key>
+	<string>radiusWithCommand</string>
+	<key>cubitAsShape</key>
+	<string>inheritedModulusHue</string>
+	<key>providerAtMemento</key>
+	<string>logUntilBuffer</string>
+	<key>scaleExceptKind</key>
+	<string>animatedAlignmentAcceleration</string>
+	<key>singletonOutsideStrategy</key>
+	<string>finalLabelDelay</string>
+	<key>statelessVariableBottom</key>
+	<string>prevUnarySaturation</string>
+</dict>
+</plist>

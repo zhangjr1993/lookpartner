@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOutsideJob</key>
+	<string>convolutionExceptAdapter</string>
+	<key>convolutionInsideLevel</key>
+	<string>sliderEnvironmentOrientation</string>
+	<key>elasticBufferCount</key>
+	<string>getxCycleFeedback</string>
+	<key>globalExpandedLocation</key>
+	<string>viewInLayer</string>
+	<key>greatTouchLocation</key>
+	<string>buttonWithoutActivity</string>
+	<key>iterativeGetxSkewx</key>
+	<string>aspectratioAwayStage</string>
+	<key>lastCoordinatorOpacity</key>
+	<string>consumerCompositeState</string>
+	<key>repositoryProcessKind</key>
+	<string>referencePlatformKind</string>
+	<key>resilientVectorHead</key>
+	<string>topicShapeInterval</string>
+</dict>
+</plist>

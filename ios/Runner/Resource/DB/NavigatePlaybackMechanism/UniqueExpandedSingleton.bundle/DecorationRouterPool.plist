@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineExceptStyle</key>
+	<string>optionBridgePadding</string>
+	<key>draggableInstructionInset</key>
+	<string>immediateRepositoryCenter</string>
+	<key>lostRoleState</key>
+	<string>disparateBrushTransparency</string>
+	<key>mobileContainerTransparency</key>
+	<string>lostIsolatePadding</string>
+	<key>responseAwayVariable</key>
+	<string>prevResponseSpeed</string>
+	<key>singletonWorkLeft</key>
+	<string>utilContextDistance</string>
+	<key>tensorAlignmentName</key>
+	<string>protocolStrategyVisible</string>
+</dict>
+</plist>

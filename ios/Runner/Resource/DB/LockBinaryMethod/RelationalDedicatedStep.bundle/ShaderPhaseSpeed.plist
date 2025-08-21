@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuBufferOrientation</key>
+	<string>tabbarNearTemple</string>
+	<key>observerAdapterRate</key>
+	<string>radiusAndComposite</string>
+	<key>progressbarAsWork</key>
+	<string>nodeThanKind</string>
+	<key>sessionSingletonTag</key>
+	<string>metadataOfNumber</string>
+</dict>
+</plist>

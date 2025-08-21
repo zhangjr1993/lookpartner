@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCallbackBehavior</key>
+	<string>resolverStateValidation</string>
+	<key>customizedCompositionOffset</key>
+	<string>matrixLevelDirection</string>
+	<key>multiplicationEnvironmentValidation</key>
+	<string>compositionContainParameter</string>
+	<key>precisionThroughTask</key>
+	<string>transformerVariableMomentum</string>
+</dict>
+</plist>

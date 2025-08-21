@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetNumberRotation</key>
+	<string>smartMasterCenter</string>
+	<key>basicCosineForce</key>
+	<string>animationFlyweightAcceleration</string>
+	<key>binaryThroughMode</key>
+	<string>activeProjectFormat</string>
+	<key>constraintStateDensity</key>
+	<string>reusablePositionAppearance</string>
+	<key>ephemeralInteractorShape</key>
+	<string>handlerWorkDistance</string>
+	<key>immutableGestureInset</key>
+	<string>permanentRouteState</string>
+	<key>offsetContextAlignment</key>
+	<string>serviceAtChain</string>
+	<key>opaqueZoneForce</key>
+	<string>projectWorkAlignment</string>
+	<key>storyboardCommandBorder</key>
+	<string>shaderPrototypeShape</string>
+</dict>
+</plist>

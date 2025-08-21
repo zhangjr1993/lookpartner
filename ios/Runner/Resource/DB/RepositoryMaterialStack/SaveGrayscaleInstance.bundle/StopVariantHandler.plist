@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceAgainstMediator</key>
+	<string>dimensionCompositeBrightness</string>
+	<key>localGraphContrast</key>
+	<string>composableContainerSpacing</string>
+	<key>loopInStrategy</key>
+	<string>rectActionSkewy</string>
+	<key>managerFrameworkCenter</key>
+	<string>granularProjectionDelay</string>
+	<key>multiMatrixTransparency</key>
+	<string>pointThanCommand</string>
+	<key>mutableGramForce</key>
+	<string>baselineBeyondPhase</string>
+</dict>
+</plist>

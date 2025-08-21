@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedControllerFeedback</key>
+	<string>ephemeralProfileDensity</string>
+	<key>capsuleAdapterTension</key>
+	<string>errorIncludeMode</string>
+	<key>collectionLevelAppearance</key>
+	<string>discardedAlertOpacity</string>
+	<key>durationModeAcceleration</key>
+	<string>keyResponseOffset</string>
+	<key>ternaryFunctionAppearance</key>
+	<string>specifyActionFlags</string>
+</dict>
+</plist>

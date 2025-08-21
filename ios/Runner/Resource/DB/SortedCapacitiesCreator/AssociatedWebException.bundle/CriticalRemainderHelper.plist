@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMediaqueryScale</key>
+	<string>cycleSystemTop</string>
+	<key>buttonOrStage</key>
+	<string>interfaceStructureDistance</string>
+	<key>clipperFacadeCenter</key>
+	<string>imperativeSliderForce</string>
+	<key>exceptionStyleTheme</key>
+	<string>sceneOperationType</string>
+	<key>movementForMemento</key>
+	<string>titleAmongScope</string>
+	<key>popupLayerDirection</key>
+	<string>offsetIncludeState</string>
+	<key>semanticsAlongPlatform</key>
+	<string>rectAlongFunction</string>
+	<key>sharedSegmentOffset</key>
+	<string>invisibleAlertMode</string>
+	<key>zoneDecoratorTop</key>
+	<string>layerAtTask</string>
+</dict>
+</plist>

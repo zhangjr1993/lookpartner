@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellLikeDecorator</key>
+	<string>rowPerProxy</string>
+	<key>columnExceptValue</key>
+	<string>cacheOutsideChain</string>
+	<key>desktopFactoryForce</key>
+	<string>expandedAgainstPrototype</string>
+	<key>intuitivePositionDistance</key>
+	<string>curvePrototypeSkewx</string>
+	<key>liteDimensionDirection</key>
+	<string>subsequentNavigationTint</string>
+</dict>
+</plist>

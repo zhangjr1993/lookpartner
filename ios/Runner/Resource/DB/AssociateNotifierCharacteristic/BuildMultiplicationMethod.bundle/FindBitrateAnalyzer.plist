@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxNearComposite</key>
+	<string>cubeInValue</string>
+	<key>constNodeBrightness</key>
+	<string>gestureChainAcceleration</string>
+	<key>cursorOutsideInterpreter</key>
+	<string>paddingOfAction</string>
+	<key>geometricProgressbarDuration</key>
+	<string>specifyMusicMode</string>
+	<key>gradientFlyweightPadding</key>
+	<string>delicateMediaBrightness</string>
+	<key>timerLikeMediator</key>
+	<string>resourceOutsideStrategy</string>
+</dict>
+</plist>

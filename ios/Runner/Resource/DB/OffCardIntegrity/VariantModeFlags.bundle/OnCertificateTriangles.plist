@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPlatformInterval</key>
+	<string>capacitiesObserverIndex</string>
+	<key>concurrentImageSpeed</key>
+	<string>cupertinoStreamFeedback</string>
+	<key>curveKindPressure</key>
+	<string>lostProviderTheme</string>
+	<key>gridviewVariableForce</key>
+	<string>cursorShapeHue</string>
+	<key>imperativeListenerLocation</key>
+	<string>inactiveRouteDistance</string>
+	<key>storeStructureTint</key>
+	<string>reusableDelegateTag</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleStyleCenter</key>
+	<string>curveOutsidePlatform</string>
+	<key>indicatorExceptVisitor</key>
+	<string>viewFormSpacing</string>
+	<key>otherSemanticsDistance</key>
+	<string>controllerChainMode</string>
+	<key>primaryLabelDirection</key>
+	<string>mediumAlignmentIndex</string>
+	<key>resizableChapterLocation</key>
+	<string>graphicStageMode</string>
+	<key>robustOffsetSkewx</key>
+	<string>configurationWorkInteraction</string>
+	<key>usageAwayShape</key>
+	<string>transitionForValue</string>
+</dict>
+</plist>

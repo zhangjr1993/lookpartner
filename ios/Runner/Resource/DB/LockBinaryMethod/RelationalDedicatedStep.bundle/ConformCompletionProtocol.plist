@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocJobFlags</key>
+	<string>builderDecoratorSpacing</string>
+	<key>hardResolverMode</key>
+	<string>apertureSinceComposite</string>
+	<key>normVariableContrast</key>
+	<string>plateNumberSize</string>
+	<key>respectiveExceptionDepth</key>
+	<string>frameParameterBound</string>
+	<key>sharedProviderVisible</key>
+	<string>isolateOperationIndex</string>
+	<key>timerWithVisitor</key>
+	<string>typicalSpriteEdge</string>
+</dict>
+</plist>

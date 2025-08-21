@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constGroupInterval</key>
+	<string>stampInVariable</string>
+	<key>dependencyOrForm</key>
+	<string>dependencyBridgeDistance</string>
+	<key>descriptorOperationSpeed</key>
+	<string>constraintAgainstVisitor</string>
+	<key>providerOfOperation</key>
+	<string>typicalApertureColor</string>
+	<key>providerOperationSpacing</key>
+	<string>responseNearBuffer</string>
+	<key>switchStyleShape</key>
+	<string>handlerSingletonFrequency</string>
+	<key>topicFlyweightFeedback</key>
+	<string>positionedOutsideSystem</string>
+</dict>
+</plist>

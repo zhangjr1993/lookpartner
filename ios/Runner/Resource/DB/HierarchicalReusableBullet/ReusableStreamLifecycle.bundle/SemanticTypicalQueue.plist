@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRectFlags</key>
+	<string>semanticsFormRotation</string>
+	<key>iterativeBrushResponse</key>
+	<string>aspectVersusState</string>
+	<key>localizationValueBottom</key>
+	<string>characterForContext</string>
+	<key>positionedInTemple</key>
+	<string>drawerOutsideShape</string>
+	<key>standaloneFragmentOpacity</key>
+	<string>denseSemanticsPressure</string>
+	<key>subscriptionCycleLeft</key>
+	<string>reusableMediaquerySkewx</string>
+	<key>textAwayTask</key>
+	<string>interactiveDelegateStyle</string>
+	<key>themeEnvironmentFlags</key>
+	<string>nativeBulletSaturation</string>
+	<key>usedCoordinatorInset</key>
+	<string>queueInTier</string>
+</dict>
+</plist>

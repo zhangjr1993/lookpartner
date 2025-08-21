@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMediatorFrequency</key>
+	<string>spotUntilParameter</string>
+	<key>controllerByLevel</key>
+	<string>prevResultDepth</string>
+	<key>materialScreenBottom</key>
+	<string>checkboxTypeContrast</string>
+	<key>pageviewPerTier</key>
+	<string>routerWorkOffset</string>
+	<key>rapidProfileSkewx</key>
+	<string>interpolationMementoSpacing</string>
+	<key>remainderOfVariable</key>
+	<string>largeTaskTail</string>
+	<key>routerAdapterSize</key>
+	<string>cubitLayerOrigin</string>
+	<key>textSinceEnvironment</key>
+	<string>iconBesideBuffer</string>
+	<key>typicalStoryboardFlags</key>
+	<string>loopStrategyOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicShaderOrigin</key>
+	<string>nodeExceptShape</string>
+	<key>dependencyWithoutStrategy</key>
+	<string>symbolSystemRotation</string>
+	<key>draggableChannelStatus</key>
+	<string>unactivatedIsolateCount</string>
+	<key>layerStructureSpacing</key>
+	<string>standaloneAwaitInteraction</string>
+	<key>localizationNearParameter</key>
+	<string>repositorySystemCenter</string>
+	<key>serviceInJob</key>
+	<string>opaqueRadiusDensity</string>
+</dict>
+</plist>

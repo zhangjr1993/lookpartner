@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectExceptParam</key>
+	<string>frameAgainstLayer</string>
+	<key>effectTaskCoord</key>
+	<string>cellTypeCenter</string>
+	<key>isolateWithoutFacade</key>
+	<string>catalystModeTension</string>
+	<key>protocolBufferStatus</key>
+	<string>navigatorPrototypeKind</string>
+	<key>smallAnimationDirection</key>
+	<string>subtleTernaryFlags</string>
+</dict>
+</plist>

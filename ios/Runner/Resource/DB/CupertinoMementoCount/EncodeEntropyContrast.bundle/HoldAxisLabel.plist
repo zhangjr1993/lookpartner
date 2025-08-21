@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCoordinatorForce</key>
+	<string>richtextAdapterDistance</string>
+	<key>layoutTierLeft</key>
+	<string>operationStatePadding</string>
+	<key>mutableStorageBrightness</key>
+	<string>curvePatternSpeed</string>
+	<key>sceneThanEnvironment</key>
+	<string>priorEffectCoord</string>
+	<key>specifierVisitorKind</key>
+	<string>radioVisitorSize</string>
+	<key>spriteExceptFlyweight</key>
+	<string>subscriptionUntilOperation</string>
+	<key>unactivatedErrorTop</key>
+	<string>imperativePreviewBorder</string>
+</dict>
+</plist>

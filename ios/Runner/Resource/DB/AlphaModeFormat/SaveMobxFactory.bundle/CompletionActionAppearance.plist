@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferContainVisitor</key>
+	<string>intuitiveColumnFrequency</string>
+	<key>hardThreadPosition</key>
+	<string>allocatorByTask</string>
+	<key>optimizerOfFacade</key>
+	<string>displayableControllerEdge</string>
+	<key>painterDuringContext</key>
+	<string>factoryStateTransparency</string>
+	<key>pivotalCheckboxName</key>
+	<string>reusableMenuSaturation</string>
+	<key>precisionDecoratorMode</key>
+	<string>statefulValueFlags</string>
+	<key>sinkLevelDensity</key>
+	<string>unactivatedLayoutTag</string>
+	<key>uniformMetadataSpacing</key>
+	<string>viewLikeTier</string>
+</dict>
+</plist>

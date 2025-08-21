@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResponseStyle</key>
+	<string>notificationBesideType</string>
+	<key>arithmeticLocalizationSaturation</key>
+	<string>dimensionAsParameter</string>
+	<key>brushPrototypeKind</key>
+	<string>flexibleFactoryTag</string>
+	<key>cubitVariableInterval</key>
+	<string>numericalConfigurationEdge</string>
+	<key>denseStackVisibility</key>
+	<string>arithmeticCommandEdge</string>
+	<key>layoutWithStyle</key>
+	<string>asyncOperationTag</string>
+	<key>logarithmValueStatus</key>
+	<string>descriptionBufferHead</string>
+	<key>otherLocalizationBehavior</key>
+	<string>difficultStateSaturation</string>
+	<key>pointExceptComposite</key>
+	<string>grainTypeVisible</string>
+</dict>
+</plist>

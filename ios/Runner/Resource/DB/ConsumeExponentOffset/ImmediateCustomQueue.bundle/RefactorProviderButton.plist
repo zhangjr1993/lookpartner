@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWithStructure</key>
+	<string>resultStructureRight</string>
+	<key>allocatorOperationRate</key>
+	<string>currentNavigatorTheme</string>
+	<key>deferredRadiusAppearance</key>
+	<string>associatedGridSize</string>
+	<key>entropyStrategyInterval</key>
+	<string>streamContainProcess</string>
+	<key>independentNodePressure</key>
+	<string>notificationWorkFeedback</string>
+	<key>interactorActionIndex</key>
+	<string>completionDespiteCommand</string>
+	<key>sceneOutsideFacade</key>
+	<string>popupFunctionRate</string>
+	<key>statelessNavigationTag</key>
+	<string>transitionLikeVisitor</string>
+	<key>uniformDurationOrientation</key>
+	<string>dependencyCycleType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPlatformHead</key>
+	<string>synchronousLayerSpeed</string>
+	<key>inactiveStoreSaturation</key>
+	<string>ephemeralCollectionSaturation</string>
+	<key>interactorPatternRight</key>
+	<string>listviewFormOrientation</string>
+	<key>momentumCommandBrightness</key>
+	<string>materialRadioDirection</string>
+	<key>nextEntityInterval</key>
+	<string>criticalNavigatorForce</string>
+	<key>repositoryFlyweightTransparency</key>
+	<string>bulletProcessScale</string>
+	<key>topicLikeProcess</key>
+	<string>intensityAtMemento</string>
+	<key>visibleReducerPressure</key>
+	<string>alignmentActionFormat</string>
+</dict>
+</plist>

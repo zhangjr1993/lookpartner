@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAsFramework</key>
+	<string>binaryScopeAcceleration</string>
+	<key>channelsStateFeedback</key>
+	<string>ignoredCapsuleVelocity</string>
+	<key>decorationOutsideScope</key>
+	<string>batchAtTier</string>
+	<key>gateMediatorPosition</key>
+	<string>threadAroundLevel</string>
+	<key>pinchableResultForce</key>
+	<string>uniformDecorationIndex</string>
+	<key>profileByObserver</key>
+	<string>imageExceptProxy</string>
+	<key>radiusTierDepth</key>
+	<string>standaloneZoneOpacity</string>
+	<key>requestOutsideObserver</key>
+	<string>requiredSpriteFormat</string>
+	<key>routeVersusForm</key>
+	<string>normalStreamDistance</string>
+</dict>
+</plist>

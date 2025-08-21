@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndType</key>
+	<string>containerTierVisible</string>
+	<key>completerDecoratorTheme</key>
+	<string>hardSwiftOpacity</string>
+	<key>completerViaKind</key>
+	<string>tappableReductionCount</string>
+	<key>denseMenuBorder</key>
+	<string>signAlongMode</string>
+	<key>eagerThreadIndex</key>
+	<string>explicitFutureForce</string>
+	<key>gateAmongPrototype</key>
+	<string>denseTweenTint</string>
+	<key>masterWorkVisible</key>
+	<string>canvasCycleTail</string>
+	<key>popupKindBorder</key>
+	<string>diversifiedCompleterStatus</string>
+	<key>sizedboxKindResponse</key>
+	<string>dynamicPopupAppearance</string>
+</dict>
+</plist>

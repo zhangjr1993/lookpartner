@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableFutureBehavior</key>
+	<string>viewVarTag</string>
+	<key>featureAgainstPhase</key>
+	<string>largeSessionCoord</string>
+	<key>heroActionSkewy</key>
+	<string>mutableMasterName</string>
+	<key>layoutWithActivity</key>
+	<string>activeUsecaseCoord</string>
+	<key>permanentExceptionInset</key>
+	<string>mediaStageInterval</string>
+	<key>sinkInDecorator</key>
+	<string>ternaryDespiteLayer</string>
+	<key>statelessBaseAlignment</key>
+	<string>captionBridgeContrast</string>
+</dict>
+</plist>

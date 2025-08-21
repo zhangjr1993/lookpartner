@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedStepTension</key>
+	<string>largeEventSkewx</string>
+	<key>rectAsFlyweight</key>
+	<string>positionPlatformLeft</string>
+	<key>spriteVisitorOrigin</key>
+	<string>routeWithDecorator</string>
+	<key>textDuringTier</key>
+	<string>gradientFrameworkContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerForSingleton</key>
+	<string>nibSingletonShape</string>
+	<key>disabledTransitionCoord</key>
+	<string>completionStructurePosition</string>
+	<key>logFormShade</key>
+	<string>layerKindAppearance</string>
+	<key>mediumGroupAlignment</key>
+	<string>parallelRepositoryScale</string>
+	<key>missedTransformerColor</key>
+	<string>animatedOverlayOffset</string>
+	<key>notifierForNumber</key>
+	<string>radiusByMemento</string>
+	<key>ternaryTypeFeedback</key>
+	<string>metadataCommandState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForMediator</key>
+	<string>allocatorTypeTint</string>
+	<key>materialAspectValidation</key>
+	<string>offsetSingletonAppearance</string>
+	<key>sortedListenerOrigin</key>
+	<string>managerMethodFrequency</string>
+	<key>taskContextPadding</key>
+	<string>popupAboutProcess</string>
+	<key>taskInWork</key>
+	<string>streamOfPhase</string>
+	<key>tickerFromMode</key>
+	<string>materialParameterType</string>
+	<key>vectorIncludeProxy</key>
+	<string>secondAnimationMomentum</string>
+</dict>
+</plist>

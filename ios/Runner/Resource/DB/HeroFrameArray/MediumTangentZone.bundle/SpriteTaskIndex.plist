@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSegmentInterval</key>
+	<string>dedicatedScaffoldContrast</string>
+	<key>builderObserverFormat</key>
+	<string>observerInNumber</string>
+	<key>directPopupBrightness</key>
+	<string>containerSystemSkewx</string>
+	<key>eventIncludeStrategy</key>
+	<string>baseParamShade</string>
+	<key>immutableBorderIndex</key>
+	<string>constRouteColor</string>
+	<key>pinchableProviderType</key>
+	<string>completerParamPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerModeFeedback</key>
+	<string>plateAndPrototype</string>
+	<key>numericalGesturedetectorSize</key>
+	<string>backwardCurveLocation</string>
+	<key>sharedRichtextDirection</key>
+	<string>capsulePatternVisibility</string>
+	<key>textInDecorator</key>
+	<string>substantialChannelDistance</string>
+</dict>
+</plist>

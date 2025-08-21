@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNavigationIndex</key>
+	<string>lastLogTop</string>
+	<key>bufferPerStyle</key>
+	<string>descriptionStructureBorder</string>
+	<key>durationDuringLayer</key>
+	<string>visibleBuilderTop</string>
+	<key>effectWorkVisible</key>
+	<string>stampStateOpacity</string>
+	<key>immediateDependencyCoord</key>
+	<string>apertureActivitySpacing</string>
+	<key>inheritedLayerDirection</key>
+	<string>customSegmentSkewy</string>
+	<key>numericalExceptionSkewy</key>
+	<string>tableLevelBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCycleTint</key>
+	<string>matrixInEnvironment</string>
+	<key>concurrentProtocolType</key>
+	<string>descriptorPerScope</string>
+	<key>diversifiedViewBehavior</key>
+	<string>promiseTaskValidation</string>
+	<key>mutableChecklistTheme</key>
+	<string>radiusEnvironmentDuration</string>
+	<key>sceneFromInterpreter</key>
+	<string>callbackVariableTag</string>
+	<key>semanticsIncludePlatform</key>
+	<string>oldImageRotation</string>
+</dict>
+</plist>

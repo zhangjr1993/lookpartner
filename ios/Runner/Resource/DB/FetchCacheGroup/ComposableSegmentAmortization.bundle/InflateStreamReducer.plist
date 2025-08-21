@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxModeAppearance</key>
+	<string>typicalManagerOrigin</string>
+	<key>containerStateBehavior</key>
+	<string>delegateIncludeObserver</string>
+	<key>iterativeSizedboxHue</key>
+	<string>streamPatternRight</string>
+	<key>numericalCheckboxSpeed</key>
+	<string>progressbarLikeShape</string>
+	<key>observerTaskDistance</key>
+	<string>alertPhaseCoord</string>
+	<key>richtextActivityCoord</key>
+	<string>callbackOperationPadding</string>
+	<key>slashAndProxy</key>
+	<string>rowInterpreterRate</string>
+</dict>
+</plist>

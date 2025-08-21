@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePatternFlags</key>
+	<string>statelessActivityCenter</string>
+	<key>cubitDuringNumber</key>
+	<string>inkwellLevelBrightness</string>
+	<key>curveIncludeParam</key>
+	<string>intermediateRadioKind</string>
+	<key>cycleThroughTemple</key>
+	<string>sustainableAlignmentStyle</string>
+	<key>previewOrType</key>
+	<string>positionedStateName</string>
+	<key>requestInState</key>
+	<string>normViaSystem</string>
+</dict>
+</plist>

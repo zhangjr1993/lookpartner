@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorMode</key>
+	<string>animationFlyweightMargin</string>
+	<key>buttonFrameworkDensity</key>
+	<string>commonBlocAcceleration</string>
+	<key>channelCommandSize</key>
+	<string>masterSinceMemento</string>
+	<key>compositionalCursorBound</key>
+	<string>mapAsMode</string>
+	<key>menuNearState</key>
+	<string>mediumBaseValidation</string>
+	<key>modalAroundOperation</key>
+	<string>builderActivityAcceleration</string>
+	<key>oldExtensionTint</key>
+	<string>symbolFormDelay</string>
+	<key>promisePatternInteraction</key>
+	<string>directlyOptionDistance</string>
+	<key>requiredLabelOffset</key>
+	<string>cubeIncludeKind</string>
+</dict>
+</plist>

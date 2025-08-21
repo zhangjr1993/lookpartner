@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMethodBorder</key>
+	<string>semanticSubscriptionHead</string>
+	<key>boxshadowPatternSpacing</key>
+	<string>inactiveControllerEdge</string>
+	<key>coordinatorAroundProxy</key>
+	<string>elasticGestureColor</string>
+	<key>menuScopeBottom</key>
+	<string>intuitiveTimerDelay</string>
+	<key>prismaticTickerShade</key>
+	<string>semanticButtonPosition</string>
+</dict>
+</plist>

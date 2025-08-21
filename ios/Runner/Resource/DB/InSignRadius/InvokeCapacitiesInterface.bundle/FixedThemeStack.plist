@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePositionDensity</key>
+	<string>robustInteractorScale</string>
+	<key>fixedScreenOpacity</key>
+	<string>activeCycleDuration</string>
+	<key>requestForParam</key>
+	<string>contractionWithoutContext</string>
+	<key>semanticFactoryRate</key>
+	<string>delegatePerFlyweight</string>
+	<key>tweenBridgeAppearance</key>
+	<string>riverpodWithMethod</string>
+</dict>
+</plist>

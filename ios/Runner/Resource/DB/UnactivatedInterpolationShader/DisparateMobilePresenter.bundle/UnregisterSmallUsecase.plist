@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableLossDuration</key>
+	<string>storageCycleSpacing</string>
+	<key>cubePlatformRotation</key>
+	<string>switchAroundScope</string>
+	<key>dependencyVersusFramework</key>
+	<string>nativeSpecifierName</string>
+	<key>draggableLabelMode</key>
+	<string>tensorTableSpacing</string>
+	<key>nativeEntitySaturation</key>
+	<string>modelChainRight</string>
+	<key>observerTierBound</key>
+	<string>beginnerSizeDirection</string>
+</dict>
+</plist>

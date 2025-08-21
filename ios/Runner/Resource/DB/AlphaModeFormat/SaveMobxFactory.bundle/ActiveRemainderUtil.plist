@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationStructureVisibility</key>
+	<string>providerThroughSystem</string>
+	<key>gridStageResponse</key>
+	<string>sampleNearOperation</string>
+	<key>listviewVariableSize</key>
+	<string>touchKindFeedback</string>
+	<key>permissiveRemainderAcceleration</key>
+	<string>flexibleGridCount</string>
+	<key>sophisticatedControllerAppearance</key>
+	<string>gemFacadeDuration</string>
+</dict>
+</plist>

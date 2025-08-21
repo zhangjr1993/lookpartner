@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSinkStatus</key>
+	<string>characterTypeSaturation</string>
+	<key>advancedLoopDistance</key>
+	<string>buttonShapeDepth</string>
+	<key>aspectFromSystem</key>
+	<string>observerModeOrigin</string>
+	<key>blocMediatorTheme</key>
+	<string>cupertinoSpecifierInteraction</string>
+	<key>consultativeCellHead</key>
+	<string>mediumFactoryTop</string>
+	<key>grainContainValue</key>
+	<string>nibTempleBorder</string>
+</dict>
+</plist>

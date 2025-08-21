@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOrLayer</key>
+	<string>explicitThemeOrigin</string>
+	<key>completerExceptCycle</key>
+	<string>sharedProtocolTheme</string>
+	<key>crudeGradientHead</key>
+	<string>enabledPlaybackSaturation</string>
+	<key>gateVisitorFormat</key>
+	<string>deferredAxisAlignment</string>
+	<key>gesturePrototypeLeft</key>
+	<string>inactiveSwiftShape</string>
+	<key>histogramWithBuffer</key>
+	<string>methodNearLevel</string>
+	<key>intermediateAwaitEdge</key>
+	<string>euclideanGroupMode</string>
+	<key>mutableConstraintVisibility</key>
+	<string>allocatorActivityTheme</string>
+	<key>rowLayerMargin</key>
+	<string>profileBeyondShape</string>
+</dict>
+</plist>

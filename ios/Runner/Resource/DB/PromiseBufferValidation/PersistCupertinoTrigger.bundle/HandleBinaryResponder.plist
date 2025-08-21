@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOverlayInteraction</key>
+	<string>numericalQueryInterval</string>
+	<key>equipmentPerMediator</key>
+	<string>durationAgainstVar</string>
+	<key>fusedObserverSaturation</key>
+	<string>missedHashEdge</string>
+	<key>liteLayoutInset</key>
+	<string>instructionSystemMode</string>
+	<key>loopEnvironmentPadding</key>
+	<string>notificationContextSaturation</string>
+</dict>
+</plist>

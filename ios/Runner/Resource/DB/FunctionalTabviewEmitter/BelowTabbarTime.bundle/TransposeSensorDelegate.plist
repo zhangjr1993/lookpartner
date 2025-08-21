@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarEnvironmentName</key>
+	<string>fusedServiceDuration</string>
+	<key>bufferFacadeSaturation</key>
+	<string>rapidLayerRate</string>
+	<key>discardedGetxState</key>
+	<string>primaryDecorationOrigin</string>
+	<key>groupPatternOpacity</key>
+	<string>grainSystemSize</string>
+	<key>mainReducerOpacity</key>
+	<string>statelessAwaitOpacity</string>
+	<key>materialCompositionSkewx</key>
+	<string>disparateDependencyAppearance</string>
+</dict>
+</plist>

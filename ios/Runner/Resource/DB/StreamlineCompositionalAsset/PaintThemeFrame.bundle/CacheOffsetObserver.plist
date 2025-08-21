@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPopupBorder</key>
+	<string>compositionPatternCoord</string>
+	<key>commonZoneDelay</key>
+	<string>descriptorScopeInset</string>
+	<key>curveWorkLeft</key>
+	<string>workflowAroundAction</string>
+	<key>mapExceptVar</key>
+	<string>layoutSystemVisibility</string>
+	<key>numericalPaddingType</key>
+	<string>draggableMasterResponse</string>
+	<key>scrollableSampleInterval</key>
+	<string>factoryInsideStrategy</string>
+	<key>utilChainBound</key>
+	<string>imageAndPlatform</string>
+</dict>
+</plist>

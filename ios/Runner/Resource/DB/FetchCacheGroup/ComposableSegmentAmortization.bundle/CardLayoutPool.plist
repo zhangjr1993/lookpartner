@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticWidgetMargin</key>
+	<string>spinePlatformInterval</string>
+	<key>presenterBufferForce</key>
+	<string>reducerSinceFramework</string>
+	<key>resilientTransitionTint</key>
+	<string>cartesianTransitionTint</string>
+	<key>scrollStructureLeft</key>
+	<string>constraintMediatorValidation</string>
+</dict>
+</plist>

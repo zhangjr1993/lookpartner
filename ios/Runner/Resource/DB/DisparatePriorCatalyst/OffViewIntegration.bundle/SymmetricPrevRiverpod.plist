@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationValueAppearance</key>
+	<string>spriteOutsideMediator</string>
+	<key>convolutionFormBottom</key>
+	<string>clipperExceptComposite</string>
+	<key>eventAgainstValue</key>
+	<string>groupOutsideValue</string>
+	<key>featureInsideSingleton</key>
+	<string>mobileOutsideState</string>
+	<key>firstVariantColor</key>
+	<string>intuitiveNavigatorShape</string>
+	<key>otherCubeAlignment</key>
+	<string>paddingInterpreterSkewx</string>
+	<key>providerTaskDepth</key>
+	<string>inkwellFrameworkStyle</string>
+	<key>sineEnvironmentMode</key>
+	<string>titleMementoBehavior</string>
+	<key>subscriptionInterpreterScale</key>
+	<string>activatedStackFlags</string>
+	<key>usecaseMethodDistance</key>
+	<string>errorShapePressure</string>
+</dict>
+</plist>

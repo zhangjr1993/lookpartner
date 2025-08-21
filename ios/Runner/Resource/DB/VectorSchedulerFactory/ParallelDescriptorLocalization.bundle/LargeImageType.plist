@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAroundAdapter</key>
+	<string>positionTypeCoord</string>
+	<key>groupBufferCount</key>
+	<string>usageNearSystem</string>
+	<key>operationMethodShade</key>
+	<string>inheritedMatrixAcceleration</string>
+	<key>optimizerActionOpacity</key>
+	<string>otherChannelsPadding</string>
+	<key>repositoryStageTransparency</key>
+	<string>durationBufferRate</string>
+	<key>storeLayerDepth</key>
+	<string>sizedboxMethodSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelNearOperation</key>
+	<string>radiusCycleDensity</string>
+	<key>channelsOutsideActivity</key>
+	<string>directSymbolBrightness</string>
+	<key>collectionOperationDuration</key>
+	<string>beginnerCupertinoContrast</string>
+	<key>grayscaleInStructure</key>
+	<string>mediumAllocatorForce</string>
+	<key>screenActionFrequency</key>
+	<string>painterCommandVelocity</string>
+	<key>standaloneTangentAppearance</key>
+	<string>callbackFormOpacity</string>
+	<key>storageStateRight</key>
+	<string>asyncOfInterpreter</string>
+</dict>
+</plist>

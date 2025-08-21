@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContainerAppearance</key>
+	<string>hashPlatformAppearance</string>
+	<key>asyncResourceVisible</key>
+	<string>constraintTypeRight</string>
+	<key>baseExceptSystem</key>
+	<string>previewLevelColor</string>
+	<key>concurrentLayoutIndex</key>
+	<string>cursorAroundJob</string>
+	<key>numericalSignatureHead</key>
+	<string>timerPhaseHead</string>
+	<key>scrollDespiteShape</key>
+	<string>resultFrameworkRotation</string>
+	<key>spriteAroundStyle</key>
+	<string>taskAndState</string>
+	<key>spriteTypeDensity</key>
+	<string>transformerOutsideScope</string>
+</dict>
+</plist>

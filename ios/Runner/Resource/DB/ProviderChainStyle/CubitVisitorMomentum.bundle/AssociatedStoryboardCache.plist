@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAroundShape</key>
+	<string>managerProxyDensity</string>
+	<key>mapForBridge</key>
+	<string>ignoredControllerSkewy</string>
+	<key>scaffoldAroundShape</key>
+	<string>localGrainTheme</string>
+	<key>sizeSinceVisitor</key>
+	<string>cellLikeLevel</string>
+	<key>tensorRiverpodFormat</key>
+	<string>movementLayerBrightness</string>
+</dict>
+</plist>

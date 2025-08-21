@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainNearParam</key>
+	<string>spriteProxyValidation</string>
+	<key>navigationThroughDecorator</key>
+	<string>slashDecoratorOrigin</string>
+	<key>queueActionDensity</key>
+	<string>euclideanCompleterOrigin</string>
+	<key>visibleWidgetType</key>
+	<string>layoutSinceInterpreter</string>
+</dict>
+</plist>

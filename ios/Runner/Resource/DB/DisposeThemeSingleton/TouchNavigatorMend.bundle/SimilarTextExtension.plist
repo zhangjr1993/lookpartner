@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackUntilWork</key>
+	<string>viewTempleDelay</string>
+	<key>delegateSystemType</key>
+	<string>gestureAmongSingleton</string>
+	<key>integerWorkFeedback</key>
+	<string>dependencyFlyweightState</string>
+	<key>lastAlignmentShape</key>
+	<string>gateFromFramework</string>
+	<key>requiredSpriteKind</key>
+	<string>loopStateOrigin</string>
+	<key>semanticsBridgeCount</key>
+	<string>rectCommandDepth</string>
+	<key>stateMementoColor</key>
+	<string>anchorExceptState</string>
+	<key>streamNearPhase</key>
+	<string>elasticDelegateStyle</string>
+</dict>
+</plist>

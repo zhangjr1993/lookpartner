@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandShapePressure</key>
+	<string>variantScopeState</string>
+	<key>completionSingletonBehavior</key>
+	<string>priorityContainParameter</string>
+	<key>dependencyOperationBehavior</key>
+	<string>canvasVersusAction</string>
+	<key>labelJobTop</key>
+	<string>deferredDurationOrientation</string>
+	<key>layoutPerMemento</key>
+	<string>gramAdapterRotation</string>
+	<key>modulusFunctionStyle</key>
+	<string>associatedWidgetShape</string>
+	<key>originalDocumentInset</key>
+	<string>offsetThanAdapter</string>
+	<key>shaderTierBottom</key>
+	<string>delegateAboutTemple</string>
+	<key>similarViewCenter</key>
+	<string>ignoredChannelName</string>
+</dict>
+</plist>

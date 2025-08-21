@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFormTint</key>
+	<string>animatedScaffoldAppearance</string>
+	<key>finalStateDistance</key>
+	<string>pageviewTempleBrightness</string>
+	<key>layerAtOperation</key>
+	<string>inactiveRouterForce</string>
+	<key>playbackStageTag</key>
+	<string>skinAdapterDelay</string>
+	<key>positionFrameworkBound</key>
+	<string>containerWithoutOperation</string>
+	<key>routeCycleTop</key>
+	<string>requestStyleSize</string>
+	<key>touchEnvironmentFeedback</key>
+	<string>parallelAppbarBottom</string>
+</dict>
+</plist>

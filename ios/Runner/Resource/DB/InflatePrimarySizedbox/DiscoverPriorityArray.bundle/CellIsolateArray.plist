@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferModeValidation</key>
+	<string>stateCompositePosition</string>
+	<key>observerAlongPattern</key>
+	<string>threadViaMemento</string>
+	<key>permissiveStatefulScale</key>
+	<string>delicateTableOpacity</string>
+	<key>stateAtParameter</key>
+	<string>permanentCaptionDelay</string>
+</dict>
+</plist>

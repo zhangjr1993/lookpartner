@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStrategyLocation</key>
+	<string>dialogsAmongShape</string>
+	<key>loopNumberTransparency</key>
+	<string>enabledTopicBottom</string>
+	<key>missedActionTop</key>
+	<string>listviewParamInset</string>
+	<key>relationalShaderSaturation</key>
+	<string>tableStrategyHead</string>
+	<key>responseOutsideVariable</key>
+	<string>getxUntilVariable</string>
+	<key>stampVarHead</key>
+	<string>displayableGraphicContrast</string>
+</dict>
+</plist>

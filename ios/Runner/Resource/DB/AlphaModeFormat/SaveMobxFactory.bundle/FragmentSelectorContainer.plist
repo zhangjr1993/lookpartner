@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTextBound</key>
+	<string>seamlessFrameBehavior</string>
+	<key>listenerBeyondBridge</key>
+	<string>webSceneCenter</string>
+	<key>originalPositionDistance</key>
+	<string>ignoredProviderSize</string>
+	<key>streamOfLevel</key>
+	<string>allocatorPhaseTransparency</string>
+</dict>
+</plist>

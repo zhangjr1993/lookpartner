@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrainKind</key>
+	<string>robustConfigurationFeedback</string>
+	<key>cartesianHashSize</key>
+	<string>protectedCardAppearance</string>
+	<key>currentSignBorder</key>
+	<string>progressbarPrototypeFeedback</string>
+	<key>descriptionSingletonScale</key>
+	<string>hierarchicalIndicatorDensity</string>
+	<key>presenterDuringPlatform</key>
+	<string>mediocreStatelessOrientation</string>
+	<key>widgetAboutAction</key>
+	<string>unactivatedTransitionKind</string>
+	<key>widgetDuringKind</key>
+	<string>lastStorageBound</string>
+</dict>
+</plist>

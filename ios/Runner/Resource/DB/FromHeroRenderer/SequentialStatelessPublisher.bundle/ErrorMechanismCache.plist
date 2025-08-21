@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAmongBuffer</key>
+	<string>basicBulletDensity</string>
+	<key>challengeTypeShape</key>
+	<string>singletonOutsideFramework</string>
+	<key>checkboxOrPrototype</key>
+	<string>positionVisitorFrequency</string>
+	<key>completerBufferTop</key>
+	<string>sequentialRepositoryBehavior</string>
+	<key>dynamicCycleRate</key>
+	<string>materialAdapterFeedback</string>
+	<key>lostExtensionRate</key>
+	<string>accordionSpriteLocation</string>
+	<key>storageStructureSkewy</key>
+	<string>webRichtextVisibility</string>
+</dict>
+</plist>

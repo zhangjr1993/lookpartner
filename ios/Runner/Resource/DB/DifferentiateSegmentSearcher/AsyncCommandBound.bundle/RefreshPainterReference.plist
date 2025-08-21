@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferObserverType</key>
+	<string>providerSinceCommand</string>
+	<key>chapterOperationType</key>
+	<string>backwardWidgetResponse</string>
+	<key>listviewSingletonDelay</key>
+	<string>commonCoordinatorVisible</string>
+	<key>slashLayerSpacing</key>
+	<string>curveAwayBuffer</string>
+	<key>transitionOrVisitor</key>
+	<string>featureBesideWork</string>
+</dict>
+</plist>

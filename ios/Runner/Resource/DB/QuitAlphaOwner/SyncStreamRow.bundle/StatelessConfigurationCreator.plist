@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaLayerMode</key>
+	<string>inactiveIsolateBrightness</string>
+	<key>canvasParamHue</key>
+	<string>responseMediatorBottom</string>
+	<key>ephemeralButtonDirection</key>
+	<string>anchorCompositeVelocity</string>
+	<key>gestureDuringChain</key>
+	<string>asyncSpotBehavior</string>
+	<key>graphDuringTask</key>
+	<string>groupLevelShape</string>
+	<key>mediaSystemOffset</key>
+	<string>stampAgainstParameter</string>
+	<key>persistentBoxshadowFrequency</key>
+	<string>uniqueTextAcceleration</string>
+	<key>presenterTierContrast</key>
+	<string>layoutFunctionScale</string>
+	<key>priorityShapeValidation</key>
+	<string>viewLevelState</string>
+	<key>resourceStyleOrientation</key>
+	<string>pageviewFromPlatform</string>
+</dict>
+</plist>

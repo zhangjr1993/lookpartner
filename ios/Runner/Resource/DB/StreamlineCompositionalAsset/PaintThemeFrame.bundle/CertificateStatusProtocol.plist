@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLayoutValidation</key>
+	<string>signMediatorDelay</string>
+	<key>directContainerOrientation</key>
+	<string>managerActionDelay</string>
+	<key>permissiveConstraintSize</key>
+	<string>retainedQueuePadding</string>
+	<key>singlePresenterTheme</key>
+	<string>usedCompletionDistance</string>
+</dict>
+</plist>

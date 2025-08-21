@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteInterpreter</key>
+	<string>containerAsTask</string>
+	<key>chapterStrategyOrientation</key>
+	<string>timerByBuffer</string>
+	<key>interactiveAppbarState</key>
+	<string>listenerSystemAlignment</string>
+	<key>scrollBufferTransparency</key>
+	<string>opaqueSpriteIndex</string>
+	<key>stepFunctionDepth</key>
+	<string>rapidQueueCoord</string>
+	<key>taskLevelMomentum</key>
+	<string>sceneWithWork</string>
+</dict>
+</plist>

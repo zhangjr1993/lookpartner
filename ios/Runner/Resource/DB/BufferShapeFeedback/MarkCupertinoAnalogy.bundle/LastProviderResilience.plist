@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainIntegerOffset</key>
+	<string>convolutionAmongMemento</string>
+	<key>opaqueBatchBehavior</key>
+	<string>pageviewPerVar</string>
+	<key>subpixelDespiteContext</key>
+	<string>discardedSpotFeedback</string>
+	<key>temporaryPresenterInterval</key>
+	<string>providerExceptLevel</string>
+</dict>
+</plist>

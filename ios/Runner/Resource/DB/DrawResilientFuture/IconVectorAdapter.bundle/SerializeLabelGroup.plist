@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorByFramework</key>
+	<string>statePerParameter</string>
+	<key>criticalPetAcceleration</key>
+	<string>prevIconOrientation</string>
+	<key>cubitFromCommand</key>
+	<string>sortedSemanticsFeedback</string>
+	<key>giftSingletonDensity</key>
+	<string>managerStyleDepth</string>
+	<key>liteGramMode</key>
+	<string>rowPhaseStyle</string>
+	<key>sequentialRouterLocation</key>
+	<string>workflowFacadeLocation</string>
+	<key>specifyInterfaceCenter</key>
+	<string>usecaseMementoRotation</string>
+	<key>transitionFunctionRate</key>
+	<string>graphWithoutComposite</string>
+</dict>
+</plist>

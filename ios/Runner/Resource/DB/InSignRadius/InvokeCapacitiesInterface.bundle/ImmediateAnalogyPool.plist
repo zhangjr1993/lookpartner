@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorExceptAdapter</key>
+	<string>activityOutsidePlatform</string>
+	<key>certificateAtChain</key>
+	<string>bufferTierTransparency</string>
+	<key>featureMethodInteraction</key>
+	<string>requestExceptChain</string>
+	<key>masterOperationFeedback</key>
+	<string>protocolAsKind</string>
+	<key>mediocreConsumerDistance</key>
+	<string>paddingLevelStyle</string>
+	<key>projectSystemColor</key>
+	<string>hardAwaitMode</string>
+	<key>shaderTierBottom</key>
+	<string>commandFromAdapter</string>
+	<key>transformerIncludeBridge</key>
+	<string>callbackFromWork</string>
+	<key>typicalDescriptionCenter</key>
+	<string>interpolationStructureValidation</string>
+</dict>
+</plist>

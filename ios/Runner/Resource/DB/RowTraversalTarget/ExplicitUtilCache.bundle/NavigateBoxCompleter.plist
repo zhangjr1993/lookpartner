@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCurveBound</key>
+	<string>displayableLocalizationDuration</string>
+	<key>constInteractorInterval</key>
+	<string>canvasContextMomentum</string>
+	<key>kernelSystemDensity</key>
+	<string>curveAroundMediator</string>
+	<key>observerModeShape</key>
+	<string>stateMediatorForce</string>
+	<key>requiredStoreSpacing</key>
+	<string>listenerInterpreterDelay</string>
+	<key>usageAdapterSkewx</key>
+	<string>smallCosineShade</string>
+	<key>usecaseDespiteOperation</key>
+	<string>storeAndBuffer</string>
+</dict>
+</plist>

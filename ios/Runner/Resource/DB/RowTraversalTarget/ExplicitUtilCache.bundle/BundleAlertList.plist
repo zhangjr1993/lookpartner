@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpotStatus</key>
+	<string>semanticsBesideStructure</string>
+	<key>asynchronousNavigatorForce</key>
+	<string>dialogsInActivity</string>
+	<key>batchContainType</key>
+	<string>eventMethodForce</string>
+	<key>builderThanType</key>
+	<string>eagerNormScale</string>
+	<key>completerBeyondVariable</key>
+	<string>scaffoldProxyVisible</string>
+	<key>constraintExceptShape</key>
+	<string>interactiveSineKind</string>
+	<key>loopAboutProxy</key>
+	<string>observerScopeSkewy</string>
+	<key>nibAwayValue</key>
+	<string>bufferForEnvironment</string>
+	<key>timerAmongAction</key>
+	<string>handlerPerObserver</string>
+</dict>
+</plist>

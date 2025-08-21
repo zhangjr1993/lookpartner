@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAppbarState</key>
+	<string>roleByFlyweight</string>
+	<key>compositionModeScale</key>
+	<string>cachePerStrategy</string>
+	<key>dependencyDecoratorOrigin</key>
+	<string>protocolAdapterTop</string>
+	<key>desktopCollectionShape</key>
+	<string>sizedboxAlongMode</string>
+	<key>disabledServiceDistance</key>
+	<string>animationEnvironmentState</string>
+	<key>nibShapeRate</key>
+	<string>appbarCompositeContrast</string>
+	<key>playbackViaStructure</key>
+	<string>materialTabviewRate</string>
+	<key>requestCommandName</key>
+	<string>controllerSinceKind</string>
+</dict>
+</plist>

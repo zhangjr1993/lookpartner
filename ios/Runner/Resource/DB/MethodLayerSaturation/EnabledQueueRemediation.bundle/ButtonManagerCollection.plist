@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimationMargin</key>
+	<string>sharedInterfaceVisible</string>
+	<key>coordinatorPatternLocation</key>
+	<string>nodeMediatorName</string>
+	<key>entityDecoratorBound</key>
+	<string>factoryTempleBottom</string>
+	<key>grayscaleParameterContrast</key>
+	<string>diversifiedMomentumSpacing</string>
+	<key>modulusJobFlags</key>
+	<string>mediocreSliderTransparency</string>
+	<key>navigatorCycleInterval</key>
+	<string>futureAdapterInset</string>
+	<key>normalCharacterShape</key>
+	<string>difficultOptionOrigin</string>
+	<key>textfieldShapeRotation</key>
+	<string>routeAwayPrototype</string>
+	<key>toolWithoutDecorator</key>
+	<string>subscriptionStateBottom</string>
+</dict>
+</plist>

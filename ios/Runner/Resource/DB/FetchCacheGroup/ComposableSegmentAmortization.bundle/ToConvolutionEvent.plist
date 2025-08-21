@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAndCycle</key>
+	<string>effectKindTransparency</string>
+	<key>criticalProgressbarVisible</key>
+	<string>injectionByLevel</string>
+	<key>flexibleSignTint</key>
+	<string>semanticReferenceDirection</string>
+	<key>spriteBesideLayer</key>
+	<string>easyTaskAppearance</string>
+</dict>
+</plist>

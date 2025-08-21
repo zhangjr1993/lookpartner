@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedGrainCount</key>
+	<string>mobileWidgetCoord</string>
+	<key>methodBesideVisitor</key>
+	<string>euclideanActionTop</string>
+	<key>navigationThroughContext</key>
+	<string>groupWithoutVariable</string>
+	<key>oldFrameBehavior</key>
+	<string>disabledDurationFlags</string>
+	<key>pivotalDocumentMargin</key>
+	<string>navigatorSystemColor</string>
+	<key>scaffoldKindVisible</key>
+	<string>rowFrameworkValidation</string>
+	<key>stackActionValidation</key>
+	<string>handlerAsAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActivityInset</key>
+	<string>flexibleSingletonCenter</string>
+	<key>animatedPageviewState</key>
+	<string>imperativeNavigatorBehavior</string>
+	<key>futureThroughScope</key>
+	<string>modelExceptCommand</string>
+	<key>labelBesideValue</key>
+	<string>flexibleCosineVisible</string>
+	<key>lossAndComposite</key>
+	<string>invisibleDependencyValidation</string>
+	<key>themeSingletonFrequency</key>
+	<string>textureModeTail</string>
+	<key>touchFacadeSaturation</key>
+	<string>cartesianTransitionCount</string>
+	<key>usageProcessTag</key>
+	<string>optionScopePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxScopeFeedback</key>
+	<string>diffableSceneBottom</string>
+	<key>oldSeguePressure</key>
+	<string>containerInScope</string>
+	<key>popupJobMode</key>
+	<string>arithmeticStackStyle</string>
+	<key>timerVariableDensity</key>
+	<string>durationVarFrequency</string>
+</dict>
+</plist>

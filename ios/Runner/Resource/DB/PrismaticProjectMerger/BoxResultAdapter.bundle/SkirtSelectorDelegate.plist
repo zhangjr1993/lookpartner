@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouterTransparency</key>
+	<string>dedicatedSpotForce</string>
+	<key>basicAxisVisibility</key>
+	<string>controllerChainSkewx</string>
+	<key>directlyRoleTransparency</key>
+	<string>sceneAtLevel</string>
+	<key>logMethodIndex</key>
+	<string>particleAdapterKind</string>
+	<key>referencePerStage</key>
+	<string>mainMenuAlignment</string>
+</dict>
+</plist>

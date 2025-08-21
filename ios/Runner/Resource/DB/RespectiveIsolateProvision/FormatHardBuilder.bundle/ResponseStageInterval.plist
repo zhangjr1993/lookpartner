@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLogResponse</key>
+	<string>composableFutureInteraction</string>
+	<key>channelDecoratorDepth</key>
+	<string>paddingUntilType</string>
+	<key>interpolationFacadeResponse</key>
+	<string>tappableInterfacePressure</string>
+	<key>kernelActivityRate</key>
+	<string>cacheMediatorSkewy</string>
+	<key>missionStageBound</key>
+	<string>statelessBaseDirection</string>
+	<key>priorityEnvironmentLocation</key>
+	<string>projectionChainDuration</string>
+	<key>symbolActionResponse</key>
+	<string>visibleOverlaySkewy</string>
+</dict>
+</plist>

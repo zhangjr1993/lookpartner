@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVarDirection</key>
+	<string>deferredLossVisibility</string>
+	<key>containerLikeCycle</key>
+	<string>respectiveListviewVisible</string>
+	<key>dependencyWithoutPlatform</key>
+	<string>gridviewOrBuffer</string>
+	<key>painterExceptPattern</key>
+	<string>callbackShapeBrightness</string>
+	<key>queueBesideParameter</key>
+	<string>gridStrategyMode</string>
+	<key>radiusCommandEdge</key>
+	<string>immutableAlertMomentum</string>
+	<key>seamlessCaptionTag</key>
+	<string>semanticBuilderRotation</string>
+</dict>
+</plist>

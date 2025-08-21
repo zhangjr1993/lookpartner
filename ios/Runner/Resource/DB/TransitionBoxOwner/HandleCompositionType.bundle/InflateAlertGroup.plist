@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLayerFormat</key>
+	<string>webGramSize</string>
+	<key>characterContextStyle</key>
+	<string>rowViaStrategy</string>
+	<key>characterObserverDelay</key>
+	<string>pivotalKernelDuration</string>
+	<key>exceptionFromVar</key>
+	<string>accessibleOverlayScale</string>
+	<key>handlerContextOrigin</key>
+	<string>taskLikeBridge</string>
+	<key>layoutDuringAdapter</key>
+	<string>exceptionAwayDecorator</string>
+	<key>localizationAroundProcess</key>
+	<string>previewAlongPattern</string>
+	<key>rowStructureStyle</key>
+	<string>nodeInterpreterOpacity</string>
+	<key>widgetModeContrast</key>
+	<string>listviewContainTask</string>
+</dict>
+</plist>

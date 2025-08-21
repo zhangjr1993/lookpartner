@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseDistance</key>
+	<string>storageSinceAction</string>
+	<key>consumerOutsideActivity</key>
+	<string>movementMethodSize</string>
+	<key>diffablePageviewAlignment</key>
+	<string>uniqueTabbarFormat</string>
+	<key>explicitRadiusMomentum</key>
+	<string>retainedEffectPressure</string>
+	<key>handlerForWork</key>
+	<string>baselineParameterFlags</string>
+	<key>iterativeDelegateCount</key>
+	<string>delegateStageDuration</string>
+	<key>positionPerSystem</key>
+	<string>denseFactoryInteraction</string>
+	<key>semanticButtonOrigin</key>
+	<string>requestNearKind</string>
+	<key>serviceMediatorSkewy</key>
+	<string>nativeSpotKind</string>
+	<key>statelessCursorMode</key>
+	<string>contractionViaLayer</string>
+</dict>
+</plist>

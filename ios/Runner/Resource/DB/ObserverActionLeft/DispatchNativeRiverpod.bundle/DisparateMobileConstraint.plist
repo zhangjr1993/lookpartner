@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperVersusCycle</key>
+	<string>usedProfileSaturation</string>
+	<key>concurrentSubscriptionMomentum</key>
+	<string>interpolationLevelOrientation</string>
+	<key>previewChainFlags</key>
+	<string>responsiveScreenHue</string>
+	<key>sensorFunctionType</key>
+	<string>observerTemplePosition</string>
+	<key>statefulDurationLeft</key>
+	<string>exponentParameterResponse</string>
+</dict>
+</plist>

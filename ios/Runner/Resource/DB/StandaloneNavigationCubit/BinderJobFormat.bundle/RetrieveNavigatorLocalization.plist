@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAllocatorBound</key>
+	<string>cupertinoRepositoryHue</string>
+	<key>customizedRemainderTheme</key>
+	<string>discardedGesturedetectorAppearance</string>
+	<key>movementExceptForm</key>
+	<string>basicPopupHead</string>
+	<key>respectiveSizedboxInset</key>
+	<string>persistentActionTension</string>
+</dict>
+</plist>

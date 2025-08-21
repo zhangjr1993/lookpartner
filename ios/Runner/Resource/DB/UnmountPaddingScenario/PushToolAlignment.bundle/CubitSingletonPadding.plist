@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutStyle</key>
+	<string>subtleTouchState</string>
+	<key>bulletParamFormat</key>
+	<string>stampFromLayer</string>
+	<key>layoutBeyondCommand</key>
+	<string>protectedLossTransparency</string>
+	<key>semanticTransformerColor</key>
+	<string>priorSegmentDepth</string>
+	<key>standaloneConstraintTail</key>
+	<string>effectOfPlatform</string>
+	<key>subscriptionPerAction</key>
+	<string>presenterInsideActivity</string>
+	<key>viewFromOperation</key>
+	<string>profileNumberFrequency</string>
+</dict>
+</plist>

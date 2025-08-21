@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureContextRate</key>
+	<string>constCacheFeedback</string>
+	<key>segueBeyondStage</key>
+	<string>usedBorderFeedback</string>
+	<key>storageProcessHead</key>
+	<string>newestScaleInterval</string>
+	<key>subsequentNodeTint</key>
+	<string>remainderValueTag</string>
+</dict>
+</plist>

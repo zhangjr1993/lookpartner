@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInCommand</key>
+	<string>skirtOrPhase</string>
+	<key>channelContainKind</key>
+	<string>singletonAlongScope</string>
+	<key>hierarchicalAccessorySkewy</key>
+	<string>staticRowBorder</string>
+	<key>imperativeAnimationType</key>
+	<string>reactiveWidgetType</string>
+	<key>offsetWithStyle</key>
+	<string>indicatorContainFunction</string>
+	<key>presenterNumberBrightness</key>
+	<string>histogramDespiteBuffer</string>
+	<key>routeStructureInset</key>
+	<string>dropdownbuttonBridgeVelocity</string>
+	<key>standaloneGesturedetectorKind</key>
+	<string>curveByFacade</string>
+</dict>
+</plist>

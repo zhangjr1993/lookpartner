@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushNearJob</key>
+	<string>easyReferenceBehavior</string>
+	<key>crucialFeatureValidation</key>
+	<string>directlyErrorIndex</string>
+	<key>customLocalizationRate</key>
+	<string>activatedStepFeedback</string>
+	<key>gesturedetectorAsPrototype</key>
+	<string>clipperFacadeBrightness</string>
+	<key>scrollSinceSingleton</key>
+	<string>cartesianTextureInteraction</string>
+	<key>usageNumberFeedback</key>
+	<string>handlerKindName</string>
+</dict>
+</plist>

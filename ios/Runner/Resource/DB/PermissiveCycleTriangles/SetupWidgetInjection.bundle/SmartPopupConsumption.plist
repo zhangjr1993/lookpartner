@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseExceptChain</key>
+	<string>radiusAroundObserver</string>
+	<key>commonBrushInteraction</key>
+	<string>nextVectorStyle</string>
+	<key>desktopBuilderDuration</key>
+	<string>listviewPlatformOrientation</string>
+	<key>desktopBuilderType</key>
+	<string>permissiveGetxOffset</string>
+	<key>eventAdapterAlignment</key>
+	<string>sineOfState</string>
+	<key>grayscaleCommandPressure</key>
+	<string>subpixelFlyweightInset</string>
+	<key>lazySubscriptionBehavior</key>
+	<string>geometricAlertRight</string>
+	<key>pointBeyondVisitor</key>
+	<string>dependencyPrototypeSpeed</string>
+</dict>
+</plist>

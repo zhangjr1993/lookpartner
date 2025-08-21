@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorModeDelay</key>
+	<string>sensorOfStructure</string>
+	<key>asyncOfStyle</key>
+	<string>pointPerPattern</string>
+	<key>awaitActionSize</key>
+	<string>transitionValueEdge</string>
+	<key>buttonAtBridge</key>
+	<string>eagerKernelCount</string>
+	<key>dialogsObserverScale</key>
+	<string>spineStateForce</string>
+	<key>effectInsideValue</key>
+	<string>asyncSingletonRotation</string>
+	<key>groupViaTask</key>
+	<string>temporaryPositionedDelay</string>
+	<key>handlerVersusCycle</key>
+	<string>tableMediatorFormat</string>
+	<key>normalTopicHue</key>
+	<string>channelAmongCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionActionInterval</key>
+	<string>tensorBorderSkewy</string>
+	<key>dependencyContainForm</key>
+	<string>semanticsInPhase</string>
+	<key>profileUntilDecorator</key>
+	<string>eagerProviderSkewy</string>
+	<key>sineDuringStyle</key>
+	<string>semanticsNearProxy</string>
+</dict>
+</plist>

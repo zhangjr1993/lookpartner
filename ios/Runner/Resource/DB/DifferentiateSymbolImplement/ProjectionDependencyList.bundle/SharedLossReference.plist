@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLikePrototype</key>
+	<string>viewFromOperation</string>
+	<key>descriptionVersusMethod</key>
+	<string>workflowCycleOpacity</string>
+	<key>groupLevelPadding</key>
+	<string>constRowPressure</string>
+	<key>interactorContextSpacing</key>
+	<string>rowPlatformCoord</string>
+	<key>promiseLikeObserver</key>
+	<string>backwardLossScale</string>
+	<key>protectedStepAppearance</key>
+	<string>textProxySpacing</string>
+	<key>robustTransitionSkewx</key>
+	<string>remainderTypeCount</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTypeBound</key>
+	<string>interpolationFunctionTheme</string>
+	<key>callbackStateForce</key>
+	<string>nextCompleterFrequency</string>
+	<key>functionalTweenShape</key>
+	<string>keyBuilderBottom</string>
+	<key>materialSliderMode</key>
+	<string>usecaseMediatorFrequency</string>
+	<key>missedPopupShade</key>
+	<string>intermediateAnimationVisibility</string>
+	<key>nodeFunctionKind</key>
+	<string>specifySizedboxOpacity</string>
+	<key>persistentListenerBound</key>
+	<string>tappableExtensionSaturation</string>
+	<key>persistentSinkResponse</key>
+	<string>inactiveInterfaceTransparency</string>
+	<key>pivotalRiverpodColor</key>
+	<string>grayscaleStyleName</string>
+	<key>positionVariableMode</key>
+	<string>utilStageVisibility</string>
+</dict>
+</plist>

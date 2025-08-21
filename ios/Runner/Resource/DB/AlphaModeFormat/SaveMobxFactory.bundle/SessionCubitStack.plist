@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPrecisionContrast</key>
+	<string>sliderAsBridge</string>
+	<key>disabledLoopBehavior</key>
+	<string>activatedDimensionContrast</string>
+	<key>paddingAgainstCycle</key>
+	<string>queueInProxy</string>
+	<key>specifyBuilderFormat</key>
+	<string>featureAboutActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondJob</key>
+	<string>themeAboutProxy</string>
+	<key>canvasBufferMargin</key>
+	<string>roleTempleDensity</string>
+	<key>constEffectFormat</key>
+	<string>singletonWithParameter</string>
+	<key>criticalCaptionRate</key>
+	<string>imageStateMode</string>
+	<key>fusedSwitchPressure</key>
+	<string>tensorSampleBehavior</string>
+	<key>graphicUntilLevel</key>
+	<string>activityStageTint</string>
+	<key>listenerFlyweightMargin</key>
+	<string>cycleVersusShape</string>
+	<key>liteTweenRight</key>
+	<string>rectForShape</string>
+	<key>sustainableAsyncScale</key>
+	<string>temporaryActivityDensity</string>
+	<key>threadWorkVelocity</key>
+	<string>awaitBridgeMargin</string>
+</dict>
+</plist>

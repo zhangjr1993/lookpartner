@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCacheAcceleration</key>
+	<string>fixedQueryResponse</string>
+	<key>cursorStyleState</key>
+	<string>delicateDimensionBrightness</string>
+	<key>factoryAgainstTier</key>
+	<string>featurePrototypeFrequency</string>
+	<key>intermediateNavigatorBehavior</key>
+	<string>localizationViaEnvironment</string>
+	<key>positionLevelBound</key>
+	<string>coordinatorVariableMode</string>
+	<key>sharedErrorSpeed</key>
+	<string>viewAndDecorator</string>
+</dict>
+</plist>

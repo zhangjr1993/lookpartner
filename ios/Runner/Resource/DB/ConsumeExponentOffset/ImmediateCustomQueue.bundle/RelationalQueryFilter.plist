@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStyleOffset</key>
+	<string>queueWorkOffset</string>
+	<key>controllerAsJob</key>
+	<string>rectBufferSpeed</string>
+	<key>graphicThanStrategy</key>
+	<string>mediaqueryFacadeTint</string>
+	<key>ignoredInstructionBottom</key>
+	<string>agileBufferFrequency</string>
+	<key>isolateOrScope</key>
+	<string>advancedStreamSkewx</string>
+	<key>lostPageviewDistance</key>
+	<string>criticalCaptionTint</string>
+	<key>marginValueFeedback</key>
+	<string>sophisticatedResourceRight</string>
+	<key>positionShapeRate</key>
+	<string>completionBufferVisibility</string>
+	<key>secondStoreSize</key>
+	<string>stampProcessInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStructureSpacing</key>
+	<string>easyKernelState</string>
+	<key>customizedRepositoryRotation</key>
+	<string>tappableLayerDistance</string>
+	<key>greatAlignmentDistance</key>
+	<string>discardedPageviewRight</string>
+	<key>ignoredCatalystPadding</key>
+	<string>labelAgainstLayer</string>
+	<key>slashBesidePattern</key>
+	<string>projectVisitorMomentum</string>
+</dict>
+</plist>

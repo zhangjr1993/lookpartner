@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerDespiteBuffer</key>
+	<string>adaptiveOffsetTheme</string>
+	<key>desktopPageviewBehavior</key>
+	<string>richtextUntilPattern</string>
+	<key>fragmentFormPadding</key>
+	<string>secondLabelKind</string>
+	<key>grainLayerBorder</key>
+	<string>statefulSystemTint</string>
+	<key>modelPlatformEdge</key>
+	<string>curveActivityFrequency</string>
+	<key>multiGradientStyle</key>
+	<string>hyperbolicRepositorySaturation</string>
+	<key>reducerStyleIndex</key>
+	<string>unaryOfPattern</string>
+</dict>
+</plist>

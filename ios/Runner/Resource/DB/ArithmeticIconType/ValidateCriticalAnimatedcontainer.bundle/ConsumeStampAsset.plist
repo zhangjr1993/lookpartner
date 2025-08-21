@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLevelShape</key>
+	<string>exponentFromDecorator</string>
+	<key>draggableCallbackEdge</key>
+	<string>globalFutureHead</string>
+	<key>dropdownbuttonLikeDecorator</key>
+	<string>inheritedPreviewOffset</string>
+	<key>globalBatchTail</key>
+	<string>tabbarFrameworkKind</string>
+	<key>layerAlongFlyweight</key>
+	<string>petMethodLeft</string>
+	<key>lazyStreamDensity</key>
+	<string>intuitiveDependencyForce</string>
+	<key>loopAboutProxy</key>
+	<string>temporaryTickerColor</string>
+	<key>missionCommandInset</key>
+	<string>profileTypeAppearance</string>
+	<key>screenModeLocation</key>
+	<string>flexibleControllerSize</string>
+</dict>
+</plist>

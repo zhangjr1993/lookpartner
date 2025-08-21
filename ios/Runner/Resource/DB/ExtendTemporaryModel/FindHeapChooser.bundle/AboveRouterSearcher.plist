@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopWidgetFormat</key>
+	<string>firstPopupVisible</string>
+	<key>expandedAtComposite</key>
+	<string>layerActivityOrigin</string>
+	<key>flexVariableFlags</key>
+	<string>hierarchicalConvolutionColor</string>
+	<key>gesturedetectorStageContrast</key>
+	<string>sineValueTop</string>
+	<key>hyperbolicTransformerHead</key>
+	<string>iterativeBrushVisibility</string>
+	<key>providerSystemBehavior</key>
+	<string>durationAsInterpreter</string>
+	<key>skinExceptChain</key>
+	<string>viewSingletonFlags</string>
+	<key>specifyInterfaceVisibility</key>
+	<string>easyListviewOrientation</string>
+	<key>synchronousStateTail</key>
+	<string>promiseCycleBehavior</string>
+</dict>
+</plist>

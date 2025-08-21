@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDespiteCommand</key>
+	<string>coordinatorAtOperation</string>
+	<key>asynchronousProjectAlignment</key>
+	<string>mainGrainStatus</string>
+	<key>queryProxyType</key>
+	<string>themePrototypeBorder</string>
+	<key>rectOrPrototype</key>
+	<string>signVarVisible</string>
+	<key>screenWorkInset</key>
+	<string>instructionNearScope</string>
+	<key>semanticBuilderFeedback</key>
+	<string>pivotalObserverResponse</string>
+	<key>textOfMediator</key>
+	<string>projectionAsVar</string>
+	<key>textfieldBySingleton</key>
+	<string>declarativeTransitionDuration</string>
+</dict>
+</plist>

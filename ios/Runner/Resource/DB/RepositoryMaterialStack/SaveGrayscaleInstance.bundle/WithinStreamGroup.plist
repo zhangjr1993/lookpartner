@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPresenterVelocity</key>
+	<string>disabledStatelessPressure</string>
+	<key>heapSingletonShade</key>
+	<string>sliderFlyweightBehavior</string>
+	<key>logarithmEnvironmentDuration</key>
+	<string>eventViaComposite</string>
+	<key>overlayContainMode</key>
+	<string>popupValueShape</string>
+	<key>permissiveActionForce</key>
+	<string>capacitiesWithoutVariable</string>
+	<key>secondDescriptorOrientation</key>
+	<string>optionVariableColor</string>
+	<key>segmentFormRight</key>
+	<string>actionSystemTop</string>
+	<key>significantCompleterMomentum</key>
+	<string>singleGrayscaleInteraction</string>
+	<key>tableCommandFeedback</key>
+	<string>mutableContainerBottom</string>
+</dict>
+</plist>

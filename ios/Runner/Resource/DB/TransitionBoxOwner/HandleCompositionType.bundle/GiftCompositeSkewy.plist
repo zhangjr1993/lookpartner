@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBrushFlags</key>
+	<string>layerStrategyMomentum</string>
+	<key>displayableQueueLocation</key>
+	<string>observerMediatorInteraction</string>
+	<key>observerValueBrightness</key>
+	<string>resultSinceWork</string>
+	<key>operationPrototypeTransparency</key>
+	<string>lazyDrawerStatus</string>
+	<key>presenterCompositeTail</key>
+	<string>optimizerAlongProcess</string>
+	<key>requiredBinaryFrequency</key>
+	<string>injectionDecoratorShape</string>
+	<key>serviceCycleTension</key>
+	<string>semanticInjectionMomentum</string>
+</dict>
+</plist>

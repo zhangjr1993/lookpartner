@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAwayCommand</key>
+	<string>tickerOperationSpacing</string>
+	<key>ignoredMatrixLocation</key>
+	<string>viewBesideCycle</string>
+	<key>mutableCurveSpacing</key>
+	<string>durationPerMediator</string>
+	<key>presenterBridgeHead</key>
+	<string>subsequentCupertinoStyle</string>
+	<key>textfieldInsideState</key>
+	<string>iterativeStepDuration</string>
+</dict>
+</plist>

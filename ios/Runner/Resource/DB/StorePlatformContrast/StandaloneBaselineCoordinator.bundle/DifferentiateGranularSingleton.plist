@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverHead</key>
+	<string>spriteMediatorSpacing</string>
+	<key>factoryOutsideWork</key>
+	<string>textfieldBesideBuffer</string>
+	<key>granularDescriptorTag</key>
+	<string>completerUntilFlyweight</string>
+	<key>lostHistogramSkewy</key>
+	<string>behaviorBridgeEdge</string>
+	<key>numericalUtilLeft</key>
+	<string>publicGroupBorder</string>
+	<key>precisionCycleType</key>
+	<string>delegateNearNumber</string>
+	<key>spineTempleAppearance</key>
+	<string>awaitContextMargin</string>
+	<key>tensorStateBottom</key>
+	<string>delegateTaskAppearance</string>
+	<key>tensorTextIndex</key>
+	<string>imageSingletonMomentum</string>
+</dict>
+</plist>

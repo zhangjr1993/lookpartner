@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLocalizationBehavior</key>
+	<string>variantAboutBuffer</string>
+	<key>dedicatedStateForce</key>
+	<string>allocatorThroughSingleton</string>
+	<key>gemStyleType</key>
+	<string>mainMemberOffset</string>
+	<key>mainDependencyVisible</key>
+	<string>sizeOutsideFunction</string>
+	<key>permanentLocalizationAcceleration</key>
+	<string>reactiveCellOrigin</string>
+	<key>previewContainForm</key>
+	<string>declarativeViewValidation</string>
+	<key>protocolAmongTask</key>
+	<string>techniqueFlyweightShape</string>
+	<key>providerPhaseHue</key>
+	<string>riverpodWithObserver</string>
+	<key>sophisticatedPositionedName</key>
+	<string>chartShapeIndex</string>
+</dict>
+</plist>

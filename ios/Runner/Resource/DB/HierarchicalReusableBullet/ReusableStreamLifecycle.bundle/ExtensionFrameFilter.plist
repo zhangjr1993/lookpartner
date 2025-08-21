@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCacheForce</key>
+	<string>zoneModeOffset</string>
+	<key>ephemeralTabbarTransparency</key>
+	<string>scrollAwayProcess</string>
+	<key>heapCommandRight</key>
+	<string>agilePlateInset</string>
+	<key>nodeStateSize</key>
+	<string>tensorPositionBrightness</string>
+	<key>skinInMode</key>
+	<string>imperativeSingletonSize</string>
+</dict>
+</plist>

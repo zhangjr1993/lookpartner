@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRouteBehavior</key>
+	<string>resultMementoPadding</string>
+	<key>requiredEffectCenter</key>
+	<string>prevRowInterval</string>
+	<key>serviceAsBridge</key>
+	<string>sizeMementoScale</string>
+	<key>smallStorageVelocity</key>
+	<string>responseShapeFlags</string>
+	<key>staticCoordinatorType</key>
+	<string>resultPhaseSaturation</string>
+	<key>topicCommandOpacity</key>
+	<string>challengeNearLevel</string>
+</dict>
+</plist>

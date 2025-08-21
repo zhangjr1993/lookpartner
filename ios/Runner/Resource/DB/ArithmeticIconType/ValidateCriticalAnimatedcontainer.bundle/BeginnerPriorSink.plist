@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAlongPrototype</key>
+	<string>desktopSubpixelMode</string>
+	<key>imageFunctionHue</key>
+	<string>denseChecklistLocation</string>
+	<key>repositoryProcessMode</key>
+	<string>resourceScopeDepth</string>
+	<key>responsiveMarginIndex</key>
+	<string>positionForValue</string>
+	<key>roleExceptForm</key>
+	<string>frameNumberSpacing</string>
+	<key>timerBridgeBorder</key>
+	<string>navigatorVisitorSaturation</string>
+	<key>visibleSubscriptionFlags</key>
+	<string>titleEnvironmentDuration</string>
+	<key>widgetParamTint</key>
+	<string>mobxFromDecorator</string>
+</dict>
+</plist>

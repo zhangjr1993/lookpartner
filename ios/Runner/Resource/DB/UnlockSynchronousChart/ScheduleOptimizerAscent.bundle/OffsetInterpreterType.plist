@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFacadeInteraction</key>
+	<string>tappableInterfaceDensity</string>
+	<key>getxPhaseLocation</key>
+	<string>modalSingletonName</string>
+	<key>grainFacadeDuration</key>
+	<string>criticalStoreSize</string>
+	<key>hardRowAppearance</key>
+	<string>labelBeyondSystem</string>
+	<key>queueFrameworkBrightness</key>
+	<string>indicatorOrParameter</string>
+	<key>signAndPhase</key>
+	<string>bufferFlyweightSize</string>
+	<key>tappableBoxshadowBehavior</key>
+	<string>modelAtType</string>
+</dict>
+</plist>

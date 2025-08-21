@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorThroughFramework</key>
+	<string>immediateGramIndex</string>
+	<key>dedicatedViewState</key>
+	<string>observerViaState</string>
+	<key>disabledPaddingEdge</key>
+	<string>textureFormHead</string>
+	<key>errorActionTail</key>
+	<string>heapDuringTask</string>
+	<key>fragmentInAction</key>
+	<string>desktopStampBrightness</string>
+	<key>normalDrawerInset</key>
+	<string>chartViaTask</string>
+	<key>pinchableDelegatePadding</key>
+	<string>relationalMusicSkewx</string>
+	<key>sliderAgainstTemple</key>
+	<string>subtleMenuTheme</string>
+</dict>
+</plist>

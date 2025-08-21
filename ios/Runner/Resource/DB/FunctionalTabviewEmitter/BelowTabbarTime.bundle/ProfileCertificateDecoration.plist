@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAndState</key>
+	<string>sensorEnvironmentForce</string>
+	<key>grainNumberContrast</key>
+	<string>modalPlatformDepth</string>
+	<key>listviewWithoutInterpreter</key>
+	<string>liteNotifierPadding</string>
+	<key>permissiveGraphBehavior</key>
+	<string>columnMediatorDepth</string>
+	<key>resourceStyleTail</key>
+	<string>sharedAccessoryDistance</string>
+	<key>uniformScrollLocation</key>
+	<string>providerStateTransparency</string>
+</dict>
+</plist>

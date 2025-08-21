@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInKind</key>
+	<string>graphicFacadeSpacing</string>
+	<key>interactorForFacade</key>
+	<string>collectionByDecorator</string>
+	<key>menuOutsideLevel</key>
+	<string>widgetWithoutSingleton</string>
+	<key>stateWorkForce</key>
+	<string>responsiveDurationBottom</string>
+	<key>timerDespiteMediator</key>
+	<string>errorPhaseInterval</string>
+	<key>transitionPhaseTheme</key>
+	<string>tensorCommandTint</string>
+</dict>
+</plist>

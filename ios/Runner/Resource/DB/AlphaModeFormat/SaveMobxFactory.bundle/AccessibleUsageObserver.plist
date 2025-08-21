@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBuilderAcceleration</key>
+	<string>drawerInComposite</string>
+	<key>asynchronousCharacterStyle</key>
+	<string>backwardStatefulContrast</string>
+	<key>bufferInsidePattern</key>
+	<string>awaitMethodSaturation</string>
+	<key>cardWithoutProcess</key>
+	<string>segmentModeColor</string>
+	<key>cubitAmongBridge</key>
+	<string>interactorVariableHead</string>
+	<key>finalSliderTint</key>
+	<string>controllerPerOperation</string>
+	<key>groupExceptScope</key>
+	<string>transitionEnvironmentOffset</string>
+	<key>observerDecoratorTail</key>
+	<string>radiusAlongActivity</string>
+	<key>tweenPerFacade</key>
+	<string>sessionDecoratorContrast</string>
+</dict>
+</plist>

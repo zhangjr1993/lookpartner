@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFromPattern</key>
+	<string>resolverObserverBrightness</string>
+	<key>buttonPerKind</key>
+	<string>desktopLayerTop</string>
+	<key>constraintFromState</key>
+	<string>immutableDecorationHue</string>
+	<key>futurePerPrototype</key>
+	<string>intensityObserverPadding</string>
+	<key>gradientDespiteProxy</key>
+	<string>mutableVectorCoord</string>
+	<key>gridFunctionAlignment</key>
+	<string>substantialNotifierAlignment</string>
+	<key>independentSliderContrast</key>
+	<string>requiredResultCount</string>
+	<key>unsortedGridviewOrientation</key>
+	<string>stackThanDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorIncludeVar</key>
+	<string>optimizerStageBrightness</string>
+	<key>coordinatorStateName</key>
+	<string>logLikeEnvironment</string>
+	<key>durationContainStyle</key>
+	<string>compositionViaLayer</string>
+	<key>expandedJobLeft</key>
+	<string>localPopupColor</string>
+</dict>
+</plist>

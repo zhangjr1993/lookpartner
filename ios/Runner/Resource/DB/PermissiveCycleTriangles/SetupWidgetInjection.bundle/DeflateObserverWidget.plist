@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePointPressure</key>
+	<string>timerOutsideStyle</string>
+	<key>agileActionSkewy</key>
+	<string>flexibleTextureSaturation</string>
+	<key>listenerAboutKind</key>
+	<string>cubitTaskVisible</string>
+	<key>localizationProxyForce</key>
+	<string>movementIncludeVariable</string>
+	<key>playbackAsKind</key>
+	<string>materialCycleForce</string>
+	<key>prevBoxScale</key>
+	<string>queryObserverBrightness</string>
+	<key>tappableUsecaseRate</key>
+	<string>futurePatternHue</string>
+</dict>
+</plist>

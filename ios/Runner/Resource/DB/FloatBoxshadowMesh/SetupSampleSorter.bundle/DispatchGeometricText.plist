@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAmongForm</key>
+	<string>basicGraphVisible</string>
+	<key>factoryKindCenter</key>
+	<string>publicAlignmentType</string>
+	<key>globalMediaStyle</key>
+	<string>eventActionStyle</string>
+	<key>nativeHandlerSaturation</key>
+	<string>textfieldBesideState</string>
+	<key>presenterFormFormat</key>
+	<string>accordionGroupMargin</string>
+	<key>skirtExceptMediator</key>
+	<string>rowLikePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directDropdownbuttonTheme</key>
+	<string>utilOrAdapter</string>
+	<key>opaquePlateCount</key>
+	<string>compositionalSliderDuration</string>
+	<key>originalColumnBound</key>
+	<string>cubitOfBridge</string>
+	<key>permissiveModelBehavior</key>
+	<string>iterativeVectorInset</string>
+	<key>smartQuerySkewy</key>
+	<string>projectionOrMethod</string>
+	<key>uniformGroupPadding</key>
+	<string>switchObserverRate</string>
+	<key>usecaseInterpreterInset</key>
+	<string>apertureForAdapter</string>
+</dict>
+</plist>

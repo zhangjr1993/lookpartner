@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAndLayer</key>
+	<string>canvasNumberCount</string>
+	<key>interactorStructureTheme</key>
+	<string>lazySceneRotation</string>
+	<key>isolateJobOffset</key>
+	<string>offsetEnvironmentDistance</string>
+	<key>numericalAwaitVisible</key>
+	<string>primaryAnimationTop</string>
+	<key>transitionModeShade</key>
+	<string>sessionAndAdapter</string>
+</dict>
+</plist>

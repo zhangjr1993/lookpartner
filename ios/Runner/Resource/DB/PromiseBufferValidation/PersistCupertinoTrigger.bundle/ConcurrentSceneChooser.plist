@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFromFlyweight</key>
+	<string>sinkFlyweightPadding</string>
+	<key>disparateStampBehavior</key>
+	<string>sensorTaskVelocity</string>
+	<key>geometricTransformerRight</key>
+	<string>methodCommandForce</string>
+	<key>sampleVarValidation</key>
+	<string>documentAtAction</string>
+	<key>sinkAndFacade</key>
+	<string>explicitBulletRate</string>
+</dict>
+</plist>

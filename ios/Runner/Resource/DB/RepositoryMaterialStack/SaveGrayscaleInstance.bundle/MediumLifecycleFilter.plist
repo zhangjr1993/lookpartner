@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMultiplicationTag</key>
+	<string>inheritedBuilderSaturation</string>
+	<key>canvasEnvironmentRate</key>
+	<string>movementOutsideEnvironment</string>
+	<key>channelExceptTier</key>
+	<string>semanticsFromDecorator</string>
+	<key>controllerVariableScale</key>
+	<string>marginLevelColor</string>
+	<key>fixedAspectDensity</key>
+	<string>uniformChartDistance</string>
+	<key>flexAmongInterpreter</key>
+	<string>nodeBeyondStyle</string>
+	<key>queueChainVisibility</key>
+	<string>cupertinoChainCount</string>
+	<key>tableLikeCommand</key>
+	<string>streamNumberMargin</string>
+	<key>topicCycleAcceleration</key>
+	<string>usecaseDuringFlyweight</string>
+</dict>
+</plist>

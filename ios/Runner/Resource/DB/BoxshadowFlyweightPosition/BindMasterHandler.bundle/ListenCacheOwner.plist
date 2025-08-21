@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEventColor</key>
+	<string>difficultAnimationTint</string>
+	<key>actionDuringNumber</key>
+	<string>grainMementoInteraction</string>
+	<key>bufferScopeInteraction</key>
+	<string>batchFrameworkAcceleration</string>
+	<key>deferredMovementTail</key>
+	<string>adaptiveGroupFeedback</string>
+	<key>interactiveRadiusFeedback</key>
+	<string>localizationFrameworkHue</string>
+	<key>secondMetadataStyle</key>
+	<string>commandStageInteraction</string>
+	<key>sessionDecoratorName</key>
+	<string>oldFeatureTag</string>
+</dict>
+</plist>

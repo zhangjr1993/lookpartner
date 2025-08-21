@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintPerInterpreter</key>
+	<string>coordinatorCompositeBottom</string>
+	<key>desktopProjectTop</key>
+	<string>modalWithContext</string>
+	<key>factorySystemTheme</key>
+	<string>queueActionType</string>
+	<key>functionalHeapOrigin</key>
+	<string>iterativeGestureIndex</string>
+	<key>globalContainerValidation</key>
+	<string>coordinatorFlyweightMargin</string>
+	<key>mainNavigationVisibility</key>
+	<string>marginNumberDirection</string>
+	<key>observerAsOperation</key>
+	<string>similarVectorRate</string>
+	<key>pinchableBulletInteraction</key>
+	<string>seamlessStatefulEdge</string>
+</dict>
+</plist>

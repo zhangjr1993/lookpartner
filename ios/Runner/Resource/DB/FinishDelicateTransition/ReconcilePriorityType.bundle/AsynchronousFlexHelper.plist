@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerLikePlatform</key>
+	<string>cubeInsideComposite</string>
+	<key>effectExceptComposite</key>
+	<string>widgetThroughKind</string>
+	<key>sinkFlyweightOpacity</key>
+	<string>accessoryPerSingleton</string>
+	<key>storeScopeStatus</key>
+	<string>delegateInsideJob</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeScreenForce</key>
+	<string>rowAmongKind</string>
+	<key>delegateAroundPhase</key>
+	<string>synchronousTaskInterval</string>
+	<key>easySegmentSaturation</key>
+	<string>tabviewContainComposite</string>
+	<key>extensionAroundDecorator</key>
+	<string>routeNearCycle</string>
+	<key>independentBehaviorEdge</key>
+	<string>animationVersusMethod</string>
+	<key>independentObserverCount</key>
+	<string>mapStateSize</string>
+	<key>numericalBuilderDirection</key>
+	<string>transitionInPattern</string>
+	<key>offsetPerProxy</key>
+	<string>accordionChallengeContrast</string>
+	<key>pivotalMatrixBehavior</key>
+	<string>semanticCurveDirection</string>
+	<key>staticDependencyInterval</key>
+	<string>imperativeCellTag</string>
+</dict>
+</plist>

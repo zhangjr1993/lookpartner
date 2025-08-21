@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProgressbarBehavior</key>
+	<string>pointSingletonTint</string>
+	<key>chartVariableBehavior</key>
+	<string>otherStatefulTint</string>
+	<key>imperativeNodeSaturation</key>
+	<string>parallelTexturePosition</string>
+	<key>listviewFromTemple</key>
+	<string>significantCharacterState</string>
+	<key>priorityFromMode</key>
+	<string>resolverObserverVelocity</string>
+	<key>queryPerVar</key>
+	<string>cubitAwayParameter</string>
+	<key>standaloneSpotTheme</key>
+	<string>sustainableChannelVelocity</string>
+	<key>toolAroundChain</key>
+	<string>operationOrTemple</string>
+</dict>
+</plist>

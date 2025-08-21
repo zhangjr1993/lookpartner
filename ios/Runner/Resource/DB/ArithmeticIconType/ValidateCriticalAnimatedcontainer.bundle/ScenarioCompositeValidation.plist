@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateStrategyLeft</key>
+	<string>compositionMediatorScale</string>
+	<key>hierarchicalLabelDelay</key>
+	<string>menuAgainstAdapter</string>
+	<key>retainedBulletRate</key>
+	<string>bitrateDespiteDecorator</string>
+	<key>sizeTypeBehavior</key>
+	<string>decorationSystemOffset</string>
+	<key>skinAtActivity</key>
+	<string>newestFeatureVelocity</string>
+	<key>streamCommandDirection</key>
+	<string>borderUntilForm</string>
+	<key>subscriptionEnvironmentMomentum</key>
+	<string>histogramThroughFacade</string>
+	<key>temporaryCurvePosition</key>
+	<string>effectOutsideObserver</string>
+	<key>textureSystemOrigin</key>
+	<string>batchFrameworkBottom</string>
+</dict>
+</plist>

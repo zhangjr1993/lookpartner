@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocParamAcceleration</key>
+	<string>positionedProcessStyle</string>
+	<key>builderProxyContrast</key>
+	<string>accordionCallbackTop</string>
+	<key>configurationFormRotation</key>
+	<string>lazyTopicStyle</string>
+	<key>factoryBufferLeft</key>
+	<string>missedDialogsOrientation</string>
+	<key>painterForChain</key>
+	<string>gridOutsideChain</string>
+	<key>priorMenuDistance</key>
+	<string>specifyBaseDirection</string>
+	<key>progressbarAboutKind</key>
+	<string>fusedAnimationDelay</string>
+	<key>spineAtComposite</key>
+	<string>resultAsJob</string>
+</dict>
+</plist>

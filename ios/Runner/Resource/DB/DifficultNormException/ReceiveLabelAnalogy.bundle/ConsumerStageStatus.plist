@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySystemTint</key>
+	<string>semanticMenuOffset</string>
+	<key>alignmentProcessVisible</key>
+	<string>optionWithMediator</string>
+	<key>allocatorSingletonSpacing</key>
+	<string>mobileInterpolationName</string>
+	<key>completerOperationOpacity</key>
+	<string>dependencyFormPadding</string>
+	<key>containerParameterTint</key>
+	<string>nextTangentAppearance</string>
+	<key>deferredObserverMargin</key>
+	<string>controllerOrJob</string>
+	<key>gateFrameworkTop</key>
+	<string>invisibleConstraintSaturation</string>
+	<key>listenerThanPattern</key>
+	<string>titleUntilPhase</string>
+	<key>pinchableZoneBrightness</key>
+	<string>delegateAsJob</string>
+</dict>
+</plist>

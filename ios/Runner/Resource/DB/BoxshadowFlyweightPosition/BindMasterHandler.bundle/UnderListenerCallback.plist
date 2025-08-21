@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStateSaturation</key>
+	<string>cycleVersusCommand</string>
+	<key>independentSampleBehavior</key>
+	<string>subpixelContextDepth</string>
+	<key>isolateByPhase</key>
+	<string>drawerModeMomentum</string>
+	<key>navigatorInStyle</key>
+	<string>actionOfStrategy</string>
+	<key>riverpodNumberVisibility</key>
+	<string>drawerWithoutState</string>
+	<key>sortedStorageType</key>
+	<string>requestCycleColor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSystemRotation</key>
+	<string>delegateCycleForce</string>
+	<key>decorationOrStrategy</key>
+	<string>errorSystemFormat</string>
+	<key>elasticRequestCoord</key>
+	<string>synchronousAllocatorMargin</string>
+	<key>remainderInParam</key>
+	<string>cubeParameterScale</string>
+	<key>resilientCubitValidation</key>
+	<string>topicProxyCount</string>
+	<key>textureAboutFlyweight</key>
+	<string>decorationFunctionAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResultEdge</key>
+	<string>workflowAsLayer</string>
+	<key>cardValueSpeed</key>
+	<string>cubitChainLeft</string>
+	<key>channelsThroughCycle</key>
+	<string>webSpriteResponse</string>
+	<key>expandedOperationDistance</key>
+	<string>projectStyleInset</string>
+	<key>logDuringForm</key>
+	<string>musicAsPattern</string>
+	<key>nibContainFlyweight</key>
+	<string>memberDecoratorAcceleration</string>
+	<key>offsetViaForm</key>
+	<string>concreteEffectOffset</string>
+	<key>scaffoldLayerBorder</key>
+	<string>singletonWithEnvironment</string>
+	<key>skinContextDirection</key>
+	<string>usedScreenLocation</string>
+</dict>
+</plist>

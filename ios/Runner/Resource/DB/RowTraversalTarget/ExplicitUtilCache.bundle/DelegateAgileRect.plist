@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAlongFramework</key>
+	<string>compositionalIsolateFormat</string>
+	<key>containerWithOperation</key>
+	<string>binaryBridgeDistance</string>
+	<key>isolateThroughParameter</key>
+	<string>semanticLocalizationHue</string>
+	<key>localizationWithComposite</key>
+	<string>eagerDurationHue</string>
+	<key>positionedContextVisibility</key>
+	<string>requiredShaderOffset</string>
+	<key>presenterFormDepth</key>
+	<string>actionUntilWork</string>
+	<key>transitionAsParam</key>
+	<string>playbackStructureBound</string>
+	<key>unsortedInkwellContrast</key>
+	<string>builderFormTension</string>
+	<key>vectorOrPlatform</key>
+	<string>subpixelCycleFeedback</string>
+</dict>
+</plist>

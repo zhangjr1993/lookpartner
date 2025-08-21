@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPerMode</key>
+	<string>criticalSampleOrigin</string>
+	<key>expandedParamTheme</key>
+	<string>parallelConfigurationLocation</string>
+	<key>groupExceptMediator</key>
+	<string>chapterAwayOperation</string>
+	<key>immutableNavigatorBehavior</key>
+	<string>providerIncludeAction</string>
+	<key>largeAnimationStyle</key>
+	<string>pinchableRadiusScale</string>
+	<key>liteDependencyAcceleration</key>
+	<string>greatButtonForce</string>
+	<key>routerAlongValue</key>
+	<string>singletonLikeStage</string>
+	<key>tabbarProxyCount</key>
+	<string>channelActionBottom</string>
+</dict>
+</plist>

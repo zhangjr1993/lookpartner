@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMethodVelocity</key>
+	<string>completerVersusAdapter</string>
+	<key>asynchronousThreadAcceleration</key>
+	<string>usedPromiseRate</string>
+	<key>boxWithFacade</key>
+	<string>hierarchicalCallbackDelay</string>
+	<key>bufferForTier</key>
+	<string>symbolVisitorDistance</string>
+	<key>errorOfParameter</key>
+	<string>activeSinkScale</string>
+	<key>featureAsProcess</key>
+	<string>directModalStatus</string>
+	<key>lazyTaskDensity</key>
+	<string>resilientAlignmentBrightness</string>
+	<key>promiseProcessKind</key>
+	<string>specifyChannelsPressure</string>
+	<key>themeLevelTint</key>
+	<string>scrollDuringOperation</string>
+	<key>usecaseKindTransparency</key>
+	<string>blocByBuffer</string>
+</dict>
+</plist>

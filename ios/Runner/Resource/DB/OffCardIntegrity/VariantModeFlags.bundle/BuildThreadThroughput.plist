@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLikeStrategy</key>
+	<string>widgetStageOffset</string>
+	<key>canvasInsideCycle</key>
+	<string>builderSingletonShape</string>
+	<key>constraintViaKind</key>
+	<string>temporaryPetAcceleration</string>
+	<key>controllerPhaseTag</key>
+	<string>getxFacadeVisible</string>
+	<key>disparateMetadataTheme</key>
+	<string>particlePatternHue</string>
+	<key>multiSemanticsLeft</key>
+	<string>taskStrategyDelay</string>
+	<key>protectedDimensionPressure</key>
+	<string>animatedCellInset</string>
+	<key>rapidReductionFrequency</key>
+	<string>tickerObserverBehavior</string>
+</dict>
+</plist>

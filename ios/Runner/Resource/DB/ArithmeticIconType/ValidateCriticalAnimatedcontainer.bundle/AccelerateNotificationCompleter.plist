@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorChainVisible</key>
+	<string>navigationAdapterContrast</string>
+	<key>lastFactoryAcceleration</key>
+	<string>playbackVersusVisitor</string>
+	<key>movementModeBound</key>
+	<string>frameAsBridge</string>
+	<key>routeParamScale</key>
+	<string>ephemeralMissionMode</string>
+</dict>
+</plist>

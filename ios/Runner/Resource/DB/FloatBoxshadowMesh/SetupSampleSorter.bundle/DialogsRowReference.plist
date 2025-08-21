@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterForFramework</key>
+	<string>stackAlongShape</string>
+	<key>compositionForForm</key>
+	<string>musicMediatorInset</string>
+	<key>gramVersusCommand</key>
+	<string>mobileCoordinatorDistance</string>
+	<key>iconDespiteBuffer</key>
+	<string>reactiveTitleMode</string>
+	<key>interactorFlyweightMode</key>
+	<string>completerAsPrototype</string>
+	<key>riverpodInterpreterCenter</key>
+	<string>typicalResolverDuration</string>
+	<key>semanticIndicatorBound</key>
+	<string>handlerStyleSkewy</string>
+	<key>subtleStateAcceleration</key>
+	<string>grainVarLeft</string>
+	<key>uniqueGradientShape</key>
+	<string>backwardOptimizerBorder</string>
+</dict>
+</plist>

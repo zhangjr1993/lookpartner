@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAwayLevel</key>
+	<string>observerThroughDecorator</string>
+	<key>desktopSpriteRight</key>
+	<string>standaloneMemberShape</string>
+	<key>directlyRectTheme</key>
+	<string>effectBufferStatus</string>
+	<key>metadataMediatorHue</key>
+	<string>signatureIncludeOperation</string>
+	<key>normActivityRotation</key>
+	<string>cubitPlatformVisible</string>
+	<key>titleInKind</key>
+	<string>borderCompositeFormat</string>
+	<key>transformerForBuffer</key>
+	<string>allocatorContainDecorator</string>
+</dict>
+</plist>

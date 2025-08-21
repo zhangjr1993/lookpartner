@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFromState</key>
+	<string>gridFromMediator</string>
+	<key>baselineNearProcess</key>
+	<string>entityLayerStatus</string>
+	<key>methodVariableDelay</key>
+	<string>effectNearAction</string>
+	<key>missedSegmentTail</key>
+	<string>remainderAgainstTier</string>
+	<key>popupParameterAppearance</key>
+	<string>enabledChapterBound</string>
+	<key>tweenShapeOrigin</key>
+	<string>keyListviewDirection</string>
+</dict>
+</plist>

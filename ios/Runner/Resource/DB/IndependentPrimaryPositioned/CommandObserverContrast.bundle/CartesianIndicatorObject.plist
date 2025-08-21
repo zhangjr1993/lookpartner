@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestDescriptionDensity</key>
+	<string>threadInterpreterAppearance</string>
+	<key>resizableSessionRotation</key>
+	<string>keyUnaryStyle</string>
+	<key>stampContextForce</key>
+	<string>catalystMethodMode</string>
+	<key>tabbarKindShade</key>
+	<string>functionalContainerTag</string>
+</dict>
+</plist>

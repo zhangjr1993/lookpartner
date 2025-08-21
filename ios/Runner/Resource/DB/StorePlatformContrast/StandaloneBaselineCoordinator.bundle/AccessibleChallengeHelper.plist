@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerWithSingleton</key>
+	<string>resourceModeDuration</string>
+	<key>missedSymbolEdge</key>
+	<string>navigationEnvironmentBorder</string>
+	<key>mobileLabelBehavior</key>
+	<string>immediateEventRight</string>
+	<key>sequentialChecklistVisible</key>
+	<string>popupStrategySaturation</string>
+	<key>storageAroundFlyweight</key>
+	<string>symmetricDialogsStyle</string>
+	<key>ternaryAmongActivity</key>
+	<string>previewOperationCoord</string>
+	<key>transitionMethodPadding</key>
+	<string>custompaintVariableSaturation</string>
+</dict>
+</plist>

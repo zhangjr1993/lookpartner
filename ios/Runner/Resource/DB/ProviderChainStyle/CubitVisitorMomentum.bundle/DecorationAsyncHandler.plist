@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTextName</key>
+	<string>appbarOfForm</string>
+	<key>ignoredCatalystTop</key>
+	<string>singletonAroundFlyweight</string>
+	<key>materialAtStyle</key>
+	<string>ephemeralMediaOpacity</string>
+	<key>projectContainBridge</key>
+	<string>batchNumberName</string>
+	<key>queueFlyweightSaturation</key>
+	<string>alignmentAlongCycle</string>
+</dict>
+</plist>

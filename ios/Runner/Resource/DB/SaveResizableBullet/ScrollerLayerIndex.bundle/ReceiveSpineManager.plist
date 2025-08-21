@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOperationInset</key>
+	<string>dependencyScopePadding</string>
+	<key>cursorFrameworkCoord</key>
+	<string>captionTempleTag</string>
+	<key>interactiveEffectStyle</key>
+	<string>sortedCaptionMargin</string>
+	<key>iterativeBulletCenter</key>
+	<string>disabledCollectionShade</string>
+	<key>mediocreChapterKind</key>
+	<string>sessionFormColor</string>
+	<key>topicAlongLayer</key>
+	<string>progressbarOutsideShape</string>
+</dict>
+</plist>

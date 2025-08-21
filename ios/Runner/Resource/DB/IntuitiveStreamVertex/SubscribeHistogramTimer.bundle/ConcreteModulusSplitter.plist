@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainTint</key>
+	<string>lastDialogsName</string>
+	<key>controllerParameterScale</key>
+	<string>controllerInterpreterTag</string>
+	<key>imageAroundLevel</key>
+	<string>widgetMementoAppearance</string>
+	<key>lossThroughStrategy</key>
+	<string>touchUntilContext</string>
+	<key>positionedKindSpeed</key>
+	<string>descriptionPerStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalAlertInset</key>
+	<string>cubitLevelDepth</string>
+	<key>transitionInsideDecorator</key>
+	<string>boxViaPrototype</string>
+	<key>unsortedChallengeScale</key>
+	<string>tickerInterpreterShade</string>
+	<key>viewAwayFacade</key>
+	<string>missedReducerState</string>
+</dict>
+</plist>

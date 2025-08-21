@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorNumberTint</key>
+	<string>draggableButtonMode</string>
+	<key>otherChecklistFeedback</key>
+	<string>eagerBaselinePosition</string>
+	<key>painterAdapterAppearance</key>
+	<string>chapterPlatformKind</string>
+	<key>positionFormFrequency</key>
+	<string>errorThroughObserver</string>
+	<key>scaffoldFunctionOrientation</key>
+	<string>threadPatternLocation</string>
+	<key>sortedCheckboxHue</key>
+	<string>usecaseStructureBrightness</string>
+	<key>textCompositeKind</key>
+	<string>autoAnimationBrightness</string>
+	<key>usedAppbarForce</key>
+	<string>usageVarCoord</string>
+</dict>
+</plist>

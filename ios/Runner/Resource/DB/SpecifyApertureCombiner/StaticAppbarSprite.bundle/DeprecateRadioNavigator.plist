@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMarginFrequency</key>
+	<string>captionNumberVelocity</string>
+	<key>axisIncludeJob</key>
+	<string>topicAsActivity</string>
+	<key>eventBufferTheme</key>
+	<string>cupertinoStateTension</string>
+	<key>pointStageDistance</key>
+	<string>retainedSpotDuration</string>
+	<key>sizeBeyondCycle</key>
+	<string>observerAndVar</string>
+</dict>
+</plist>

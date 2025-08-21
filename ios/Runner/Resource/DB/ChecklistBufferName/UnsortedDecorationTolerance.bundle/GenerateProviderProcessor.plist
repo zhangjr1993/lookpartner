@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAgainstStrategy</key>
+	<string>slashLevelFrequency</string>
+	<key>concurrentAlignmentRotation</key>
+	<string>hyperbolicGroupSkewy</string>
+	<key>constraintFacadeSkewy</key>
+	<string>tabbarAboutWork</string>
+	<key>hashStructureState</key>
+	<string>symbolLayerMargin</string>
+	<key>interactorAwayPlatform</key>
+	<string>sliderMementoShape</string>
+	<key>interfaceStageDepth</key>
+	<string>displayableBoxRight</string>
+	<key>lossKindInset</key>
+	<string>observerAlongFramework</string>
+	<key>swiftStageVisibility</key>
+	<string>segueAroundType</string>
+	<key>tableVarRotation</key>
+	<string>nibAndObserver</string>
+</dict>
+</plist>

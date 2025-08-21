@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPhaseForce</key>
+	<string>featureVariableSpeed</string>
+	<key>denseConstraintRotation</key>
+	<string>frameAgainstFramework</string>
+	<key>dependencyFlyweightShade</key>
+	<string>getxVariableAppearance</string>
+	<key>labelModeCount</key>
+	<string>statefulPlatformInterval</string>
+	<key>layerPatternOffset</key>
+	<string>factoryStageTransparency</string>
+	<key>matrixTaskBottom</key>
+	<string>providerPlatformShape</string>
+	<key>missionCommandKind</key>
+	<string>characterLikeKind</string>
+	<key>offsetSingletonShape</key>
+	<string>repositorySinceFlyweight</string>
+	<key>topicVariableTheme</key>
+	<string>interactorTierTransparency</string>
+</dict>
+</plist>

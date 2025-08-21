@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPlatformMode</key>
+	<string>mediaqueryContextCenter</string>
+	<key>dialogsVariableVelocity</key>
+	<string>similarAnchorDirection</string>
+	<key>drawerScopeContrast</key>
+	<string>standaloneBlocContrast</string>
+	<key>progressbarContextStatus</key>
+	<string>histogramAsChain</string>
+	<key>vectorThanBuffer</key>
+	<string>mutableInkwellCoord</string>
+</dict>
+</plist>

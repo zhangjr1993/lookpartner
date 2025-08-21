@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistDuringFunction</key>
+	<string>publicDependencyLeft</string>
+	<key>controllerWithoutBridge</key>
+	<string>largeStatelessBehavior</string>
+	<key>dialogsStrategyValidation</key>
+	<string>missionAboutForm</string>
+	<key>difficultNibName</key>
+	<string>tweenBeyondComposite</string>
+	<key>entityPlatformDuration</key>
+	<string>decorationShapePosition</string>
+	<key>greatFlexVisible</key>
+	<string>reactiveAllocatorIndex</string>
+	<key>queryTierSpacing</key>
+	<string>projectionProcessResponse</string>
+	<key>sharedLoopSkewx</key>
+	<string>asyncPerCycle</string>
+	<key>vectorDuringProxy</key>
+	<string>vectorChainTheme</string>
+</dict>
+</plist>

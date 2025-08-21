@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusMode</key>
+	<string>missionBesideCycle</string>
+	<key>animationBridgeRotation</key>
+	<string>prismaticOffsetVisible</string>
+	<key>backwardMusicInteraction</key>
+	<string>relationalProjectionMargin</string>
+	<key>buttonWithoutPlatform</key>
+	<string>unactivatedCommandHue</string>
+	<key>dependencyActionAppearance</key>
+	<string>movementStageFlags</string>
+	<key>displayableScreenContrast</key>
+	<string>vectorExceptPattern</string>
+	<key>gesturedetectorParameterTag</key>
+	<string>contractionPlatformScale</string>
+	<key>ignoredLayoutEdge</key>
+	<string>gridShapeLeft</string>
+	<key>signAtOperation</key>
+	<string>curveAdapterLeft</string>
+</dict>
+</plist>

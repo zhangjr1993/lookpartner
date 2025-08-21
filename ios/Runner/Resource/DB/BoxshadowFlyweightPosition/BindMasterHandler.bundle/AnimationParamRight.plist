@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInCommand</key>
+	<string>navigatorOrMethod</string>
+	<key>futureOrPhase</key>
+	<string>playbackAboutPhase</string>
+	<key>geometricInkwellBehavior</key>
+	<string>specifyRoleTransparency</string>
+	<key>mobileGroupDuration</key>
+	<string>histogramVariableLocation</string>
+	<key>oldReducerSpeed</key>
+	<string>radioChainTag</string>
+	<key>progressbarContainShape</key>
+	<string>tickerStrategyState</string>
+	<key>repositoryContextRotation</key>
+	<string>cellLevelHue</string>
+	<key>statefulContainOperation</key>
+	<string>grainMediatorStatus</string>
+	<key>subscriptionProcessSaturation</key>
+	<string>completerLikeActivity</string>
+</dict>
+</plist>

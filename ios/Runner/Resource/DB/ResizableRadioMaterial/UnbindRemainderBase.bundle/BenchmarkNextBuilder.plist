@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationObserverHead</key>
+	<string>synchronousRiverpodEdge</string>
+	<key>tickerOfChain</key>
+	<string>nativeVectorCoord</string>
+	<key>zoneOperationFlags</key>
+	<string>callbackInValue</string>
+</dict>
+</plist>

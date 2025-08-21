@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCubitStatus</key>
+	<string>activatedInterfaceTop</string>
+	<key>cubitOutsideStructure</key>
+	<string>keyChannelsFormat</string>
+	<key>customMenuCenter</key>
+	<string>currentCommandContrast</string>
+	<key>customVectorName</key>
+	<string>missedViewForce</string>
+	<key>explicitNotifierOffset</key>
+	<string>nextAnimationVelocity</string>
+	<key>handlerActionShape</key>
+	<string>subsequentSampleTheme</string>
+	<key>mobileStreamSkewy</key>
+	<string>widgetWithType</string>
+	<key>queryActionInterval</key>
+	<string>commandLayerType</string>
+	<key>temporaryBuilderShape</key>
+	<string>symmetricSubscriptionFlags</string>
+</dict>
+</plist>

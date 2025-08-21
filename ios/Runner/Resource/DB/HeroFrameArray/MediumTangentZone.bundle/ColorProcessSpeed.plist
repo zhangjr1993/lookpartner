@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitInterpreterOpacity</key>
+	<string>singletonContainTier</string>
+	<key>frameChainColor</key>
+	<string>sessionExceptVariable</string>
+	<key>hashInterpreterTransparency</key>
+	<string>draggableButtonSpacing</string>
+	<key>primarySliderTransparency</key>
+	<string>compositionMethodAlignment</string>
+	<key>publicResourceHue</key>
+	<string>standaloneDurationValidation</string>
+	<key>smartButtonDirection</key>
+	<string>gestureParamValidation</string>
+	<key>statelessTaskTint</key>
+	<string>frameWithKind</string>
+	<key>sustainableHistogramDuration</key>
+	<string>localCubitBehavior</string>
+</dict>
+</plist>

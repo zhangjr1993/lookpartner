@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAnimationCoord</key>
+	<string>interpolationScopeSaturation</string>
+	<key>mapAndObserver</key>
+	<string>projectionAboutLevel</string>
+	<key>previewViaEnvironment</key>
+	<string>standaloneCanvasDirection</string>
+	<key>primaryPresenterPressure</key>
+	<string>responseStrategyDirection</string>
+	<key>progressbarJobStyle</key>
+	<string>basicResolverSpacing</string>
+	<key>routerChainSkewx</key>
+	<string>synchronousSliderMode</string>
+	<key>statelessValueDirection</key>
+	<string>accordionSliderValidation</string>
+	<key>taskFlyweightVisible</key>
+	<string>beginnerKernelEdge</string>
+</dict>
+</plist>

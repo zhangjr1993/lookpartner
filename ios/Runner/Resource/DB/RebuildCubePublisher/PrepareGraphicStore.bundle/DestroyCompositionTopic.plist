@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxInterpreterBound</key>
+	<string>usedCollectionTint</string>
+	<key>particleDuringTask</key>
+	<string>threadViaProxy</string>
+	<key>sampleVariableFrequency</key>
+	<string>methodFormFlags</string>
+	<key>semanticsSinceParam</key>
+	<string>cartesianWidgetHead</string>
+	<key>semanticsSingletonTag</key>
+	<string>instructionOutsideDecorator</string>
+	<key>specifierMethodResponse</key>
+	<string>vectorContextBound</string>
+	<key>standaloneTextureOffset</key>
+	<string>backwardOptimizerOffset</string>
+	<key>standaloneUsecasePadding</key>
+	<string>imageProxyName</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateActivityStatus</key>
+	<string>sensorPerComposite</string>
+	<key>gradientPlatformTag</key>
+	<string>instructionJobInset</string>
+	<key>graphFlyweightTag</key>
+	<string>scrollVersusFlyweight</string>
+	<key>radiusOutsidePrototype</key>
+	<string>timerBufferSaturation</string>
+	<key>variantSystemCoord</key>
+	<string>querySingletonRate</string>
+</dict>
+</plist>

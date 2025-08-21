@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAsWork</key>
+	<string>visiblePointDuration</string>
+	<key>baseOutsideProxy</key>
+	<string>observerCompositeAppearance</string>
+	<key>concurrentExponentFrequency</key>
+	<string>cupertinoValueTop</string>
+	<key>dependencyOrPhase</key>
+	<string>storyboardBeyondMemento</string>
+	<key>errorCommandBehavior</key>
+	<string>boxExceptVar</string>
+	<key>ignoredStateKind</key>
+	<string>publicCheckboxKind</string>
+	<key>segueNearContext</key>
+	<string>behaviorStrategyBottom</string>
+	<key>tangentAndDecorator</key>
+	<string>buttonTierKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAllocatorDelay</key>
+	<string>interactiveSlashKind</string>
+	<key>batchObserverShape</key>
+	<string>nextEquipmentPressure</string>
+	<key>commonEffectSpacing</key>
+	<string>scaffoldAroundEnvironment</string>
+	<key>cubitInsideVariable</key>
+	<string>synchronousButtonShape</string>
+	<key>injectionInBuffer</key>
+	<string>textMediatorHead</string>
+	<key>lostSizeInset</key>
+	<string>descriptorOutsideAdapter</string>
+	<key>menuForPattern</key>
+	<string>cupertinoWithoutMediator</string>
+	<key>previewActionForce</key>
+	<string>profileContainScope</string>
+	<key>serviceOutsideVisitor</key>
+	<string>providerOperationStatus</string>
+</dict>
+</plist>

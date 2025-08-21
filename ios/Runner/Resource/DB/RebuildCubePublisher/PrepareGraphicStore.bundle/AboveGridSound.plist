@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentFeatureType</key>
+	<string>futureScopeFrequency</string>
+	<key>indicatorAtTask</key>
+	<string>navigatorAndContext</string>
+	<key>intermediateBufferDirection</key>
+	<string>sustainableChallengeDistance</string>
+	<key>opaqueSubscriptionStyle</key>
+	<string>crudeFutureDuration</string>
+	<key>otherLayoutAlignment</key>
+	<string>crudeBoxshadowMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaIncludeStage</key>
+	<string>immediateCurveVelocity</string>
+	<key>immutableRoleShade</key>
+	<string>themeAndTier</string>
+	<key>independentPageviewContrast</key>
+	<string>batchAboutProcess</string>
+	<key>spotAsStage</key>
+	<string>commandCommandContrast</string>
+	<key>switchVersusVisitor</key>
+	<string>commonNotifierContrast</string>
+</dict>
+</plist>

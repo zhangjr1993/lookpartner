@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionWithoutTask</key>
+	<string>groupOutsideJob</string>
+	<key>factoryAtCycle</key>
+	<string>brushStagePosition</string>
+	<key>globalBatchPadding</key>
+	<string>pointNumberFeedback</string>
+	<key>newestSessionRight</key>
+	<string>columnOfFunction</string>
+	<key>popupPrototypePadding</key>
+	<string>presenterAmongStrategy</string>
+	<key>priorCubitOpacity</key>
+	<string>tickerFrameworkLocation</string>
+	<key>typicalContainerOpacity</key>
+	<string>radiusTypeOffset</string>
+	<key>widgetActivityBehavior</key>
+	<string>activatedScaleFormat</string>
+</dict>
+</plist>

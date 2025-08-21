@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectNumberShape</key>
+	<string>mainMenuPadding</string>
+	<key>managerAtContext</key>
+	<string>sceneMethodValidation</string>
+	<key>stateStructureFeedback</key>
+	<string>coordinatorPlatformFormat</string>
+	<key>textfieldPhaseContrast</key>
+	<string>intermediateTextEdge</string>
+</dict>
+</plist>

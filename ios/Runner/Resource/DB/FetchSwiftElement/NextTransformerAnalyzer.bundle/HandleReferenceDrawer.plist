@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentHeroOpacity</key>
+	<string>curveFacadeInteraction</string>
+	<key>cursorOrCommand</key>
+	<string>easyMobxInterval</string>
+	<key>resilientDimensionSpacing</key>
+	<string>activitySingletonValidation</string>
+	<key>topicTaskSize</key>
+	<string>enabledMobxType</string>
+</dict>
+</plist>

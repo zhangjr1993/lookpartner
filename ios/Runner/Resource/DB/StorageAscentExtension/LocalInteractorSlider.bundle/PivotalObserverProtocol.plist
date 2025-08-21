@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureParamSpacing</key>
+	<string>popupLevelCount</string>
+	<key>otherDurationInteraction</key>
+	<string>opaqueLocalizationFormat</string>
+	<key>prevDurationBottom</key>
+	<string>providerActivityBrightness</string>
+	<key>sliderInStage</key>
+	<string>popupOutsideStage</string>
+</dict>
+</plist>

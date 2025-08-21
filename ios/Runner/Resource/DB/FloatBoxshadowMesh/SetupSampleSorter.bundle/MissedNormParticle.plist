@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystPatternInset</key>
+	<string>desktopObserverStyle</string>
+	<key>completionBeyondMediator</key>
+	<string>builderPhaseOffset</string>
+	<key>directAnchorShape</key>
+	<string>menuShapeLeft</string>
+	<key>expandedStructureFrequency</key>
+	<string>semanticAllocatorBottom</string>
+	<key>newestTickerOrientation</key>
+	<string>effectEnvironmentContrast</string>
+	<key>primaryRoutePosition</key>
+	<string>entropyOutsideState</string>
+	<key>synchronousCompleterTint</key>
+	<string>commandDuringProcess</string>
+	<key>viewStateDensity</key>
+	<string>channelsModeCount</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsLayerDirection</key>
+	<string>delegateWithActivity</string>
+	<key>declarativeBatchForce</key>
+	<string>isolateStructureTransparency</string>
+	<key>intermediateDescriptionValidation</key>
+	<string>titleInPrototype</string>
+	<key>mobxBufferFlags</key>
+	<string>singletonAwayContext</string>
+	<key>precisionExceptVariable</key>
+	<string>subsequentCompositionEdge</string>
+	<key>priorControllerPressure</key>
+	<string>previewCycleTension</string>
+	<key>sliderThanPrototype</key>
+	<string>relationalInkwellVisibility</string>
+	<key>storyboardStyleRight</key>
+	<string>concurrentGridColor</string>
+</dict>
+</plist>

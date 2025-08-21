@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCallbackForce</key>
+	<string>usageWithoutBuffer</string>
+	<key>autoChannelsDelay</key>
+	<string>bitrateThroughFacade</string>
+	<key>convolutionFacadeSpacing</key>
+	<string>capsuleStyleBound</string>
+	<key>customizedEffectLocation</key>
+	<string>groupDuringShape</string>
+	<key>futureLevelMargin</key>
+	<string>columnFacadeDirection</string>
+	<key>granularStoreInset</key>
+	<string>responsiveErrorVisible</string>
+	<key>integerAsPlatform</key>
+	<string>nextEqualizationValidation</string>
+	<key>missedTabviewSaturation</key>
+	<string>primaryCanvasLeft</string>
+	<key>unactivatedLayerBound</key>
+	<string>enabledPrecisionTop</string>
+</dict>
+</plist>

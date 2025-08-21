@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedStageBehavior</key>
+	<string>gradientLayerOrigin</string>
+	<key>layoutTaskVisibility</key>
+	<string>momentumScopeCenter</string>
+	<key>statefulPresenterDepth</key>
+	<string>requiredCompleterName</string>
+	<key>streamContainOperation</key>
+	<string>iconPlatformMode</string>
+	<key>visibleZoneStyle</key>
+	<string>concreteCompletionOrientation</string>
+</dict>
+</plist>

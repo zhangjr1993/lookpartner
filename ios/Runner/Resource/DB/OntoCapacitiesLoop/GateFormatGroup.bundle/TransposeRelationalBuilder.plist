@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellNearOperation</key>
+	<string>viewTaskType</string>
+	<key>contractionStrategyBorder</key>
+	<string>cursorActionOpacity</string>
+	<key>flexExceptAction</key>
+	<string>segueBeyondPhase</string>
+	<key>inactiveStepDuration</key>
+	<string>specifierTierLocation</string>
+	<key>indicatorInsideOperation</key>
+	<string>singletonAroundStructure</string>
+	<key>stackBufferFrequency</key>
+	<string>lostListviewBottom</string>
+</dict>
+</plist>

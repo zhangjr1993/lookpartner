@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelObserverMargin</key>
+	<string>allocatorByAction</string>
+	<key>chapterScopeSaturation</key>
+	<string>sessionNearSingleton</string>
+	<key>descriptorVariableContrast</key>
+	<string>gemPhaseKind</string>
+	<key>fixedDimensionCenter</key>
+	<string>materialTaskFormat</string>
+	<key>lostProjectColor</key>
+	<string>cacheVariableDepth</string>
+	<key>mediaProxyCenter</key>
+	<string>callbackPlatformLeft</string>
+</dict>
+</plist>

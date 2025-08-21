@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLoopSpacing</key>
+	<string>independentMetadataPadding</string>
+	<key>buttonOperationType</key>
+	<string>configurationInKind</string>
+	<key>persistentBehaviorDepth</key>
+	<string>materialPriorityFormat</string>
+	<key>protocolOrBridge</key>
+	<string>pivotalTextTag</string>
+	<key>resolverAndScope</key>
+	<string>scaffoldInsideCommand</string>
+</dict>
+</plist>

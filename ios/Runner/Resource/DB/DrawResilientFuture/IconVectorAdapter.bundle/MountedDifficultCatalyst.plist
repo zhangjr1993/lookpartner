@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategyTint</key>
+	<string>drawerTypeDensity</string>
+	<key>cubitPrototypeSpeed</key>
+	<string>queueBufferRight</string>
+	<key>descriptionInsideVisitor</key>
+	<string>completerWithoutSingleton</string>
+	<key>logAwayVariable</key>
+	<string>notificationStateMargin</string>
+	<key>priorityStyleFormat</key>
+	<string>associatedWorkflowMode</string>
+	<key>sampleAndTask</key>
+	<string>durationContainActivity</string>
+	<key>stepCyclePressure</key>
+	<string>responseJobTop</string>
+	<key>unarySingletonColor</key>
+	<string>delegateNearObserver</string>
+</dict>
+</plist>

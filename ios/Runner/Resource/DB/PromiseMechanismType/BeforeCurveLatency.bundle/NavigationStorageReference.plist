@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultListenerFrequency</key>
+	<string>remainderDespiteFacade</string>
+	<key>graphFromSingleton</key>
+	<string>blocByCommand</string>
+	<key>labelActivityMode</key>
+	<string>constraintFrameworkTheme</string>
+	<key>notificationCommandKind</key>
+	<string>movementOutsideJob</string>
+	<key>reducerKindTint</key>
+	<string>cachePrototypeCount</string>
+	<key>smallMovementRate</key>
+	<string>statelessAlphaSkewx</string>
+</dict>
+</plist>

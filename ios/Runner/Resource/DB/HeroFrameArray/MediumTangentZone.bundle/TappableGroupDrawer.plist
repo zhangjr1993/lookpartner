@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAsyncDirection</key>
+	<string>inheritedGrainVisible</string>
+	<key>anchorPerKind</key>
+	<string>significantPositionAlignment</string>
+	<key>channelsLayerStyle</key>
+	<string>resizableDurationRate</string>
+	<key>collectionObserverInset</key>
+	<string>sharedChapterBound</string>
+	<key>concurrentFragmentCount</key>
+	<string>granularAllocatorBound</string>
+	<key>coordinatorDespiteParam</key>
+	<string>dialogsOperationState</string>
+	<key>protocolActionSaturation</key>
+	<string>skirtParameterRight</string>
+	<key>requiredResultRate</key>
+	<string>featureDespiteBuffer</string>
+	<key>stepContainPrototype</key>
+	<string>disabledPromiseBound</string>
+	<key>viewWithMode</key>
+	<string>handlerObserverTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVersusWork</key>
+	<string>skinLevelSize</string>
+	<key>containerThanComposite</key>
+	<string>largeShaderOpacity</string>
+	<key>independentButtonTransparency</key>
+	<string>decorationWithoutShape</string>
+	<key>smallRadiusDensity</key>
+	<string>positionedThroughComposite</string>
+</dict>
+</plist>

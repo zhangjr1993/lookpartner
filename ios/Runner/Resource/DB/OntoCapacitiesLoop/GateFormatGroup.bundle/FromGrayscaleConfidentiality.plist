@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAdapterLeft</key>
+	<string>sensorObserverTheme</string>
+	<key>cubitExceptObserver</key>
+	<string>sceneThroughMediator</string>
+	<key>customModulusVisible</key>
+	<string>visibleSineBottom</string>
+	<key>matrixOrStructure</key>
+	<string>exponentInStyle</string>
+	<key>nodeAwayMediator</key>
+	<string>alignmentAdapterHue</string>
+	<key>tabviewCompositeBorder</key>
+	<string>subscriptionFromProxy</string>
+	<key>tabviewWithoutNumber</key>
+	<string>keyStreamOffset</string>
+</dict>
+</plist>

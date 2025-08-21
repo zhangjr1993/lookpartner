@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInStructure</key>
+	<string>sineFromFlyweight</string>
+	<key>consultativeVariantTag</key>
+	<string>standaloneAsyncAlignment</string>
+	<key>criticalModelDepth</key>
+	<string>viewPerWork</string>
+	<key>criticalTabviewCount</key>
+	<string>singlePositionStatus</string>
+	<key>dependencyStyleOrientation</key>
+	<string>retainedLayoutMargin</string>
+	<key>publicDocumentTransparency</key>
+	<string>listenerBufferEdge</string>
+	<key>queueAtStyle</key>
+	<string>hierarchicalControllerAppearance</string>
+	<key>resourceStateForce</key>
+	<string>specifyMenuName</string>
+	<key>scrollableTitleRotation</key>
+	<string>normForValue</string>
+	<key>textTempleBound</key>
+	<string>axisJobOrigin</string>
+</dict>
+</plist>

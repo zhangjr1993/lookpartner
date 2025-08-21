@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScenePressure</key>
+	<string>binaryVisitorDistance</string>
+	<key>animationAndStrategy</key>
+	<string>resizableChecklistOrientation</string>
+	<key>completerAroundOperation</key>
+	<string>inactiveUtilCoord</string>
+	<key>decorationNearMethod</key>
+	<string>blocPerWork</string>
+	<key>invisibleTextSize</key>
+	<string>desktopDelegateVisibility</string>
+	<key>layerAroundPlatform</key>
+	<string>cubeNumberBehavior</string>
+	<key>variantViaSingleton</key>
+	<string>rectAlongOperation</string>
+</dict>
+</plist>

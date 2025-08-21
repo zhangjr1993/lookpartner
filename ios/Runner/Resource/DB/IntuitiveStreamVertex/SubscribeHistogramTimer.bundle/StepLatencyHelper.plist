@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAlignmentRight</key>
+	<string>screenCompositeDistance</string>
+	<key>nodeIncludeActivity</key>
+	<string>reactiveEqualizationTransparency</string>
+	<key>parallelBuilderTransparency</key>
+	<string>requiredPetVelocity</string>
+	<key>scenePerDecorator</key>
+	<string>actionOutsideComposite</string>
+	<key>scrollableDurationResponse</key>
+	<string>resultDespiteNumber</string>
+	<key>textDecoratorAppearance</key>
+	<string>animationByPlatform</string>
+	<key>themeOperationOrientation</key>
+	<string>instructionStyleDepth</string>
+</dict>
+</plist>

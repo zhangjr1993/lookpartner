@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCycleMargin</key>
+	<string>sineSingletonEdge</string>
+	<key>flexibleDelegateSkewy</key>
+	<string>observerInAction</string>
+	<key>gridviewWithoutNumber</key>
+	<string>dropdownbuttonWithoutSystem</string>
+	<key>materialFeatureCenter</key>
+	<string>subsequentGridviewAcceleration</string>
+	<key>materialThroughCommand</key>
+	<string>themeOperationFrequency</string>
+	<key>mediumCheckboxForce</key>
+	<string>respectiveTextfieldPadding</string>
+	<key>providerIncludeFacade</key>
+	<string>grainLayerTail</string>
+	<key>skinLayerColor</key>
+	<string>gemWithoutForm</string>
+</dict>
+</plist>

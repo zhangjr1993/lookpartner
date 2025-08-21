@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureOrCycle</key>
+	<string>sceneWithoutState</string>
+	<key>entityWithoutFacade</key>
+	<string>resizableSymbolVisible</string>
+	<key>frameNearMemento</key>
+	<string>taskAlongSingleton</string>
+	<key>numericalPositionHead</key>
+	<string>tickerValueTail</string>
+	<key>queueAroundCycle</key>
+	<string>spotOutsidePlatform</string>
+	<key>sequentialCoordinatorFrequency</key>
+	<string>lastLocalizationDelay</string>
+	<key>sizeForStrategy</key>
+	<string>optionChainAlignment</string>
+	<key>synchronousFutureShade</key>
+	<string>streamCompositePosition</string>
+	<key>textfieldBeyondShape</key>
+	<string>futureBufferFlags</string>
+</dict>
+</plist>

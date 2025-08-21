@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredStampInterval</key>
+	<string>bufferIncludeVariable</string>
+	<key>loopPhaseDelay</key>
+	<string>sequentialFrameIndex</string>
+	<key>oldSignHue</key>
+	<string>radioTempleSaturation</string>
+	<key>pivotalAnimationHead</key>
+	<string>storyboardThanMediator</string>
+	<key>providerUntilKind</key>
+	<string>constraintOrTemple</string>
+	<key>sizeLikeComposite</key>
+	<string>sequentialFrameMode</string>
+</dict>
+</plist>

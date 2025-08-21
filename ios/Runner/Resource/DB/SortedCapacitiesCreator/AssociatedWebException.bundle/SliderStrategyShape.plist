@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandUntilSingleton</key>
+	<string>lastSubpixelDensity</string>
+	<key>gesturedetectorIncludeParam</key>
+	<string>localizationTierRight</string>
+	<key>hashFlyweightFormat</key>
+	<string>loopTypeVelocity</string>
+	<key>isolateMementoResponse</key>
+	<string>captionSingletonDepth</string>
+	<key>keyRiverpodTag</key>
+	<string>newestCompositionShape</string>
+	<key>momentumThroughKind</key>
+	<string>projectionIncludeVisitor</string>
+	<key>transformerContainEnvironment</key>
+	<string>chapterExceptScope</string>
+</dict>
+</plist>

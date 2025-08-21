@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEffectDistance</key>
+	<string>resultCompositeAcceleration</string>
+	<key>animationStyleForce</key>
+	<string>parallelScrollInterval</string>
+	<key>particleAroundStage</key>
+	<string>listenerContextInterval</string>
+	<key>repositoryStageCoord</key>
+	<string>numericalPositionPadding</string>
+	<key>scaffoldPlatformAcceleration</key>
+	<string>mainTweenOffset</string>
+	<key>smallChapterDelay</key>
+	<string>mediumMomentumMode</string>
+	<key>smartBaseTag</key>
+	<string>uniformAppbarHead</string>
+	<key>stepParamTint</key>
+	<string>nextModalEdge</string>
+</dict>
+</plist>

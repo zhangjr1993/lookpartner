@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletIncludeShape</key>
+	<string>cycleBeyondTier</string>
+	<key>crudeNavigatorMomentum</key>
+	<string>modulusWithoutAdapter</string>
+	<key>permanentRowSkewy</key>
+	<string>textAwayActivity</string>
+	<key>queueOutsidePlatform</key>
+	<string>certificateExceptType</string>
+	<key>textContextBehavior</key>
+	<string>basicAsyncDelay</string>
+</dict>
+</plist>

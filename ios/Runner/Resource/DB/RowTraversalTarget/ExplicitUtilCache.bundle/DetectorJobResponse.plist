@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAndProxy</key>
+	<string>heapStateContrast</string>
+	<key>compositionalAccessoryEdge</key>
+	<string>asyncMementoFormat</string>
+	<key>heapAgainstFramework</key>
+	<string>queueContainOperation</string>
+	<key>kernelCycleType</key>
+	<string>similarVectorBehavior</string>
+	<key>mutableSlashFormat</key>
+	<string>persistentFeatureStatus</string>
+	<key>offsetWithJob</key>
+	<string>statefulMetadataTint</string>
+	<key>sophisticatedSceneTheme</key>
+	<string>decorationInOperation</string>
+</dict>
+</plist>

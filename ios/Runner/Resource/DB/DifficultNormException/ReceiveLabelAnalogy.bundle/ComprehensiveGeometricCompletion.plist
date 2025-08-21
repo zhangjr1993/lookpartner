@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOptionTheme</key>
+	<string>promiseScopeTransparency</string>
+	<key>chartBesideShape</key>
+	<string>activatedQueueTransparency</string>
+	<key>exceptionCycleStyle</key>
+	<string>roleThanMethod</string>
+	<key>flexibleLabelOrientation</key>
+	<string>histogramModeInteraction</string>
+	<key>futureJobCount</key>
+	<string>decorationScopeRotation</string>
+	<key>scrollableDependencyKind</key>
+	<string>activityValueForce</string>
+	<key>tappableExtensionVelocity</key>
+	<string>fixedUsecaseAlignment</string>
+</dict>
+</plist>

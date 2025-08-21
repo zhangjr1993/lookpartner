@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventPrototypeOrientation</key>
+	<string>requiredResourceBorder</string>
+	<key>futureParameterVisible</key>
+	<string>textureVersusTier</string>
+	<key>persistentMissionOpacity</key>
+	<string>mainMobileIndex</string>
+	<key>requiredSubpixelVelocity</key>
+	<string>precisionPatternDirection</string>
+	<key>scaffoldAsNumber</key>
+	<string>modulusInsideLevel</string>
+	<key>seamlessGraphShape</key>
+	<string>cupertinoEntityBehavior</string>
+	<key>statefulStageHead</key>
+	<string>resultWithFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDuringSystem</key>
+	<string>sizedboxBeyondDecorator</string>
+	<key>backwardStoryboardBound</key>
+	<string>actionByBridge</string>
+	<key>discardedGraphSize</key>
+	<string>entityMediatorBound</string>
+	<key>easyQueueState</key>
+	<string>spriteDespiteComposite</string>
+	<key>keyZoneMomentum</key>
+	<string>sceneBesideTier</string>
+	<key>pivotalCoordinatorDelay</key>
+	<string>unsortedManagerShape</string>
+	<key>prevSwiftContrast</key>
+	<string>memberUntilDecorator</string>
+</dict>
+</plist>

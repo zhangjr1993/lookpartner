@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAlignmentFormat</key>
+	<string>robustLayoutTop</string>
+	<key>baseBufferHead</key>
+	<string>iconPlatformAppearance</string>
+	<key>composableAppbarCoord</key>
+	<string>alertWorkOpacity</string>
+	<key>constInteractorAcceleration</key>
+	<string>otherModalVisible</string>
+	<key>containerChainDirection</key>
+	<string>mediaqueryExceptContext</string>
+	<key>crudeExponentDelay</key>
+	<string>movementAmongStage</string>
+	<key>immutableListenerDepth</key>
+	<string>protectedMetadataCoord</string>
+	<key>tableInMethod</key>
+	<string>diversifiedCurveContrast</string>
+	<key>uniqueGramTop</key>
+	<string>elasticInstructionRate</string>
+</dict>
+</plist>

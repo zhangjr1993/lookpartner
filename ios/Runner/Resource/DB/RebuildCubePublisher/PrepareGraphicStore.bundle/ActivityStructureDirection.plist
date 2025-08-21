@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAlongForm</key>
+	<string>transitionVersusVisitor</string>
+	<key>featureTypeDuration</key>
+	<string>standaloneControllerPosition</string>
+	<key>grainParamName</key>
+	<string>unactivatedCustompaintCoord</string>
+	<key>groupDuringScope</key>
+	<string>pointVersusTier</string>
+	<key>localizationOutsideSingleton</key>
+	<string>rowLevelSpacing</string>
+	<key>permissivePositionedMode</key>
+	<string>remainderOutsideValue</string>
+	<key>sliderLikeSingleton</key>
+	<string>bufferTypeLocation</string>
+	<key>tickerWorkTag</key>
+	<string>delegateWorkFormat</string>
+</dict>
+</plist>

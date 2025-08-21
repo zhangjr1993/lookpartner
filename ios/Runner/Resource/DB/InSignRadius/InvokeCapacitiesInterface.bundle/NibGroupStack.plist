@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProtocolValidation</key>
+	<string>statelessStrategyRight</string>
+	<key>animationPrototypeEdge</key>
+	<string>cupertinoAgainstShape</string>
+	<key>compositionalSubpixelRotation</key>
+	<string>isolateThroughComposite</string>
+	<key>interactorFromParam</key>
+	<string>pivotalInterfaceTheme</string>
+</dict>
+</plist>

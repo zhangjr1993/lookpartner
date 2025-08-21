@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainAdapterOrientation</key>
+	<string>alertViaKind</string>
+	<key>greatChartMode</key>
+	<string>builderNearProcess</string>
+	<key>storeVersusVar</key>
+	<string>requestSincePrototype</string>
+	<key>viewStructureVisible</key>
+	<string>lossPhaseInterval</string>
+</dict>
+</plist>

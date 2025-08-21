@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalProfileTop</key>
+	<string>previewScopeEdge</string>
+	<key>contractionFacadeType</key>
+	<string>injectionOutsideOperation</string>
+	<key>movementStructureForce</key>
+	<string>gestureProxyPosition</string>
+	<key>musicMethodTransparency</key>
+	<string>multiIsolateTransparency</string>
+	<key>serviceBesideLayer</key>
+	<string>effectFromInterpreter</string>
+	<key>symbolOfSystem</key>
+	<string>transitionCycleBrightness</string>
+</dict>
+</plist>

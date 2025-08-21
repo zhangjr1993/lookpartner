@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowNearTask</key>
+	<string>enabledLogForce</string>
+	<key>checkboxViaVariable</key>
+	<string>cubeVariableDensity</string>
+	<key>commandPlatformTheme</key>
+	<string>intermediatePreviewColor</string>
+	<key>descriptorInScope</key>
+	<string>decorationOfMethod</string>
+	<key>loopDespiteInterpreter</key>
+	<string>webAspectratioAlignment</string>
+	<key>statefulLayoutVisibility</key>
+	<string>cacheModeVisible</string>
+	<key>topicNearVariable</key>
+	<string>characterJobShade</string>
+	<key>tweenAwayMode</key>
+	<string>scaleUntilStyle</string>
+	<key>visibleTabviewTop</key>
+	<string>painterDuringBridge</string>
+</dict>
+</plist>

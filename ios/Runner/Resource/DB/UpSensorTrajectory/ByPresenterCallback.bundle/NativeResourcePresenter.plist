@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStrategyBehavior</key>
+	<string>newestAllocatorDelay</string>
+	<key>baselineWithScope</key>
+	<string>reactivePageviewInterval</string>
+	<key>buttonCommandDepth</key>
+	<string>lazyTransitionBorder</string>
+	<key>checklistInterpreterTheme</key>
+	<string>customSceneSkewx</string>
+	<key>coordinatorAlongPattern</key>
+	<string>arithmeticProviderRotation</string>
+	<key>crudeTableDuration</key>
+	<string>progressbarSinceVar</string>
+	<key>stackBridgeContrast</key>
+	<string>fragmentContainPhase</string>
+	<key>subsequentChecklistDensity</key>
+	<string>mobileTextfieldSkewy</string>
+	<key>textureMethodVelocity</key>
+	<string>nativeMediaqueryValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBesidePlatform</key>
+	<string>inheritedChannelLocation</string>
+	<key>constraintPerVariable</key>
+	<string>materialRadiusSkewy</string>
+	<key>containerWithState</key>
+	<string>inkwellAdapterTint</string>
+	<key>sinkInsideMethod</key>
+	<string>workflowAdapterTint</string>
+	<key>usecaseKindLeft</key>
+	<string>significantConsumerRight</string>
+</dict>
+</plist>

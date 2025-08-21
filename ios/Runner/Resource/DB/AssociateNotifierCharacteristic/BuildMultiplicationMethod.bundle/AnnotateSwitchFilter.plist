@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredLocalizationPressure</key>
+	<string>webGroupBorder</string>
+	<key>imperativeMarginVisibility</key>
+	<string>scaleAlongDecorator</string>
+	<key>listviewNearParameter</key>
+	<string>resourceAgainstValue</string>
+	<key>repositoryStrategyFeedback</key>
+	<string>injectionThanParameter</string>
+	<key>temporaryResourceName</key>
+	<string>navigatorAroundJob</string>
+</dict>
+</plist>

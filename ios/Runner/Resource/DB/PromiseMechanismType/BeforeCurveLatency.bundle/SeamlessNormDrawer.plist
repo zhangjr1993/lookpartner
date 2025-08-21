@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAgainstVariable</key>
+	<string>densePlateLocation</string>
+	<key>intensityByParameter</key>
+	<string>durationAlongMode</string>
+	<key>precisionSinceCommand</key>
+	<string>utilInsidePlatform</string>
+	<key>resourceMementoMode</key>
+	<string>adaptiveApertureBottom</string>
+	<key>specifyDrawerInset</key>
+	<string>stateNumberFormat</string>
+</dict>
+</plist>

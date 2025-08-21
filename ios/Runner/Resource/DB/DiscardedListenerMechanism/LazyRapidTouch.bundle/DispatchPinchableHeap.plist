@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMusicScale</key>
+	<string>baseThanFramework</string>
+	<key>histogramOperationBehavior</key>
+	<string>modelVersusShape</string>
+	<key>nativeRequestOrientation</key>
+	<string>listviewSinceOperation</string>
+	<key>normAroundValue</key>
+	<string>localizationAgainstVar</string>
+</dict>
+</plist>

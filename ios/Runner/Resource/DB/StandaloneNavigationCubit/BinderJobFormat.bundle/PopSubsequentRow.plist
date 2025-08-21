@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryParamFeedback</key>
+	<string>curveStrategyTop</string>
+	<key>catalystObserverFormat</key>
+	<string>agileBorderEdge</string>
+	<key>channelFormRight</key>
+	<string>lostConsumerAlignment</string>
+	<key>factoryOfFlyweight</key>
+	<string>serviceOutsideProxy</string>
+	<key>gridviewForSingleton</key>
+	<string>momentumLevelSkewx</string>
+	<key>interactorVisitorIndex</key>
+	<string>prismaticInkwellRotation</string>
+	<key>requestFromType</key>
+	<string>secondOffsetLeft</string>
+	<key>specifyEventSkewx</key>
+	<string>synchronousGetxLocation</string>
+	<key>textfieldIncludeMediator</key>
+	<string>memberOrScope</string>
+</dict>
+</plist>

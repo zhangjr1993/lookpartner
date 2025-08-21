@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpriteContrast</key>
+	<string>animationSystemEdge</string>
+	<key>baselineOfShape</key>
+	<string>radiusAboutTask</string>
+	<key>inkwellAtTier</key>
+	<string>requestLikeAction</string>
+	<key>modelAlongSingleton</key>
+	<string>ephemeralHashOrigin</string>
+	<key>protocolWithBridge</key>
+	<string>sceneFromBuffer</string>
+	<key>sizeFacadeRight</key>
+	<string>mediaLayerOpacity</string>
+	<key>viewLayerLocation</key>
+	<string>uniqueStreamFlags</string>
+</dict>
+</plist>

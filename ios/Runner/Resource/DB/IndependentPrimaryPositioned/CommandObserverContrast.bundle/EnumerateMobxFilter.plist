@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAgainstStyle</key>
+	<string>semanticStoragePosition</string>
+	<key>cubitVisitorFlags</key>
+	<string>prevChannelKind</string>
+	<key>projectionAroundState</key>
+	<string>iterativeMasterBound</string>
+	<key>rectAgainstParam</key>
+	<string>normalDependencyDepth</string>
+	<key>samplePrototypeFrequency</key>
+	<string>ternarySystemStatus</string>
+	<key>segmentNumberMode</key>
+	<string>requestCycleDelay</string>
+	<key>workflowAboutType</key>
+	<string>cartesianCupertinoAlignment</string>
+</dict>
+</plist>

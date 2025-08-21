@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInShape</key>
+	<string>responseFrameworkLocation</string>
+	<key>completerAtBridge</key>
+	<string>effectCycleShape</string>
+	<key>consumerVersusForm</key>
+	<string>sizeKindInterval</string>
+	<key>interactorSystemStyle</key>
+	<string>radiusPhaseMode</string>
+	<key>prismaticMonsterCount</key>
+	<string>widgetShapeCenter</string>
+	<key>queueFormSpeed</key>
+	<string>decorationTaskStyle</string>
+	<key>reactiveEventBorder</key>
+	<string>immediateBuilderFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBulletState</key>
+	<string>swiftParamRight</string>
+	<key>adaptiveBlocFormat</key>
+	<string>inactiveResponseOrientation</string>
+	<key>allocatorFromFunction</key>
+	<string>positionedFrameworkEdge</string>
+	<key>builderFormPosition</key>
+	<string>fragmentDuringPrototype</string>
+	<key>inheritedResponseTint</key>
+	<string>statefulVersusPrototype</string>
+</dict>
+</plist>

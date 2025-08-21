@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAmongFunction</key>
+	<string>firstPositionOffset</string>
+	<key>descriptorDecoratorKind</key>
+	<string>keyObserverStyle</string>
+	<key>intermediateCommandCenter</key>
+	<string>singletonBufferTag</string>
+	<key>pivotalSessionSize</key>
+	<string>displayablePointInterval</string>
+	<key>priorTaskContrast</key>
+	<string>histogramPerMode</string>
+</dict>
+</plist>

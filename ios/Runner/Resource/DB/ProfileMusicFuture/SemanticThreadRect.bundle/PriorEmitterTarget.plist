@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringScope</key>
+	<string>ephemeralSemanticsMode</string>
+	<key>eventPlatformBorder</key>
+	<string>resourceObserverInset</string>
+	<key>interfaceBesideValue</key>
+	<string>fusedResolverBottom</string>
+	<key>providerAmongValue</key>
+	<string>associatedSpineOffset</string>
+	<key>singleAnimationTheme</key>
+	<string>scrollTierForce</string>
+	<key>standaloneRepositoryName</key>
+	<string>gridviewInTask</string>
+	<key>tweenContainComposite</key>
+	<string>pivotalGradientTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisScopeSpacing</key>
+	<string>consumerCycleTint</string>
+	<key>builderContextRate</key>
+	<string>criticalModelSaturation</string>
+	<key>commandParamResponse</key>
+	<string>playbackDuringSingleton</string>
+	<key>cursorStructureOffset</key>
+	<string>unactivatedAlignmentSaturation</string>
+	<key>denseAnchorIndex</key>
+	<string>dependencyBeyondTier</string>
+	<key>sortedTangentFeedback</key>
+	<string>immediateNodeAlignment</string>
+	<key>subsequentCapsuleBehavior</key>
+	<string>tweenAgainstTask</string>
+	<key>temporaryChartCount</key>
+	<string>entityCommandDepth</string>
+	<key>topicOfBuffer</key>
+	<string>channelsOperationForce</string>
+</dict>
+</plist>

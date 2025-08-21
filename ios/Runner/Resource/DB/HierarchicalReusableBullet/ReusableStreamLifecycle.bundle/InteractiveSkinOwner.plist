@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAmongOperation</key>
+	<string>profileViaSingleton</string>
+	<key>graphSystemType</key>
+	<string>navigationWithoutDecorator</string>
+	<key>permissiveCubitShade</key>
+	<string>expandedKindBottom</string>
+	<key>pinchableLayoutSpeed</key>
+	<string>sinkForScope</string>
+</dict>
+</plist>

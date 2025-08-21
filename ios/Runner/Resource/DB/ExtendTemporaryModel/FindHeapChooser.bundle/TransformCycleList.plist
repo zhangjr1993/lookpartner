@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAmongFacade</key>
+	<string>geometricBlocStyle</string>
+	<key>cupertinoGradientStyle</key>
+	<string>independentDropdownbuttonIndex</string>
+	<key>exceptionOperationDistance</key>
+	<string>progressbarMementoCount</string>
+	<key>indicatorLikeAction</key>
+	<string>displayableAspectratioCenter</string>
+	<key>observerProcessForce</key>
+	<string>delegateTaskTop</string>
+	<key>temporaryModalState</key>
+	<string>textureInsideWork</string>
+</dict>
+</plist>

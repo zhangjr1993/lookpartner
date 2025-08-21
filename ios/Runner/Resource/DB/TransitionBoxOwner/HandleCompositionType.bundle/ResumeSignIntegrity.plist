@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDecoratorBound</key>
+	<string>listviewActivityEdge</string>
+	<key>groupActivitySize</key>
+	<string>activeIconRight</string>
+	<key>hierarchicalSliderHue</key>
+	<string>explicitEffectFrequency</string>
+	<key>permanentContractionPosition</key>
+	<string>lostRoleOrientation</string>
+	<key>resolverDuringChain</key>
+	<string>seamlessTangentFrequency</string>
+	<key>taskInsideContext</key>
+	<string>parallelSceneResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePopupOffset</key>
+	<string>dialogsStyleRight</string>
+	<key>configurationUntilProcess</key>
+	<string>intermediateIntensityRight</string>
+	<key>currentCardResponse</key>
+	<string>masterPerPlatform</string>
+	<key>declarativeCallbackVisible</key>
+	<string>lazySingletonStyle</string>
+	<key>logarithmWithoutLevel</key>
+	<string>intuitiveCursorCenter</string>
+	<key>nativeDependencyScale</key>
+	<string>isolateOperationAcceleration</string>
+	<key>reducerOutsidePhase</key>
+	<string>marginAmongForm</string>
+	<key>routerPhaseState</key>
+	<string>decorationAlongContext</string>
+	<key>stampUntilStructure</key>
+	<string>gestureVersusChain</string>
+</dict>
+</plist>

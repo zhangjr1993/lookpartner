@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderIncludeFramework</key>
+	<string>brushInJob</string>
+	<key>diffableAnimationRotation</key>
+	<string>toolNearChain</string>
+	<key>granularExtensionRight</key>
+	<string>semanticRowHead</string>
+	<key>immediateNavigatorTheme</key>
+	<string>sceneContextBrightness</string>
+	<key>layerScopeInterval</key>
+	<string>topicNearTier</string>
+	<key>menuByChain</key>
+	<string>autoColumnForce</string>
+	<key>retainedFutureFormat</key>
+	<string>queueInsideObserver</string>
+	<key>storageUntilTier</key>
+	<string>slashOutsideInterpreter</string>
+	<key>transitionBesideVisitor</key>
+	<string>elasticCompleterLeft</string>
+</dict>
+</plist>

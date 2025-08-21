@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLossStyle</key>
+	<string>shaderAmongAction</string>
+	<key>expandedBeyondParameter</key>
+	<string>metadataAsPrototype</string>
+	<key>keyCupertinoVelocity</key>
+	<string>topicPerObserver</string>
+	<key>loopTierTop</key>
+	<string>curveFacadeTheme</string>
+	<key>navigatorFacadeFeedback</key>
+	<string>permanentRadiusVisible</string>
+	<key>navigatorFlyweightFlags</key>
+	<string>dynamicListenerKind</string>
+	<key>sceneDuringContext</key>
+	<string>listviewAsInterpreter</string>
+	<key>skinSingletonPadding</key>
+	<string>unactivatedBoxSpeed</string>
+	<key>statelessDuringFacade</key>
+	<string>interpolationAlongNumber</string>
+	<key>transitionStateLeft</key>
+	<string>contractionAlongObserver</string>
+</dict>
+</plist>

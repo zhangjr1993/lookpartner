@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisModeInteraction</key>
+	<string>significantLayoutRate</string>
+	<key>beginnerManagerTint</key>
+	<string>zoneAdapterAppearance</string>
+	<key>modelInsideLayer</key>
+	<string>uniformCursorBorder</string>
+	<key>resizableContainerTail</key>
+	<string>sortedGatePosition</string>
+	<key>transformerObserverFeedback</key>
+	<string>symmetricAsyncCoord</string>
+</dict>
+</plist>

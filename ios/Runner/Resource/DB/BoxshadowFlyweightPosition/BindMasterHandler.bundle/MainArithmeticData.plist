@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFromStrategy</key>
+	<string>singletonProxyPadding</string>
+	<key>constraintKindType</key>
+	<string>routeInEnvironment</string>
+	<key>curveMementoBrightness</key>
+	<string>rectSingletonHue</string>
+	<key>labelFromFramework</key>
+	<string>pivotalEventPressure</string>
+	<key>navigatorCommandFormat</key>
+	<string>accordionCertificateState</string>
+	<key>textureVarVelocity</key>
+	<string>actionProxyTint</string>
+</dict>
+</plist>

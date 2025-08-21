@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormAppearance</key>
+	<string>smartChecklistInteraction</string>
+	<key>asyncWithAdapter</key>
+	<string>controllerFromForm</string>
+	<key>batchWithMemento</key>
+	<string>routeSingletonBrightness</string>
+	<key>flexibleSpotInteraction</key>
+	<string>progressbarPerCommand</string>
+	<key>protectedLoopMargin</key>
+	<string>smallManagerRight</string>
+	<key>significantInjectionStyle</key>
+	<string>mutableGroupColor</string>
+	<key>subscriptionOutsideStrategy</key>
+	<string>commandWithMethod</string>
+	<key>transitionScopeMode</key>
+	<string>accordionOffsetInterval</string>
+	<key>utilCompositeForce</key>
+	<string>resilientDurationVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFormRight</key>
+	<string>spineBeyondState</string>
+	<key>characterParamBehavior</key>
+	<string>sizeForForm</string>
+	<key>concurrentMediaquerySaturation</key>
+	<string>cartesianCubitCount</string>
+	<key>entropyAmongFramework</key>
+	<string>musicContainAction</string>
+</dict>
+</plist>

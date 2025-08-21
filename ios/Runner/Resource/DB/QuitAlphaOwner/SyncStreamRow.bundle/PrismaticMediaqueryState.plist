@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFragmentSkewy</key>
+	<string>indicatorUntilBridge</string>
+	<key>buttonPatternVisibility</key>
+	<string>draggableNibShape</string>
+	<key>exceptionVarBorder</key>
+	<string>projectionVarStyle</string>
+	<key>fragmentOrStructure</key>
+	<string>threadMediatorName</string>
+	<key>overlayDespitePlatform</key>
+	<string>mediaAndBridge</string>
+	<key>popupAndFramework</key>
+	<string>animatedGraphDuration</string>
+	<key>riverpodStrategyAcceleration</key>
+	<string>heapIncludeSingleton</string>
+</dict>
+</plist>

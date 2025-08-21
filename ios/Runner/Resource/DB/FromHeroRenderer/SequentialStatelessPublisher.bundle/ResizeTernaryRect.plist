@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushCycleVisible</key>
+	<string>completerFacadeFrequency</string>
+	<key>constTechniqueLocation</key>
+	<string>euclideanGemShade</string>
+	<key>loopLevelPadding</key>
+	<string>channelParamTheme</string>
+	<key>missionActionShape</key>
+	<string>overlayCommandSkewy</string>
+	<key>primaryChannelsCenter</key>
+	<string>modelAboutMediator</string>
+	<key>promiseForFacade</key>
+	<string>sharedProviderContrast</string>
+	<key>signOfCommand</key>
+	<string>modelViaVariable</string>
+	<key>subtleCommandForce</key>
+	<string>reactiveSlashOpacity</string>
+	<key>swiftInFlyweight</key>
+	<string>indicatorTierHue</string>
+</dict>
+</plist>

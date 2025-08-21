@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTransitionFrequency</key>
+	<string>subsequentInteractorPadding</string>
+	<key>characterStrategyStyle</key>
+	<string>eventForActivity</string>
+	<key>nodeExceptActivity</key>
+	<string>kernelFlyweightHead</string>
+	<key>serviceBridgeOpacity</key>
+	<string>permanentIntensityBorder</string>
+</dict>
+</plist>

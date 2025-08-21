@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAroundFramework</key>
+	<string>crudeTextSkewy</string>
+	<key>granularRadioBorder</key>
+	<string>parallelCheckboxResponse</string>
+	<key>gridviewObserverRate</key>
+	<string>advancedHistogramOrigin</string>
+	<key>listenerStructureState</key>
+	<string>gemJobSaturation</string>
+	<key>multiStateInteraction</key>
+	<string>monsterBeyondDecorator</string>
+	<key>primaryCycleMode</key>
+	<string>decorationWithSystem</string>
+	<key>promiseSinceActivity</key>
+	<string>sceneViaBridge</string>
+	<key>textfieldThroughVar</key>
+	<string>easyTableSize</string>
+</dict>
+</plist>

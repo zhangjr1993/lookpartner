@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableRowType</key>
+	<string>screenMediatorSkewy</string>
+	<key>explicitProviderHue</key>
+	<string>providerCompositeShade</string>
+	<key>gridValueTheme</key>
+	<string>litePainterType</string>
+	<key>instructionViaLayer</key>
+	<string>sceneVisitorInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMemberShape</key>
+	<string>materialGridInset</string>
+	<key>asyncForProxy</key>
+	<string>declarativeTouchDuration</string>
+	<key>checklistContainOperation</key>
+	<string>sharedBoxshadowVisible</string>
+	<key>unactivatedMenuBottom</key>
+	<string>resolverContextAlignment</string>
+</dict>
+</plist>

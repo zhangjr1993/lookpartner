@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterActionFlags</key>
+	<string>inactiveExponentForce</string>
+	<key>displayableFrameOrientation</key>
+	<string>difficultMetadataForce</string>
+	<key>geometricChannelsTop</key>
+	<string>presenterAlongEnvironment</string>
+	<key>interactiveVectorSaturation</key>
+	<string>symmetricAlignmentVelocity</string>
+	<key>tabviewTypeFormat</key>
+	<string>gridviewByStructure</string>
+</dict>
+</plist>

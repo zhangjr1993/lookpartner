@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTierInteraction</key>
+	<string>binaryCompositeOrigin</string>
+	<key>commonScrollMode</key>
+	<string>handlerProxyPadding</string>
+	<key>completerInsideStrategy</key>
+	<string>normalButtonSpacing</string>
+	<key>cubitStateSkewx</key>
+	<string>accessoryTierFrequency</string>
+	<key>directlyControllerMomentum</key>
+	<string>errorSystemSpacing</string>
+	<key>easyWidgetName</key>
+	<string>mutableMarginSpeed</string>
+	<key>spotPhaseSize</key>
+	<string>reusablePopupSkewx</string>
+	<key>tabbarParamOrigin</key>
+	<string>sustainableSliderOffset</string>
+	<key>tensorUsecaseSaturation</key>
+	<string>progressbarFromStage</string>
+</dict>
+</plist>

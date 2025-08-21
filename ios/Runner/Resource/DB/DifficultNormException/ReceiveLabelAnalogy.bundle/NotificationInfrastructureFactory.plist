@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoErrorCenter</key>
+	<string>cardVersusEnvironment</string>
+	<key>buttonCompositeBorder</key>
+	<string>viewAndLayer</string>
+	<key>marginOutsideNumber</key>
+	<string>accordionBorderBottom</string>
+	<key>navigatorDecoratorTransparency</key>
+	<string>requestParameterOffset</string>
+	<key>semanticControllerTransparency</key>
+	<string>constDecorationVelocity</string>
+	<key>sustainableCanvasDirection</key>
+	<string>positionProcessForce</string>
+	<key>transitionExceptProcess</key>
+	<string>advancedHeroFeedback</string>
+</dict>
+</plist>

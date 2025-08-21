@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackNearEnvironment</key>
+	<string>convolutionCycleTint</string>
+	<key>grainContextRotation</key>
+	<string>permissiveChannelBorder</string>
+	<key>layoutBufferShade</key>
+	<string>textureStageBehavior</string>
+	<key>materialLabelDistance</key>
+	<string>rowAndBridge</string>
+	<key>materialTaskTag</key>
+	<string>labelThanLevel</string>
+	<key>progressbarInsideVar</key>
+	<string>normValueBottom</string>
+</dict>
+</plist>

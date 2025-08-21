@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSystemKind</key>
+	<string>unactivatedScaleAcceleration</string>
+	<key>controllerByTask</key>
+	<string>asyncForVar</string>
+	<key>previewFlyweightIndex</key>
+	<string>sortedChecklistAppearance</string>
+	<key>radioForPlatform</key>
+	<string>allocatorInProxy</string>
+	<key>storyboardMediatorRotation</key>
+	<string>activatedTimerPressure</string>
+	<key>streamValueShape</key>
+	<string>gridviewForForm</string>
+</dict>
+</plist>

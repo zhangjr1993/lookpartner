@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInsideParam</key>
+	<string>batchActionHead</string>
+	<key>containerBridgeOffset</key>
+	<string>transformerExceptWork</string>
+	<key>globalFrameRate</key>
+	<string>sampleSingletonOpacity</string>
+	<key>inheritedFrameSize</key>
+	<string>spotCompositeValidation</string>
+</dict>
+</plist>

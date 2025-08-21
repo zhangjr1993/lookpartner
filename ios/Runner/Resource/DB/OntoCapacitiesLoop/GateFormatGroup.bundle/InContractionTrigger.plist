@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperForPlatform</key>
+	<string>fusedOverlayShape</string>
+	<key>discardedTernaryPadding</key>
+	<string>curveValueFormat</string>
+	<key>lossIncludePrototype</key>
+	<string>previewJobCoord</string>
+	<key>marginStyleVelocity</key>
+	<string>controllerAdapterDistance</string>
+	<key>notificationParamSpeed</key>
+	<string>declarativeAspectDelay</string>
+	<key>singletonDecoratorSpeed</key>
+	<string>gridOfNumber</string>
+	<key>themeParamTransparency</key>
+	<string>gestureModeMomentum</string>
+	<key>transitionAdapterOrientation</key>
+	<string>exceptionAdapterSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNavigatorTag</key>
+	<string>menuInsidePlatform</string>
+	<key>composableNavigatorRate</key>
+	<string>screenTaskHue</string>
+	<key>flexibleBoxshadowOrigin</key>
+	<string>cubeAdapterPosition</string>
+	<key>groupStrategyColor</key>
+	<string>cupertinoFacadeDensity</string>
+	<key>injectionChainAcceleration</key>
+	<string>descriptionTaskPressure</string>
+	<key>lostMenuTension</key>
+	<string>localizationShapeTension</string>
+</dict>
+</plist>

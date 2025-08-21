@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAdapterBehavior</key>
+	<string>resizablePopupVelocity</string>
+	<key>easyOperationMargin</key>
+	<string>customBitratePadding</string>
+	<key>exponentAlongBridge</key>
+	<string>robustProgressbarRate</string>
+	<key>ignoredChartMode</key>
+	<string>denseCaptionTail</string>
+	<key>lostZoneDelay</key>
+	<string>blocAtFramework</string>
+	<key>reducerFlyweightSaturation</key>
+	<string>bulletNearOperation</string>
+	<key>routerShapeHead</key>
+	<string>mediocreConstraintSkewy</string>
+</dict>
+</plist>

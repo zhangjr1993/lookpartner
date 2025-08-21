@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStageInterval</key>
+	<string>tappableAwaitOpacity</string>
+	<key>customizedSpotEdge</key>
+	<string>robustSpriteStyle</string>
+	<key>frameIncludeMediator</key>
+	<string>factoryNearType</string>
+	<key>independentOffsetIndex</key>
+	<string>iterativeDropdownbuttonSkewx</string>
+	<key>interactorPerBuffer</key>
+	<string>resizableCallbackCenter</string>
+	<key>singletonWithoutDecorator</key>
+	<string>primaryRouteFrequency</string>
+	<key>sizeProcessInteraction</key>
+	<string>autoLossColor</string>
+	<key>ternaryUntilForm</key>
+	<string>cycleByProxy</string>
+</dict>
+</plist>

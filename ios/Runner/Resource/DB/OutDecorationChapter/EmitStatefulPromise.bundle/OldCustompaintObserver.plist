@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFlyweightKind</key>
+	<string>discardedQueryRight</string>
+	<key>boxAtActivity</key>
+	<string>spriteLayerVelocity</string>
+	<key>entityDecoratorState</key>
+	<string>subpixelCycleOpacity</string>
+	<key>listviewContainJob</key>
+	<string>gridInsideParameter</string>
+</dict>
+</plist>

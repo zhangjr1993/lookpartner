@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorModeName</key>
+	<string>accordionMovementShade</string>
+	<key>composableWidgetStyle</key>
+	<string>boxshadowPerStyle</string>
+	<key>disabledProjectRight</key>
+	<string>animatedcontainerProxyFeedback</string>
+	<key>featureFrameworkBottom</key>
+	<string>standalonePreviewDensity</string>
+	<key>lossForBuffer</key>
+	<string>layoutFunctionStatus</string>
+	<key>projectionShapeTension</key>
+	<string>modelPrototypeDirection</string>
+	<key>sineVisitorVisibility</key>
+	<string>positionAmongTier</string>
+</dict>
+</plist>

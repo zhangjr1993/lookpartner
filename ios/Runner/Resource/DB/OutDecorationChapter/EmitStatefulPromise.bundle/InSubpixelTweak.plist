@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOfEnvironment</key>
+	<string>animationEnvironmentType</string>
+	<key>constCaptionDensity</key>
+	<string>retainedTaskVisibility</string>
+	<key>controllerFlyweightColor</key>
+	<string>diffableQueueDirection</string>
+	<key>cursorAtKind</key>
+	<string>lazyCubitTension</string>
+	<key>euclideanInteractorShade</key>
+	<string>activeGetxSpeed</string>
+	<key>eventIncludeBuffer</key>
+	<string>primaryShaderDuration</string>
+	<key>grainVersusVariable</key>
+	<string>textureFromWork</string>
+	<key>granularLossRate</key>
+	<string>logarithmContextBehavior</string>
+	<key>handlerFromFunction</key>
+	<string>interactorTaskAlignment</string>
+	<key>missedAllocatorSkewy</key>
+	<string>prismaticWidgetVisibility</string>
+</dict>
+</plist>

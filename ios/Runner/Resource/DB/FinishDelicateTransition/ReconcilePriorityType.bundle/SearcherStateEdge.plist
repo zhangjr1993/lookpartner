@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperLikeVar</key>
+	<string>pointParameterCount</string>
+	<key>crucialButtonTheme</key>
+	<string>inactiveImageFeedback</string>
+	<key>discardedMatrixSpacing</key>
+	<string>lazyAnimatedcontainerDistance</string>
+	<key>nodeActivityTail</key>
+	<string>decorationLevelPadding</string>
+	<key>tappableCheckboxOrientation</key>
+	<string>hashContainCommand</string>
+	<key>textureSinceScope</key>
+	<string>nodePerKind</string>
+	<key>typicalWidgetForce</key>
+	<string>playbackPhaseTop</string>
+</dict>
+</plist>

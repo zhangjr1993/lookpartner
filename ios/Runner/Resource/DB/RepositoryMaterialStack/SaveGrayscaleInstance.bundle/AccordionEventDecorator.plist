@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAboutPrototype</key>
+	<string>seamlessPriorityAlignment</string>
+	<key>eagerCubitColor</key>
+	<string>invisibleColumnContrast</string>
+	<key>listviewFrameworkForce</key>
+	<string>elasticGrayscaleOpacity</string>
+	<key>normalStepTail</key>
+	<string>pinchableInterfaceSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAsStage</key>
+	<string>webScreenTheme</string>
+	<key>cubitDecoratorTheme</key>
+	<string>gradientObserverAlignment</string>
+	<key>heroProxyShade</key>
+	<string>integerTypeMargin</string>
+	<key>managerTempleFeedback</key>
+	<string>significantCubitName</string>
+	<key>robustObserverOpacity</key>
+	<string>seamlessSampleLeft</string>
+	<key>scrollableColumnPosition</key>
+	<string>constraintObserverInset</string>
+	<key>subpixelMethodOffset</key>
+	<string>handlerCompositeDirection</string>
+</dict>
+</plist>

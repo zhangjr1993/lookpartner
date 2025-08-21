@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionObserverShape</key>
+	<string>metadataSingletonTheme</string>
+	<key>dialogsNumberDuration</key>
+	<string>advancedMediaqueryInterval</string>
+	<key>diffableAlphaBottom</key>
+	<string>injectionStageOffset</string>
+	<key>materialSceneAppearance</key>
+	<string>heroOrFlyweight</string>
+	<key>storeInsideFacade</key>
+	<string>observerOrStrategy</string>
+	<key>tableAboutScope</key>
+	<string>curveChainShade</string>
+	<key>tabviewShapeMomentum</key>
+	<string>equalizationProcessInset</string>
+</dict>
+</plist>

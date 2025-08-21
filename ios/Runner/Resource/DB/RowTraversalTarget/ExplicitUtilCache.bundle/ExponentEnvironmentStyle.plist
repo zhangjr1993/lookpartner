@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupStateTransparency</key>
+	<string>responsiveDelegateVisibility</string>
+	<key>originalDecorationAcceleration</key>
+	<string>easyGridOffset</string>
+	<key>providerTierOffset</key>
+	<string>allocatorNearJob</string>
+	<key>routerAroundShape</key>
+	<string>roleWithProcess</string>
+	<key>scaffoldContextSkewx</key>
+	<string>asyncJobAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionDecoratorShape</key>
+	<string>remainderLikeCycle</string>
+	<key>eagerScreenFeedback</key>
+	<string>queryModeRight</string>
+	<key>indicatorVisitorResponse</key>
+	<string>navigatorBeyondOperation</string>
+	<key>integerNearDecorator</key>
+	<string>handlerValueAcceleration</string>
+	<key>logarithmNumberDistance</key>
+	<string>variantProxyTag</string>
+	<key>overlayNearForm</key>
+	<string>delegateNumberInteraction</string>
+	<key>pageviewThroughChain</key>
+	<string>cubitPerKind</string>
+	<key>routerPerState</key>
+	<string>keyFragmentDuration</string>
+</dict>
+</plist>

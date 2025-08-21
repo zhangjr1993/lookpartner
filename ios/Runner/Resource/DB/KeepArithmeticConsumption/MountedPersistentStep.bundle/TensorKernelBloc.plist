@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPrototypeHead</key>
+	<string>localEffectInteraction</string>
+	<key>assetUntilStage</key>
+	<string>instructionContextAppearance</string>
+	<key>baseStageDensity</key>
+	<string>scaleThroughFunction</string>
+	<key>disabledNavigationBound</key>
+	<string>dynamicTextPosition</string>
+	<key>drawerBridgeResponse</key>
+	<string>memberBeyondFlyweight</string>
+	<key>entropyObserverDistance</key>
+	<string>usecaseThroughProxy</string>
+	<key>tableInsideParam</key>
+	<string>streamCycleOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalActionBehavior</key>
+	<string>descriptionFromPrototype</string>
+	<key>concreteSingletonSpacing</key>
+	<string>decorationWithoutParameter</string>
+	<key>lossAwaySystem</key>
+	<string>responsiveCanvasFlags</string>
+	<key>materialToolTint</key>
+	<string>sinkCompositeValidation</string>
+	<key>positionStateSkewx</key>
+	<string>transitionFromLevel</string>
+	<key>rectOfFunction</key>
+	<string>tappableHashRight</string>
+	<key>scrollShapeMargin</key>
+	<string>utilBeyondCommand</string>
+	<key>smallBulletSkewy</key>
+	<string>immediateProjectRotation</string>
+</dict>
+</plist>

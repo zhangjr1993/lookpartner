@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerVelocity</key>
+	<string>publicRadiusVelocity</string>
+	<key>blocAgainstComposite</key>
+	<string>viewChainTransparency</string>
+	<key>exceptionAmongProcess</key>
+	<string>hashStructureDistance</string>
+	<key>instructionContextOffset</key>
+	<string>constCoordinatorName</string>
+	<key>observerIncludeState</key>
+	<string>desktopListenerOrigin</string>
+	<key>otherTechniqueCoord</key>
+	<string>denseTextureBorder</string>
+	<key>screenPlatformContrast</key>
+	<string>signAlongLevel</string>
+	<key>substantialResultSaturation</key>
+	<string>completerFunctionFrequency</string>
+</dict>
+</plist>

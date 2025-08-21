@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAsSystem</key>
+	<string>visibleWidgetFlags</string>
+	<key>imageWithMediator</key>
+	<string>resourcePlatformSaturation</string>
+	<key>inkwellStyleBound</key>
+	<string>sceneVariableOpacity</string>
+	<key>isolateOrVar</key>
+	<string>playbackOperationBound</string>
+	<key>parallelGroupStyle</key>
+	<string>chapterStyleState</string>
+	<key>temporarySineFeedback</key>
+	<string>promiseUntilComposite</string>
+	<key>ternaryBufferFrequency</key>
+	<string>containerScopeBehavior</string>
+	<key>viewKindBrightness</key>
+	<string>utilAgainstSystem</string>
+</dict>
+</plist>

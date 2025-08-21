@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVersusDecorator</key>
+	<string>sortedGraphFormat</string>
+	<key>ignoredNotifierName</key>
+	<string>playbackPrototypeBrightness</string>
+	<key>managerLikeParam</key>
+	<string>publicTextfieldMode</string>
+	<key>mobileInDecorator</key>
+	<string>curveNumberHue</string>
+	<key>notificationLayerOrigin</key>
+	<string>arithmeticGestureState</string>
+	<key>storageTierCount</key>
+	<string>routeActivityPosition</string>
+</dict>
+</plist>

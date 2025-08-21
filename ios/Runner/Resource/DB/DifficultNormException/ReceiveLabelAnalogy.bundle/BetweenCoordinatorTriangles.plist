@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineContainObserver</key>
+	<string>retainedRadiusShade</string>
+	<key>finalStatefulDuration</key>
+	<string>painterByOperation</string>
+	<key>graphicSystemFlags</key>
+	<string>subpixelStateDepth</string>
+	<key>loopAdapterRight</key>
+	<string>ephemeralDelegateTag</string>
+	<key>mobileResolverLeft</key>
+	<string>arithmeticScaleTint</string>
+	<key>playbackInterpreterAlignment</key>
+	<string>reactiveIconKind</string>
+	<key>providerOutsideTier</key>
+	<string>mobxValueFlags</string>
+	<key>rectWorkDirection</key>
+	<string>mutableCycleStatus</string>
+	<key>spriteSinceComposite</key>
+	<string>marginInsidePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectContainComposite</key>
+	<string>awaitAboutTask</string>
+	<key>interactorAgainstContext</key>
+	<string>textureInEnvironment</string>
+	<key>missedRemainderCenter</key>
+	<string>durationShapeKind</string>
+	<key>smallWidgetSpacing</key>
+	<string>completerAroundEnvironment</string>
+	<key>spineNumberValidation</key>
+	<string>baseWithVar</string>
+	<key>storageVersusVariable</key>
+	<string>durationAdapterBorder</string>
+</dict>
+</plist>

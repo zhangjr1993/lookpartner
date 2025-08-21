@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAboutFacade</key>
+	<string>cupertinoScaleHead</string>
+	<key>fixedCompleterTheme</key>
+	<string>particleAboutPrototype</string>
+	<key>fragmentMethodOffset</key>
+	<string>singletonCycleStyle</string>
+	<key>reactiveBuilderMomentum</key>
+	<string>semanticCupertinoAcceleration</string>
+	<key>repositoryBufferVisible</key>
+	<string>builderAgainstMode</string>
+	<key>resourceAsParameter</key>
+	<string>lazyModelContrast</string>
+</dict>
+</plist>

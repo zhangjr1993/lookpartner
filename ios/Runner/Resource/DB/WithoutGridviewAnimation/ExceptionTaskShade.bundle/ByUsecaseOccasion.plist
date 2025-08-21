@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResourceOpacity</key>
+	<string>independentSinkDepth</string>
+	<key>discardedMissionInteraction</key>
+	<string>effectAtPhase</string>
+	<key>interfacePrototypeShade</key>
+	<string>roleAtVariable</string>
+	<key>labelProcessIndex</key>
+	<string>subscriptionForInterpreter</string>
+	<key>labelWithPhase</key>
+	<string>timerForWork</string>
+	<key>protectedAxisMargin</key>
+	<string>priorityTierSize</string>
+	<key>sceneForType</key>
+	<string>popupAboutTier</string>
+	<key>sineAboutParam</key>
+	<string>tappableIntegerShape</string>
+</dict>
+</plist>

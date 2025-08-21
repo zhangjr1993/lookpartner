@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFrameworkMode</key>
+	<string>difficultTouchTension</string>
+	<key>denseInteractorShape</key>
+	<string>cubeParameterBrightness</string>
+	<key>largeChecklistFormat</key>
+	<string>compositionalGridScale</string>
+	<key>layoutBridgeKind</key>
+	<string>labelAmongNumber</string>
+	<key>persistentBuilderSaturation</key>
+	<string>robustBuilderDistance</string>
+	<key>titleContainPattern</key>
+	<string>subscriptionKindResponse</string>
+	<key>widgetMementoBottom</key>
+	<string>mediumSwitchTint</string>
+</dict>
+</plist>

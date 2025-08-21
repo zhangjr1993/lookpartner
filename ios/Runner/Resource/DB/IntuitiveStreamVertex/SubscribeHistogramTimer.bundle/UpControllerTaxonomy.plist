@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAroundInterpreter</key>
+	<string>agilePresenterContrast</string>
+	<key>missionDuringInterpreter</key>
+	<string>decorationAsSingleton</string>
+	<key>responseActionContrast</key>
+	<string>imageParameterHue</string>
+	<key>storageNearContext</key>
+	<string>autoExceptionTension</string>
+</dict>
+</plist>

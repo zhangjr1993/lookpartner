@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMediatorTop</key>
+	<string>layoutAgainstDecorator</string>
+	<key>fragmentAdapterDepth</key>
+	<string>cupertinoResourceSpacing</string>
+	<key>frameUntilParam</key>
+	<string>typicalConstraintSize</string>
+	<key>fusedNotifierBrightness</key>
+	<string>declarativeProviderRight</string>
+	<key>gridFacadeMode</key>
+	<string>allocatorInterpreterContrast</string>
+	<key>imageStageTension</key>
+	<string>capacitiesSingletonStyle</string>
+</dict>
+</plist>

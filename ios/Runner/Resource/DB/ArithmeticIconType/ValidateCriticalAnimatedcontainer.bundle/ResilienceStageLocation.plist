@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBeyondSingleton</key>
+	<string>associatedConstraintStyle</string>
+	<key>gridLikeEnvironment</key>
+	<string>easyTextureRotation</string>
+	<key>observerFromVisitor</key>
+	<string>progressbarStageFlags</string>
+	<key>projectionAdapterInteraction</key>
+	<string>cupertinoAmongLevel</string>
+	<key>seamlessTabbarAppearance</key>
+	<string>factoryAroundDecorator</string>
+	<key>sinkVisitorOrientation</key>
+	<string>loopAboutLevel</string>
+	<key>sinkWithProxy</key>
+	<string>monsterAndFunction</string>
+	<key>vectorContextBottom</key>
+	<string>composableGemBottom</string>
+</dict>
+</plist>

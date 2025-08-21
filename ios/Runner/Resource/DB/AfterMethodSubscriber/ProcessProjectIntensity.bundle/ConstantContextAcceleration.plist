@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanUtilResponse</key>
+	<string>richtextFromFlyweight</string>
+	<key>explicitDelegateDuration</key>
+	<string>commandAroundStyle</string>
+	<key>extensionEnvironmentDensity</key>
+	<string>buttonInsidePrototype</string>
+	<key>resizableControllerForce</key>
+	<string>layerParameterForce</string>
+	<key>sliderVersusStructure</key>
+	<string>imageSingletonTransparency</string>
+	<key>tabbarAtSingleton</key>
+	<string>subpixelThroughComposite</string>
+</dict>
+</plist>

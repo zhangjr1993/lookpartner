@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesVariableShade</key>
+	<string>intensityOfBridge</string>
+	<key>capsuleShapeInset</key>
+	<string>boxCycleBorder</string>
+	<key>decorationSystemBehavior</key>
+	<string>listenerFlyweightResponse</string>
+	<key>errorOfChain</key>
+	<string>nodeWithoutState</string>
+	<key>factoryPrototypeState</key>
+	<string>webProgressbarInteraction</string>
+	<key>geometricBlocDistance</key>
+	<string>loopPlatformTint</string>
+	<key>hashAwayNumber</key>
+	<string>usecaseTierOrigin</string>
+	<key>mobileOrPlatform</key>
+	<string>sliderJobStatus</string>
+	<key>sliderStrategyMode</key>
+	<string>collectionFrameworkRate</string>
+</dict>
+</plist>

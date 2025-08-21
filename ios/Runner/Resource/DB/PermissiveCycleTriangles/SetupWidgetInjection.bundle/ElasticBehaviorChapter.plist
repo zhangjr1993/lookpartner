@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSegueCenter</key>
+	<string>workflowKindDelay</string>
+	<key>multiplicationStrategyMode</key>
+	<string>imperativeConsumerCenter</string>
+	<key>navigationFromBridge</key>
+	<string>sliderBufferBound</string>
+	<key>overlayModeInteraction</key>
+	<string>arithmeticAlignmentBorder</string>
+	<key>permanentStateTail</key>
+	<string>autoMediaqueryStatus</string>
+	<key>spineActionScale</key>
+	<string>localZoneTag</string>
+</dict>
+</plist>

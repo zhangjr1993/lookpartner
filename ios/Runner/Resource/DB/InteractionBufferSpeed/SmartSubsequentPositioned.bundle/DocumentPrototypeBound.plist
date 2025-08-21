@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPetAcceleration</key>
+	<string>elasticPositionSize</string>
+	<key>borderAlongShape</key>
+	<string>fixedSinkStyle</string>
+	<key>configurationNumberBehavior</key>
+	<string>viewForStyle</string>
+	<key>integerDecoratorFeedback</key>
+	<string>matrixPatternStyle</string>
+	<key>isolateByEnvironment</key>
+	<string>normExceptSystem</string>
+	<key>segueNearFunction</key>
+	<string>timerPhaseMomentum</string>
+	<key>sineBridgeAppearance</key>
+	<string>convolutionAmongCommand</string>
+	<key>techniqueIncludeFunction</key>
+	<string>movementInterpreterCount</string>
+</dict>
+</plist>

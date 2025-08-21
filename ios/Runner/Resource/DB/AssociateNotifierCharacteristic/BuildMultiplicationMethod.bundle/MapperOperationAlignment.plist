@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHandlerDuration</key>
+	<string>equipmentCommandBrightness</string>
+	<key>inactiveBufferDensity</key>
+	<string>positionBridgeFrequency</string>
+	<key>lastPresenterStyle</key>
+	<string>tensorWidgetFeedback</string>
+	<key>plateCycleKind</key>
+	<string>euclideanRouteDelay</string>
+	<key>rapidSignatureSpacing</key>
+	<string>textTierState</string>
+	<key>stampWithoutType</key>
+	<string>singletonAdapterTag</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientAsState</key>
+	<string>staticFrameInset</string>
+	<key>scaffoldAroundSystem</key>
+	<string>responseTaskBehavior</string>
+	<key>switchUntilMode</key>
+	<string>paddingInsideStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPatternScale</key>
+	<string>disparateSegueColor</string>
+	<key>independentRowRate</key>
+	<string>resourceCompositeSize</string>
+	<key>numericalBitrateTheme</key>
+	<string>usecaseJobSpeed</string>
+	<key>remainderFlyweightOpacity</key>
+	<string>notificationUntilJob</string>
+	<key>requiredBuilderEdge</key>
+	<string>threadMethodSpacing</string>
+	<key>sharedGrainRate</key>
+	<string>interactorVersusMediator</string>
+	<key>tweenPhaseInset</key>
+	<string>timerAroundVar</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerVersusFramework</key>
+	<string>textfieldCommandSize</string>
+	<key>prevGestureMode</key>
+	<string>completerFromVisitor</string>
+	<key>samplePrototypeIndex</key>
+	<string>smallModalValidation</string>
+	<key>shaderAmongFunction</key>
+	<string>topicFromState</string>
+</dict>
+</plist>

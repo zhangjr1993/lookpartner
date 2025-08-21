@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFlyweightBehavior</key>
+	<string>queryExceptSystem</string>
+	<key>canvasAndScope</key>
+	<string>integerFormBound</string>
+	<key>layoutSingletonStatus</key>
+	<string>coordinatorThroughFlyweight</string>
+	<key>listviewWithoutInterpreter</key>
+	<string>completerBridgeShape</string>
+	<key>matrixValueIndex</key>
+	<string>entityMethodState</string>
+	<key>roleShapeInteraction</key>
+	<string>petBeyondAdapter</string>
+</dict>
+</plist>

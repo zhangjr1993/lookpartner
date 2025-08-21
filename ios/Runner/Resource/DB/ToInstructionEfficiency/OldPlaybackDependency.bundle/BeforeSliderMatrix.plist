@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonAlongInterpreter</key>
+	<string>delegateDespitePhase</string>
+	<key>listenerAroundMethod</key>
+	<string>easyLoopEdge</string>
+	<key>stateDuringMediator</key>
+	<string>grayscaleContainSingleton</string>
+	<key>utilActivityDepth</key>
+	<string>managerValueTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedWidgetTint</key>
+	<string>textStructureShade</string>
+	<key>channelScopeKind</key>
+	<string>semanticConfigurationSpeed</string>
+	<key>columnWithoutState</key>
+	<string>tickerVisitorResponse</string>
+	<key>playbackNearNumber</key>
+	<string>dialogsAdapterRotation</string>
+	<key>reducerViaStage</key>
+	<string>imageStrategyTransparency</string>
+	<key>viewTaskPosition</key>
+	<string>screenAsPhase</string>
+</dict>
+</plist>

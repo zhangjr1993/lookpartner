@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDecoratorVisibility</key>
+	<string>nativePreviewContrast</string>
+	<key>buttonStrategyStyle</key>
+	<string>indicatorSingletonSpacing</string>
+	<key>chapterAboutMediator</key>
+	<string>prismaticNavigatorDistance</string>
+	<key>concurrentFactoryHue</key>
+	<string>immediateQueueTag</string>
+	<key>resolverBridgeKind</key>
+	<string>elasticPointTop</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOffsetTheme</key>
+	<string>ignoredStampSpeed</string>
+	<key>characterBeyondChain</key>
+	<string>compositionBeyondContext</string>
+	<key>entityShapeEdge</key>
+	<string>prevAlignmentResponse</string>
+	<key>listenerOutsideSystem</key>
+	<string>futureLevelContrast</string>
+	<key>missionOutsideObserver</key>
+	<string>intermediateTextAlignment</string>
+	<key>respectiveTangentTail</key>
+	<string>menuInStage</string>
+</dict>
+</plist>

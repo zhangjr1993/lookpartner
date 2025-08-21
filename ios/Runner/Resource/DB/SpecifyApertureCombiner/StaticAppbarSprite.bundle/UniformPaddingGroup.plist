@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBridgeResponse</key>
+	<string>techniqueProcessState</string>
+	<key>blocAwayActivity</key>
+	<string>advancedScreenColor</string>
+	<key>composableTaskBehavior</key>
+	<string>compositionalImageScale</string>
+	<key>decorationShapeTransparency</key>
+	<string>workflowSingletonRight</string>
+	<key>finalInteractorBehavior</key>
+	<string>movementSingletonKind</string>
+	<key>plateLayerBottom</key>
+	<string>kernelObserverStyle</string>
+</dict>
+</plist>

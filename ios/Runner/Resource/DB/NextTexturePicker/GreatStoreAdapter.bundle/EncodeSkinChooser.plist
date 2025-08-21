@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndBuffer</key>
+	<string>zoneCycleCoord</string>
+	<key>errorVersusPhase</key>
+	<string>blocIncludeType</string>
+	<key>handlerCycleEdge</key>
+	<string>cursorPlatformBrightness</string>
+	<key>inheritedLayoutAppearance</key>
+	<string>priorityWithNumber</string>
+	<key>logAlongSingleton</key>
+	<string>anchorParamBottom</string>
+	<key>tabviewSingletonTension</key>
+	<string>scaleInStrategy</string>
+</dict>
+</plist>

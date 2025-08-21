@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTabviewFormat</key>
+	<string>accessibleManagerSize</string>
+	<key>elasticGridviewDuration</key>
+	<string>publicParticleFeedback</string>
+	<key>futureVersusOperation</key>
+	<string>titleStrategyTheme</string>
+	<key>mainNodeInset</key>
+	<string>logarithmPrototypeInset</string>
+	<key>memberInSingleton</key>
+	<string>graphAgainstWork</string>
+	<key>resizableMissionStyle</key>
+	<string>uniformCallbackCenter</string>
+	<key>sliderPlatformInteraction</key>
+	<string>riverpodWithoutWork</string>
+</dict>
+</plist>

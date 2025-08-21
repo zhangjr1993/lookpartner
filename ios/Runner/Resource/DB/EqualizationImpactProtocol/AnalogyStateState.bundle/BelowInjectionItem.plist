@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateChainRotation</key>
+	<string>deferredCollectionSize</string>
+	<key>checklistIncludeCycle</key>
+	<string>channelBufferSpeed</string>
+	<key>queueLikeStage</key>
+	<string>durationBridgeTop</string>
+	<key>queueWithoutTier</key>
+	<string>sizedboxObserverDensity</string>
+	<key>reducerNearTask</key>
+	<string>factoryDecoratorTheme</string>
+	<key>stepThroughMethod</key>
+	<string>providerAwayWork</string>
+</dict>
+</plist>

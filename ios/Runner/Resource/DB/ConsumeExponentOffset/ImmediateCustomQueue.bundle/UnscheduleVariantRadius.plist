@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStrategyBottom</key>
+	<string>playbackWithoutForm</string>
+	<key>allocatorExceptJob</key>
+	<string>completerVersusActivity</string>
+	<key>coordinatorObserverEdge</key>
+	<string>reusableStackSize</string>
+	<key>progressbarAmongContext</key>
+	<string>pivotalProjectCoord</string>
+	<key>sortedPositionFormat</key>
+	<string>cardAdapterDirection</string>
+	<key>symmetricWidgetMargin</key>
+	<string>crucialEventFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMediatorOffset</key>
+	<string>futurePatternAcceleration</string>
+	<key>cardByStructure</key>
+	<string>iterativeAllocatorStyle</string>
+	<key>composableTextSkewx</key>
+	<string>imperativeCellDensity</string>
+	<key>deferredHandlerDuration</key>
+	<string>asyncOrFlyweight</string>
+	<key>descriptorFrameworkRate</key>
+	<string>entityAroundLayer</string>
+	<key>providerContextForce</key>
+	<string>usageLevelFrequency</string>
+	<key>singletonAsEnvironment</key>
+	<string>plateFrameworkKind</string>
+	<key>tabbarCompositeTension</key>
+	<string>checkboxExceptFlyweight</string>
+	<key>textureMementoShape</key>
+	<string>diffableTaskBorder</string>
+	<key>uniqueAnimationDelay</key>
+	<string>semanticEffectTail</string>
+</dict>
+</plist>

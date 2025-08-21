@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithFramework</key>
+	<string>navigatorByPhase</string>
+	<key>descriptionFromMediator</key>
+	<string>stateInsideStyle</string>
+	<key>navigationDecoratorSkewy</key>
+	<string>compositionAsFlyweight</string>
+	<key>providerFormHue</key>
+	<string>textSingletonFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstStyle</key>
+	<string>aspectShapeState</string>
+	<key>handlerAlongComposite</key>
+	<string>adaptiveConfigurationAlignment</string>
+	<key>metadataNumberValidation</key>
+	<string>configurationLayerDirection</string>
+	<key>previewViaState</key>
+	<string>inactiveNotificationStatus</string>
+	<key>resolverFrameworkBehavior</key>
+	<string>cacheAboutEnvironment</string>
+	<key>resourceContainSingleton</key>
+	<string>invisibleManagerSkewx</string>
+	<key>uniformBlocBorder</key>
+	<string>persistentCubeAlignment</string>
+	<key>widgetFunctionPressure</key>
+	<string>semanticDecorationStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMediatorResponse</key>
+	<string>assetOrPattern</string>
+	<key>chartWithoutSingleton</key>
+	<string>primaryGridPosition</string>
+	<key>crucialNavigationMargin</key>
+	<string>referenceBeyondStage</string>
+	<key>entitySystemBrightness</key>
+	<string>cellValueFormat</string>
+	<key>fusedPositionSize</key>
+	<string>sampleFacadeColor</string>
+	<key>gestureDespiteFunction</key>
+	<string>statefulCurvePadding</string>
+	<key>imagePhaseHue</key>
+	<string>hashProxyVisibility</string>
+	<key>modelPerForm</key>
+	<string>dependencyLikeMemento</string>
+	<key>resolverOrFlyweight</key>
+	<string>descriptionFunctionDuration</string>
+	<key>sensorFlyweightTransparency</key>
+	<string>routerWithoutActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageAgainstCycle</key>
+	<string>crudeMenuBottom</string>
+	<key>largeMenuSpeed</key>
+	<string>subtleBoxLeft</string>
+	<key>pinchableRouteSpacing</key>
+	<string>eagerInjectionVelocity</string>
+	<key>protocolVariableTheme</key>
+	<string>spritePerProcess</string>
+	<key>queueVersusTemple</key>
+	<string>responseJobRotation</string>
+</dict>
+</plist>

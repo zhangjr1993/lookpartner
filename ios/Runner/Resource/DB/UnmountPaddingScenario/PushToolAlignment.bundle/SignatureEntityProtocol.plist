@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFacadeInteraction</key>
+	<string>asyncAndStage</string>
+	<key>labelMediatorDistance</key>
+	<string>asyncChannelDepth</string>
+	<key>logarithmObserverOrientation</key>
+	<string>tangentWorkTint</string>
+	<key>mediaSinceMethod</key>
+	<string>controllerPlatformIndex</string>
+	<key>metadataTierTag</key>
+	<string>overlayMementoBrightness</string>
+	<key>signLayerDistance</key>
+	<string>cartesianTechniqueTint</string>
+	<key>unaryVersusPrototype</key>
+	<string>layoutLayerLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerInterpreter</key>
+	<string>dedicatedHandlerMode</string>
+	<key>directControllerVelocity</key>
+	<string>entityViaLevel</string>
+	<key>featureWithMethod</key>
+	<string>textUntilContext</string>
+	<key>lostMethodBorder</key>
+	<string>isolateStyleFrequency</string>
+	<key>observerPerProxy</key>
+	<string>radiusOrMediator</string>
+	<key>opaqueUnaryPosition</key>
+	<string>capsuleAtAction</string>
+	<key>rowFormContrast</key>
+	<string>retainedBinaryFormat</string>
+</dict>
+</plist>

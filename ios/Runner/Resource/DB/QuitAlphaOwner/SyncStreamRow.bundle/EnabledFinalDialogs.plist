@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStrategyDelay</key>
+	<string>advancedListviewTheme</string>
+	<key>asyncAsDecorator</key>
+	<string>textureStateForce</string>
+	<key>isolateStageTransparency</key>
+	<string>constGateTop</string>
+	<key>materialPositionRotation</key>
+	<string>referenceNumberRotation</string>
+	<key>nodeSingletonOrigin</key>
+	<string>mainAxisFrequency</string>
+	<key>projectionInSingleton</key>
+	<string>listenerParameterBound</string>
+</dict>
+</plist>

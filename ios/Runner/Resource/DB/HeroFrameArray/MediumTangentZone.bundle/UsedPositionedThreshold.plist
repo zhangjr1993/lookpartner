@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateWorkType</key>
+	<string>skinAdapterInset</string>
+	<key>cycleWithState</key>
+	<string>largeWidgetBorder</string>
+	<key>resourceTierVelocity</key>
+	<string>menuModePosition</string>
+	<key>symmetricTechniqueMode</key>
+	<string>queueOfValue</string>
+</dict>
+</plist>

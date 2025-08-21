@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGramBrightness</key>
+	<string>utilFormBound</string>
+	<key>blocAmongPlatform</key>
+	<string>prismaticSubscriptionBrightness</string>
+	<key>cupertinoGestureVelocity</key>
+	<string>offsetCommandPosition</string>
+	<key>roleScopeContrast</key>
+	<string>handlerViaPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDependencyRate</key>
+	<string>nodeByProxy</string>
+	<key>alignmentWithCycle</key>
+	<string>pointOfActivity</string>
+	<key>channelContextDelay</key>
+	<string>batchStateTransparency</string>
+	<key>compositionalSinkVisible</key>
+	<string>managerPerFlyweight</string>
+	<key>handlerAmongChain</key>
+	<string>catalystDespiteDecorator</string>
+	<key>independentMasterKind</key>
+	<string>durationEnvironmentTheme</string>
+	<key>modulusKindFrequency</key>
+	<string>semanticOperationValidation</string>
+	<key>utilThroughSystem</key>
+	<string>usecasePlatformTag</string>
+</dict>
+</plist>

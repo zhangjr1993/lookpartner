@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureVersusStage</key>
+	<string>sinkProcessSpeed</string>
+	<key>composableReferenceStatus</key>
+	<string>typicalTransitionSkewx</string>
+	<key>gridChainFrequency</key>
+	<string>grayscaleActivityDepth</string>
+	<key>immutableCurveKind</key>
+	<string>tangentStrategyStyle</string>
+</dict>
+</plist>

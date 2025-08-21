@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvePhaseBorder</key>
+	<string>checkboxOutsideVisitor</string>
+	<key>interactorDuringVar</key>
+	<string>requiredStreamRate</string>
+	<key>sizeContextVisibility</key>
+	<string>hardGridPressure</string>
+	<key>smallModelInterval</key>
+	<string>switchViaComposite</string>
+	<key>staticTitleHead</key>
+	<string>transformerPerParam</string>
+	<key>symmetricResolverPosition</key>
+	<string>symmetricChannelsSize</string>
+	<key>synchronousSegueVelocity</key>
+	<string>delegateSystemCount</string>
+</dict>
+</plist>

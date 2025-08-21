@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRowKind</key>
+	<string>crudePlaybackOrigin</string>
+	<key>interpolationBridgeTag</key>
+	<string>nodeForBridge</string>
+	<key>responseFacadeHue</key>
+	<string>litePositionedRight</string>
+	<key>statefulEventVelocity</key>
+	<string>resultJobVisibility</string>
+</dict>
+</plist>

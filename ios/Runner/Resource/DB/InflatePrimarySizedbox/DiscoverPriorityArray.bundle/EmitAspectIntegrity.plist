@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOutsidePattern</key>
+	<string>invisibleTabviewLeft</string>
+	<key>difficultDurationVelocity</key>
+	<string>alignmentTypeTail</string>
+	<key>discardedSinkScale</key>
+	<string>viewPerForm</string>
+	<key>gateWithoutBuffer</key>
+	<string>independentNotificationContrast</string>
+	<key>injectionStateInset</key>
+	<string>cursorContainShape</string>
+	<key>pinchableBatchName</key>
+	<string>gestureUntilState</string>
+	<key>resourceInContext</key>
+	<string>mutableOptionShape</string>
+	<key>routerEnvironmentInset</key>
+	<string>optimizerUntilProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBufferStyle</key>
+	<string>functionalDropdownbuttonAcceleration</string>
+	<key>concreteAssetRate</key>
+	<string>sequentialNavigatorSkewx</string>
+	<key>constraintEnvironmentVelocity</key>
+	<string>shaderWorkFeedback</string>
+	<key>customBatchState</key>
+	<string>sinkInSystem</string>
+	<key>hyperbolicLocalizationRate</key>
+	<string>skirtFacadeOpacity</string>
+	<key>lossChainAcceleration</key>
+	<string>tabbarActionStatus</string>
+	<key>paddingFormAppearance</key>
+	<string>requestAtFramework</string>
+	<key>positionedAboutLayer</key>
+	<string>disparateChallengePosition</string>
+	<key>projectLevelVisible</key>
+	<string>resilientMenuAcceleration</string>
+</dict>
+</plist>

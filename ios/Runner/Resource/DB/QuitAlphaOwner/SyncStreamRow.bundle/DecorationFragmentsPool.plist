@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVectorMode</key>
+	<string>futureObserverVelocity</string>
+	<key>constraintLevelVisible</key>
+	<string>logActionAppearance</string>
+	<key>explicitSubscriptionMode</key>
+	<string>usecaseCycleVisibility</string>
+	<key>hyperbolicDescriptorResponse</key>
+	<string>blocSinceMode</string>
+	<key>ignoredMarginBrightness</key>
+	<string>sceneByTask</string>
+	<key>standaloneTaskType</key>
+	<string>positionSingletonFrequency</string>
+	<key>textPhaseSkewy</key>
+	<string>specifierAgainstPlatform</string>
+</dict>
+</plist>

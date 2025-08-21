@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaterialLeft</key>
+	<string>webTextTag</string>
+	<key>cursorWithActivity</key>
+	<string>coordinatorUntilTask</string>
+	<key>mainLossBound</key>
+	<string>missionAlongBridge</string>
+	<key>missionSingletonTheme</key>
+	<string>streamVisitorAlignment</string>
+	<key>screenSystemRotation</key>
+	<string>singleAsyncDirection</string>
+	<key>stepForFacade</key>
+	<string>sharedRadiusScale</string>
+</dict>
+</plist>

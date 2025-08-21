@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVarDepth</key>
+	<string>unsortedLossVisible</string>
+	<key>comprehensiveMethodSpeed</key>
+	<string>bufferViaSingleton</string>
+	<key>hyperbolicLayoutSize</key>
+	<string>globalMediaInset</string>
+	<key>storyboardLayerPadding</key>
+	<string>storePhaseScale</string>
+	<key>tangentPerPlatform</key>
+	<string>delegateAgainstProxy</string>
+	<key>widgetFormInset</key>
+	<string>imageEnvironmentStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLoopShape</key>
+	<string>mainBoxDepth</string>
+	<key>exceptionNearMediator</key>
+	<string>cursorInLevel</string>
+	<key>fragmentAwayLevel</key>
+	<string>utilStyleSkewx</string>
+	<key>futureDuringMemento</key>
+	<string>indicatorShapeDepth</string>
+	<key>isolateContextFeedback</key>
+	<string>resourceIncludeEnvironment</string>
+	<key>sizeInState</key>
+	<string>containerFlyweightTheme</string>
+	<key>smallBufferOrientation</key>
+	<string>completerFrameworkBrightness</string>
+	<key>subscriptionShapeSaturation</key>
+	<string>metadataShapeSaturation</string>
+</dict>
+</plist>

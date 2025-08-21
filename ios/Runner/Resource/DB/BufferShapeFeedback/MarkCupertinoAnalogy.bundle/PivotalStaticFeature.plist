@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleStyle</key>
+	<string>sliderFrameworkOrientation</string>
+	<key>gridInsideTask</key>
+	<string>segueOrVariable</string>
+	<key>gridProcessPressure</key>
+	<string>ternaryLikeChain</string>
+	<key>playbackProcessBrightness</key>
+	<string>kernelFrameworkOpacity</string>
+	<key>statefulAlignmentTail</key>
+	<string>textVersusFlyweight</string>
+	<key>tweenTaskDelay</key>
+	<string>asynchronousEffectCount</string>
+</dict>
+</plist>

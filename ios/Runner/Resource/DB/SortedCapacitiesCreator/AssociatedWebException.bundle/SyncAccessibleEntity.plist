@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAtDecorator</key>
+	<string>promiseSystemTint</string>
+	<key>entityCommandFormat</key>
+	<string>smallProviderDensity</string>
+	<key>graphNearVariable</key>
+	<string>stateChainCount</string>
+	<key>ignoredListenerBrightness</key>
+	<string>dynamicPainterTop</string>
+	<key>missedFutureDepth</key>
+	<string>resourceCycleDensity</string>
+	<key>playbackAndCycle</key>
+	<string>equalizationNumberCenter</string>
+	<key>retainedEffectSpeed</key>
+	<string>marginPatternSpeed</string>
+	<key>singleShaderOrigin</key>
+	<string>uniformStoryboardBound</string>
+	<key>viewPrototypeFlags</key>
+	<string>temporaryBitrateRotation</string>
+</dict>
+</plist>

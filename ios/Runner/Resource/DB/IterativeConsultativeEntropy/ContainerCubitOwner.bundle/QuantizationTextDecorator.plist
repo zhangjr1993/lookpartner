@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalUsageTransparency</key>
+	<string>modulusMethodAppearance</string>
+	<key>delegateSingletonVisible</key>
+	<string>instructionValueEdge</string>
+	<key>handlerAsState</key>
+	<string>usedControllerCount</string>
+	<key>independentInterpolationOffset</key>
+	<string>resizableChannelDistance</string>
+	<key>persistentEntropySize</key>
+	<string>elasticCubeTag</string>
+</dict>
+</plist>

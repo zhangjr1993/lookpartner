@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileIncludeEnvironment</key>
+	<string>masterModeState</string>
+	<key>normalPainterFeedback</key>
+	<string>beginnerInteractorLeft</string>
+	<key>stateStructureShade</key>
+	<string>disparateCallbackType</string>
+	<key>storageMethodVisibility</key>
+	<string>tabviewAsShape</string>
+</dict>
+</plist>

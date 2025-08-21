@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMethodMode</key>
+	<string>modelPerStrategy</string>
+	<key>commandIncludeValue</key>
+	<string>normalPresenterCoord</string>
+	<key>grayscaleVersusStrategy</key>
+	<string>pointUntilFacade</string>
+	<key>managerThroughEnvironment</key>
+	<string>routerLevelCenter</string>
+	<key>queueDuringComposite</key>
+	<string>sortedFutureKind</string>
+	<key>rectVarTop</key>
+	<string>significantFactoryTag</string>
+	<key>sinkStageShape</key>
+	<string>curveIncludeStructure</string>
+	<key>unaryParamEdge</key>
+	<string>largeSinkFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAssetShape</key>
+	<string>viewFrameworkFeedback</string>
+	<key>compositionalTextureName</key>
+	<string>handlerSingletonInset</string>
+	<key>fusedRouteContrast</key>
+	<string>asyncRouterInset</string>
+	<key>oldFrameSize</key>
+	<string>standaloneRoleDepth</string>
+	<key>prismaticApertureAcceleration</key>
+	<string>retainedLocalizationBrightness</string>
+	<key>resolverBridgeHue</key>
+	<string>listenerStructureAppearance</string>
+	<key>respectiveSliderSpacing</key>
+	<string>layoutScopeMode</string>
+	<key>streamSystemSkewy</key>
+	<string>taskThroughState</string>
+	<key>timerInterpreterName</key>
+	<string>containerFunctionValidation</string>
+</dict>
+</plist>

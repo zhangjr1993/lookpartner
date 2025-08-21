@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBridgeRotation</key>
+	<string>listviewLikeMode</string>
+	<key>builderPhaseMode</key>
+	<string>cupertinoMetadataColor</string>
+	<key>cubeCommandInterval</key>
+	<string>scaleLevelVelocity</string>
+	<key>difficultLabelFormat</key>
+	<string>lazyDescriptionTag</string>
+	<key>drawerPlatformBorder</key>
+	<string>animationDespiteAction</string>
+	<key>nativeExponentRate</key>
+	<string>responsiveScaffoldCount</string>
+	<key>roleOutsideShape</key>
+	<string>handlerCommandTheme</string>
+	<key>sceneTempleType</key>
+	<string>utilForTemple</string>
+	<key>semanticStampContrast</key>
+	<string>alphaAroundValue</string>
+</dict>
+</plist>

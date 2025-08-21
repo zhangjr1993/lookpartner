@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileControllerDepth</key>
+	<string>multiRadiusLeft</string>
+	<key>characterAroundTask</key>
+	<string>radiusAlongMediator</string>
+	<key>discardedManagerForce</key>
+	<string>topicSingletonDirection</string>
+	<key>entityActionFormat</key>
+	<string>effectJobDensity</string>
+	<key>independentCanvasBrightness</key>
+	<string>tangentContainMode</string>
+	<key>labelLikeStructure</key>
+	<string>zoneActionLocation</string>
+	<key>segueAtStyle</key>
+	<string>inheritedReducerInteraction</string>
+</dict>
+</plist>

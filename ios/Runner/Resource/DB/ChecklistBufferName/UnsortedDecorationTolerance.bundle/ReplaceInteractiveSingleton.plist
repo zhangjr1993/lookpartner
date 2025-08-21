@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNavigatorFormat</key>
+	<string>convolutionOutsideLevel</string>
+	<key>fragmentMethodMode</key>
+	<string>labelAsWork</string>
+	<key>popupForScope</key>
+	<string>singletonCommandPadding</string>
+	<key>providerFlyweightInterval</key>
+	<string>segmentFromSingleton</string>
+	<key>requiredObserverState</key>
+	<string>indicatorOutsideDecorator</string>
+	<key>scrollContextRight</key>
+	<string>blocThroughPrototype</string>
+	<key>temporaryDescriptionScale</key>
+	<string>easyProjectMargin</string>
+</dict>
+</plist>

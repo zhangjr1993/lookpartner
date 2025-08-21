@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesMethodOrientation</key>
+	<string>blocContextVisibility</string>
+	<key>channelScopeDirection</key>
+	<string>semanticsDecoratorSkewy</string>
+	<key>reusableTransitionRight</key>
+	<string>textAgainstOperation</string>
+	<key>topicWithState</key>
+	<string>decorationParameterInteraction</string>
+	<key>workflowScopeKind</key>
+	<string>rectBeyondLevel</string>
+</dict>
+</plist>

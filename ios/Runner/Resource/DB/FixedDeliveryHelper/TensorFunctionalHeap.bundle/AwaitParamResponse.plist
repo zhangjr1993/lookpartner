@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPrototypeOffset</key>
+	<string>heroLikeFlyweight</string>
+	<key>cubitIncludeParam</key>
+	<string>viewSystemAppearance</string>
+	<key>rectBesideStructure</key>
+	<string>gemTypeTransparency</string>
+	<key>sineForPrototype</key>
+	<string>sensorAndMediator</string>
+	<key>taskThroughKind</key>
+	<string>reactiveAppbarDelay</string>
+	<key>usecaseVariableKind</key>
+	<string>standaloneGraphIndex</string>
+</dict>
+</plist>

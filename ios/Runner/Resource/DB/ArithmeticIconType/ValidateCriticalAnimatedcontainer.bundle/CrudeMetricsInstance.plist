@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constResponseRate</key>
+	<string>tappableProfileBehavior</string>
+	<key>dedicatedProviderStyle</key>
+	<string>popupInterpreterTheme</string>
+	<key>permissiveDocumentType</key>
+	<string>loopForSystem</string>
+	<key>reducerContainMemento</key>
+	<string>activeExceptionEdge</string>
+	<key>similarObserverInterval</key>
+	<string>matrixOutsideContext</string>
+	<key>synchronousScaffoldFeedback</key>
+	<string>statefulDrawerDuration</string>
+</dict>
+</plist>

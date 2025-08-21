@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveIconBehavior</key>
+	<string>customSubscriptionIndex</string>
+	<key>curveStyleBrightness</key>
+	<string>anchorAboutStyle</string>
+	<key>disabledGridAlignment</key>
+	<string>compositionThroughState</string>
+	<key>exponentLayerLocation</key>
+	<string>gemModeColor</string>
+	<key>functionalCosineBehavior</key>
+	<string>futurePlatformMode</string>
+	<key>interfacePatternOffset</key>
+	<string>viewWithoutMediator</string>
+	<key>permanentOffsetSize</key>
+	<string>asynchronousTextOffset</string>
+	<key>sinkProcessVisibility</key>
+	<string>standaloneAnimationScale</string>
+	<key>standaloneEqualizationInteraction</key>
+	<string>observerFormResponse</string>
+</dict>
+</plist>

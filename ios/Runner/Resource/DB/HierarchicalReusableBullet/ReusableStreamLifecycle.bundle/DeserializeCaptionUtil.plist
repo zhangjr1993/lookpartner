@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProgressbarSize</key>
+	<string>menuOrPlatform</string>
+	<key>concurrentFeatureValidation</key>
+	<string>priorFeatureTransparency</string>
+	<key>entropyFromMethod</key>
+	<string>dynamicServiceCount</string>
+	<key>profileVersusTask</key>
+	<string>rapidCharacterIndex</string>
+	<key>radiusPerTemple</key>
+	<string>widgetOutsideDecorator</string>
+	<key>scrollableWidgetBottom</key>
+	<string>substantialTabbarTag</string>
+	<key>techniqueAsTier</key>
+	<string>repositoryVersusMode</string>
+</dict>
+</plist>

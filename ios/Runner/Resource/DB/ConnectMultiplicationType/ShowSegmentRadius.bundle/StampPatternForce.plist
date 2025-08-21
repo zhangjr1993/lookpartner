@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleModeBottom</key>
+	<string>sensorPlatformContrast</string>
+	<key>frameSinceBridge</key>
+	<string>hierarchicalTextfieldResponse</string>
+	<key>getxInsideStyle</key>
+	<string>taskVisitorVelocity</string>
+	<key>mobileInteractorBrightness</key>
+	<string>curveMediatorShape</string>
+	<key>opaqueViewLeft</key>
+	<string>allocatorBufferTag</string>
+	<key>sceneMementoStyle</key>
+	<string>skinPhaseRotation</string>
+</dict>
+</plist>

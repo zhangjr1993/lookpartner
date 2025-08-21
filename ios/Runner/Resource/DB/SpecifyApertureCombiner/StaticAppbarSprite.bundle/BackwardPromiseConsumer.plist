@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCollectionForce</key>
+	<string>callbackShapeDelay</string>
+	<key>diffableProviderAlignment</key>
+	<string>interactorOutsideContext</string>
+	<key>enabledPreviewSpacing</key>
+	<string>animationProxyContrast</string>
+	<key>entityTempleScale</key>
+	<string>flexibleButtonAlignment</string>
+	<key>hierarchicalUsecaseTop</key>
+	<string>nodeNearObserver</string>
+	<key>independentDialogsCenter</key>
+	<string>singletonVariableDepth</string>
+	<key>listviewFormCenter</key>
+	<string>hierarchicalGraphLocation</string>
+	<key>mobileTransformerTail</key>
+	<string>delegateViaTask</string>
+	<key>navigatorCompositeTint</key>
+	<string>featureOfComposite</string>
+	<key>routerAtValue</key>
+	<string>pinchableReducerSkewy</string>
+</dict>
+</plist>

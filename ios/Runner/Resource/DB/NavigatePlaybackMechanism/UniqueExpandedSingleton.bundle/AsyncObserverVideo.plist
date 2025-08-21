@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientVersusVisitor</key>
+	<string>inactiveDecorationPressure</string>
+	<key>mutableDependencyPressure</key>
+	<string>presenterActionFormat</string>
+	<key>nibTaskDirection</key>
+	<string>asyncFromProcess</string>
+	<key>transformerNearType</key>
+	<string>sinkBeyondTask</string>
+</dict>
+</plist>

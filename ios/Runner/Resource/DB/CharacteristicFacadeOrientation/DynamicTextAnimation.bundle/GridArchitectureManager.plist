@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRadiusMode</key>
+	<string>containerDuringFlyweight</string>
+	<key>dynamicLayoutBehavior</key>
+	<string>curveForMode</string>
+	<key>grainPhaseColor</key>
+	<string>cupertinoButtonRight</string>
+	<key>hardGraphicScale</key>
+	<string>positionOrVar</string>
+	<key>layoutPlatformType</key>
+	<string>offsetUntilKind</string>
+	<key>particleCommandSkewx</key>
+	<string>firstMarginDensity</string>
+	<key>precisionInMemento</key>
+	<string>staticChapterColor</string>
+	<key>secondPositionTint</key>
+	<string>radioLayerMomentum</string>
+</dict>
+</plist>

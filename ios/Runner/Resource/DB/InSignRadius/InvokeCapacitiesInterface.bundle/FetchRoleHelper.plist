@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAgainstCycle</key>
+	<string>composablePresenterSize</string>
+	<key>commonOverlayAlignment</key>
+	<string>metadataAndState</string>
+	<key>effectShapeAcceleration</key>
+	<string>routeOrProxy</string>
+	<key>mediaExceptFacade</key>
+	<string>histogramTypeAcceleration</string>
+	<key>positionProxyMode</key>
+	<string>constraintFromPlatform</string>
+	<key>previewOfBuffer</key>
+	<string>constraintInterpreterStyle</string>
+	<key>storageForFlyweight</key>
+	<string>inactiveSingletonCount</string>
+	<key>timerPatternCenter</key>
+	<string>hashCommandAppearance</string>
+</dict>
+</plist>

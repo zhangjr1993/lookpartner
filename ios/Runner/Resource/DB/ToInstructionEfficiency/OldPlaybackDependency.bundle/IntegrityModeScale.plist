@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionPrototypeOrientation</key>
+	<string>hierarchicalExceptionShade</string>
+	<key>dynamicSegueRotation</key>
+	<string>smartGridFrequency</string>
+	<key>fixedGrayscaleStyle</key>
+	<string>aspectForStructure</string>
+	<key>navigatorContainStrategy</key>
+	<string>subscriptionOfMethod</string>
+	<key>resourceOrChain</key>
+	<string>crucialControllerDensity</string>
+	<key>statefulViewBorder</key>
+	<string>modalAroundNumber</string>
+	<key>symmetricToolBound</key>
+	<string>reactiveChartTag</string>
+</dict>
+</plist>

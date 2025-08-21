@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGridviewFrequency</key>
+	<string>uniqueLossFeedback</string>
+	<key>flexibleUsecaseIndex</key>
+	<string>secondMobileInteraction</string>
+	<key>taskFormStyle</key>
+	<string>completionFrameworkPressure</string>
+	<key>usedTextDensity</key>
+	<string>lostSignatureCount</string>
+</dict>
+</plist>

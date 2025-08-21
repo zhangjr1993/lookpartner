@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFlyweightSaturation</key>
+	<string>interactorTypeEdge</string>
+	<key>configurationJobDuration</key>
+	<string>robustCaptionInterval</string>
+	<key>elasticMenuCenter</key>
+	<string>brushModeOffset</string>
+	<key>entityCycleHead</key>
+	<string>listenerScopeMargin</string>
+	<key>lazyPaddingVisible</key>
+	<string>lossFromActivity</string>
+	<key>materialOfEnvironment</key>
+	<string>toolAwayType</string>
+	<key>stateWithComposite</key>
+	<string>sharedTransitionBorder</string>
+	<key>widgetMethodStatus</key>
+	<string>resourceDecoratorScale</string>
+</dict>
+</plist>

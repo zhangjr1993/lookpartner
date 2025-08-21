@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCheckboxColor</key>
+	<string>localizationProcessTop</string>
+	<key>declarativeGroupTheme</key>
+	<string>associatedServiceEdge</string>
+	<key>descriptionThroughStage</key>
+	<string>consumerActionInset</string>
+	<key>localExtensionSkewx</key>
+	<string>delegateCommandBound</string>
+	<key>referenceActionTransparency</key>
+	<string>immutableSwitchSkewx</string>
+	<key>rowAtParam</key>
+	<string>commandCycleAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInFacade</key>
+	<string>eventDespiteParam</string>
+	<key>presenterVersusCycle</key>
+	<string>autoEffectScale</string>
+	<key>textAlongObserver</key>
+	<string>firstCallbackColor</string>
+	<key>workflowSinceFunction</key>
+	<string>autoStackSkewy</string>
+</dict>
+</plist>

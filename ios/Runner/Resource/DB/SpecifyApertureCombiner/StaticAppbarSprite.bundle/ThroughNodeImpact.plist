@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteContractionBehavior</key>
+	<string>easyMenuStyle</string>
+	<key>decorationFromLayer</key>
+	<string>contractionThroughDecorator</string>
+	<key>entityStructureVisibility</key>
+	<string>navigatorIncludeCommand</string>
+	<key>resourceVersusJob</key>
+	<string>featureAlongAction</string>
+	<key>resultAsShape</key>
+	<string>lossInsideStage</string>
+	<key>uniqueVectorFormat</key>
+	<string>animationAlongDecorator</string>
+</dict>
+</plist>

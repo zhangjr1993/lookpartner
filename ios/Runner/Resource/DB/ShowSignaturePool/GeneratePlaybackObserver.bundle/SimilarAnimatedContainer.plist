@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncModeHead</key>
+	<string>timerKindLeft</string>
+	<key>configurationOfComposite</key>
+	<string>switchDespiteActivity</string>
+	<key>grayscaleStructureBound</key>
+	<string>temporaryHistogramShade</string>
+	<key>inkwellNearType</key>
+	<string>cacheForScope</string>
+	<key>transitionUntilPattern</key>
+	<string>optimizerKindDensity</string>
+</dict>
+</plist>

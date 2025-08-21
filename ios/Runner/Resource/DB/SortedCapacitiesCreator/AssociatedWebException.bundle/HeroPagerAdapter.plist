@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryFromSystem</key>
+	<string>staticBlocOpacity</string>
+	<key>labelAndPrototype</key>
+	<string>topicWithoutAction</string>
+	<key>memberOperationSaturation</key>
+	<string>completerPlatformDensity</string>
+	<key>resolverBridgeStatus</key>
+	<string>scrollableManagerPressure</string>
+	<key>sceneFormBrightness</key>
+	<string>marginBesideValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatePhaseBorder</key>
+	<string>uniqueMarginContrast</string>
+	<key>cupertinoDrawerMargin</key>
+	<string>gradientFromMethod</string>
+	<key>cupertinoExpandedContrast</key>
+	<string>resilientTimerDirection</string>
+	<key>descriptorContainTier</key>
+	<string>routeParameterRight</string>
+	<key>immediateTaskLeft</key>
+	<string>semanticResourceRight</string>
+	<key>localizationContainMethod</key>
+	<string>controllerNearPattern</string>
+	<key>routerDespiteCommand</key>
+	<string>activeOverlayIndex</string>
+	<key>seamlessSliderStyle</key>
+	<string>radioAboutActivity</string>
+	<key>tabbarBesideMemento</key>
+	<string>observerLayerMode</string>
+</dict>
+</plist>

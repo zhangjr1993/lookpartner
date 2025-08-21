@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintPlatformBehavior</key>
+	<string>interpolationTempleDuration</string>
+	<key>documentVisitorTag</key>
+	<string>pinchableViewInterval</string>
+	<key>loopEnvironmentIndex</key>
+	<string>exponentSincePlatform</string>
+	<key>metadataModeFormat</key>
+	<string>progressbarFrameworkKind</string>
+	<key>projectionLikeCommand</key>
+	<string>assetVersusAction</string>
+	<key>resourceThroughVisitor</key>
+	<string>nodeKindOpacity</string>
+	<key>streamByPhase</key>
+	<string>logarithmVersusScope</string>
+	<key>timerCommandDirection</key>
+	<string>stepTierInterval</string>
+</dict>
+</plist>

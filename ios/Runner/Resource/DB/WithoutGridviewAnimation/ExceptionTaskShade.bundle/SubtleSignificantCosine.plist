@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContainerVisible</key>
+	<string>eventAgainstSingleton</string>
+	<key>contractionStrategyShape</key>
+	<string>previewThroughCycle</string>
+	<key>dynamicGridVisible</key>
+	<string>buttonNumberBottom</string>
+	<key>firstMemberOrientation</key>
+	<string>coordinatorProxyInterval</string>
+	<key>normalScaleSpacing</key>
+	<string>chapterAboutFramework</string>
+	<key>reactiveGrayscaleType</key>
+	<string>enabledCompleterType</string>
+	<key>staticMetadataStatus</key>
+	<string>entropySystemSaturation</string>
+	<key>temporarySemanticsStatus</key>
+	<string>concreteConstraintInterval</string>
+	<key>transformerForWork</key>
+	<string>optionContainValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAccessoryShape</key>
+	<string>resourceThroughCommand</string>
+	<key>dependencyBeyondSystem</key>
+	<string>buttonExceptBuffer</string>
+	<key>globalLayoutSkewy</key>
+	<string>factoryProxyBorder</string>
+	<key>lastRouteMomentum</key>
+	<string>draggableChartFlags</string>
+	<key>permanentConstraintBehavior</key>
+	<string>fixedPromiseDelay</string>
+	<key>reducerPerContext</key>
+	<string>disparateStackSpacing</string>
+	<key>sampleFrameworkMode</key>
+	<string>subscriptionUntilStage</string>
+	<key>spriteFrameworkBorder</key>
+	<string>sliderBufferLocation</string>
+	<key>taskAdapterStatus</key>
+	<string>brushFrameworkSize</string>
+</dict>
+</plist>

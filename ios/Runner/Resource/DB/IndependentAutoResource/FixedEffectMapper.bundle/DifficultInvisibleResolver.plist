@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultStateStyle</key>
+	<string>crucialTransitionPressure</string>
+	<key>observerTypeHue</key>
+	<string>fixedResultOffset</string>
+	<key>offsetIncludeLayer</key>
+	<string>threadVersusStructure</string>
+	<key>plateNearBuffer</key>
+	<string>toolInterpreterSkewy</string>
+	<key>previewBufferTint</key>
+	<string>builderObserverHue</string>
+	<key>robustBoxMargin</key>
+	<string>reactiveFutureResponse</string>
+	<key>sharedRadiusSpacing</key>
+	<string>handlerWithoutStructure</string>
+	<key>sliderWithCycle</key>
+	<string>riverpodDespiteVar</string>
+	<key>tickerSystemOrigin</key>
+	<string>seamlessChannelOffset</string>
+	<key>topicCycleStatus</key>
+	<string>activityFacadeSpacing</string>
+</dict>
+</plist>

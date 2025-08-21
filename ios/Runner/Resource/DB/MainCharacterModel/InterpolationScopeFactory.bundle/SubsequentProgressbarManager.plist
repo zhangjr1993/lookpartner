@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonObserverTop</key>
+	<string>firstReducerShape</string>
+	<key>cubeEnvironmentFeedback</key>
+	<string>secondToolStatus</string>
+	<key>enabledCycleIndex</key>
+	<string>metadataAtBuffer</string>
+	<key>queryAtVar</key>
+	<string>consumerProcessVelocity</string>
+</dict>
+</plist>

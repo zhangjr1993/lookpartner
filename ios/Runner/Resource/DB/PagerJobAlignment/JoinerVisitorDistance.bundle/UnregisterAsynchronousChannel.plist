@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasForMethod</key>
+	<string>ignoredButtonLeft</string>
+	<key>graphOutsideDecorator</key>
+	<string>futureViaStyle</string>
+	<key>groupViaActivity</key>
+	<string>kernelWorkAlignment</string>
+	<key>ignoredEntropyMargin</key>
+	<string>histogramStagePosition</string>
+	<key>keyMetadataTag</key>
+	<string>discardedInterpolationInset</string>
+	<key>nodeFormStatus</key>
+	<string>uniqueCommandStatus</string>
+	<key>sliderCommandPosition</key>
+	<string>resolverMethodVisible</string>
+</dict>
+</plist>

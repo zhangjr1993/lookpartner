@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerCycleMode</key>
+	<string>displayableInteractorName</string>
+	<key>publicAxisFlags</key>
+	<string>arithmeticContainMediator</string>
+	<key>segueExceptStage</key>
+	<string>composableUsecaseName</string>
+	<key>touchPerStage</key>
+	<string>normalDrawerSize</string>
+	<key>transformerStrategyOpacity</key>
+	<string>gridviewOutsideVisitor</string>
+	<key>transitionExceptShape</key>
+	<string>tickerByTier</string>
+</dict>
+</plist>

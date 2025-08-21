@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAlphaDelay</key>
+	<string>layerStructureFeedback</string>
+	<key>channelPhaseAcceleration</key>
+	<string>effectOutsideContext</string>
+	<key>groupExceptStructure</key>
+	<string>tickerProxySpacing</string>
+	<key>persistentMusicBound</key>
+	<string>currentMediaRight</string>
+	<key>screenOperationKind</key>
+	<string>specifyTitlePadding</string>
+</dict>
+</plist>

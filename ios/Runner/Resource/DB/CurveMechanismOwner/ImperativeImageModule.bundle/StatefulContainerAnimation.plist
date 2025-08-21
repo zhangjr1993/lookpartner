@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCubeSkewx</key>
+	<string>cacheStructureFeedback</string>
+	<key>canvasVariableStyle</key>
+	<string>factorySystemPadding</string>
+	<key>effectShapeVisibility</key>
+	<string>nodeActionHead</string>
+	<key>touchStyleSkewy</key>
+	<string>sharedPrecisionTag</string>
+</dict>
+</plist>

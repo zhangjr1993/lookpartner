@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateQueryDistance</key>
+	<string>eagerTransitionVisibility</string>
+	<key>enabledSampleTheme</key>
+	<string>interactorKindContrast</string>
+	<key>immutableAsyncKind</key>
+	<string>requestUntilInterpreter</string>
+	<key>managerAlongFlyweight</key>
+	<string>coordinatorOfKind</string>
+	<key>marginAndType</key>
+	<string>respectiveScreenVisibility</string>
+	<key>similarChannelContrast</key>
+	<string>frameInPattern</string>
+	<key>substantialIconBottom</key>
+	<string>animatedCursorFrequency</string>
+	<key>uniqueFactoryTop</key>
+	<string>commandSingletonVelocity</string>
+</dict>
+</plist>

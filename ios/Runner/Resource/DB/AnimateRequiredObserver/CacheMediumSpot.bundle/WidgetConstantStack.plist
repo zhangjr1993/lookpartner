@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAlongVisitor</key>
+	<string>alertBufferVelocity</string>
+	<key>profileContainBuffer</key>
+	<string>taskStageOffset</string>
+	<key>queueActionVelocity</key>
+	<string>multiCoordinatorContrast</string>
+	<key>singletonByComposite</key>
+	<string>signatureAndPlatform</string>
+	<key>transitionEnvironmentOffset</key>
+	<string>convolutionStrategyAppearance</string>
+</dict>
+</plist>

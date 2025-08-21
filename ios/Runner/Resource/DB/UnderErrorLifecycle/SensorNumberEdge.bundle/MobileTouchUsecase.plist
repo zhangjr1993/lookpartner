@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasObserverInterval</key>
+	<string>dynamicTabbarTransparency</string>
+	<key>coordinatorMethodInset</key>
+	<string>inkwellProxyKind</string>
+	<key>graphInsideVisitor</key>
+	<string>buttonStageCenter</string>
+	<key>interfaceSystemKind</key>
+	<string>providerVarCount</string>
+	<key>stateDespiteStrategy</key>
+	<string>textBesideParameter</string>
+	<key>zoneExceptCycle</key>
+	<string>previewVariableState</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAwayCycle</key>
+	<string>exceptionScopeBottom</string>
+	<key>containerOutsideMemento</key>
+	<string>pointInterpreterTransparency</string>
+	<key>coordinatorWithoutStage</key>
+	<string>tweenThroughPhase</string>
+	<key>equalizationInMemento</key>
+	<string>inkwellViaAdapter</string>
+	<key>featureBeyondLayer</key>
+	<string>isolatePerLevel</string>
+	<key>finalClipperCount</key>
+	<string>keySizeCenter</string>
+	<key>managerDecoratorPadding</key>
+	<string>textMethodContrast</string>
+	<key>protectedHistogramFrequency</key>
+	<string>layoutExceptLayer</string>
+	<key>taskViaTask</key>
+	<string>comprehensiveBorderHead</string>
+	<key>visibleDescriptionTail</key>
+	<string>scrollPerNumber</string>
+</dict>
+</plist>

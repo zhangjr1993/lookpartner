@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolatePerCommand</key>
+	<string>asyncStreamFeedback</string>
+	<key>promiseDespiteJob</key>
+	<string>plateParameterIndex</string>
+	<key>resourceDecoratorRate</key>
+	<string>containerAmongActivity</string>
+	<key>semanticsTempleBehavior</key>
+	<string>bufferSingletonTop</string>
+	<key>textAdapterFrequency</key>
+	<string>previewVersusPattern</string>
+</dict>
+</plist>

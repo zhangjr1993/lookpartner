@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTransitionBorder</key>
+	<string>easySensorShape</string>
+	<key>decorationLayerShape</key>
+	<string>resilientAwaitRotation</string>
+	<key>discardedTextState</key>
+	<string>ignoredStateInset</string>
+	<key>labelInBridge</key>
+	<string>configurationActivityDepth</string>
+	<key>substantialResponseOpacity</key>
+	<string>modelAmongBridge</string>
+	<key>usageNearKind</key>
+	<string>futureCompositeDuration</string>
+</dict>
+</plist>

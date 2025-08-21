@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDialogsColor</key>
+	<string>coordinatorOfMediator</string>
+	<key>basicCurveCoord</key>
+	<string>accordionGemOffset</string>
+	<key>granularEffectOffset</key>
+	<string>multiWidgetTop</string>
+	<key>managerStageBrightness</key>
+	<string>spineBridgeInteraction</string>
+	<key>menuAtDecorator</key>
+	<string>transformerAndMemento</string>
+	<key>otherCanvasDensity</key>
+	<string>prismaticTweenLocation</string>
+	<key>reducerIncludeObserver</key>
+	<string>textfieldAtTier</string>
+	<key>routeAwayCycle</key>
+	<string>chapterInterpreterResponse</string>
+	<key>taskThanStrategy</key>
+	<string>constraintFrameworkFormat</string>
+</dict>
+</plist>

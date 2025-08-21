@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityTierFeedback</key>
+	<string>resourceInChain</string>
+	<key>reactiveReferenceSpeed</key>
+	<string>dynamicGesturedetectorDelay</string>
+	<key>referenceMementoOpacity</key>
+	<string>taskChainRotation</string>
+	<key>singleSizedboxFeedback</key>
+	<string>petDecoratorLeft</string>
+	<key>stateAlongComposite</key>
+	<string>consultativeControllerVisibility</string>
+	<key>symmetricTextureOrientation</key>
+	<string>staticRowOrientation</string>
+</dict>
+</plist>

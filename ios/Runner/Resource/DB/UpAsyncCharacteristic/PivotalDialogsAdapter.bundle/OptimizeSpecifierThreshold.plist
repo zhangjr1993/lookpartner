@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAsOperation</key>
+	<string>previewContainCommand</string>
+	<key>cycleStageInteraction</key>
+	<string>protectedCubitForce</string>
+	<key>entityKindColor</key>
+	<string>elasticProgressbarCount</string>
+	<key>projectionAgainstType</key>
+	<string>stepInterpreterVelocity</string>
+	<key>scrollAsParam</key>
+	<string>activatedBufferCoord</string>
+	<key>shaderFormSpeed</key>
+	<string>beginnerRowName</string>
+	<key>slashStageTint</key>
+	<string>tabbarForJob</string>
+	<key>smartWidgetDirection</key>
+	<string>responsiveTransitionIndex</string>
+</dict>
+</plist>

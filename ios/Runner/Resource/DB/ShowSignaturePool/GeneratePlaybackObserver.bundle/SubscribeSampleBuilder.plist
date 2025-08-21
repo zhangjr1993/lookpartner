@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSessionSpacing</key>
+	<string>denseIndicatorName</string>
+	<key>basicTickerFormat</key>
+	<string>baselineProcessPosition</string>
+	<key>configurationProcessStyle</key>
+	<string>boxExceptSingleton</string>
+	<key>hardSizeInset</key>
+	<string>materialAllocatorAppearance</string>
+	<key>hyperbolicUnarySaturation</key>
+	<string>grainMementoSpeed</string>
+	<key>intensityAboutPlatform</key>
+	<string>modulusEnvironmentKind</string>
+	<key>promiseLayerDistance</key>
+	<string>immediateSampleSpeed</string>
+	<key>seamlessDecorationDirection</key>
+	<string>modalLevelSize</string>
+	<key>segmentIncludePrototype</key>
+	<string>popupFlyweightValidation</string>
+	<key>zoneDecoratorCenter</key>
+	<string>sineForInterpreter</string>
+</dict>
+</plist>

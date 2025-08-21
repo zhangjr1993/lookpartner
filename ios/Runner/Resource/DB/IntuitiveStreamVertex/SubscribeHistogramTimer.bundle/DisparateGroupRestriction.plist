@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerCompositeRotation</key>
+	<string>bufferViaPhase</string>
+	<key>controllerPhaseSkewx</key>
+	<string>tweenOutsideFlyweight</string>
+	<key>decorationAndMediator</key>
+	<string>injectionTaskAppearance</string>
+	<key>dimensionNearFlyweight</key>
+	<string>remainderFormVisibility</string>
+	<key>gateDuringFacade</key>
+	<string>nodeAdapterType</string>
+	<key>musicVariableContrast</key>
+	<string>numericalGetxMomentum</string>
+	<key>plateInStage</key>
+	<string>interactorCycleBottom</string>
+	<key>plateStrategyContrast</key>
+	<string>cardOutsideSingleton</string>
+	<key>positionWithTemple</key>
+	<string>builderStateBehavior</string>
+	<key>progressbarStrategySpacing</key>
+	<string>streamCycleOrientation</string>
+</dict>
+</plist>

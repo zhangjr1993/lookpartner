@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardEnvironmentSkewy</key>
+	<string>symmetricSemanticsFormat</string>
+	<key>commandVariableStyle</key>
+	<string>musicNumberTint</string>
+	<key>commonBinaryTint</key>
+	<string>segueMediatorTheme</string>
+	<key>completerAtEnvironment</key>
+	<string>durationInMode</string>
+	<key>greatTopicFormat</key>
+	<string>columnNumberBound</string>
+	<key>previewAdapterForce</key>
+	<string>decorationPrototypeHead</string>
+	<key>relationalConfigurationTop</key>
+	<string>scrollableDimensionTop</string>
+	<key>staticResourceScale</key>
+	<string>granularGraphicFeedback</string>
+</dict>
+</plist>

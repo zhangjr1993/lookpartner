@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTaskFlags</key>
+	<string>textfieldThroughShape</string>
+	<key>gemPatternShape</key>
+	<string>switchFacadeTop</string>
+	<key>largeChannelsSkewy</key>
+	<string>activatedCubitDensity</string>
+	<key>resilientConfigurationTheme</key>
+	<string>builderParameterRight</string>
+	<key>robustTaskOffset</key>
+	<string>viewDuringShape</string>
+	<key>signatureOutsideFacade</key>
+	<string>alignmentContainParam</string>
+	<key>singleCommandOrientation</key>
+	<string>bitrateSystemBrightness</string>
+	<key>tweenInFunction</key>
+	<string>originalNotifierDirection</string>
+</dict>
+</plist>

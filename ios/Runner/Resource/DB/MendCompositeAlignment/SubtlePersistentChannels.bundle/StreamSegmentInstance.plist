@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVariableOrientation</key>
+	<string>resourceSystemTint</string>
+	<key>boxshadowPatternState</key>
+	<string>synchronousLabelHue</string>
+	<key>draggableTabviewTop</key>
+	<string>typicalEventEdge</string>
+	<key>mediaqueryObserverAlignment</key>
+	<string>arithmeticProgressbarEdge</string>
+	<key>notifierInInterpreter</key>
+	<string>repositoryParameterIndex</string>
+	<key>oldLayoutDuration</key>
+	<string>largePageviewBottom</string>
+	<key>sliderSingletonHue</key>
+	<string>histogramVarFrequency</string>
+	<key>sophisticatedRouteType</key>
+	<string>independentSizeHue</string>
+	<key>taskKindShape</key>
+	<string>secondRepositoryBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFlyweightType</key>
+	<string>radiusFunctionKind</string>
+	<key>normalRequestFlags</key>
+	<string>rectMementoLeft</string>
+	<key>statePatternResponse</key>
+	<string>scrollableHandlerCenter</string>
+	<key>swiftByAdapter</key>
+	<string>skinOrKind</string>
+	<key>ternaryJobSaturation</key>
+	<string>builderIncludeFlyweight</string>
+</dict>
+</plist>

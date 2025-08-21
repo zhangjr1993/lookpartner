@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTaskInterval</key>
+	<string>chartOutsideActivity</string>
+	<key>largeDialogsType</key>
+	<string>textVarTail</string>
+	<key>lostCubitEdge</key>
+	<string>managerAsLevel</string>
+	<key>navigatorProxySkewx</key>
+	<string>sharedParticleBrightness</string>
+	<key>oldEquipmentType</key>
+	<string>rapidParticleFlags</string>
+	<key>remainderBufferHue</key>
+	<string>synchronousSliderInteraction</string>
+	<key>resultBufferDistance</key>
+	<string>groupWithoutPattern</string>
+	<key>statelessIntegerVelocity</key>
+	<string>modulusAlongMode</string>
+</dict>
+</plist>

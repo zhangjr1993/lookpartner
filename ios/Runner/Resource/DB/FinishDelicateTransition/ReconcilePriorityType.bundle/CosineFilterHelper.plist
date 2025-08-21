@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineBeyondState</key>
+	<string>coordinatorContainAction</string>
+	<key>dimensionForStyle</key>
+	<string>appbarContainFramework</string>
+	<key>keyLoopMode</key>
+	<string>activeSingletonTop</string>
+	<key>optionAmongParameter</key>
+	<string>autoContainerOffset</string>
+	<key>previewVariableBound</key>
+	<string>navigationInJob</string>
+</dict>
+</plist>

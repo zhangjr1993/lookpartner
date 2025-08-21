@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodPerComposite</key>
+	<string>constOptionTag</string>
+	<key>platePatternShape</key>
+	<string>commandFrameworkName</string>
+	<key>spriteCompositeDensity</key>
+	<string>shaderProxyInteraction</string>
+	<key>usedPositionedScale</key>
+	<string>textureVisitorInset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStyleForce</key>
+	<string>characterVersusFramework</string>
+	<key>functionalParticleOrigin</key>
+	<string>hierarchicalSpotDuration</string>
+	<key>profileMethodBound</key>
+	<string>storeContextBrightness</string>
+	<key>sensorViaObserver</key>
+	<string>presenterKindBrightness</string>
+	<key>statefulStateResponse</key>
+	<string>tickerWithoutParam</string>
+	<key>tappableChannelState</key>
+	<string>overlayUntilPlatform</string>
+</dict>
+</plist>

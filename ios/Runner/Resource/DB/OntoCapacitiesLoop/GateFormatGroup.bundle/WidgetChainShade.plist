@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStackStyle</key>
+	<string>concurrentButtonDistance</string>
+	<key>elasticLayerDensity</key>
+	<string>elasticRadiusInterval</string>
+	<key>groupAtLevel</key>
+	<string>positionedLevelVelocity</string>
+	<key>logarithmViaInterpreter</key>
+	<string>permanentTextSpacing</string>
+	<key>multiplicationAmongContext</key>
+	<string>alignmentInterpreterRotation</string>
+	<key>requiredCompositionContrast</key>
+	<string>listenerAmongNumber</string>
+</dict>
+</plist>

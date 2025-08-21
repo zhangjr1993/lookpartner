@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBufferSpeed</key>
+	<string>elasticVectorCenter</string>
+	<key>contractionCompositeTint</key>
+	<string>storyboardAmongEnvironment</string>
+	<key>custompaintStateBorder</key>
+	<string>backwardMenuPadding</string>
+	<key>declarativeLocalizationTop</key>
+	<string>lossThroughMethod</string>
+	<key>deferredRequestAppearance</key>
+	<string>gradientSinceStyle</string>
+	<key>inactiveInjectionBorder</key>
+	<string>themeLevelScale</string>
+	<key>layerBesideComposite</key>
+	<string>gridviewJobSpeed</string>
+	<key>queueDecoratorSkewx</key>
+	<string>sineMementoDelay</string>
+	<key>usedVectorLocation</key>
+	<string>assetPerMemento</string>
+	<key>visibleEffectBorder</key>
+	<string>reactiveListenerVisible</string>
+</dict>
+</plist>

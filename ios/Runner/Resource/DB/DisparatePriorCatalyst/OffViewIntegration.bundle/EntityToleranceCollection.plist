@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTickerEdge</key>
+	<string>aspectOrActivity</string>
+	<key>labelJobSaturation</key>
+	<string>graphicVersusAdapter</string>
+	<key>rowAmongWork</key>
+	<string>localizationScopeAlignment</string>
+	<key>sensorWorkVisible</key>
+	<string>localizationIncludeValue</string>
+	<key>subscriptionAtMediator</key>
+	<string>texturePerOperation</string>
+	<key>titleFacadeVelocity</key>
+	<string>directGridColor</string>
+</dict>
+</plist>

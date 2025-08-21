@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFromPhase</key>
+	<string>coordinatorAtJob</string>
+	<key>alertIncludeComposite</key>
+	<string>associatedThreadInset</string>
+	<key>custompaintFunctionSpeed</key>
+	<string>euclideanRowDepth</string>
+	<key>deferredMapCenter</key>
+	<string>lazyLogarithmDirection</string>
+	<key>intensitySystemFrequency</key>
+	<string>boxFlyweightDistance</string>
+	<key>menuAndMemento</key>
+	<string>backwardExceptionKind</string>
+	<key>staticQueueTension</key>
+	<string>priorIntensityAlignment</string>
+	<key>temporaryLayerTransparency</key>
+	<string>titleSingletonMargin</string>
+</dict>
+</plist>

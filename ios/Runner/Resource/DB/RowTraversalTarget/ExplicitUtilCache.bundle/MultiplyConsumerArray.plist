@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPhaseMargin</key>
+	<string>gestureVersusProxy</string>
+	<key>grainDespiteAction</key>
+	<string>queryOrValue</string>
+	<key>mediumCardPressure</key>
+	<string>presenterIncludeMode</string>
+	<key>precisionDuringFunction</key>
+	<string>parallelCallbackSkewx</string>
+	<key>robustCubitDirection</key>
+	<string>sinkAgainstActivity</string>
+</dict>
+</plist>

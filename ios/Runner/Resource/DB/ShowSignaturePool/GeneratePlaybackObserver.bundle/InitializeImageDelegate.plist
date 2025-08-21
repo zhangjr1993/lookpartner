@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBulletDirection</key>
+	<string>bufferFromEnvironment</string>
+	<key>capsuleCycleShade</key>
+	<string>standaloneErrorDensity</string>
+	<key>challengeContextSkewy</key>
+	<string>eagerAllocatorFeedback</string>
+	<key>mediaInterpreterState</key>
+	<string>routeTaskMargin</string>
+	<key>multiplicationWithoutScope</key>
+	<string>subsequentStoryboardDensity</string>
+	<key>relationalStoreAppearance</key>
+	<string>timerMementoRate</string>
+	<key>respectiveStoragePosition</key>
+	<string>eagerDescriptionDuration</string>
+	<key>utilActivityPosition</key>
+	<string>tappableKernelDuration</string>
+</dict>
+</plist>

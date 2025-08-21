@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerAsMethod</key>
+	<string>animationOfOperation</string>
+	<key>navigatorAwayOperation</key>
+	<string>futureFrameworkDepth</string>
+	<key>observerFormSkewx</key>
+	<string>staticNodeDuration</string>
+	<key>semanticSignState</key>
+	<string>scaleOperationRate</string>
+	<key>sessionParamInteraction</key>
+	<string>alphaByState</string>
+	<key>spriteForFunction</key>
+	<string>buttonCommandOrientation</string>
+	<key>transitionAwayDecorator</key>
+	<string>secondSignCoord</string>
+</dict>
+</plist>

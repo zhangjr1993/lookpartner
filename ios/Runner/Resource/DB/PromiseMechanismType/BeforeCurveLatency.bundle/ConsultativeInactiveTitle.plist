@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteProxy</key>
+	<string>slashTypeContrast</string>
+	<key>configurationWithoutParameter</key>
+	<string>composableRoleOpacity</string>
+	<key>fixedSessionDelay</key>
+	<string>interfaceAdapterLocation</string>
+	<key>flexibleContainerBound</key>
+	<string>dynamicQueryInterval</string>
+	<key>gridStrategySpacing</key>
+	<string>slashStructureOrientation</string>
+	<key>integerValueMomentum</key>
+	<string>gestureForPrototype</string>
+	<key>navigatorExceptPlatform</key>
+	<string>mobileFunctionDistance</string>
+	<key>relationalRouteAcceleration</key>
+	<string>scrollThanValue</string>
+	<key>responsiveLogarithmName</key>
+	<string>mediumTransformerStatus</string>
+	<key>timerViaPrototype</key>
+	<string>equipmentParamOffset</string>
+</dict>
+</plist>

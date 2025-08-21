@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPatternOrientation</key>
+	<string>stateForMemento</string>
+	<key>decorationCommandShade</key>
+	<string>ephemeralListenerHue</string>
+	<key>invisibleProgressbarBehavior</key>
+	<string>coordinatorSingletonContrast</string>
+	<key>pivotalAlertSpacing</key>
+	<string>durationLevelFrequency</string>
+	<key>sophisticatedGridviewRate</key>
+	<string>coordinatorChainInset</string>
+</dict>
+</plist>

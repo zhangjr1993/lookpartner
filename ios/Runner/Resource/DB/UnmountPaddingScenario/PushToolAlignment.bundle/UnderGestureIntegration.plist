@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOutsideCycle</key>
+	<string>alignmentParameterFeedback</string>
+	<key>consultativeTouchRotation</key>
+	<string>interactorVarTint</string>
+	<key>parallelImageOffset</key>
+	<string>chartStrategyTransparency</string>
+	<key>providerLikeBuffer</key>
+	<string>resourceThroughStyle</string>
+	<key>riverpodLikeStrategy</key>
+	<string>persistentOverlayOrigin</string>
+	<key>roleInObserver</key>
+	<string>reducerBridgeInterval</string>
+	<key>viewJobDirection</key>
+	<string>declarativeSinkVisibility</string>
+</dict>
+</plist>

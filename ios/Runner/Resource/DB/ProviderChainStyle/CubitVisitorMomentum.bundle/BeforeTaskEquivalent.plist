@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionPhaseBrightness</key>
+	<string>directlyExceptionVisibility</string>
+	<key>loopOutsideCycle</key>
+	<string>persistentAlignmentShade</string>
+	<key>reducerOutsideFramework</key>
+	<string>activatedMethodPosition</string>
+</dict>
+</plist>

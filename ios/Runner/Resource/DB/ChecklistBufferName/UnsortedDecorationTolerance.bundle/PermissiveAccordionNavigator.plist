@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHistogramFormat</key>
+	<string>iterativeMultiplicationBrightness</string>
+	<key>configurationDuringBuffer</key>
+	<string>keyBasePressure</string>
+	<key>lazyTickerMomentum</key>
+	<string>roleWithDecorator</string>
+	<key>listenerPhaseInterval</key>
+	<string>assetStateOrigin</string>
+	<key>lossParameterCount</key>
+	<string>intermediateLossHue</string>
+</dict>
+</plist>

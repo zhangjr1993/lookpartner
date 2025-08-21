@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterSingletonRotation</key>
+	<string>smallLocalizationFormat</string>
+	<key>concurrentPresenterOpacity</key>
+	<string>statefulActivityRight</string>
+	<key>criticalDescriptionVisibility</key>
+	<string>retainedGridviewEdge</string>
+	<key>reducerActivityDepth</key>
+	<string>titleInsideOperation</string>
+	<key>reusableSwitchBottom</key>
+	<string>captionByMode</string>
+	<key>toolAlongEnvironment</key>
+	<string>progressbarFacadeDistance</string>
+</dict>
+</plist>

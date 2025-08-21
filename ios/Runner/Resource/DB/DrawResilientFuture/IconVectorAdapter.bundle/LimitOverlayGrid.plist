@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAsCommand</key>
+	<string>cupertinoBehaviorTail</string>
+	<key>customCertificateShape</key>
+	<string>multiplicationAgainstObserver</string>
+	<key>listenerViaSingleton</key>
+	<string>autoMapVisible</string>
+	<key>segueDuringForm</key>
+	<string>textureDuringPhase</string>
+</dict>
+</plist>

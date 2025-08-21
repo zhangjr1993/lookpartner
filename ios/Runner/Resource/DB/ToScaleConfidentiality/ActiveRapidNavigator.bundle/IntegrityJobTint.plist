@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledReductionPressure</key>
+	<string>topicNearForm</string>
+	<key>numericalLocalizationKind</key>
+	<string>granularUnaryCount</string>
+	<key>subsequentMobxTag</key>
+	<string>dialogsProxyAlignment</string>
+</dict>
+</plist>

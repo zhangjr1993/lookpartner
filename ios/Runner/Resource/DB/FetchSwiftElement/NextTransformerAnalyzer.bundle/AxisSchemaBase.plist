@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDecoratorSize</key>
+	<string>zoneThroughStructure</string>
+	<key>custompaintDecoratorIndex</key>
+	<string>staticBrushStatus</string>
+	<key>iterativeAspectFlags</key>
+	<string>lastIndicatorVisibility</string>
+	<key>timerStagePosition</key>
+	<string>smartAnimationLocation</string>
+</dict>
+</plist>

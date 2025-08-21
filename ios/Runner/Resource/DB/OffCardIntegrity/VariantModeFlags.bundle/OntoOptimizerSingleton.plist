@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectLevelRight</key>
+	<string>storageChainScale</string>
+	<key>callbackPerMode</key>
+	<string>futureNumberColor</string>
+	<key>commandTypeBehavior</key>
+	<string>sequentialMemberInset</string>
+	<key>imperativeTitleValidation</key>
+	<string>customUsecaseMode</string>
+	<key>methodLikeObserver</key>
+	<string>drawerPatternVisibility</string>
+	<key>popupAlongStyle</key>
+	<string>arithmeticStoreFeedback</string>
+	<key>resizableSpotBound</key>
+	<string>standaloneStatefulAcceleration</string>
+	<key>rowBesideMemento</key>
+	<string>unsortedDurationStatus</string>
+	<key>semanticPriorityBottom</key>
+	<string>autoPositionedType</string>
+	<key>symmetricUnaryMode</key>
+	<string>asyncAsValue</string>
+</dict>
+</plist>

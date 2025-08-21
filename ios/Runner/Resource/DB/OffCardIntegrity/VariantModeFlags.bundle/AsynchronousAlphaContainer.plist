@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForPhase</key>
+	<string>chartObserverRotation</string>
+	<key>bitrateContextRotation</key>
+	<string>enabledDecorationAcceleration</string>
+	<key>composableBitrateRight</key>
+	<string>capacitiesContextScale</string>
+	<key>constInteractorCenter</key>
+	<string>publicSegueStyle</string>
+	<key>difficultSizeKind</key>
+	<string>topicAwayValue</string>
+	<key>sineVisitorFrequency</key>
+	<string>observerStateCoord</string>
+	<key>tensorRequestSaturation</key>
+	<string>retainedInterfacePadding</string>
+	<key>textCycleBehavior</key>
+	<string>awaitKindForce</string>
+	<key>threadFrameworkBound</key>
+	<string>delegateVarMode</string>
+</dict>
+</plist>

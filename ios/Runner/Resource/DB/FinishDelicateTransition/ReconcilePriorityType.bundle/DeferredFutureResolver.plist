@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAsVariable</key>
+	<string>streamContainComposite</string>
+	<key>normalInjectionOffset</key>
+	<string>managerOutsideMediator</string>
+	<key>scaffoldBufferInset</key>
+	<string>grainNearPlatform</string>
+	<key>stateStrategyAcceleration</key>
+	<string>transformerAdapterDelay</string>
+	<key>vectorWithoutFlyweight</key>
+	<string>skirtMethodPosition</string>
+</dict>
+</plist>

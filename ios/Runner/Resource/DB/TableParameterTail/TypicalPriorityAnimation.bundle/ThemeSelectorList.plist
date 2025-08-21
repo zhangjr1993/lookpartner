@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForPhase</key>
+	<string>alertSingletonIndex</string>
+	<key>baselineVarRate</key>
+	<string>keyTransformerIndex</string>
+	<key>eventPatternMode</key>
+	<string>taskCycleTop</string>
+	<key>geometricBlocAlignment</key>
+	<string>cupertinoDimensionRotation</string>
+	<key>layoutLevelDelay</key>
+	<string>mediumCoordinatorStatus</string>
+	<key>resizablePromiseOpacity</key>
+	<string>sinkBufferVisibility</string>
+	<key>substantialGroupForce</key>
+	<string>gestureDespiteValue</string>
+</dict>
+</plist>

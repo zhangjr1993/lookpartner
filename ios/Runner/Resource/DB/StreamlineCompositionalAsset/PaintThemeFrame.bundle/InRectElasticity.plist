@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFunctionOffset</key>
+	<string>unaryExceptPhase</string>
+	<key>certificateUntilObserver</key>
+	<string>cubitTempleAppearance</string>
+	<key>drawerVarDensity</key>
+	<string>accordionMemberSize</string>
+	<key>mediaqueryAlongMethod</key>
+	<string>pinchablePointResponse</string>
+	<key>reusablePromiseDuration</key>
+	<string>symbolModeBound</string>
+	<key>scrollableWidgetBehavior</key>
+	<string>listviewPerTask</string>
+</dict>
+</plist>

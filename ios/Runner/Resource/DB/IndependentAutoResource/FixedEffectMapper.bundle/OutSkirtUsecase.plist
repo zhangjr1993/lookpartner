@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionFormState</key>
+	<string>sceneWithoutTask</string>
+	<key>secondEffectSize</key>
+	<string>smartSineVisible</string>
+	<key>semanticBaseVisibility</key>
+	<string>tappableConfigurationFormat</string>
+	<key>taskOfLayer</key>
+	<string>stateEnvironmentOrientation</string>
+	<key>temporaryGridviewInset</key>
+	<string>activatedSinkCoord</string>
+</dict>
+</plist>

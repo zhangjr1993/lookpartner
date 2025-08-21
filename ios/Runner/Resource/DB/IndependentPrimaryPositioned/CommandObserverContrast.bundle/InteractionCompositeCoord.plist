@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureUntilTask</key>
+	<string>liteViewAlignment</string>
+	<key>handlerPlatformHead</key>
+	<string>nativeBoxshadowDepth</string>
+	<key>localizationJobContrast</key>
+	<string>gestureStrategyMargin</string>
+	<key>routeNumberAppearance</key>
+	<string>segueByPrototype</string>
+	<key>signatureShapeSkewx</key>
+	<string>significantTextCenter</string>
+	<key>utilThroughMediator</key>
+	<string>grainAroundParameter</string>
+	<key>viewLikePrototype</key>
+	<string>topicThroughWork</string>
+</dict>
+</plist>

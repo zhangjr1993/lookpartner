@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFlyweightTint</key>
+	<string>invisibleTransformerEdge</string>
+	<key>finalScrollLocation</key>
+	<string>effectDecoratorState</string>
+	<key>grayscaleOrLayer</key>
+	<string>nibPerContext</string>
+	<key>loopNumberBehavior</key>
+	<string>directlyScrollRate</string>
+	<key>resourceTempleShape</key>
+	<string>metadataVersusProcess</string>
+	<key>webRouterOffset</key>
+	<string>priorHandlerStatus</string>
+</dict>
+</plist>

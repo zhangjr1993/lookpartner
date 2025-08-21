@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOperationResponse</key>
+	<string>effectWithoutObserver</string>
+	<key>gradientThroughOperation</key>
+	<string>expandedAndMediator</string>
+	<key>staticMovementVisible</key>
+	<string>pivotalSinkMomentum</string>
+</dict>
+</plist>

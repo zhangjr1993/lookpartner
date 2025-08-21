@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticResourceDistance</key>
+	<string>graphVarValidation</string>
+	<key>aspectActionCount</key>
+	<string>configurationUntilDecorator</string>
+	<key>columnInParameter</key>
+	<string>decorationBeyondObserver</string>
+	<key>cursorTaskTransparency</key>
+	<string>frameStructureTheme</string>
+	<key>fixedRowDelay</key>
+	<string>viewFacadeIndex</string>
+	<key>immutableGradientRate</key>
+	<string>viewActionRotation</string>
+	<key>mediocreActivityType</key>
+	<string>declarativeDescriptionDistance</string>
+	<key>providerVersusSingleton</key>
+	<string>liteCompletionName</string>
+	<key>webGridviewCenter</key>
+	<string>crudeAllocatorRotation</string>
+</dict>
+</plist>

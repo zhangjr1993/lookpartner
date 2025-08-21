@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitByKind</key>
+	<string>accessibleImageSpacing</string>
+	<key>batchFrameworkCenter</key>
+	<string>animationTypeTransparency</string>
+	<key>bitrateCycleCoord</key>
+	<string>containerSystemDistance</string>
+	<key>coordinatorContextDirection</key>
+	<string>appbarOfProcess</string>
+	<key>customDecorationDelay</key>
+	<string>futureTierSaturation</string>
+	<key>euclideanRepositoryScale</key>
+	<string>previewAroundContext</string>
+	<key>globalSegmentSkewy</key>
+	<string>lastContainerMode</string>
+	<key>streamBufferBottom</key>
+	<string>futureChainInterval</string>
+	<key>utilCycleType</key>
+	<string>slashAlongMode</string>
+</dict>
+</plist>

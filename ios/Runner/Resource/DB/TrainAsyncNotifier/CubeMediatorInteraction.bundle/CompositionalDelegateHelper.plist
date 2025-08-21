@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateStateInterval</key>
+	<string>precisionInterpreterOrientation</string>
+	<key>nibBeyondPrototype</key>
+	<string>descriptionDespitePrototype</string>
+	<key>repositoryProxyOrientation</key>
+	<string>graphAdapterDirection</string>
+	<key>skinProcessSkewy</key>
+	<string>basicServiceFrequency</string>
+	<key>sliderExceptForm</key>
+	<string>cartesianLocalizationFrequency</string>
+</dict>
+</plist>

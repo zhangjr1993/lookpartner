@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTempleBehavior</key>
+	<string>lastUtilDepth</string>
+	<key>diffableSegmentInset</key>
+	<string>subtleTweenOrigin</string>
+	<key>eventVariableInteraction</key>
+	<string>logarithmLayerSpeed</string>
+	<key>flexibleSensorStyle</key>
+	<string>visibleSliderTail</string>
+	<key>graphicFunctionOffset</key>
+	<string>reducerUntilNumber</string>
+	<key>mainQueueContrast</key>
+	<string>sizedboxExceptBuffer</string>
+	<key>queryLevelState</key>
+	<string>utilInSystem</string>
+	<key>scaleAlongMode</key>
+	<string>factoryObserverSkewx</string>
+	<key>tabviewAwayActivity</key>
+	<string>semanticsForFramework</string>
+</dict>
+</plist>

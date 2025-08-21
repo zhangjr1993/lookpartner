@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalArithmeticFeedback</key>
+	<string>gestureLikeMediator</string>
+	<key>managerEnvironmentTail</key>
+	<string>spineNearAction</string>
+	<key>materialConstraintColor</key>
+	<string>uniqueButtonInset</string>
+	<key>permissivePopupVisible</key>
+	<string>exceptionFlyweightMode</string>
+	<key>smallTransformerSpeed</key>
+	<string>positionBufferColor</string>
+	<key>transformerProxySpacing</key>
+	<string>hierarchicalResultContrast</string>
+</dict>
+</plist>

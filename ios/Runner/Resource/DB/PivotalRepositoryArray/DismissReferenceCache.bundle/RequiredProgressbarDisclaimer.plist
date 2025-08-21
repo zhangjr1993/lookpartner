@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionActionOffset</key>
+	<string>cubeForAdapter</string>
+	<key>menuIncludeKind</key>
+	<string>responseAsFramework</string>
+	<key>respectiveZoneShade</key>
+	<string>reducerOutsideFramework</string>
+	<key>routerViaFramework</key>
+	<string>labelIncludePrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletMethodInset</key>
+	<string>binaryOutsideParameter</string>
+	<key>completerValueOffset</key>
+	<string>particleFormVelocity</string>
+	<key>imperativeMusicInteraction</key>
+	<string>stepVersusPrototype</string>
+	<key>integerInsideDecorator</key>
+	<string>statelessBuilderColor</string>
+</dict>
+</plist>

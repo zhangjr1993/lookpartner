@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorPerObserver</key>
+	<string>basicTweenHue</string>
+	<key>inactiveNavigatorMode</key>
+	<string>timerProcessSpeed</string>
+	<key>localizationThroughPrototype</key>
+	<string>reactiveActivityColor</string>
+	<key>nextCommandRotation</key>
+	<string>sliderUntilState</string>
+	<key>roleTierTension</key>
+	<string>subsequentDrawerTension</string>
+	<key>screenSingletonTint</key>
+	<string>flexibleArithmeticDirection</string>
+	<key>sortedGestureFeedback</key>
+	<string>sinkCompositeTag</string>
+</dict>
+</plist>

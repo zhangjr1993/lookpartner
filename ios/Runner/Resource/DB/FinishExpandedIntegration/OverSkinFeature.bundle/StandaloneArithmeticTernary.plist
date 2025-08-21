@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directLogarithmDuration</key>
+	<string>appbarPlatformBorder</string>
+	<key>enabledAspectratioVisibility</key>
+	<string>documentChainAppearance</string>
+	<key>equalizationDespiteFramework</key>
+	<string>asynchronousOperationFlags</string>
+	<key>independentImageValidation</key>
+	<string>textureJobKind</string>
+	<key>sceneOfLevel</key>
+	<string>coordinatorWithEnvironment</string>
+</dict>
+</plist>

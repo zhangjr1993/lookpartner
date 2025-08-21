@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionProcessFlags</key>
+	<string>spriteParameterInset</string>
+	<key>newestServiceHue</key>
+	<string>animatedAccessoryStatus</string>
+	<key>parallelTextCenter</key>
+	<string>dependencyParameterDuration</string>
+	<key>subpixelEnvironmentPressure</key>
+	<string>textMethodAlignment</string>
+	<key>tensorSwitchTheme</key>
+	<string>brushObserverSkewx</string>
+	<key>widgetFacadeTheme</key>
+	<string>explicitMarginHue</string>
+</dict>
+</plist>

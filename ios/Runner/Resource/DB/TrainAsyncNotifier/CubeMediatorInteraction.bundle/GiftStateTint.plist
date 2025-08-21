@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constRemainderFormat</key>
+	<string>textAtVar</string>
+	<key>modulusInForm</key>
+	<string>pointParameterSaturation</string>
+	<key>singletonByInterpreter</key>
+	<string>crudeProjectStatus</string>
+	<key>stateAmongProxy</key>
+	<string>difficultUsecaseDirection</string>
+	<key>transitionVersusInterpreter</key>
+	<string>providerThanFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisThroughBuffer</key>
+	<string>localizationStyleDirection</string>
+	<key>channelsContextDensity</key>
+	<string>fusedIndicatorScale</string>
+	<key>columnAroundLayer</key>
+	<string>discardedUsageOrientation</string>
+	<key>comprehensiveConstraintShape</key>
+	<string>activatedPointRotation</string>
+	<key>factoryTempleTag</key>
+	<string>anchorStructureRight</string>
+	<key>gradientVersusTask</key>
+	<string>serviceOrSystem</string>
+	<key>heapDuringFlyweight</key>
+	<string>synchronousStateColor</string>
+	<key>operationParamSaturation</key>
+	<string>lazyLabelTop</string>
+	<key>queueObserverVisibility</key>
+	<string>providerChainType</string>
+	<key>skirtWithWork</key>
+	<string>originalConstraintVelocity</string>
+</dict>
+</plist>

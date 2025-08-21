@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryIncludePattern</key>
+	<string>commandForBuffer</string>
+	<key>brushIncludeLayer</key>
+	<string>missedDelegatePressure</string>
+	<key>desktopMarginCoord</key>
+	<string>immediateTabviewDuration</string>
+	<key>getxMementoTag</key>
+	<string>advancedConstraintState</string>
+	<key>layoutFunctionResponse</key>
+	<string>iterativeNavigatorShape</string>
+	<key>layoutTypeAlignment</key>
+	<string>transitionUntilPattern</string>
+	<key>observerOutsideState</key>
+	<string>imperativeCoordinatorOffset</string>
+	<key>presenterCommandCenter</key>
+	<string>buttonPrototypeHead</string>
+	<key>standaloneTabbarForce</key>
+	<string>priorityLikeBridge</string>
+</dict>
+</plist>

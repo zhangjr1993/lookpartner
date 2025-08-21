@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityInsideWork</key>
+	<string>widgetInsideKind</string>
+	<key>navigatorTierFeedback</key>
+	<string>scrollLikeWork</string>
+	<key>notifierAndPrototype</key>
+	<string>usecaseAtFacade</string>
+	<key>presenterThanSingleton</key>
+	<string>offsetThroughCommand</string>
+	<key>scrollFrameworkLeft</key>
+	<string>frameFromParameter</string>
+	<key>singletonContextColor</key>
+	<string>concreteTweenOpacity</string>
+	<key>textureActionVisible</key>
+	<string>hierarchicalCompleterHue</string>
+	<key>titleChainDirection</key>
+	<string>independentSceneFeedback</string>
+</dict>
+</plist>

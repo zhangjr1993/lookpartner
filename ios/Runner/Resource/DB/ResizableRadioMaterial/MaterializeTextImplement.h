@@ -1,0 +1,18 @@
+#import "ParseLabelAction.h"
+#import "NavigateArithmeticArray.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface MaterializeTextImplement : NSObject
+
+
+- (void) inflateStreamAsset;
+
+- (void) connectOpaqueMusic;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

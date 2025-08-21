@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextfieldDuration</key>
+	<string>toolWithoutFacade</string>
+	<key>buttonWorkOrigin</key>
+	<string>containerContainDecorator</string>
+	<key>localNavigationAppearance</key>
+	<string>navigationAmongEnvironment</string>
+	<key>optimizerDuringLayer</key>
+	<string>missionTempleBorder</string>
+	<key>rowFlyweightEdge</key>
+	<string>topicBeyondLevel</string>
+	<key>tweenJobVelocity</key>
+	<string>blocStructurePosition</string>
+	<key>viewContainAdapter</key>
+	<string>shaderOrFlyweight</string>
+	<key>webConstraintForce</key>
+	<string>rowAndObserver</string>
+</dict>
+</plist>

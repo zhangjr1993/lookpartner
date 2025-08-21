@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowActionDepth</key>
+	<string>denseImageOpacity</string>
+	<key>dialogsInterpreterDepth</key>
+	<string>sharedRequestValidation</string>
+	<key>directOffsetName</key>
+	<string>matrixViaLayer</string>
+	<key>eagerAllocatorFrequency</key>
+	<string>projectFacadeHue</string>
+	<key>extensionCycleSize</key>
+	<string>fixedCellSkewx</string>
+	<key>interpolationVersusComposite</key>
+	<string>tweenAdapterCenter</string>
+	<key>reductionBeyondNumber</key>
+	<string>cacheThroughStage</string>
+	<key>richtextPrototypeTransparency</key>
+	<string>resourceJobCenter</string>
+	<key>sliderContainProcess</key>
+	<string>asynchronousDurationRotation</string>
+	<key>statelessCallbackHue</key>
+	<string>normalBoxFlags</string>
+</dict>
+</plist>

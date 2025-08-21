@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureBridgeTint</key>
+	<string>basicDialogsType</string>
+	<key>gateVersusState</key>
+	<string>localTransitionVisibility</string>
+	<key>imperativeStreamBorder</key>
+	<string>mediumHandlerMode</string>
+	<key>layerMementoName</key>
+	<string>sharedEffectTail</string>
+	<key>mediaqueryTypeColor</key>
+	<string>imperativeDelegatePosition</string>
+	<key>persistentThreadInterval</key>
+	<string>challengeChainSpeed</string>
+	<key>projectOrLevel</key>
+	<string>reducerMementoBorder</string>
+	<key>textureWithLevel</key>
+	<string>transitionProcessType</string>
+	<key>zoneInBridge</key>
+	<string>webStatefulTint</string>
+</dict>
+</plist>

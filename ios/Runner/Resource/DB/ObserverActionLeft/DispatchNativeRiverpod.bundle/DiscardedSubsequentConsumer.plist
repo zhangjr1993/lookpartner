@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocIncludeChain</key>
+	<string>constraintFunctionBottom</string>
+	<key>builderExceptEnvironment</key>
+	<string>subsequentFutureBehavior</string>
+	<key>effectLikeKind</key>
+	<string>nextZoneTag</string>
+	<key>grainPerObserver</key>
+	<string>widgetIncludeVariable</string>
+	<key>originalRequestDensity</key>
+	<string>tweenLevelDepth</string>
+	<key>requiredTopicTransparency</key>
+	<string>hierarchicalModalShade</string>
+	<key>routerFromMediator</key>
+	<string>comprehensiveAspectratioSpacing</string>
+	<key>statelessAlongVar</key>
+	<string>durationParamStyle</string>
+</dict>
+</plist>

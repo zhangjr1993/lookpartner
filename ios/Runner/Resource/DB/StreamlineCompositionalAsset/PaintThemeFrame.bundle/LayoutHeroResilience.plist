@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBitratePressure</key>
+	<string>cupertinoNavigatorInteraction</string>
+	<key>animationProcessKind</key>
+	<string>interpolationAmongShape</string>
+	<key>buttonObserverType</key>
+	<string>scaleAdapterValidation</string>
+	<key>isolateSinceFramework</key>
+	<string>associatedTransformerSaturation</string>
+	<key>multiEqualizationAlignment</key>
+	<string>standaloneAnimatedcontainerHue</string>
+	<key>reactiveManagerBound</key>
+	<string>firstFactoryMomentum</string>
+	<key>sequentialDropdownbuttonMargin</key>
+	<string>constraintOperationKind</string>
+	<key>sequentialPromiseShade</key>
+	<string>multiMenuAcceleration</string>
+	<key>topicBeyondMemento</key>
+	<string>decorationProcessShape</string>
+</dict>
+</plist>

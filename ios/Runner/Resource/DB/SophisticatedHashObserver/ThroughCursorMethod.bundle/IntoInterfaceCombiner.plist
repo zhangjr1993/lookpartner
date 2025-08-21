@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchProxyLeft</key>
+	<string>cacheWithParameter</string>
+	<key>bitrateTaskAlignment</key>
+	<string>requestThroughFacade</string>
+	<key>delegateOfJob</key>
+	<string>hardImageMode</string>
+	<key>queueBesideFacade</key>
+	<string>semanticsAndFramework</string>
+</dict>
+</plist>

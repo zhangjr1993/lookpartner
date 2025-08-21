@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelScopeStyle</key>
+	<string>uniqueObserverSpacing</string>
+	<key>curveObserverSpeed</key>
+	<string>commandForFramework</string>
+	<key>deferredProgressbarPadding</key>
+	<string>delegateIncludePattern</string>
+	<key>diversifiedFactoryStyle</key>
+	<string>cardThroughForm</string>
+	<key>grainAroundTemple</key>
+	<string>sliderCommandFormat</string>
+	<key>popupPlatformInterval</key>
+	<string>displayableRemainderDelay</string>
+	<key>sceneOutsideMediator</key>
+	<string>baseAboutProxy</string>
+	<key>sharedScaffoldShape</key>
+	<string>fixedLabelShade</string>
+	<key>streamOfProxy</key>
+	<string>optimizerAsProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVersusParameter</key>
+	<string>materialThemeTint</string>
+	<key>requiredRadiusColor</key>
+	<string>positionSingletonTint</string>
+	<key>storeParameterInset</key>
+	<string>specifyParticleCenter</string>
+	<key>subscriptionVarAlignment</key>
+	<string>declarativePresenterSize</string>
+	<key>tangentMediatorTheme</key>
+	<string>dedicatedFeatureScale</string>
+</dict>
+</plist>

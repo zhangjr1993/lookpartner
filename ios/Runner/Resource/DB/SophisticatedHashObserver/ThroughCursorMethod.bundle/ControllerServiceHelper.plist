@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterAcceleration</key>
+	<string>desktopServiceCount</string>
+	<key>captionInsidePrototype</key>
+	<string>reducerLikeSystem</string>
+	<key>cellContextPosition</key>
+	<string>animatedButtonShade</string>
+	<key>constGridMode</key>
+	<string>stateLikeProxy</string>
+	<key>descriptorPatternValidation</key>
+	<string>firstSizedboxSpeed</string>
+	<key>sineUntilBridge</key>
+	<string>mobileViaFlyweight</string>
+	<key>sizeStrategyRotation</key>
+	<string>curveWithParam</string>
+	<key>statelessDelegateValidation</key>
+	<string>visibleNavigatorOpacity</string>
+</dict>
+</plist>

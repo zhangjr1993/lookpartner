@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThanOperation</key>
+	<string>responsiveListenerDensity</string>
+	<key>asyncLevelFeedback</key>
+	<string>statefulNormState</string>
+	<key>channelCompositeInterval</key>
+	<string>consumerOfChain</string>
+	<key>notificationTypeShape</key>
+	<string>deferredNodeStatus</string>
+	<key>signatureTempleTension</key>
+	<string>transitionStateOffset</string>
+</dict>
+</plist>

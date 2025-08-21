@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityNearVar</key>
+	<string>gradientTaskMargin</string>
+	<key>cubitDuringCycle</key>
+	<string>mapBeyondCommand</string>
+	<key>fixedContainerState</key>
+	<string>responseParamPadding</string>
+	<key>handlerDuringVisitor</key>
+	<string>metadataMethodMomentum</string>
+	<key>missedGridName</key>
+	<string>displayableTransitionAppearance</string>
+	<key>offsetAmongVisitor</key>
+	<string>compositionalIsolateHue</string>
+</dict>
+</plist>

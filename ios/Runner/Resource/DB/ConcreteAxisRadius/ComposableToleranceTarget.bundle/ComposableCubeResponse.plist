@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActionSaturation</key>
+	<string>multiContainerCenter</string>
+	<key>durationFormSkewy</key>
+	<string>tweenProxyBound</string>
+	<key>pinchableGroupCenter</key>
+	<string>coordinatorOutsideBuffer</string>
+	<key>resilientOperationBorder</key>
+	<string>sequentialThemePressure</string>
+	<key>sessionInFacade</key>
+	<string>originalChannelFormat</string>
+	<key>sliderTaskDuration</key>
+	<string>consumerInsideDecorator</string>
+</dict>
+</plist>

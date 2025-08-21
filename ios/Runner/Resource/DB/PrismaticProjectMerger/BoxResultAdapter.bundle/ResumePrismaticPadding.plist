@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDescriptorSpacing</key>
+	<string>graphicTempleBrightness</string>
+	<key>methodOrPhase</key>
+	<string>widgetParamInset</string>
+	<key>opaqueInterpolationStyle</key>
+	<string>agileConstraintBehavior</string>
+	<key>pinchablePlateTransparency</key>
+	<string>completionUntilFlyweight</string>
+	<key>projectionCompositeLeft</key>
+	<string>offsetOutsideLayer</string>
+	<key>rowCompositeFlags</key>
+	<string>draggableListviewRotation</string>
+</dict>
+</plist>

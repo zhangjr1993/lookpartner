@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorStrategyTop</key>
+	<string>mutableBoxPadding</string>
+	<key>popupFunctionInset</key>
+	<string>respectiveIsolateHue</string>
+	<key>prevAnchorVisibility</key>
+	<string>usecaseThroughStrategy</string>
+	<key>priorityByAction</key>
+	<string>accessoryWithStyle</string>
+	<key>topicVisitorFrequency</key>
+	<string>sessionFacadeBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFrameType</key>
+	<string>smartAllocatorDelay</string>
+	<key>asyncBesideFunction</key>
+	<string>compositionalAsyncFrequency</string>
+	<key>imperativeWidgetTint</key>
+	<string>declarativeConstraintTag</string>
+	<key>localizationThanState</key>
+	<string>eagerSizeInteraction</string>
+	<key>sizeThroughShape</key>
+	<string>symmetricBaselineVisibility</string>
+</dict>
+</plist>

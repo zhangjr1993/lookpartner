@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelViaMediator</key>
+	<string>animationAboutScope</string>
+	<key>nativeExtensionShade</key>
+	<string>materialNormTint</string>
+	<key>popupAroundStyle</key>
+	<string>transitionProxyInteraction</string>
+	<key>relationalConfigurationLocation</key>
+	<string>transitionInsideProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellObserverTheme</key>
+	<string>statelessMementoTop</string>
+	<key>commonMediaRight</key>
+	<string>dialogsOutsideBridge</string>
+	<key>declarativeSpriteVisible</key>
+	<string>gradientByKind</string>
+	<key>directSegmentAlignment</key>
+	<string>rapidFlexPadding</string>
+	<key>musicParamTheme</key>
+	<string>firstLayerPadding</string>
+	<key>oldReducerTail</key>
+	<string>rectActivityAlignment</string>
+	<key>prismaticFutureCoord</key>
+	<string>cardAwaySystem</string>
+	<key>subscriptionJobScale</key>
+	<string>specifyResultOffset</string>
+</dict>
+</plist>

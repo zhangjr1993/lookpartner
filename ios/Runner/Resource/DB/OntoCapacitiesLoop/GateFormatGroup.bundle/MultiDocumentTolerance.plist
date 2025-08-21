@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitExceptScope</key>
+	<string>rapidSceneStatus</string>
+	<key>completerAboutMode</key>
+	<string>consumerAndLayer</string>
+	<key>deferredChapterRate</key>
+	<string>bulletProxyOpacity</string>
+	<key>finalTouchShade</key>
+	<string>draggableRouteSaturation</string>
+	<key>layoutCompositeOrigin</key>
+	<string>oldBaselineMomentum</string>
+	<key>particleWithCycle</key>
+	<string>sinkAndProxy</string>
+	<key>seamlessReferenceDuration</key>
+	<string>localizationLevelScale</string>
+	<key>skinAsNumber</key>
+	<string>stackViaFunction</string>
+</dict>
+</plist>

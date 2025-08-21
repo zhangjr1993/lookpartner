@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPresenterBrightness</key>
+	<string>tabbarBufferPosition</string>
+	<key>intuitiveTouchCoord</key>
+	<string>mediaAgainstBridge</string>
+	<key>isolateLevelDistance</key>
+	<string>mutableButtonState</string>
+	<key>missedManagerColor</key>
+	<string>mobileServiceTop</string>
+	<key>modelOperationRotation</key>
+	<string>mediaInsideScope</string>
+	<key>serviceFacadeFlags</key>
+	<string>cupertinoPositionedKind</string>
+	<key>temporaryInterfaceCenter</key>
+	<string>challengeDespiteValue</string>
+</dict>
+</plist>

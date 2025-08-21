@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAtAction</key>
+	<string>navigatorViaPattern</string>
+	<key>petVersusFacade</key>
+	<string>alphaIncludePlatform</string>
+	<key>popupExceptMethod</key>
+	<string>unactivatedGrainBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeComposite</key>
+	<string>chapterAwayScope</string>
+	<key>boxModeShape</key>
+	<string>scrollableTextRotation</string>
+	<key>checklistContainDecorator</key>
+	<string>pivotalGesturedetectorRight</string>
+	<key>gridLikeFlyweight</key>
+	<string>futureBridgeCoord</string>
+	<key>lazyMarginDelay</key>
+	<string>disparateContainerStatus</string>
+	<key>notificationKindTag</key>
+	<string>characterPlatformDistance</string>
+	<key>semanticGraphicKind</key>
+	<string>cupertinoCapsuleDuration</string>
+	<key>touchAboutShape</key>
+	<string>builderLikeLevel</string>
+	<key>usecaseEnvironmentDepth</key>
+	<string>remainderProcessVelocity</string>
+</dict>
+</plist>

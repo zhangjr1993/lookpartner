@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCompleterOrientation</key>
+	<string>controllerOutsideMode</string>
+	<key>animatedcontainerCompositeDirection</key>
+	<string>uniformEffectAcceleration</string>
+	<key>comprehensiveFrameSaturation</key>
+	<string>appbarWithJob</string>
+	<key>documentInterpreterSkewx</key>
+	<string>tabbarStateOrigin</string>
+	<key>topicFlyweightBorder</key>
+	<string>notifierFrameworkCoord</string>
+</dict>
+</plist>

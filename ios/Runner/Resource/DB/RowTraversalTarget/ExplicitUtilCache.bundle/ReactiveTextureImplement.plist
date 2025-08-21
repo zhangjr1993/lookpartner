@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeResolverRate</key>
+	<string>collectionSystemRate</string>
+	<key>dependencyInJob</key>
+	<string>displayableMenuState</string>
+	<key>oldDependencyTransparency</key>
+	<string>respectiveInkwellSpeed</string>
+	<key>skirtAmongFlyweight</key>
+	<string>semanticCommandInteraction</string>
+	<key>staticChannelsRight</key>
+	<string>featureAdapterType</string>
+	<key>visibleModalInset</key>
+	<string>inactivePainterScale</string>
+</dict>
+</plist>

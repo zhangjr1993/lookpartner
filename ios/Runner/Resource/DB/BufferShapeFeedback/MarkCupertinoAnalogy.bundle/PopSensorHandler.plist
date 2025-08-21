@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFunctionStyle</key>
+	<string>cubitIncludeFlyweight</string>
+	<key>constraintPatternDensity</key>
+	<string>plateSingletonDensity</string>
+	<key>geometricRoleState</key>
+	<string>discardedAllocatorValidation</string>
+	<key>layerWorkFlags</key>
+	<string>materialWidgetForce</string>
+	<key>secondRadiusValidation</key>
+	<string>constPlaybackDistance</string>
+	<key>storeProcessInteraction</key>
+	<string>disparateLayoutFrequency</string>
+	<key>tabbarBeyondMethod</key>
+	<string>optimizerVisitorFlags</string>
+	<key>techniquePerBridge</key>
+	<string>zoneEnvironmentBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTaskOrientation</key>
+	<string>singleDependencyStyle</string>
+	<key>cubitJobPosition</key>
+	<string>queueInsideSingleton</string>
+	<key>fragmentByFramework</key>
+	<string>materialOutsideMethod</string>
+	<key>gridStyleHead</key>
+	<string>flexibleProviderBehavior</string>
+	<key>lazyAlphaBorder</key>
+	<string>positionVisitorSize</string>
+	<key>previewActivityTail</key>
+	<string>storyboardFromFramework</string>
+	<key>responsiveCosineSpacing</key>
+	<string>sizeOperationOrigin</string>
+	<key>taskLikeStructure</key>
+	<string>mediumRouterFormat</string>
+</dict>
+</plist>

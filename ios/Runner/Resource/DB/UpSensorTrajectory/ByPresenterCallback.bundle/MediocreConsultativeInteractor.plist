@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProviderBorder</key>
+	<string>cartesianStreamStyle</string>
+	<key>decorationAdapterBottom</key>
+	<string>hyperbolicRectScale</string>
+	<key>effectInParam</key>
+	<string>tableDecoratorContrast</string>
+	<key>featureForState</key>
+	<string>alertKindSaturation</string>
+	<key>injectionMementoTag</key>
+	<string>iconJobLeft</string>
+	<key>lostDocumentState</key>
+	<string>timerActivityCoord</string>
+	<key>utilKindStatus</key>
+	<string>injectionVersusType</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyShapeHue</key>
+	<string>pivotalExceptionSize</string>
+	<key>enabledCanvasAppearance</key>
+	<string>interpolationAroundStage</string>
+	<key>tabviewPatternDensity</key>
+	<string>methodAgainstPlatform</string>
+	<key>unsortedScaffoldInterval</key>
+	<string>invisibleExpandedSpacing</string>
+</dict>
+</plist>

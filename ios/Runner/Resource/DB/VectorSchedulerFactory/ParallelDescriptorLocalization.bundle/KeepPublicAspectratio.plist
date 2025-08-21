@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileObserverPosition</key>
+	<string>normPlatformBehavior</string>
+	<key>batchSinceStrategy</key>
+	<string>builderFunctionCount</string>
+	<key>frameAmongFramework</key>
+	<string>disabledInjectionValidation</string>
+	<key>gestureAwayChain</key>
+	<string>tweenStageDepth</string>
+	<key>multiplicationUntilContext</key>
+	<string>variantDuringScope</string>
+	<key>routerTypeOrientation</key>
+	<string>movementAndPrototype</string>
+	<key>sophisticatedLabelBound</key>
+	<string>basicTickerDuration</string>
+	<key>spineFormValidation</key>
+	<string>dimensionForMode</string>
+	<key>statefulAlphaType</key>
+	<string>fusedControllerCenter</string>
+</dict>
+</plist>

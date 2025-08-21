@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerLevelMargin</key>
+	<string>spriteOfParam</string>
+	<key>cycleForProcess</key>
+	<string>originalChallengeCoord</string>
+	<key>durationLayerInteraction</key>
+	<string>sceneDespiteInterpreter</string>
+	<key>explicitDimensionDistance</key>
+	<string>matrixProxyAlignment</string>
+	<key>factoryIncludeLevel</key>
+	<string>eagerChecklistSaturation</string>
+	<key>singleInjectionIndex</key>
+	<string>materialGemAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLogarithmContrast</key>
+	<string>adaptiveMasterTransparency</string>
+	<key>buttonCycleCenter</key>
+	<string>projectStageDistance</string>
+	<key>containerBeyondPlatform</key>
+	<string>roleScopeLeft</string>
+	<key>equalizationScopeOpacity</key>
+	<string>typicalCursorAppearance</string>
+	<key>indicatorPhaseDepth</key>
+	<string>robustBorderScale</string>
+	<key>instructionKindBottom</key>
+	<string>sortedGrainSpeed</string>
+	<key>intermediateAspectResponse</key>
+	<string>localizationAboutParameter</string>
+</dict>
+</plist>

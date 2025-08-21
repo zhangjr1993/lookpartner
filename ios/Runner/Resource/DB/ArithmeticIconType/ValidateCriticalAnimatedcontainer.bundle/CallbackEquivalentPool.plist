@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCursorFeedback</key>
+	<string>tappableLocalizationVelocity</string>
+	<key>arithmeticChapterType</key>
+	<string>integerVisitorTint</string>
+	<key>channelByAdapter</key>
+	<string>utilAndProxy</string>
+	<key>checklistBeyondComposite</key>
+	<string>enabledPainterBound</string>
+	<key>crucialScaffoldShape</key>
+	<string>responseBufferTransparency</string>
+	<key>equalizationInMemento</key>
+	<string>sliderAndParam</string>
+	<key>geometricCursorOffset</key>
+	<string>unsortedTransitionCount</string>
+	<key>permissiveRepositoryCount</key>
+	<string>intermediateAsyncVisibility</string>
+	<key>providerWithParam</key>
+	<string>displayableButtonSaturation</string>
+</dict>
+</plist>

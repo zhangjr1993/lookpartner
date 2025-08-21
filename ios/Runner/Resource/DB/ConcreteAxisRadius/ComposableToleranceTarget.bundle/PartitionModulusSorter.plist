@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineStructureSkewy</key>
+	<string>eventFromFacade</string>
+	<key>crudeScaleDelay</key>
+	<string>crudeZoneRotation</string>
+	<key>grayscaleInsideParam</key>
+	<string>difficultCardDuration</string>
+	<key>lostSceneTop</key>
+	<string>grainBeyondLayer</string>
+	<key>previewUntilFlyweight</key>
+	<string>checklistJobSpacing</string>
+	<key>semanticAssetDepth</key>
+	<string>storeProxyMode</string>
+	<key>temporaryPageviewFeedback</key>
+	<string>coordinatorFunctionMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constStreamIndex</key>
+	<string>channelCompositeLeft</string>
+	<key>containerViaShape</key>
+	<string>apertureChainDelay</string>
+	<key>previewOutsideVar</key>
+	<string>typicalUsageHue</string>
+	<key>screenObserverOrientation</key>
+	<string>switchPlatformShade</string>
+	<key>statelessOptionSkewy</key>
+	<string>intensityOrAdapter</string>
+	<key>subscriptionModeIndex</key>
+	<string>painterLevelEdge</string>
+</dict>
+</plist>

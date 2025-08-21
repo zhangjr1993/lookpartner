@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleInterpreterSpeed</key>
+	<string>customConfigurationHue</string>
+	<key>descriptionActivityBound</key>
+	<string>otherTouchRight</string>
+	<key>fusedAppbarContrast</key>
+	<string>textfieldActivitySpeed</string>
+	<key>plateVariableName</key>
+	<string>persistentSpecifierOffset</string>
+	<key>providerVarStyle</key>
+	<string>eventWorkOrientation</string>
+	<key>subscriptionUntilCommand</key>
+	<string>overlayOfMediator</string>
+	<key>themeVersusAction</key>
+	<string>routeFlyweightHue</string>
+</dict>
+</plist>

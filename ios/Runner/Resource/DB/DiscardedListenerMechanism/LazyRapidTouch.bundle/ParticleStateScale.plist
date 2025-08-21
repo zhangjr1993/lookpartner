@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAlongWork</key>
+	<string>scaleInterpreterName</string>
+	<key>consumerValueBottom</key>
+	<string>multiplicationInterpreterName</string>
+	<key>lastProfileTop</key>
+	<string>baseStateBehavior</string>
+	<key>robustTaskInterval</key>
+	<string>dependencyPlatformDirection</string>
+	<key>semanticUtilBound</key>
+	<string>labelLevelFormat</string>
+	<key>spotAtParameter</key>
+	<string>signatureDecoratorTag</string>
+</dict>
+</plist>

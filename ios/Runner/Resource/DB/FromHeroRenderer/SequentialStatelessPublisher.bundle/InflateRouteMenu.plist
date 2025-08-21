@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWorkDensity</key>
+	<string>awaitBridgeAppearance</string>
+	<key>baseExceptFunction</key>
+	<string>tableContextName</string>
+	<key>discardedTweenScale</key>
+	<string>typicalDelegateFlags</string>
+	<key>originalTextureMode</key>
+	<string>spriteAgainstStrategy</string>
+	<key>streamIncludeParam</key>
+	<string>sizedboxSingletonInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtAction</key>
+	<string>concurrentCommandTransparency</string>
+	<key>gesturedetectorAgainstVariable</key>
+	<string>localizationMediatorPadding</string>
+	<key>semanticTextureDistance</key>
+	<string>semanticModelAcceleration</string>
+	<key>singletonAsFacade</key>
+	<string>observerMethodBrightness</string>
+	<key>topicFunctionTransparency</key>
+	<string>pinchableResponseHue</string>
+	<key>visibleCosineForce</key>
+	<string>buttonInterpreterSize</string>
+</dict>
+</plist>

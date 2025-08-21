@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileBlocValidation</key>
+	<string>exceptionAroundVariable</string>
+	<key>nativePriorityCenter</key>
+	<string>cellBesideFramework</string>
+	<key>optionDecoratorTag</key>
+	<string>usedRowPressure</string>
+	<key>paddingParamShape</key>
+	<string>finalVectorRotation</string>
+	<key>skinFrameworkRotation</key>
+	<string>resultDespiteSingleton</string>
+	<key>smartTitleBorder</key>
+	<string>draggableCubitOpacity</string>
+</dict>
+</plist>

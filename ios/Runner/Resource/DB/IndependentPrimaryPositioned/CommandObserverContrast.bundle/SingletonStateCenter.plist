@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAdapterDensity</key>
+	<string>textKindOrientation</string>
+	<key>queryFlyweightRight</key>
+	<string>responseFacadeLocation</string>
+	<key>resourceCompositeTail</key>
+	<string>textTypeFeedback</string>
+	<key>smallTextureOffset</key>
+	<string>transitionBeyondType</string>
+</dict>
+</plist>

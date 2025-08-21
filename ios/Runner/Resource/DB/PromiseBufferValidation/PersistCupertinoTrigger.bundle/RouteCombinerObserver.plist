@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptPrototype</key>
+	<string>arithmeticViaChain</string>
+	<key>catalystInsideActivity</key>
+	<string>gridviewInsideNumber</string>
+	<key>durationPhaseMargin</key>
+	<string>dialogsStructureRate</string>
+	<key>expandedSinceForm</key>
+	<string>missedIconPadding</string>
+	<key>lossInsideStructure</key>
+	<string>controllerPatternName</string>
+	<key>observerAmongVariable</key>
+	<string>methodKindCenter</string>
+	<key>rapidPopupBehavior</key>
+	<string>batchContainContext</string>
+	<key>repositoryTaskInset</key>
+	<string>gemStagePadding</string>
+	<key>standaloneGateFeedback</key>
+	<string>groupInsideStyle</string>
+</dict>
+</plist>

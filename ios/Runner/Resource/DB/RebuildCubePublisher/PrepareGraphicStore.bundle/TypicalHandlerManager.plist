@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCharacterSaturation</key>
+	<string>utilAroundForm</string>
+	<key>crudeFrameStyle</key>
+	<string>nodeContainState</string>
+	<key>interpolationPerTask</key>
+	<string>specifyPageviewStyle</string>
+	<key>presenterShapeTint</key>
+	<string>imageBufferHead</string>
+	<key>semanticDependencyOffset</key>
+	<string>hashAroundStrategy</string>
+</dict>
+</plist>

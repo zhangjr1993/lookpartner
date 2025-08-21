@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimationOrigin</key>
+	<string>animationAndCycle</string>
+	<key>builderAgainstScope</key>
+	<string>explicitLayerPadding</string>
+	<key>bulletCommandAppearance</key>
+	<string>progressbarScopeCount</string>
+	<key>captionAtSystem</key>
+	<string>memberStateDelay</string>
+	<key>globalAxisDirection</key>
+	<string>kernelFacadeOpacity</string>
+	<key>hashWithPrototype</key>
+	<string>movementAdapterColor</string>
+	<key>keyInteractorForce</key>
+	<string>errorKindCoord</string>
+	<key>multiTickerOpacity</key>
+	<string>chartStateTransparency</string>
+	<key>protocolVisitorTail</key>
+	<string>arithmeticGridStatus</string>
+	<key>sequentialBufferRight</key>
+	<string>intermediateBlocIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistLikeParam</key>
+	<string>currentSizeKind</string>
+	<key>gateExceptInterpreter</key>
+	<string>sortedHeroBehavior</string>
+	<key>inheritedErrorInset</key>
+	<string>retainedObserverInteraction</string>
+	<key>reductionThroughProcess</key>
+	<string>integerFromCommand</string>
+	<key>storeShapePosition</key>
+	<string>diffableLayoutSize</string>
+</dict>
+</plist>

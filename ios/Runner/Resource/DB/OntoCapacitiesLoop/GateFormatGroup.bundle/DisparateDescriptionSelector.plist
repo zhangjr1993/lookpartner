@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterParamValidation</key>
+	<string>contractionThanCommand</string>
+	<key>convolutionForParameter</key>
+	<string>disabledErrorSkewx</string>
+	<key>immutableTextPadding</key>
+	<string>inheritedGestureOrientation</string>
+	<key>listenerFrameworkVisibility</key>
+	<string>activityCommandSkewy</string>
+	<key>modulusBridgePadding</key>
+	<string>sceneCommandLeft</string>
+	<key>permissiveErrorSkewy</key>
+	<string>numericalMarginBehavior</string>
+	<key>prevFeatureAlignment</key>
+	<string>brushJobScale</string>
+	<key>progressbarProxyHead</key>
+	<string>intermediateChartScale</string>
+	<key>tickerViaComposite</key>
+	<string>curveVersusBridge</string>
+</dict>
+</plist>

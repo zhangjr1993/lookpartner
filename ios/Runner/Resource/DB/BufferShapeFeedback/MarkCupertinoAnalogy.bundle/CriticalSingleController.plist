@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryIncludeEnvironment</key>
+	<string>isolateDespiteParam</string>
+	<key>callbackBridgeMode</key>
+	<string>immutableMobileType</string>
+	<key>consumerPerPattern</key>
+	<string>cubitVersusSingleton</string>
+	<key>custompaintWithoutNumber</key>
+	<string>advancedTimerDepth</string>
+	<key>factoryValueSize</key>
+	<string>largeControllerShape</string>
+	<key>newestMatrixMargin</key>
+	<string>discardedUtilHue</string>
+	<key>statefulActionDuration</key>
+	<string>displayableStateTransparency</string>
+	<key>statefulCallbackAlignment</key>
+	<string>sortedDrawerAppearance</string>
+</dict>
+</plist>

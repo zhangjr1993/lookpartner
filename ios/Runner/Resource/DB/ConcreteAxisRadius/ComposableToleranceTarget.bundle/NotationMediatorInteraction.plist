@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBufferTag</key>
+	<string>scrollProcessTransparency</string>
+	<key>containerParamFormat</key>
+	<string>decorationExceptStrategy</string>
+	<key>customCanvasDelay</key>
+	<string>mapCycleSkewx</string>
+	<key>ephemeralDocumentVisible</key>
+	<string>primaryCheckboxTint</string>
+	<key>invisibleMetadataColor</key>
+	<string>grayscaleFunctionHead</string>
+	<key>numericalAlertDensity</key>
+	<string>routerFunctionDuration</string>
+	<key>projectByTask</key>
+	<string>heroUntilLevel</string>
+	<key>tableSinceAction</key>
+	<string>resourceLevelDistance</string>
+</dict>
+</plist>

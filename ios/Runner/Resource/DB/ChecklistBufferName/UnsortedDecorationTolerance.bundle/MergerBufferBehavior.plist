@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorStateInteraction</key>
+	<string>sequentialMaterialSize</string>
+	<key>opaqueGateValidation</key>
+	<string>normNearTemple</string>
+	<key>operationAndInterpreter</key>
+	<string>customQueryDistance</string>
+	<key>singletonPrototypePressure</key>
+	<string>utilPrototypeBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralZoneAppearance</key>
+	<string>interactiveChannelCoord</string>
+	<key>secondQueryValidation</key>
+	<string>plateOutsideActivity</string>
+	<key>staticMobileSaturation</key>
+	<string>radioJobFeedback</string>
+	<key>storeFromMediator</key>
+	<string>sizeAgainstObserver</string>
+	<key>subtleGraphHead</key>
+	<string>transitionStageDelay</string>
+</dict>
+</plist>

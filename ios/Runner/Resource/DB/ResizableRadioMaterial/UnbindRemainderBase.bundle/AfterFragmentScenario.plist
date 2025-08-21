@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchWithoutInterpreter</key>
+	<string>storeAsParam</string>
+	<key>cupertinoOrMethod</key>
+	<string>cupertinoIndicatorVelocity</string>
+	<key>finalTopicFormat</key>
+	<string>sessionLayerInteraction</string>
+	<key>functionalProgressbarRotation</key>
+	<string>draggableNavigationResponse</string>
+	<key>hyperbolicCoordinatorOrientation</key>
+	<string>effectJobSpeed</string>
+	<key>projectStyleState</key>
+	<string>secondTouchFormat</string>
+	<key>smallStreamPressure</key>
+	<string>hyperbolicBuilderAcceleration</string>
+	<key>statefulDialogsBound</key>
+	<string>intuitiveReducerRotation</string>
+</dict>
+</plist>

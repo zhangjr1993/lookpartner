@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPlaybackMargin</key>
+	<string>radioChainSpeed</string>
+	<key>compositionalGraphBound</key>
+	<string>explicitQueueSpacing</string>
+	<key>crudeCoordinatorEdge</key>
+	<string>animatedSubpixelHue</string>
+	<key>flexInChain</key>
+	<string>matrixParameterInterval</string>
+	<key>intensityPatternTheme</key>
+	<string>semanticSkinBehavior</string>
+	<key>oldReferenceSpacing</key>
+	<string>riverpodCommandEdge</string>
+	<key>persistentProgressbarInterval</key>
+	<string>pointEnvironmentSkewy</string>
+	<key>singletonNearProxy</key>
+	<string>accessibleMultiplicationDuration</string>
+</dict>
+</plist>

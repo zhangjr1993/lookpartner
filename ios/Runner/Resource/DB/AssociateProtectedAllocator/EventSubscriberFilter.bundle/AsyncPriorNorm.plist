@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionFormOffset</key>
+	<string>responseParameterResponse</string>
+	<key>localActivityBehavior</key>
+	<string>radioCompositeState</string>
+	<key>radioByFunction</key>
+	<string>mobileSceneMargin</string>
+	<key>stampInsideBridge</key>
+	<string>descriptorByPrototype</string>
+</dict>
+</plist>

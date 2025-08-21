@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionEnvironmentPadding</key>
+	<string>widgetLevelHue</string>
+	<key>constraintLayerAppearance</key>
+	<string>blocInterpreterAcceleration</string>
+	<key>gridAlongSystem</key>
+	<string>scrollableBrushMode</string>
+	<key>menuAgainstFacade</key>
+	<string>originalZoneRotation</string>
+	<key>mutableSingletonFeedback</key>
+	<string>loopMediatorInterval</string>
+	<key>remainderIncludePhase</key>
+	<string>marginPlatformBehavior</string>
+	<key>tensorRouteResponse</key>
+	<string>tangentStateRotation</string>
+</dict>
+</plist>

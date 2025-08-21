@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAboutParam</key>
+	<string>observerExceptProcess</string>
+	<key>appbarStateDepth</key>
+	<string>scrollablePlaybackStatus</string>
+	<key>assetKindLeft</key>
+	<string>usecaseSingletonTag</string>
+	<key>characterVisitorPressure</key>
+	<string>primaryChannelDuration</string>
+	<key>eventAlongLayer</key>
+	<string>widgetBridgeIndex</string>
+	<key>fusedUtilStatus</key>
+	<string>hashFromPlatform</string>
+	<key>mapThanActivity</key>
+	<string>oldResourceValidation</string>
+	<key>materialBesideComposite</key>
+	<string>usecaseInVisitor</string>
+	<key>methodAboutNumber</key>
+	<string>customizedTaskForce</string>
+</dict>
+</plist>

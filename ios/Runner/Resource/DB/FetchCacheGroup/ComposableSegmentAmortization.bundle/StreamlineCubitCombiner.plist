@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBesideEnvironment</key>
+	<string>segmentAgainstProcess</string>
+	<key>constraintOutsidePattern</key>
+	<string>exceptionVarPadding</string>
+	<key>drawerInDecorator</key>
+	<string>delicateResourceShape</string>
+	<key>gridviewInWork</key>
+	<string>interactorContainEnvironment</string>
+	<key>listenerStrategyTheme</key>
+	<string>directProfileBound</string>
+	<key>threadWithoutParameter</key>
+	<string>sizedboxPhaseSaturation</string>
+</dict>
+</plist>

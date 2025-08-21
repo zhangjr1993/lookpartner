@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContainPlatform</key>
+	<string>segmentBeyondObserver</string>
+	<key>localizationOutsideAction</key>
+	<string>sizeLayerSkewx</string>
+	<key>navigationStatePadding</key>
+	<string>positionUntilNumber</string>
+	<key>nodeAndBridge</key>
+	<string>cubitChainLeft</string>
+	<key>sharedBuilderSkewy</key>
+	<string>usageProcessSaturation</string>
+</dict>
+</plist>

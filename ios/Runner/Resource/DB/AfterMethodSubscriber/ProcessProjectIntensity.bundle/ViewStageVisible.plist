@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAwayStructure</key>
+	<string>graphStageRight</string>
+	<key>curveStageEdge</key>
+	<string>loopLevelContrast</string>
+	<key>denseConstraintEdge</key>
+	<string>decorationTierColor</string>
+	<key>intuitiveExceptionFormat</key>
+	<string>tangentThroughDecorator</string>
+	<key>projectionAmongDecorator</key>
+	<string>visibleButtonColor</string>
+	<key>scrollableObserverSize</key>
+	<string>taskProcessRight</string>
+</dict>
+</plist>

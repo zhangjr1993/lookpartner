@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSinkInterval</key>
+	<string>injectionWithPrototype</string>
+	<key>materialBehaviorValidation</key>
+	<string>animatedRolePosition</string>
+	<key>otherMetadataTag</key>
+	<string>operationBeyondFacade</string>
+	<key>sessionWithBridge</key>
+	<string>spotOrNumber</string>
+	<key>specifyPresenterContrast</key>
+	<string>storeAmongValue</string>
+	<key>storeJobRate</key>
+	<string>compositionalMissionBrightness</string>
+	<key>synchronousProgressbarIndex</key>
+	<string>visibleGramBound</string>
+	<key>utilScopeTail</key>
+	<string>numericalTaskFormat</string>
+</dict>
+</plist>

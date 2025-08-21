@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAsMode</key>
+	<string>otherButtonColor</string>
+	<key>borderAdapterHue</key>
+	<string>buttonAsParameter</string>
+	<key>draggableIntensityOffset</key>
+	<string>ephemeralStampDirection</string>
+	<key>exceptionWithSingleton</key>
+	<string>robustKernelSaturation</string>
+	<key>functionalUtilSaturation</key>
+	<string>dedicatedExtensionTop</string>
+	<key>missionWithoutInterpreter</key>
+	<string>subscriptionNearCycle</string>
+	<key>overlayLikeFacade</key>
+	<string>sceneLevelHead</string>
+	<key>protocolAtTier</key>
+	<string>animatedPriorityRotation</string>
+	<key>smallLayerBottom</key>
+	<string>cosineOperationTheme</string>
+</dict>
+</plist>

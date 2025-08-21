@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVariableFrequency</key>
+	<string>enabledTaskPosition</string>
+	<key>diffableActionVisibility</key>
+	<string>capsuleStyleDuration</string>
+	<key>labelThanStyle</key>
+	<string>reusableTabviewInset</string>
+	<key>navigatorBeyondPhase</key>
+	<string>interfaceWorkRate</string>
+	<key>permissiveDecorationCoord</key>
+	<string>resultCommandEdge</string>
+	<key>responsiveModulusBrightness</key>
+	<string>originalFactoryAppearance</string>
+	<key>sophisticatedSizeResponse</key>
+	<string>sustainableCoordinatorMargin</string>
+	<key>textAwayMediator</key>
+	<string>mediumStreamTag</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOutsidePhase</key>
+	<string>numericalCacheTransparency</string>
+	<key>columnBeyondKind</key>
+	<string>lossContextOpacity</string>
+	<key>cupertinoDuringKind</key>
+	<string>tweenChainSaturation</string>
+	<key>loopEnvironmentPadding</key>
+	<string>interpolationNumberRotation</string>
+	<key>momentumKindOffset</key>
+	<string>tickerFlyweightSpacing</string>
+</dict>
+</plist>

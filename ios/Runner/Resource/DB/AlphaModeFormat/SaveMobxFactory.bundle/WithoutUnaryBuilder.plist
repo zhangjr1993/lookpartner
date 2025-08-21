@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVarValidation</key>
+	<string>lastIconPosition</string>
+	<key>callbackOutsideState</key>
+	<string>diversifiedTableBound</string>
+	<key>crudeInterfaceDirection</key>
+	<string>lastPlaybackDirection</string>
+	<key>cursorActivityDensity</key>
+	<string>crudeGrainEdge</string>
+	<key>durationInPrototype</key>
+	<string>injectionBridgeColor</string>
+	<key>originalChartDistance</key>
+	<string>isolateSingletonOrientation</string>
+	<key>requiredModelTransparency</key>
+	<string>persistentImageDelay</string>
+	<key>significantStoreSize</key>
+	<string>streamNearVisitor</string>
+</dict>
+</plist>

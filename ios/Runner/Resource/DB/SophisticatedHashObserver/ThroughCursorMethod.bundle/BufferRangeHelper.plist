@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsPerWork</key>
+	<string>handlerAlongFacade</string>
+	<key>exponentMediatorDelay</key>
+	<string>taskValueDuration</string>
+	<key>grayscaleAgainstTier</key>
+	<string>protocolAndObserver</string>
+	<key>multiCoordinatorScale</key>
+	<string>bulletByAdapter</string>
+	<key>radiusAndTier</key>
+	<string>notificationParameterOffset</string>
+	<key>smartMetadataVelocity</key>
+	<string>resolverBridgeFormat</string>
+	<key>textExceptAdapter</key>
+	<string>textNumberVisibility</string>
+</dict>
+</plist>

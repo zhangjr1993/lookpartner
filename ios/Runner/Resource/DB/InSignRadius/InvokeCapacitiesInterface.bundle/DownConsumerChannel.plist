@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitObserverFlags</key>
+	<string>reducerAtComposite</string>
+	<key>ignoredThemeAlignment</key>
+	<string>gesturedetectorShapeTransparency</string>
+	<key>liteDurationState</key>
+	<string>localButtonBehavior</string>
+	<key>storagePrototypeFormat</key>
+	<string>positionLayerVisible</string>
+	<key>subpixelParameterForce</key>
+	<string>cubitInsidePlatform</string>
+	<key>tappableTaskIndex</key>
+	<string>canvasVarOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInterpreterStyle</key>
+	<string>navigatorStyleSkewx</string>
+	<key>baselineViaMode</key>
+	<string>exceptionThanComposite</string>
+	<key>radiusFrameworkOrientation</key>
+	<string>tensorModulusDepth</string>
+	<key>storyboardFlyweightTint</key>
+	<string>injectionForLevel</string>
+</dict>
+</plist>

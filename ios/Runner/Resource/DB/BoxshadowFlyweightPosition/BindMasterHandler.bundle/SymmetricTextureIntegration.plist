@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateGestureBound</key>
+	<string>robustLocalizationFormat</string>
+	<key>metadataAndStrategy</key>
+	<string>builderOutsideScope</string>
+	<key>reductionWithoutLayer</key>
+	<string>scaffoldShapeTag</string>
+	<key>resilientDocumentDirection</key>
+	<string>reactiveCheckboxTail</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHeapHead</key>
+	<string>sequentialServiceAppearance</string>
+	<key>dropdownbuttonVariableDistance</key>
+	<string>timerUntilProxy</string>
+	<key>masterDuringOperation</key>
+	<string>durationAsFramework</string>
+	<key>nextRowTransparency</key>
+	<string>enabledCurveAppearance</string>
+	<key>pinchableGradientFlags</key>
+	<string>widgetCommandDirection</string>
+</dict>
+</plist>

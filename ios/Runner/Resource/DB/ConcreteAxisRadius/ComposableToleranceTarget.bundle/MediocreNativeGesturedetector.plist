@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localDocumentMargin</key>
+	<string>alignmentSingletonEdge</string>
+	<key>positionLikeMediator</key>
+	<string>rectAroundTask</string>
+	<key>prevConsumerPadding</key>
+	<string>groupValueEdge</string>
+	<key>techniqueObserverFlags</key>
+	<string>protectedPlateCount</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCompositeOffset</key>
+	<string>textureInsideComposite</string>
+	<key>denseOffsetType</key>
+	<string>progressbarAroundType</string>
+	<key>indicatorCommandTheme</key>
+	<string>standaloneNavigatorName</string>
+	<key>intensityForInterpreter</key>
+	<string>crudeResourceVelocity</string>
+	<key>originalInterfaceInteraction</key>
+	<string>commandParamCoord</string>
+	<key>resizableMissionSkewy</key>
+	<string>entityParameterDelay</string>
+	<key>resultBesideStructure</key>
+	<string>spriteProcessVisibility</string>
+	<key>tappableAnimationBottom</key>
+	<string>momentumMediatorRight</string>
+	<key>tensorMarginTint</key>
+	<string>storageAboutMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProxyTheme</key>
+	<string>pivotalExceptionSkewy</string>
+	<key>channelsDuringCommand</key>
+	<string>subpixelPatternTail</string>
+	<key>delegateStateFormat</key>
+	<string>layerFrameworkOffset</string>
+	<key>managerActionInset</key>
+	<string>materialBlocCoord</string>
+	<key>navigatorAlongActivity</key>
+	<string>sliderInsideComposite</string>
+	<key>navigatorTierTop</key>
+	<string>cupertinoLayoutRight</string>
+	<key>presenterViaJob</key>
+	<string>robustModalAcceleration</string>
+	<key>requiredBoxshadowMomentum</key>
+	<string>serviceVariableAppearance</string>
+</dict>
+</plist>

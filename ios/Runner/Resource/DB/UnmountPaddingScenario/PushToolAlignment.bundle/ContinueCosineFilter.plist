@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContainerMargin</key>
+	<string>keyPopupTop</string>
+	<key>chapterLevelMode</key>
+	<string>intermediateWidgetLeft</string>
+	<key>coordinatorSystemBottom</key>
+	<string>commandOfStyle</string>
+	<key>liteControllerEdge</key>
+	<string>storyboardShapeInteraction</string>
+	<key>mobxAwayWork</key>
+	<string>semanticSingletonTag</string>
+	<key>pageviewWithContext</key>
+	<string>streamAgainstObserver</string>
+	<key>previewOfEnvironment</key>
+	<string>greatAnimationInterval</string>
+	<key>resultWithoutLayer</key>
+	<string>alignmentAboutState</string>
+	<key>tangentAwayVisitor</key>
+	<string>storageThroughKind</string>
+</dict>
+</plist>

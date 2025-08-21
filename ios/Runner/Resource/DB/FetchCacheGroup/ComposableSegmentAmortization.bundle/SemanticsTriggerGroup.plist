@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContextColor</key>
+	<string>gridviewLayerTop</string>
+	<key>aspectBridgeTint</key>
+	<string>builderAgainstObserver</string>
+	<key>aspectratioOutsideStage</key>
+	<string>gridviewFacadeRate</string>
+	<key>boxshadowActivityShade</key>
+	<string>marginViaValue</string>
+	<key>queueAsLevel</key>
+	<string>subscriptionPatternRotation</string>
+	<key>richtextObserverSkewx</key>
+	<string>usageMediatorInset</string>
+	<key>scaleActionCenter</key>
+	<string>sizeMethodVelocity</string>
+	<key>serviceNumberTension</key>
+	<string>gateUntilComposite</string>
+	<key>utilNumberTop</key>
+	<string>displayablePreviewDelay</string>
+</dict>
+</plist>

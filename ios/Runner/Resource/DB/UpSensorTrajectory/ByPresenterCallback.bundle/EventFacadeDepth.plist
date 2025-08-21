@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureForFlyweight</key>
+	<string>descriptionInterpreterAcceleration</string>
+	<key>memberSinceCycle</key>
+	<string>positionViaInterpreter</string>
+	<key>multiConsumerType</key>
+	<string>tweenJobDirection</string>
+	<key>particleFlyweightSpeed</key>
+	<string>mobileValueShape</string>
+	<key>presenterBeyondMode</key>
+	<string>navigationViaValue</string>
+	<key>routeStyleSpacing</key>
+	<string>baseWorkCoord</string>
+</dict>
+</plist>

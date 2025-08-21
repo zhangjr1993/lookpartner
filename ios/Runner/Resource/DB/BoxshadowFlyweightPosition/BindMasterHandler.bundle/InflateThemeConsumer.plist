@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCycleOpacity</key>
+	<string>listviewCommandCenter</string>
+	<key>grainOutsideFramework</key>
+	<string>difficultMenuContrast</string>
+	<key>granularDescriptionInterval</key>
+	<string>intuitiveDurationInteraction</string>
+	<key>isolateFlyweightInteraction</key>
+	<string>symmetricRequestBorder</string>
+	<key>labelContainCycle</key>
+	<string>futureAsFunction</string>
+	<key>mediumUsecaseScale</key>
+	<string>easyRowBound</string>
+	<key>unsortedViewMode</key>
+	<string>characterValueSkewy</string>
+</dict>
+</plist>

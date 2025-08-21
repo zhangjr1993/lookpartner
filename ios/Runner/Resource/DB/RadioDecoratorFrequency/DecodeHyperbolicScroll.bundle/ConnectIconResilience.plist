@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTitleCoord</key>
+	<string>tabviewIncludePattern</string>
+	<key>curveIncludeSystem</key>
+	<string>dependencyBeyondAdapter</string>
+	<key>loopOutsideBuffer</key>
+	<string>permanentScaffoldScale</string>
+	<key>masterCompositeIndex</key>
+	<string>factoryBridgeTop</string>
+	<key>richtextContainMediator</key>
+	<string>statelessAwaitBottom</string>
+</dict>
+</plist>

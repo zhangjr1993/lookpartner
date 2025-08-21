@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPointBehavior</key>
+	<string>cycleContainParam</string>
+	<key>greatPriorityLeft</key>
+	<string>draggableGramVisibility</string>
+	<key>histogramAmongBridge</key>
+	<string>projectionFlyweightEdge</string>
+	<key>mainAlertSpeed</key>
+	<string>enabledChartFeedback</string>
+	<key>menuAmongPhase</key>
+	<string>uniformPriorityFeedback</string>
+	<key>subsequentAwaitRotation</key>
+	<string>anchorTierInset</string>
+</dict>
+</plist>

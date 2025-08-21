@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSystemSize</key>
+	<string>inkwellTypeResponse</string>
+	<key>loopShapeLocation</key>
+	<string>eventAtSingleton</string>
+	<key>respectiveListenerStatus</key>
+	<string>staticSliderFeedback</string>
+	<key>sliderThroughLayer</key>
+	<string>cardPhaseCenter</string>
+</dict>
+</plist>

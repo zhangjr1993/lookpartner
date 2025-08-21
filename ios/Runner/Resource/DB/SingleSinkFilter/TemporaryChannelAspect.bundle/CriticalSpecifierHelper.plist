@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStrategyBrightness</key>
+	<string>graphSystemOrientation</string>
+	<key>finalBoxInteraction</key>
+	<string>routerShapeSkewx</string>
+	<key>fixedScaffoldBorder</key>
+	<string>touchAsStrategy</string>
+	<key>flexAwayActivity</key>
+	<string>tableViaStyle</string>
+	<key>gestureSingletonSaturation</key>
+	<string>timerUntilFramework</string>
+	<key>layoutCommandAlignment</key>
+	<string>metadataInAdapter</string>
+	<key>menuFlyweightAlignment</key>
+	<string>featureFromScope</string>
+	<key>sensorScopeInterval</key>
+	<string>liteTransformerDirection</string>
+	<key>streamProxyBound</key>
+	<string>accessibleBaselineOpacity</string>
+	<key>subsequentEffectShade</key>
+	<string>inheritedAllocatorFrequency</string>
+</dict>
+</plist>

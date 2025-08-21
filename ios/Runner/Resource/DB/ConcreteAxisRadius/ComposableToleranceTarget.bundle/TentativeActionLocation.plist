@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStateDensity</key>
+	<string>modelOutsideSingleton</string>
+	<key>containerAgainstStage</key>
+	<string>taskPerMemento</string>
+	<key>disabledBaseEdge</key>
+	<string>activityLevelFrequency</string>
+	<key>durationAgainstProxy</key>
+	<string>grainTierMode</string>
+	<key>injectionParameterScale</key>
+	<string>graphProcessTint</string>
+	<key>logDuringEnvironment</key>
+	<string>flexibleFeatureOrientation</string>
+	<key>primaryCubitDensity</key>
+	<string>techniqueFrameworkPressure</string>
+	<key>routeOfValue</key>
+	<string>retainedChallengeName</string>
+	<key>statelessSinceObserver</key>
+	<string>menuExceptVar</string>
+	<key>symbolSinceFlyweight</key>
+	<string>layerValueStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStrategyMode</key>
+	<string>animationBeyondEnvironment</string>
+	<key>checkboxDuringEnvironment</key>
+	<string>materialRouterSize</string>
+	<key>constraintExceptTask</key>
+	<string>sizedboxStructureLocation</string>
+	<key>finalObserverInterval</key>
+	<string>greatCoordinatorName</string>
+	<key>permanentBufferRotation</key>
+	<string>memberTierOrigin</string>
+	<key>playbackUntilContext</key>
+	<string>responseScopeSpeed</string>
+	<key>reducerThroughState</key>
+	<string>riverpodDespiteState</string>
+	<key>stateVarResponse</key>
+	<string>petThroughVariable</string>
+	<key>sustainableTextfieldBrightness</key>
+	<string>localizationFunctionOffset</string>
+</dict>
+</plist>

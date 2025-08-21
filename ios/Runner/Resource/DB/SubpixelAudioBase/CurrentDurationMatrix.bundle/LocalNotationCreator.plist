@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDuringStrategy</key>
+	<string>mediocreSpotSize</string>
+	<key>draggableInjectionTint</key>
+	<string>cupertinoAnimationLeft</string>
+	<key>effectShapeIndex</key>
+	<string>tableBesideStage</string>
+	<key>logBeyondStyle</key>
+	<string>titleScopeSize</string>
+	<key>scaffoldActivityTag</key>
+	<string>grayscaleFlyweightAlignment</string>
+	<key>serviceLayerMargin</key>
+	<string>responsiveCharacterOpacity</string>
+	<key>storageInterpreterVisibility</key>
+	<string>compositionalTernaryStyle</string>
+	<key>textfieldIncludeSystem</key>
+	<string>slashVersusInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProgressbarPressure</key>
+	<string>compositionAtEnvironment</string>
+	<key>completerIncludeChain</key>
+	<string>mediaForActivity</string>
+	<key>containerAndChain</key>
+	<string>lossAroundChain</string>
+	<key>cubitKindFeedback</key>
+	<string>radioAboutSingleton</string>
+	<key>declarativeCachePadding</key>
+	<string>routerLayerDelay</string>
+	<key>equalizationMethodValidation</key>
+	<string>musicModeInset</string>
+	<key>flexFacadeName</key>
+	<string>smartStorageInteraction</string>
+	<key>hyperbolicActionSkewy</key>
+	<string>intuitiveTitleVisible</string>
+	<key>parallelActionKind</key>
+	<string>specifyMediaState</string>
+	<key>semanticDurationRate</key>
+	<string>screenWithoutEnvironment</string>
+</dict>
+</plist>

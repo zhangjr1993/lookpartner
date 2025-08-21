@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedLevelSpacing</key>
+	<string>beginnerQueryShape</string>
+	<key>invisibleOptionDuration</key>
+	<string>backwardFutureBrightness</string>
+	<key>multiStampAppearance</key>
+	<string>textureAmongStage</string>
+	<key>parallelLogOrientation</key>
+	<string>unarySingletonShade</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartShapeAppearance</key>
+	<string>tabviewTaskSkewy</string>
+	<key>nibStyleRate</key>
+	<string>adaptiveNavigatorShape</string>
+	<key>staticCharacterTop</key>
+	<string>prismaticTopicType</string>
+	<key>titleTypeAppearance</key>
+	<string>desktopChannelDelay</string>
+</dict>
+</plist>

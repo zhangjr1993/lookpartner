@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPainterDuration</key>
+	<string>tabviewAdapterOrientation</string>
+	<key>mapSystemBrightness</key>
+	<string>canvasAwayDecorator</string>
+	<key>matrixCycleVelocity</key>
+	<string>nextResultDepth</string>
+	<key>mediumInteractorBorder</key>
+	<string>specifyTaskSpeed</string>
+	<key>metadataAlongFramework</key>
+	<string>interactorInterpreterFrequency</string>
+	<key>overlayStageName</key>
+	<string>hierarchicalAnimationSkewy</string>
+	<key>radiusAmongBuffer</key>
+	<string>difficultStatelessTension</string>
+	<key>scrollParameterVelocity</key>
+	<string>reducerVisitorHead</string>
+	<key>statelessThroughLayer</key>
+	<string>repositoryDuringMediator</string>
+</dict>
+</plist>

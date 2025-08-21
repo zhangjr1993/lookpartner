@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rectParamTension</key>
+	<string>primaryPointDelay</string>
+	<key>requestStyleInteraction</key>
+	<string>screenFrameworkPosition</string>
+	<key>serviceInsideVar</key>
+	<string>mutableStreamMode</string>
+	<key>sineDuringMediator</key>
+	<string>durationOrSingleton</string>
+</dict>
+</plist>

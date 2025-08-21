@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasMediatorBottom</key>
+	<string>ephemeralResourceInteraction</string>
+	<key>configurationLikePhase</key>
+	<string>factoryPerScope</string>
+	<key>gesturedetectorActionStatus</key>
+	<string>multiMobileTag</string>
+	<key>gesturedetectorBufferDensity</key>
+	<string>animationLikeType</string>
+	<key>listviewExceptNumber</key>
+	<string>flexWithInterpreter</string>
+	<key>opaqueCanvasTail</key>
+	<string>rectAdapterBehavior</string>
+	<key>rowDespiteCycle</key>
+	<string>advancedOverlaySpacing</string>
+	<key>scrollFromCycle</key>
+	<string>framePatternSaturation</string>
+	<key>semanticPopupScale</key>
+	<string>consultativeViewCoord</string>
+	<key>titleContextTag</key>
+	<string>expandedStyleScale</string>
+</dict>
+</plist>

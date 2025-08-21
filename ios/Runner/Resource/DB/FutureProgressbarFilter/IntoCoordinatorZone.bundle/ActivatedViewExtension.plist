@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryForFlyweight</key>
+	<string>sophisticatedResponseIndex</string>
+	<key>appbarFacadePosition</key>
+	<string>retainedRowPadding</string>
+	<key>autoCollectionFeedback</key>
+	<string>disparateQueueVisible</string>
+	<key>channelsObserverIndex</key>
+	<string>vectorStrategyColor</string>
+	<key>decorationAsPhase</key>
+	<string>activatedMovementHead</string>
+	<key>materialServiceTheme</key>
+	<string>labelProcessBound</string>
+	<key>mutableSizeMargin</key>
+	<string>finalPopupDensity</string>
+	<key>seamlessTextTheme</key>
+	<string>grainFacadeDensity</string>
+	<key>spriteThroughChain</key>
+	<string>permanentLogHue</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBeyondMode</key>
+	<string>statelessSymbolMargin</string>
+	<key>cardExceptParameter</key>
+	<string>accessoryAsAction</string>
+	<key>constraintOrVar</key>
+	<string>inheritedGradientTop</string>
+	<key>hardBufferRight</key>
+	<string>utilFrameworkSpacing</string>
+	<key>instructionSinceVar</key>
+	<string>awaitMethodDepth</string>
+	<key>providerBufferType</key>
+	<string>scaleViaStrategy</string>
+	<key>rowByTask</key>
+	<string>appbarFunctionRotation</string>
+	<key>sliderOutsideStage</key>
+	<string>sensorNearSystem</string>
+	<key>textureLevelVelocity</key>
+	<string>isolateScopeTag</string>
+	<key>topicAboutFacade</key>
+	<string>rectContextDelay</string>
+</dict>
+</plist>

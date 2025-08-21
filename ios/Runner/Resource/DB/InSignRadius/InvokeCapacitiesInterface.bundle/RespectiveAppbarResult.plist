@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitParameterMode</key>
+	<string>queryFromOperation</string>
+	<key>groupAtPattern</key>
+	<string>intermediateBatchTint</string>
+	<key>largeResponseAcceleration</key>
+	<string>permissiveListenerRight</string>
+	<key>layoutOfWork</key>
+	<string>cubitProcessAppearance</string>
+	<key>memberInterpreterVisibility</key>
+	<string>anchorVarBottom</string>
+	<key>permissiveSubpixelTransparency</key>
+	<string>buttonOperationPosition</string>
+	<key>plateAndJob</key>
+	<string>groupAdapterOffset</string>
+</dict>
+</plist>

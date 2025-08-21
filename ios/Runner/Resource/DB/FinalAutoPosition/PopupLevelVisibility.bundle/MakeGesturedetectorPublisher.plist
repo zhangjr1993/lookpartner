@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandOperationLeft</key>
+	<string>subsequentPageviewFrequency</string>
+	<key>diffableLabelOrientation</key>
+	<string>containerMementoVisibility</string>
+	<key>eventInPhase</key>
+	<string>commandFromNumber</string>
+	<key>inheritedSliderResponse</key>
+	<string>progressbarSinceActivity</string>
+	<key>modelTaskOpacity</key>
+	<string>delegateDespitePhase</string>
+	<key>repositoryActionBorder</key>
+	<string>resultContainStage</string>
+	<key>topicDecoratorMomentum</key>
+	<string>unsortedSymbolName</string>
+	<key>transitionThanActivity</key>
+	<string>criticalCellInteraction</string>
+</dict>
+</plist>

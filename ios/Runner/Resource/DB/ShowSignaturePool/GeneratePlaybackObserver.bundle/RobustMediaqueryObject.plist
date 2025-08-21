@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directLayoutDistance</key>
+	<string>themeStateBehavior</string>
+	<key>graphicCycleSpacing</key>
+	<string>localizationOrProxy</string>
+	<key>requiredUtilOrigin</key>
+	<string>queueAlongSingleton</string>
+	<key>screenAmongPhase</key>
+	<string>curveStrategyRotation</string>
+	<key>symbolWithShape</key>
+	<string>routeAroundComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSymbolKind</key>
+	<string>asyncAroundParameter</string>
+	<key>lastTransitionSkewy</key>
+	<string>deferredBaselineSpacing</string>
+	<key>nodeWithWork</key>
+	<string>materialBesideBridge</string>
+	<key>sharedParticleAppearance</key>
+	<string>newestBuilderLocation</string>
+	<key>sineByVariable</key>
+	<string>tangentFlyweightType</string>
+	<key>sizeWithChain</key>
+	<string>multiSlashBehavior</string>
+	<key>switchAtDecorator</key>
+	<string>commonScaffoldTop</string>
+</dict>
+</plist>

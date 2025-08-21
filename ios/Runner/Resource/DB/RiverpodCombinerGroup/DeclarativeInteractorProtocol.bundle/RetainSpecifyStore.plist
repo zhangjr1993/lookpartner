@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMobileFeedback</key>
+	<string>crudeCommandShade</string>
+	<key>bufferParamAppearance</key>
+	<string>indicatorFromMode</string>
+	<key>effectThroughShape</key>
+	<string>usecaseObserverOrigin</string>
+	<key>hyperbolicConsumerFeedback</key>
+	<string>constraintObserverHead</string>
+	<key>matrixLayerFlags</key>
+	<string>diffableTaskResponse</string>
+	<key>reusableVectorBottom</key>
+	<string>graphicLayerAppearance</string>
+	<key>similarInterfaceStyle</key>
+	<string>spriteOrPrototype</string>
+	<key>viewAroundForm</key>
+	<string>requestLikeStage</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitNearDecorator</key>
+	<string>utilIncludeValue</string>
+	<key>buttonOutsideStage</key>
+	<string>mutableObserverVisible</string>
+	<key>catalystValueDensity</key>
+	<string>normPlatformTransparency</string>
+	<key>eventIncludeContext</key>
+	<string>themeExceptMethod</string>
+	<key>futureDespiteTier</key>
+	<string>roleActionFeedback</string>
+	<key>methodPrototypeSize</key>
+	<string>mutableProviderTransparency</string>
+	<key>protocolTypeLocation</key>
+	<string>resourceProxyVisible</string>
+	<key>routerOutsideActivity</key>
+	<string>featureActivityRate</string>
+	<key>sortedResponseCoord</key>
+	<string>cacheForFramework</string>
+	<key>storeThroughProcess</key>
+	<string>playbackStyleHead</string>
+</dict>
+</plist>

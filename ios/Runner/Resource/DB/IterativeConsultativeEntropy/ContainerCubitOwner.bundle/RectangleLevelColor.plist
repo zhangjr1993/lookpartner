@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughTask</key>
+	<string>providerByBuffer</string>
+	<key>cycleTaskTransparency</key>
+	<string>dependencyObserverValidation</string>
+	<key>keyVectorDistance</key>
+	<string>transitionWithoutJob</string>
+	<key>mediaqueryAndMode</key>
+	<string>tensorTransitionDelay</string>
+	<key>queryShapeRate</key>
+	<string>inkwellAndAction</string>
+	<key>resourceNumberPosition</key>
+	<string>routerInsideTask</string>
+	<key>sliderFromLevel</key>
+	<string>protectedObserverTransparency</string>
+	<key>utilFrameworkStyle</key>
+	<string>lastDialogsDensity</string>
+</dict>
+</plist>

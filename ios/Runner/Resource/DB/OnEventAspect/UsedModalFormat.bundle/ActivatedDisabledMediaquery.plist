@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVersusLayer</key>
+	<string>semanticTitleTint</string>
+	<key>disabledTextureVisibility</key>
+	<string>nodeBridgeLeft</string>
+	<key>displayableServiceOrientation</key>
+	<string>requestInState</string>
+	<key>finalLabelFormat</key>
+	<string>queueKindOrientation</string>
+	<key>menuBySingleton</key>
+	<string>beginnerIntensityFeedback</string>
+	<key>playbackTypeTop</key>
+	<string>heroPhaseForce</string>
+	<key>routePrototypeAppearance</key>
+	<string>delicateConstraintOrigin</string>
+	<key>sliderOutsideMediator</key>
+	<string>deferredCallbackPosition</string>
+</dict>
+</plist>

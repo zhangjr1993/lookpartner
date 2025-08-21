@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceOutsideJob</key>
+	<string>lazyLabelStatus</string>
+	<key>listenerFromAction</key>
+	<string>persistentConfigurationPressure</string>
+	<key>loopAroundSystem</key>
+	<string>serviceBeyondActivity</string>
+	<key>petVersusInterpreter</key>
+	<string>signObserverSpeed</string>
+	<key>radiusMethodInterval</key>
+	<string>numericalNavigatorBehavior</string>
+	<key>secondAlignmentTint</key>
+	<string>metadataCompositeStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStateSaturation</key>
+	<string>listviewPrototypeFeedback</string>
+	<key>ephemeralMobileKind</key>
+	<string>progressbarDespiteTask</string>
+	<key>paddingVariableContrast</key>
+	<string>cursorCommandFlags</string>
+	<key>previewAtCycle</key>
+	<string>customRadiusOrigin</string>
+	<key>priorityExceptPlatform</key>
+	<string>modalOrStructure</string>
+	<key>repositoryFacadeShade</key>
+	<string>storyboardInObserver</string>
+	<key>routePerContext</key>
+	<string>smallLossCenter</string>
+	<key>sinePatternOffset</key>
+	<string>delegateDespiteParam</string>
+</dict>
+</plist>

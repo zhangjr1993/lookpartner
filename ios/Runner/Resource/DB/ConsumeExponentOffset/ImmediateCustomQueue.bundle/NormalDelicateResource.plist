@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterKindType</key>
+	<string>aspectratioThroughBuffer</string>
+	<key>discardedPainterDirection</key>
+	<string>asynchronousStateRotation</string>
+	<key>draggableThemeDirection</key>
+	<string>effectInsideMode</string>
+	<key>getxKindDensity</key>
+	<string>pinchableSingletonTransparency</string>
+	<key>gridPerFacade</key>
+	<string>hardRiverpodBorder</string>
+	<key>pinchableShaderPressure</key>
+	<string>sortedInterpolationOffset</string>
+	<key>plateAwayLevel</key>
+	<string>tensorEntropyInteraction</string>
+</dict>
+</plist>

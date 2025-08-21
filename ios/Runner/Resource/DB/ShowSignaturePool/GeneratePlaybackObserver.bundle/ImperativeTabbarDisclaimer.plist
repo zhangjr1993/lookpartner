@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMovementStatus</key>
+	<string>overlayPerStructure</string>
+	<key>enabledInstructionValidation</key>
+	<string>delicateStepCenter</string>
+	<key>positionLevelColor</key>
+	<string>nodeOrVar</string>
+	<key>slashOutsideFacade</key>
+	<string>positionedFunctionScale</string>
+	<key>symmetricScaffoldTail</key>
+	<string>queueOperationTail</string>
+	<key>timerCommandInterval</key>
+	<string>cacheViaShape</string>
+</dict>
+</plist>

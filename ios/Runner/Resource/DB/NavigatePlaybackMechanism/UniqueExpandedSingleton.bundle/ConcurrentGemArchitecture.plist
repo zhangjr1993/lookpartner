@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityChainTop</key>
+	<string>parallelTaskTransparency</string>
+	<key>resourceMementoDelay</key>
+	<string>streamStateShade</string>
+	<key>resourceOperationIndex</key>
+	<string>basicSpineFrequency</string>
+	<key>subsequentBuilderOpacity</key>
+	<string>resolverInsideLayer</string>
+	<key>sustainableViewSaturation</key>
+	<string>similarHashSpacing</string>
+	<key>unsortedMobxOrientation</key>
+	<string>effectVisitorVelocity</string>
+	<key>utilSinceKind</key>
+	<string>utilSinceTask</string>
+</dict>
+</plist>

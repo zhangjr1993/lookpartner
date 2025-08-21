@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilSingleton</key>
+	<string>symmetricIntegerMargin</string>
+	<key>catalystStyleBound</key>
+	<string>graphValueResponse</string>
+	<key>collectionContainCycle</key>
+	<string>elasticPageviewVisibility</string>
+	<key>memberFlyweightInset</key>
+	<string>apertureFlyweightLocation</string>
+	<key>menuPrototypeTension</key>
+	<string>commandFrameworkType</string>
+</dict>
+</plist>

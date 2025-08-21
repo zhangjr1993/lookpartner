@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerTempleDensity</key>
+	<string>declarativeMarginInterval</string>
+	<key>cubitByStructure</key>
+	<string>intuitiveLabelDirection</string>
+	<key>imperativeCharacterAlignment</key>
+	<string>singlePointVisibility</string>
+	<key>invisibleInteractorTop</key>
+	<string>stateValueTag</string>
+	<key>rowAdapterBound</key>
+	<string>keyProjectionTheme</string>
+	<key>tweenMementoHead</key>
+	<string>channelMementoSpacing</string>
+</dict>
+</plist>

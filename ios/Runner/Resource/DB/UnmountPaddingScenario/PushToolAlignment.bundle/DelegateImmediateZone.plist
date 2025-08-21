@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchIncludeCommand</key>
+	<string>serviceParameterBottom</string>
+	<key>instructionInsideTier</key>
+	<string>animatedTransitionBrightness</string>
+	<key>interactiveMemberTransparency</key>
+	<string>accessibleTaskColor</string>
+	<key>managerModeState</key>
+	<string>reactiveAssetInset</string>
+	<key>numericalResourceBound</key>
+	<string>exponentContainNumber</string>
+	<key>providerLikeScope</key>
+	<string>respectiveControllerDelay</string>
+	<key>reactiveStackSpeed</key>
+	<string>hardNavigatorFeedback</string>
+	<key>semanticsAwayVar</key>
+	<string>responsiveUsecaseDuration</string>
+	<key>stackActionVisibility</key>
+	<string>sensorAndVariable</string>
+</dict>
+</plist>

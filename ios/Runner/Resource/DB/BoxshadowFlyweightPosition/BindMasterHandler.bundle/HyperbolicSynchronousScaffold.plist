@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLevelPressure</key>
+	<string>allocatorStrategyRotation</string>
+	<key>interactorViaContext</key>
+	<string>cosineAsContext</string>
+	<key>mobileExceptProxy</key>
+	<string>delegatePerAdapter</string>
+	<key>subpixelPatternRate</key>
+	<string>allocatorBufferSkewx</string>
+	<key>utilAsMethod</key>
+	<string>listenerStyleStyle</string>
+</dict>
+</plist>

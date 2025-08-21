@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryChainTag</key>
+	<string>workflowSingletonType</string>
+	<key>dynamicBaseSkewx</key>
+	<string>reactiveHandlerBehavior</string>
+	<key>localPresenterSize</key>
+	<string>euclideanNormPosition</string>
+	<key>referenceViaChain</key>
+	<string>extensionOrFacade</string>
+	<key>statelessContextTail</key>
+	<string>animatedcontainerContextStatus</string>
+	<key>taskWorkSaturation</key>
+	<string>resourceFromParam</string>
+</dict>
+</plist>

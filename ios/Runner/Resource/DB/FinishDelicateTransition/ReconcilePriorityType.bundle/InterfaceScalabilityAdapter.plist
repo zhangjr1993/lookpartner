@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEventType</key>
+	<string>widgetBufferInteraction</string>
+	<key>entityProcessSaturation</key>
+	<string>singletonAtBuffer</string>
+	<key>layoutLevelCoord</key>
+	<string>sharedSliderTop</string>
+	<key>reusableStatelessColor</key>
+	<string>delegateAmongProcess</string>
+	<key>storageInterpreterTheme</key>
+	<string>segmentWithoutNumber</string>
+	<key>swiftCompositeMomentum</key>
+	<string>menuCycleSkewx</string>
+	<key>tabbarObserverVisibility</key>
+	<string>curveOperationDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTabviewCount</key>
+	<string>containerPerAction</string>
+	<key>dynamicRequestOffset</key>
+	<string>characterMethodDistance</string>
+	<key>interactorProcessVelocity</key>
+	<string>secondCheckboxCount</string>
+	<key>nativeDurationDepth</key>
+	<string>advancedToolIndex</string>
+	<key>permissiveGateFormat</key>
+	<string>intensityWorkStyle</string>
+	<key>progressbarParamCenter</key>
+	<string>utilEnvironmentTransparency</string>
+	<key>rapidStorageHue</key>
+	<string>delegateTypeDirection</string>
+	<key>statefulLayerType</key>
+	<string>stampMediatorTheme</string>
+	<key>substantialSceneCoord</key>
+	<string>profileMediatorKind</string>
+</dict>
+</plist>

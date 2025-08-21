@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorThroughAdapter</key>
+	<string>offsetStructureLeft</string>
+	<key>catalystCycleName</key>
+	<string>progressbarVarFlags</string>
+	<key>catalystWorkKind</key>
+	<string>serviceAboutKind</string>
+	<key>graphicContextContrast</key>
+	<string>iterativeLayoutForce</string>
+	<key>labelExceptPlatform</key>
+	<string>usecaseAlongTier</string>
+	<key>pointAlongActivity</key>
+	<string>protocolVariableInteraction</string>
+	<key>sliderForVar</key>
+	<string>textureAlongCycle</string>
+	<key>spotWithPhase</key>
+	<string>firstSymbolSpacing</string>
+	<key>timerByValue</key>
+	<string>textVisitorVelocity</string>
+	<key>zoneLikeParam</key>
+	<string>queueWithForm</string>
+</dict>
+</plist>

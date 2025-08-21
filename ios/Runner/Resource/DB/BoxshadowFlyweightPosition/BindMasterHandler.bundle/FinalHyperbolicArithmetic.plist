@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorType</key>
+	<string>allocatorAwayWork</string>
+	<key>asyncModeEdge</key>
+	<string>protectedTextfieldLeft</string>
+	<key>chartPhaseFeedback</key>
+	<string>sliderStyleOpacity</string>
+	<key>graphicWithoutShape</key>
+	<string>modelTierBrightness</string>
+	<key>isolateFlyweightRight</key>
+	<string>queryTypeFlags</string>
+	<key>mobileTaskCoord</key>
+	<string>autoRectContrast</string>
+	<key>modelFacadeDelay</key>
+	<string>directSwitchInteraction</string>
+	<key>requestFormHead</key>
+	<string>awaitContainTask</string>
+	<key>responseVisitorLeft</key>
+	<string>draggableListenerTheme</string>
+</dict>
+</plist>

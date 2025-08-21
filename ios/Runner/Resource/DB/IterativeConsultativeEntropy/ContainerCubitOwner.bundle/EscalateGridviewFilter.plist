@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAtOperation</key>
+	<string>equalizationProxyInterval</string>
+	<key>integerOperationDirection</key>
+	<string>eagerResultMode</string>
+	<key>progressbarLikePrototype</key>
+	<string>sortedSemanticsTheme</string>
+	<key>robustLabelLeft</key>
+	<string>actionFromShape</string>
+	<key>synchronousMediaqueryOrientation</key>
+	<string>blocInEnvironment</string>
+	<key>uniformCacheCenter</key>
+	<string>fusedQueryStyle</string>
+</dict>
+</plist>

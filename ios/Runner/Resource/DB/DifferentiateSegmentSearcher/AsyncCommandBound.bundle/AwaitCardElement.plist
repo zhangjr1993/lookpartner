@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPresenterDuration</key>
+	<string>tabbarSinceMethod</string>
+	<key>aspectratioAtBridge</key>
+	<string>cardWithoutFunction</string>
+	<key>groupFromMemento</key>
+	<string>positionedLikeActivity</string>
+	<key>listenerAdapterVisible</key>
+	<string>routeAdapterPosition</string>
+	<key>projectInterpreterBound</key>
+	<string>semanticScaffoldName</string>
+	<key>streamNearOperation</key>
+	<string>graphicAsVar</string>
+	<key>unaryWithVar</key>
+	<string>statefulCheckboxVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableNavigationTag</key>
+	<string>spotIncludeBridge</string>
+	<key>curvePerScope</key>
+	<string>largeExpandedName</string>
+	<key>reductionStageDepth</key>
+	<string>normProcessDirection</string>
+</dict>
+</plist>

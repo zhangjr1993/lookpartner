@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAwayCycle</key>
+	<string>viewChainBottom</string>
+	<key>asyncViaShape</key>
+	<string>profileWithoutMethod</string>
+	<key>batchAgainstStructure</key>
+	<string>serviceWithoutLayer</string>
+	<key>eventVariableBound</key>
+	<string>hardLayerFormat</string>
+	<key>grainTierTag</key>
+	<string>grayscaleCommandOpacity</string>
+</dict>
+</plist>

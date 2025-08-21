@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityLikeChain</key>
+	<string>lossProxyHue</string>
+	<key>expandedFunctionBorder</key>
+	<string>textureIncludeVariable</string>
+	<key>gesturedetectorFunctionSkewx</key>
+	<string>prevScaleResponse</string>
+</dict>
+</plist>

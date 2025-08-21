@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sampleAmongStrategy</key>
+	<string>extensionLikeFacade</string>
+	<key>sinePerType</key>
+	<string>similarBatchBehavior</string>
+	<key>statelessViaVar</key>
+	<string>screenInForm</string>
+	<key>tappableTransitionLeft</key>
+	<string>subpixelFlyweightBound</string>
+</dict>
+</plist>

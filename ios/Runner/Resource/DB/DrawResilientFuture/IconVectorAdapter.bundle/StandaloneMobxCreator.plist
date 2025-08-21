@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorThroughEnvironment</key>
+	<string>seamlessStorageDepth</string>
+	<key>completerLayerSkewy</key>
+	<string>providerLayerDelay</string>
+	<key>dropdownbuttonFunctionDistance</key>
+	<string>radiusBesideShape</string>
+	<key>errorMethodPressure</key>
+	<string>grayscaleChainCenter</string>
+	<key>globalProtocolDistance</key>
+	<string>blocShapeVelocity</string>
+	<key>listviewWithStage</key>
+	<string>menuInSystem</string>
+	<key>liteBatchSkewx</key>
+	<string>semanticQueueKind</string>
+	<key>mobilePrecisionKind</key>
+	<string>sustainableProgressbarValidation</string>
+	<key>projectionCycleCount</key>
+	<string>sizedboxAgainstPhase</string>
+	<key>transitionPhaseLocation</key>
+	<string>composableReducerCount</string>
+</dict>
+</plist>

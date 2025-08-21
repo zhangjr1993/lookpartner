@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeQueryStatus</key>
+	<string>granularOverlayCenter</string>
+	<key>loopStrategyDepth</key>
+	<string>callbackIncludeScope</string>
+	<key>pivotalIsolateValidation</key>
+	<string>displayableTernaryVisibility</string>
+	<key>tickerStructureState</key>
+	<string>constraintParameterTransparency</string>
+</dict>
+</plist>

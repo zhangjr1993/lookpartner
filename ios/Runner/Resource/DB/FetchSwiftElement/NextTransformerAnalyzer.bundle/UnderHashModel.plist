@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWithJob</key>
+	<string>logPlatformOpacity</string>
+	<key>clipperByVar</key>
+	<string>respectiveProgressbarDirection</string>
+	<key>declarativePresenterScale</key>
+	<string>routerAsScope</string>
+	<key>managerBesideProxy</key>
+	<string>sortedMediaqueryTransparency</string>
+	<key>requestPatternDirection</key>
+	<string>modalEnvironmentLeft</string>
+	<key>rowSingletonInteraction</key>
+	<string>profileVisitorSpacing</string>
+	<key>titleAsTier</key>
+	<string>synchronousResultPressure</string>
+	<key>transformerForDecorator</key>
+	<string>subscriptionFrameworkOpacity</string>
+	<key>utilMethodFeedback</key>
+	<string>nibCommandDuration</string>
+</dict>
+</plist>

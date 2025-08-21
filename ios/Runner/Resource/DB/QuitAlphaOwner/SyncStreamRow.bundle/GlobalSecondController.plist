@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDescriptorDelay</key>
+	<string>integerSystemCoord</string>
+	<key>criticalEntityAcceleration</key>
+	<string>mobileConfigurationOrigin</string>
+	<key>heroInAdapter</key>
+	<string>overlayContextAlignment</string>
+	<key>hyperbolicAssetInterval</key>
+	<string>mobileViaVariable</string>
+	<key>interfaceFromValue</key>
+	<string>builderInChain</string>
+	<key>logUntilLevel</key>
+	<string>fusedChannelOrientation</string>
+	<key>originalContainerTail</key>
+	<string>variantThroughVisitor</string>
+	<key>overlayAmongFacade</key>
+	<string>layerAroundDecorator</string>
+	<key>radioWorkResponse</key>
+	<string>cellLikePlatform</string>
+	<key>responsiveKernelStatus</key>
+	<string>retainedAppbarVisible</string>
+</dict>
+</plist>

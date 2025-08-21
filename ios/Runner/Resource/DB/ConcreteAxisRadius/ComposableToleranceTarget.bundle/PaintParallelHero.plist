@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCycleScale</key>
+	<string>beginnerAwaitBorder</string>
+	<key>bulletInsideDecorator</key>
+	<string>expandedShapeDuration</string>
+	<key>bulletVisitorMargin</key>
+	<string>batchAndAction</string>
+	<key>cellBufferValidation</key>
+	<string>gridviewCycleStatus</string>
+	<key>mediocreResourceAcceleration</key>
+	<string>displayableCurveMode</string>
+	<key>nextRouterInset</key>
+	<string>techniqueAdapterEdge</string>
+	<key>semanticsPhaseCount</key>
+	<string>coordinatorByStyle</string>
+</dict>
+</plist>

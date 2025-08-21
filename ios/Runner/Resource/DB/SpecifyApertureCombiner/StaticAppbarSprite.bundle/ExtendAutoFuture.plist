@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFrameworkTag</key>
+	<string>previewEnvironmentInset</string>
+	<key>controllerFacadePressure</key>
+	<string>cardInsidePhase</string>
+	<key>delegateStrategyAlignment</key>
+	<string>radioPhaseValidation</string>
+	<key>disabledImageBottom</key>
+	<string>storyboardTaskCount</string>
+	<key>disparateViewFeedback</key>
+	<string>widgetInNumber</string>
+	<key>interactorAboutLayer</key>
+	<string>scrollableDurationLeft</string>
+	<key>oldDrawerPosition</key>
+	<string>ignoredSingletonOpacity</string>
+	<key>precisionProcessAlignment</key>
+	<string>largeRowVisible</string>
+	<key>queueSinceStage</key>
+	<string>rowCompositeSpacing</string>
+	<key>textureSinceVariable</key>
+	<string>plateProcessDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStagePadding</key>
+	<string>alphaNearParameter</string>
+	<key>autoAnimatedcontainerInset</key>
+	<string>heapTierBorder</string>
+	<key>crudeIconCoord</key>
+	<string>cursorNearContext</string>
+	<key>futureContextSkewx</key>
+	<string>priorityCompositeEdge</string>
+	<key>painterContainStructure</key>
+	<string>listviewPerSingleton</string>
+	<key>protectedNibFormat</key>
+	<string>menuOfAdapter</string>
+	<key>rowStructureInterval</key>
+	<string>stackAmongNumber</string>
+	<key>storyboardStyleState</key>
+	<string>durationAboutAdapter</string>
+	<key>synchronousSpineVelocity</key>
+	<string>queueNearBuffer</string>
+</dict>
+</plist>

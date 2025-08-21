@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStyleFeedback</key>
+	<string>statelessInteractorStatus</string>
+	<key>decorationShapeBrightness</key>
+	<string>cubitModePressure</string>
+	<key>easyHashColor</key>
+	<string>responsiveConstraintAcceleration</string>
+	<key>fragmentFacadeCenter</key>
+	<string>aspectratioStageFrequency</string>
+	<key>gateFrameworkStatus</key>
+	<string>eventViaStyle</string>
+	<key>managerAgainstProcess</key>
+	<string>backwardHandlerBound</string>
+	<key>materialManagerSpacing</key>
+	<string>catalystNearState</string>
+	<key>missedListenerOpacity</key>
+	<string>staticEntityFormat</string>
+</dict>
+</plist>

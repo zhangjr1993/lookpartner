@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOfType</key>
+	<string>symbolFormColor</string>
+	<key>immutableLabelValidation</key>
+	<string>custompaintWithMemento</string>
+	<key>reducerPrototypeAcceleration</key>
+	<string>denseBaselineForce</string>
+	<key>streamFromNumber</key>
+	<string>tweenViaFunction</string>
+</dict>
+</plist>

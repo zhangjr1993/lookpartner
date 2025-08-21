@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateContrast</key>
+	<string>gateScopeIndex</string>
+	<key>newestButtonFeedback</key>
+	<string>stateBufferSaturation</string>
+	<key>relationalTickerBrightness</key>
+	<string>localPriorityOrientation</string>
+	<key>sensorActivityCount</key>
+	<string>sortedHeapColor</string>
+	<key>smartRequestContrast</key>
+	<string>queueOutsideScope</string>
+	<key>sustainableCallbackForce</key>
+	<string>labelThanBuffer</string>
+</dict>
+</plist>

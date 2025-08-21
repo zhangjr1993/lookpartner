@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBesideFacade</key>
+	<string>progressbarAdapterHue</string>
+	<key>delegatePhaseFrequency</key>
+	<string>declarativeStepRate</string>
+	<key>fragmentBeyondDecorator</key>
+	<string>containerStrategyBound</string>
+	<key>segmentForDecorator</key>
+	<string>clipperCycleStatus</string>
+	<key>semanticInteractorTint</key>
+	<string>aspectModeBound</string>
+</dict>
+</plist>

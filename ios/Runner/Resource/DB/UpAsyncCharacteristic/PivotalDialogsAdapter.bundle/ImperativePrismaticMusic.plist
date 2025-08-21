@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleBound</key>
+	<string>labelContextHead</string>
+	<key>enabledUtilAlignment</key>
+	<string>nextChannelShape</string>
+	<key>intuitiveSwitchCenter</key>
+	<string>progressbarShapeHue</string>
+	<key>precisionBeyondOperation</key>
+	<string>dedicatedCubitRotation</string>
+	<key>repositoryProcessInteraction</key>
+	<string>prevProjectAlignment</string>
+	<key>requestScopeSpeed</key>
+	<string>viewLikeFlyweight</string>
+	<key>sizedboxStructureSpeed</key>
+	<string>boxVersusPattern</string>
+	<key>streamViaLayer</key>
+	<string>navigationStageStatus</string>
+	<key>tweenAsActivity</key>
+	<string>multiOperationInset</string>
+</dict>
+</plist>

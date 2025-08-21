@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyInLayer</key>
+	<string>gestureSinceChain</string>
+	<key>difficultIntensityType</key>
+	<string>fusedApertureDepth</string>
+	<key>flexibleCompleterVelocity</key>
+	<string>progressbarFlyweightSkewx</string>
+	<key>interpolationMethodContrast</key>
+	<string>displayablePresenterDensity</string>
+	<key>loopFacadeDistance</key>
+	<string>reusableRichtextAppearance</string>
+	<key>materialInFunction</key>
+	<string>handlerVersusBridge</string>
+	<key>resultTaskAcceleration</key>
+	<string>cycleAndCommand</string>
+	<key>semanticRowFlags</key>
+	<string>commandAdapterHue</string>
+	<key>sizeAdapterFlags</key>
+	<string>oldCheckboxCenter</string>
+</dict>
+</plist>

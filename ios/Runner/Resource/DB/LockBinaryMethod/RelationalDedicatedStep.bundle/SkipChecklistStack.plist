@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAroundTask</key>
+	<string>metadataVersusPattern</string>
+	<key>animationDuringMemento</key>
+	<string>iconWithoutFacade</string>
+	<key>greatPetCenter</key>
+	<string>popupDecoratorTransparency</string>
+	<key>nibOutsideStage</key>
+	<string>mediaActionStatus</string>
+	<key>radioFrameworkTheme</key>
+	<string>topicTempleVisible</string>
+</dict>
+</plist>

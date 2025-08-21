@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorWithoutFacade</key>
+	<string>liteChecklistTop</string>
+	<key>delegateKindTransparency</key>
+	<string>gridUntilKind</string>
+	<key>reducerUntilKind</key>
+	<string>navigationPhaseRotation</string>
+	<key>slashEnvironmentHead</key>
+	<string>particleSinceVisitor</string>
+	<key>streamCompositeStatus</key>
+	<string>curveVisitorAlignment</string>
+</dict>
+</plist>

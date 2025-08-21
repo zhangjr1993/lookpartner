@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionOrInterpreter</key>
+	<string>exceptionOperationType</string>
+	<key>extensionOrCommand</key>
+	<string>cupertinoSpriteSpacing</string>
+	<key>handlerStageShape</key>
+	<string>layerTempleFeedback</string>
+	<key>localAnchorName</key>
+	<string>alphaInsideStage</string>
+	<key>nodeIncludeMediator</key>
+	<string>containerPerBuffer</string>
+	<key>sharedStatelessDirection</key>
+	<string>typicalOptimizerInteraction</string>
+</dict>
+</plist>

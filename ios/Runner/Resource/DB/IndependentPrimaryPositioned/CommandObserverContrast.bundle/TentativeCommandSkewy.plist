@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAlongDecorator</key>
+	<string>inactiveStateMargin</string>
+	<key>controllerBridgeHue</key>
+	<string>grainVersusFramework</string>
+	<key>iterativeCollectionOrientation</key>
+	<string>fusedAnimatedcontainerType</string>
+	<key>mobxContainVisitor</key>
+	<string>spritePerKind</string>
+	<key>notifierVarState</key>
+	<string>behaviorOrEnvironment</string>
+	<key>operationCompositeAcceleration</key>
+	<string>callbackNumberPressure</string>
+	<key>sineAdapterDelay</key>
+	<string>flexBesideWork</string>
+</dict>
+</plist>

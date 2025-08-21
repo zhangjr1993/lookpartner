@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableNibValidation</key>
+	<string>momentumForShape</string>
+	<key>enabledDelegateFlags</key>
+	<string>tabviewForAdapter</string>
+	<key>entityJobFeedback</key>
+	<string>errorActivityTop</string>
+	<key>groupEnvironmentOpacity</key>
+	<string>intermediateTextKind</string>
+	<key>momentumExceptPhase</key>
+	<string>radiusIncludeStrategy</string>
+	<key>queryValueDirection</key>
+	<string>constraintLevelFeedback</string>
+	<key>tappableInkwellTheme</key>
+	<string>topicKindOrigin</string>
+</dict>
+</plist>

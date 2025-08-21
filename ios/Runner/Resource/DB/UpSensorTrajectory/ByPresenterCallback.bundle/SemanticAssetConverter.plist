@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConstraintForce</key>
+	<string>navigationByAdapter</string>
+	<key>associatedMenuVelocity</key>
+	<string>coordinatorVisitorRate</string>
+	<key>backwardCurveValidation</key>
+	<string>brushInPhase</string>
+	<key>convolutionCompositeSize</key>
+	<string>tickerPlatformMomentum</string>
+	<key>intensityJobForce</key>
+	<string>challengeBeyondFramework</string>
+</dict>
+</plist>

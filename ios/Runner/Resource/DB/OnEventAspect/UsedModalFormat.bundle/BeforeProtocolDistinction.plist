@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisActionVelocity</key>
+	<string>chapterContextFrequency</string>
+	<key>labelAsMemento</key>
+	<string>enabledStackSkewy</string>
+	<key>layerPlatformPressure</key>
+	<string>resizableStorageSkewy</string>
+	<key>responseInsideTask</key>
+	<string>actionExceptMemento</string>
+	<key>storeParameterStyle</key>
+	<string>parallelDependencyVisibility</string>
+	<key>tangentAtMethod</key>
+	<string>reusableTransformerLeft</string>
+	<key>transitionStructureVelocity</key>
+	<string>newestGraphFrequency</string>
+</dict>
+</plist>

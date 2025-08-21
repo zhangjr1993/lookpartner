@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFacadeDensity</key>
+	<string>convolutionInPattern</string>
+	<key>builderAmongMediator</key>
+	<string>uniqueObserverFeedback</string>
+	<key>disabledTaskVisible</key>
+	<string>animatedCubitLocation</string>
+	<key>keyChecklistFeedback</key>
+	<string>utilModeOffset</string>
+	<key>relationalTransitionForce</key>
+	<string>oldTransformerOpacity</string>
+	<key>resourceValueKind</key>
+	<string>segueStructureTension</string>
+	<key>sensorByPlatform</key>
+	<string>notificationByBridge</string>
+	<key>stateBySingleton</key>
+	<string>memberActionLeft</string>
+	<key>zoneAroundCommand</key>
+	<string>sharedNavigationBehavior</string>
+</dict>
+</plist>

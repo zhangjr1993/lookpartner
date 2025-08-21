@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushInsideCommand</key>
+	<string>singletonThanStrategy</string>
+	<key>composablePlaybackSpacing</key>
+	<string>tappableClipperDelay</string>
+	<key>finalPreviewInset</key>
+	<string>rectPhaseValidation</string>
+	<key>gridviewJobInterval</key>
+	<string>rowFromTier</string>
+	<key>indicatorViaMethod</key>
+	<string>durationAtNumber</string>
+	<key>menuFunctionInteraction</key>
+	<string>unsortedQueryHead</string>
+	<key>typicalReductionResponse</key>
+	<string>requiredCompleterTail</string>
+</dict>
+</plist>

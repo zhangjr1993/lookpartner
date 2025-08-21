@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSkirtKind</key>
+	<string>hyperbolicLabelPosition</string>
+	<key>builderNearTask</key>
+	<string>commandByTask</string>
+	<key>crucialDurationBehavior</key>
+	<string>activatedDurationMode</string>
+	<key>temporaryAnimationType</key>
+	<string>synchronousSignBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerScopeMode</key>
+	<string>advancedTickerBottom</string>
+	<key>autoNodeTint</key>
+	<string>callbackWithoutStrategy</string>
+	<key>containerUntilVar</key>
+	<string>denseRouteStatus</string>
+	<key>globalSemanticsType</key>
+	<string>mediaByBuffer</string>
+	<key>movementKindHue</key>
+	<string>requestAsScope</string>
+	<key>textBesideMemento</key>
+	<string>customShaderOpacity</string>
+</dict>
+</plist>

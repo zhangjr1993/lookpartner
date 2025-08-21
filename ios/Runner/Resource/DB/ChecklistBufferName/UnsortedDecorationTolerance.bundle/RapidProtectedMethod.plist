@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDuringState</key>
+	<string>comprehensiveExceptionSpeed</string>
+	<key>mediumAllocatorTail</key>
+	<string>sequentialContainerSaturation</string>
+	<key>modulusFlyweightValidation</key>
+	<string>projectionContainSingleton</string>
+	<key>subsequentIsolateTop</key>
+	<string>radiusBeyondVar</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePositionSpeed</key>
+	<string>gestureLayerBehavior</string>
+	<key>allocatorEnvironmentSkewy</key>
+	<string>frameMediatorBound</string>
+	<key>containerVarFeedback</key>
+	<string>threadBeyondOperation</string>
+	<key>drawerVisitorCoord</key>
+	<string>autoTimerOffset</string>
+	<key>mainTransitionScale</key>
+	<string>keyDropdownbuttonPadding</string>
+	<key>sensorByJob</key>
+	<string>providerNumberTag</string>
+	<key>storyboardOfInterpreter</key>
+	<string>interactorVisitorForce</string>
+	<key>viewMediatorIndex</key>
+	<string>resolverJobMomentum</string>
+</dict>
+</plist>

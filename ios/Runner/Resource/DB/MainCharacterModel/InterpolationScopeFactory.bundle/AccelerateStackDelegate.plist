@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeProviderName</key>
+	<string>dedicatedSpriteCenter</string>
+	<key>ephemeralMovementDuration</key>
+	<string>customizedObserverOrientation</string>
+	<key>flexiblePopupBottom</key>
+	<string>indicatorStateAlignment</string>
+	<key>fragmentIncludeBridge</key>
+	<string>resourceBeyondJob</string>
+	<key>matrixContextEdge</key>
+	<string>metadataAlongSystem</string>
+	<key>musicFromFunction</key>
+	<string>statefulAtFacade</string>
+	<key>resizableActionStyle</key>
+	<string>alignmentOrTemple</string>
+	<key>screenPerMediator</key>
+	<string>exceptionAwayLayer</string>
+	<key>tangentBridgeTheme</key>
+	<string>playbackSingletonAlignment</string>
+	<key>viewStructureBound</key>
+	<string>gridForEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainBufferTint</key>
+	<string>mobileBridgeEdge</string>
+	<key>ignoredAllocatorShape</key>
+	<string>beginnerCanvasMomentum</string>
+	<key>modelAwaySingleton</key>
+	<string>originalContainerDensity</string>
+	<key>pointPrototypeTheme</key>
+	<string>coordinatorActionSkewy</string>
+	<key>reducerOutsideCommand</key>
+	<string>functionalInterfaceDepth</string>
+	<key>smallActivityStatus</key>
+	<string>symbolParamVisibility</string>
+	<key>unsortedMusicIndex</key>
+	<string>nextTransformerVisible</string>
+</dict>
+</plist>

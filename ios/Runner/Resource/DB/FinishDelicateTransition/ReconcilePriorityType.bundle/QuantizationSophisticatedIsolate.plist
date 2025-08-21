@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameDuringMode</key>
+	<string>normalTableState</string>
+	<key>gestureFlyweightInterval</key>
+	<string>sortedBrushOrigin</string>
+	<key>localizationAboutMemento</key>
+	<string>cubitWithoutAdapter</string>
+	<key>responsiveCoordinatorCoord</key>
+	<string>nodeChainRight</string>
+	<key>themeByLevel</key>
+	<string>sessionProcessIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureAlongCommand</key>
+	<string>granularFeatureTension</string>
+	<key>ignoredIntegerValidation</key>
+	<string>usedRouteScale</string>
+	<key>masterIncludeFramework</key>
+	<string>baseSinceLevel</string>
+	<key>navigatorOrLayer</key>
+	<string>handlerVisitorRate</string>
+	<key>reactiveSubscriptionEdge</key>
+	<string>popupSingletonRate</string>
+	<key>routeShapeShade</key>
+	<string>scrollableMapVisible</string>
+	<key>subtleTextOffset</key>
+	<string>operationDuringNumber</string>
+</dict>
+</plist>

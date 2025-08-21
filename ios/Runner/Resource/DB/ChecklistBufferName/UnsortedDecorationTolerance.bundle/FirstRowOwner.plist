@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPlatformFeedback</key>
+	<string>publicCompleterLocation</string>
+	<key>desktopPaddingAcceleration</key>
+	<string>logarithmFacadeInteraction</string>
+	<key>enabledFragmentShade</key>
+	<string>rowOfStage</string>
+	<key>geometricCompleterKind</key>
+	<string>rectVariableInteraction</string>
+	<key>intensityFromLayer</key>
+	<string>disabledApertureDistance</string>
+	<key>pinchableScreenForce</key>
+	<string>blocDecoratorStatus</string>
+	<key>skirtIncludeParam</key>
+	<string>exponentForBridge</string>
+	<key>slashSystemRate</key>
+	<string>menuTaskScale</string>
+	<key>viewActionDensity</key>
+	<string>discardedPositionRate</string>
+</dict>
+</plist>

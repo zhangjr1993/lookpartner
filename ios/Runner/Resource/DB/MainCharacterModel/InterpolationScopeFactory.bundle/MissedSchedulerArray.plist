@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAccessoryTransparency</key>
+	<string>mobxFunctionRight</string>
+	<key>gesturedetectorWorkAppearance</key>
+	<string>routerAndPhase</string>
+	<key>significantPageviewPressure</key>
+	<string>allocatorUntilKind</string>
+	<key>significantSubscriptionBehavior</key>
+	<string>buttonViaBridge</string>
+	<key>timerTypeAcceleration</key>
+	<string>hashVersusState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMediatorAppearance</key>
+	<string>specifyTickerPadding</string>
+	<key>asynchronousRouteTail</key>
+	<string>prevThreadTop</string>
+	<key>effectOutsideInterpreter</key>
+	<string>containerStateMargin</string>
+	<key>futureLayerRight</key>
+	<string>semanticsStrategySkewx</string>
+	<key>greatRequestOpacity</key>
+	<string>sinkTypeCount</string>
+	<key>normJobOpacity</key>
+	<string>backwardColumnMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPrototypeSkewy</key>
+	<string>stateChainOffset</string>
+	<key>publicStateSkewy</key>
+	<string>accordionTextureSize</string>
+	<key>radiusObserverSkewy</key>
+	<string>eagerTangentTheme</string>
+	<key>scaleBufferSpeed</key>
+	<string>providerOutsideFlyweight</string>
+	<key>skinThroughValue</key>
+	<string>stepJobTension</string>
+	<key>switchWorkHue</key>
+	<string>previewOrComposite</string>
+</dict>
+</plist>

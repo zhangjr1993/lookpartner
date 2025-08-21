@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFeatureKind</key>
+	<string>declarativeInterfaceBehavior</string>
+	<key>effectPatternKind</key>
+	<string>beginnerCommandTail</string>
+	<key>robustCompositionTransparency</key>
+	<string>factoryAtMemento</string>
+	<key>stackThroughOperation</key>
+	<string>heroInsideCycle</string>
+	<key>storeStageMargin</key>
+	<string>discardedTextfieldSaturation</string>
+	<key>streamAdapterRate</key>
+	<string>permanentCompositionCoord</string>
+	<key>symbolVarDensity</key>
+	<string>coordinatorMethodAppearance</string>
+	<key>textfieldInsideContext</key>
+	<string>optionLevelTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchNearForm</key>
+	<string>subsequentCardTag</string>
+	<key>behaviorNearFlyweight</key>
+	<string>memberByPlatform</string>
+	<key>entropyKindTag</key>
+	<string>normIncludeSystem</string>
+	<key>immediateReducerMargin</key>
+	<string>canvasPhaseHue</string>
+	<key>intermediateMobileBorder</key>
+	<string>groupViaFramework</string>
+	<key>layoutValueContrast</key>
+	<string>extensionSingletonVisibility</string>
+	<key>menuOrCommand</key>
+	<string>skinCycleSkewy</string>
+	<key>parallelTabviewEdge</key>
+	<string>animationBeyondLevel</string>
+	<key>resilientResponseOffset</key>
+	<string>ternaryVersusState</string>
+	<key>webQueryCoord</key>
+	<string>layoutFrameworkRight</string>
+</dict>
+</plist>

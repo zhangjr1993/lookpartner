@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDelegateDelay</key>
+	<string>inactiveWorkflowBorder</string>
+	<key>displayableAwaitName</key>
+	<string>intermediateMetadataMargin</string>
+	<key>firstControllerTransparency</key>
+	<string>equalizationFromVariable</string>
+	<key>gramIncludeEnvironment</key>
+	<string>newestRadioPressure</string>
+	<key>mobileAroundParam</key>
+	<string>usedChallengeSkewx</string>
+	<key>oldColumnVelocity</key>
+	<string>taskVarPosition</string>
+	<key>routeContextDelay</key>
+	<string>futureObserverPressure</string>
+	<key>subscriptionInJob</key>
+	<string>fixedCommandTheme</string>
+	<key>toolViaCommand</key>
+	<string>primaryResourceOpacity</string>
+</dict>
+</plist>

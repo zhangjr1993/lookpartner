@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAlongPhase</key>
+	<string>prevBlocValidation</string>
+	<key>draggableEntitySkewx</key>
+	<string>compositionalStateVisibility</string>
+	<key>easyCycleSkewy</key>
+	<string>requiredTextfieldSize</string>
+	<key>explicitModelDistance</key>
+	<string>directTextHue</string>
+	<key>inactiveGridOffset</key>
+	<string>boxshadowCommandTail</string>
+	<key>particleContextBottom</key>
+	<string>menuStructureVisibility</string>
+</dict>
+</plist>

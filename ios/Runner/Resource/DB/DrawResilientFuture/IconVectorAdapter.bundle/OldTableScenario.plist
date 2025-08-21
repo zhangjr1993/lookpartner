@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionFromDecorator</key>
+	<string>missedSpotType</string>
+	<key>geometricSceneBehavior</key>
+	<string>gridStrategyPosition</string>
+	<key>layerPerStructure</key>
+	<string>constraintBeyondStyle</string>
+	<key>layerVisitorBottom</key>
+	<string>entropyForPattern</string>
+	<key>modalThroughProcess</key>
+	<string>parallelCommandState</string>
+	<key>requiredVariantTag</key>
+	<string>remainderAsDecorator</string>
+	<key>rowAsLayer</key>
+	<string>uniqueRowPressure</string>
+	<key>similarFactoryKind</key>
+	<string>storageContainCycle</string>
+</dict>
+</plist>

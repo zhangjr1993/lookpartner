@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMissionStyle</key>
+	<string>chapterViaNumber</string>
+	<key>isolateStructureStyle</key>
+	<string>momentumViaTask</string>
+	<key>methodParameterInterval</key>
+	<string>memberInterpreterFlags</string>
+	<key>navigationWithoutFunction</key>
+	<string>serviceNumberFormat</string>
+	<key>sceneInterpreterAlignment</key>
+	<string>asynchronousBoxshadowRotation</string>
+	<key>statefulCompositionMode</key>
+	<string>usecaseStageOrigin</string>
+	<key>storyboardBufferInteraction</key>
+	<string>subsequentNibRotation</string>
+	<key>streamFromFlyweight</key>
+	<string>futureOfKind</string>
+	<key>sustainableStoreFlags</key>
+	<string>routeVisitorTheme</string>
+</dict>
+</plist>

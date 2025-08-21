@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureLevelContrast</key>
+	<string>appbarMementoBorder</string>
+	<key>aperturePatternTension</key>
+	<string>configurationAboutMode</string>
+	<key>commandFrameworkShape</key>
+	<string>bulletBufferDepth</string>
+	<key>flexJobOrientation</key>
+	<string>managerAboutStructure</string>
+	<key>iterativeQueueDuration</key>
+	<string>significantToolDistance</string>
+	<key>materialCompositeInteraction</key>
+	<string>providerPlatformRotation</string>
+	<key>promiseAlongMediator</key>
+	<string>methodInsideAction</string>
+	<key>resultDespiteState</key>
+	<string>remainderInterpreterLocation</string>
+	<key>threadVariableSize</key>
+	<string>futureKindLeft</string>
+</dict>
+</plist>

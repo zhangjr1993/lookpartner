@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationInterpreterDepth</key>
+	<string>singletonBufferBound</string>
+	<key>featurePhaseSpacing</key>
+	<string>resultFromForm</string>
+	<key>intermediateTabviewShape</key>
+	<string>subsequentVariantInset</string>
+	<key>lostInstructionRight</key>
+	<string>standaloneResolverValidation</string>
+	<key>requestCommandInterval</key>
+	<string>transitionFrameworkName</string>
+	<key>spriteTierShape</key>
+	<string>textureForType</string>
+	<key>viewTaskOpacity</key>
+	<string>coordinatorChainMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferNearLevel</key>
+	<string>cubitNearAction</string>
+	<key>dedicatedTextMargin</key>
+	<string>lazySubpixelDistance</string>
+	<key>lastDelegateRotation</key>
+	<string>sinkValueScale</string>
+	<key>radioOfJob</key>
+	<string>tickerBesideType</string>
+	<key>uniqueFutureLocation</key>
+	<string>usageTypeShape</string>
+</dict>
+</plist>

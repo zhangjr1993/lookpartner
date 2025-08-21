@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerUntilOperation</key>
+	<string>durationAtCycle</string>
+	<key>contractionProxyBorder</key>
+	<string>channelsAroundStage</string>
+	<key>delegateFunctionShade</key>
+	<string>layoutAroundStage</string>
+	<key>effectAtFramework</key>
+	<string>collectionAsPrototype</string>
+	<key>hardKernelBottom</key>
+	<string>sizedboxIncludeActivity</string>
+	<key>listenerThroughContext</key>
+	<string>cupertinoChartLocation</string>
+	<key>lostPageviewAcceleration</key>
+	<string>movementOutsideMethod</string>
+	<key>parallelSpotShade</key>
+	<string>immediateMaterialDirection</string>
+	<key>pointMediatorScale</key>
+	<string>beginnerAnchorPadding</string>
+</dict>
+</plist>

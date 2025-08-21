@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateContainMethod</key>
+	<string>sortedPaddingOpacity</string>
+	<key>delegateContextKind</key>
+	<string>curvePhaseSpacing</string>
+	<key>heapParameterStyle</key>
+	<string>adaptiveEntityBound</string>
+	<key>permissiveProtocolAppearance</key>
+	<string>concurrentHistogramSaturation</string>
+	<key>presenterAtMemento</key>
+	<string>activatedSinkDensity</string>
+	<key>resultValueLeft</key>
+	<string>decorationKindVisible</string>
+	<key>threadMethodSpeed</key>
+	<string>usecaseMediatorColor</string>
+	<key>unsortedButtonTint</key>
+	<string>unactivatedAnchorDelay</string>
+</dict>
+</plist>

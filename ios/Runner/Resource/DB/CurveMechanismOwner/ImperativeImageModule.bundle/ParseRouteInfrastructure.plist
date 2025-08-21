@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOrStructure</key>
+	<string>effectStateDistance</string>
+	<key>effectTaskName</key>
+	<string>animatedcontainerProcessState</string>
+	<key>futureShapeScale</key>
+	<string>assetNearContext</string>
+	<key>indicatorContainShape</key>
+	<string>skirtLevelResponse</string>
+	<key>mobxTierPadding</key>
+	<string>imperativeDecorationTag</string>
+	<key>protectedTransitionResponse</key>
+	<string>layerByDecorator</string>
+	<key>resilientResponseBehavior</key>
+	<string>stackViaFlyweight</string>
+	<key>staticOverlayDuration</key>
+	<string>cartesianPresenterShape</string>
+</dict>
+</plist>

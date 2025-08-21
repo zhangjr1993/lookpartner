@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilContext</key>
+	<string>expandedContainStyle</string>
+	<key>animationVarVelocity</key>
+	<string>widgetAgainstBridge</string>
+	<key>cubitProcessDelay</key>
+	<string>modulusAndScope</string>
+	<key>rapidConsumerBehavior</key>
+	<string>associatedMomentumState</string>
+	<key>routeStateFlags</key>
+	<string>priorModulusHead</string>
+	<key>unactivatedInstructionLeft</key>
+	<string>imageCompositeInset</string>
+</dict>
+</plist>

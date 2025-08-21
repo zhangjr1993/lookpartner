@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForVar</key>
+	<string>advancedAsyncKind</string>
+	<key>explicitTransitionSaturation</key>
+	<string>cubitAlongWork</string>
+	<key>geometricViewEdge</key>
+	<string>decorationPerStage</string>
+	<key>integerFrameworkBehavior</key>
+	<string>specifyConfigurationStatus</string>
+	<key>lazyTransitionBottom</key>
+	<string>lastReductionBottom</string>
+	<key>permanentLoopTop</key>
+	<string>durationInterpreterValidation</string>
+	<key>radiusNearProcess</key>
+	<string>loopFormColor</string>
+	<key>standaloneDurationBorder</key>
+	<string>graphicInterpreterDistance</string>
+</dict>
+</plist>

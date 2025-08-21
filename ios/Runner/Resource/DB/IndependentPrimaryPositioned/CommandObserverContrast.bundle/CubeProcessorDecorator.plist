@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBufferKind</key>
+	<string>liteCubeMargin</string>
+	<key>otherDecorationTransparency</key>
+	<string>rowModeSkewy</string>
+	<key>profileStageShade</key>
+	<string>flexibleHeapHue</string>
+	<key>requestWithoutBridge</key>
+	<string>graphicPrototypeMode</string>
+	<key>routeVarHead</key>
+	<string>resourceCycleTag</string>
+	<key>statefulSingletonVelocity</key>
+	<string>ignoredExtensionTint</string>
+	<key>temporaryMenuOffset</key>
+	<string>cacheNumberHead</string>
+</dict>
+</plist>

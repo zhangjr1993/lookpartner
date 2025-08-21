@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLevelTag</key>
+	<string>layoutByMethod</string>
+	<key>constraintStyleRight</key>
+	<string>euclideanLabelInset</string>
+	<key>switchAtNumber</key>
+	<string>subtleListenerKind</string>
+	<key>timerThroughMediator</key>
+	<string>positionedTaskDelay</string>
+	<key>topicInsideOperation</key>
+	<string>inactiveRemainderCount</string>
+</dict>
+</plist>

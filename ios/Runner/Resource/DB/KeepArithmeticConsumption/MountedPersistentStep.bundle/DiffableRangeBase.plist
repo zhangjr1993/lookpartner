@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoIsolateVisibility</key>
+	<string>sharedVectorScale</string>
+	<key>coordinatorInSingleton</key>
+	<string>skinOperationLeft</string>
+	<key>pageviewCommandBound</key>
+	<string>futureNearMemento</string>
+	<key>pointDecoratorCount</key>
+	<string>toolAdapterState</string>
+	<key>secondSingletonState</key>
+	<string>zonePhaseSkewx</string>
+	<key>seguePatternOrigin</key>
+	<string>resizableFrameMargin</string>
+	<key>unaryStrategyOrientation</key>
+	<string>observerAlongMediator</string>
+</dict>
+</plist>

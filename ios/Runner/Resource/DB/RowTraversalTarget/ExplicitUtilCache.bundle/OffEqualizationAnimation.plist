@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVisitorDensity</key>
+	<string>customSpotRotation</string>
+	<key>apertureVarVelocity</key>
+	<string>behaviorThroughVar</string>
+	<key>reducerProcessColor</key>
+	<string>enabledAllocatorFeedback</string>
+	<key>significantEventType</key>
+	<string>callbackVariableInteraction</string>
+</dict>
+</plist>

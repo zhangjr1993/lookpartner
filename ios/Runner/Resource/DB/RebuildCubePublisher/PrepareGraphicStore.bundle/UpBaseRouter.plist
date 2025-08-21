@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVarTop</key>
+	<string>widgetContainSystem</string>
+	<key>elasticObserverSpacing</key>
+	<string>modelPhaseOffset</string>
+	<key>heapAndType</key>
+	<string>textureLevelKind</string>
+	<key>lossContextColor</key>
+	<string>animationSingletonDirection</string>
+	<key>requestFromPlatform</key>
+	<string>documentFrameworkDistance</string>
+	<key>sustainableLayerContrast</key>
+	<string>constraintMementoDelay</string>
+</dict>
+</plist>

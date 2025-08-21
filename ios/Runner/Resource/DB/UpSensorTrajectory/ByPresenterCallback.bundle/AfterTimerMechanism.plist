@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDrawerTension</key>
+	<string>utilOrLayer</string>
+	<key>logMethodCoord</key>
+	<string>completerInAction</string>
+	<key>nativeResponseDuration</key>
+	<string>resourceCycleContrast</string>
+	<key>particleAmongParam</key>
+	<string>animationBesideBuffer</string>
+</dict>
+</plist>

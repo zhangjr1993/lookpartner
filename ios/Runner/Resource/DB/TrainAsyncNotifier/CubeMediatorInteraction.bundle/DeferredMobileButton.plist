@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBufferVisible</key>
+	<string>permanentNotificationOffset</string>
+	<key>globalMonsterTheme</key>
+	<string>themeInterpreterContrast</string>
+	<key>inheritedIntensityRight</key>
+	<string>synchronousSensorResponse</string>
+	<key>scaffoldBeyondTier</key>
+	<string>independentUsecaseFrequency</string>
+	<key>symbolNumberScale</key>
+	<string>sustainableFragmentBottom</string>
+	<key>transitionWorkMargin</key>
+	<string>requiredSubscriptionAcceleration</string>
+	<key>widgetTaskTransparency</key>
+	<string>largeIsolateTag</string>
+</dict>
+</plist>

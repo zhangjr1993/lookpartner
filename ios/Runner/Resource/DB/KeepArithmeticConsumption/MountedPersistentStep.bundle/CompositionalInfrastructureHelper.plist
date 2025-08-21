@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectCompositeSize</key>
+	<string>typicalBaselineVisible</string>
+	<key>intuitiveBufferDepth</key>
+	<string>mediumIntensitySaturation</string>
+	<key>modulusOrJob</key>
+	<string>routePlatformEdge</string>
+	<key>scaffoldAlongStrategy</key>
+	<string>sliderStateTop</string>
+</dict>
+</plist>

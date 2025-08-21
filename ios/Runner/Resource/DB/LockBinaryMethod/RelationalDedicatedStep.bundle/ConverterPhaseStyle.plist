@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonContextPressure</key>
+	<string>custompaintMementoBorder</string>
+	<key>durationProcessOpacity</key>
+	<string>missedLayoutDelay</string>
+	<key>secondFrameName</key>
+	<string>staticLayoutLocation</string>
+	<key>typicalZoneVelocity</key>
+	<string>listenerObserverBehavior</string>
+</dict>
+</plist>

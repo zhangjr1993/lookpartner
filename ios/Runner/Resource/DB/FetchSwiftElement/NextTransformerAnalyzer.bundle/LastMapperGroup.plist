@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesOfVisitor</key>
+	<string>commonColumnFlags</string>
+	<key>capacitiesTypeShade</key>
+	<string>movementAboutMode</string>
+	<key>descriptionVariableScale</key>
+	<string>signModeSpacing</string>
+	<key>difficultCubitDelay</key>
+	<string>relationalGrayscaleOffset</string>
+	<key>pointAsPrototype</key>
+	<string>constraintProxySkewx</string>
+	<key>relationalSineBottom</key>
+	<string>effectVersusDecorator</string>
+	<key>sortedAnimationMargin</key>
+	<string>labelCompositeDensity</string>
+</dict>
+</plist>

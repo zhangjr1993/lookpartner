@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFromStyle</key>
+	<string>navigatorAlongShape</string>
+	<key>curveAsFlyweight</key>
+	<string>storyboardStructureVelocity</string>
+	<key>rowDespiteComposite</key>
+	<string>touchAwayVar</string>
+	<key>sliderStateInset</key>
+	<string>errorPatternDelay</string>
+	<key>statelessMementoName</key>
+	<string>exceptionPhaseInset</string>
+</dict>
+</plist>

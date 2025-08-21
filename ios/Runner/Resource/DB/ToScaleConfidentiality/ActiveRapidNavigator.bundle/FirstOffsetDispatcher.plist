@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPerAdapter</key>
+	<string>webTweenKind</string>
+	<key>intuitiveStackRate</key>
+	<string>resourceKindInteraction</string>
+	<key>keyObserverRate</key>
+	<string>touchAlongKind</string>
+	<key>mediaAtContext</key>
+	<string>interactorInTemple</string>
+	<key>profileContextTint</key>
+	<string>advancedControllerVisibility</string>
+	<key>reactiveFutureCenter</key>
+	<string>accessibleDelegateDistance</string>
+	<key>resourceBySingleton</key>
+	<string>staticStorageDirection</string>
+</dict>
+</plist>

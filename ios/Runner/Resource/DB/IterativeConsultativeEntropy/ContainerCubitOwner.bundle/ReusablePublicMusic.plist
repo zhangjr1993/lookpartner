@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOutsideFunction</key>
+	<string>localizationOrCommand</string>
+	<key>constraintThroughStructure</key>
+	<string>listenerSystemValidation</string>
+	<key>cupertinoTransitionDirection</key>
+	<string>entityPerVar</string>
+	<key>delicateEffectPressure</key>
+	<string>localRouterMargin</string>
+	<key>durationExceptParameter</key>
+	<string>originalPainterVisibility</string>
+	<key>durationIncludeStage</key>
+	<string>displayableIsolateMode</string>
+	<key>tappableRectDelay</key>
+	<string>factoryAlongKind</string>
+	<key>viewAtStrategy</key>
+	<string>anchorBridgeBorder</string>
+</dict>
+</plist>

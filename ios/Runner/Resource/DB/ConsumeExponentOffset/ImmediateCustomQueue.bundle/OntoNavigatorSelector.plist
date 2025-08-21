@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTickerPadding</key>
+	<string>cubeAdapterShade</string>
+	<key>grainInType</key>
+	<string>utilUntilPattern</string>
+	<key>localTextureBrightness</key>
+	<string>capsuleAdapterBrightness</string>
+	<key>remainderModeSkewy</key>
+	<string>asyncEnvironmentScale</string>
+	<key>sizedboxViaPattern</key>
+	<string>masterAwayWork</string>
+	<key>tappableRadioAcceleration</key>
+	<string>factoryMementoContrast</string>
+	<key>uniformFactoryFlags</key>
+	<string>composableEffectBrightness</string>
+</dict>
+</plist>

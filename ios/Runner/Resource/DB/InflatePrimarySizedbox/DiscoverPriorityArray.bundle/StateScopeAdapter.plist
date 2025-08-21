@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarExceptScope</key>
+	<string>tableBesideMemento</string>
+	<key>lastResultMode</key>
+	<string>streamInStrategy</string>
+	<key>originalCaptionPosition</key>
+	<string>lastResponseAlignment</string>
+	<key>rowParameterCenter</key>
+	<string>rapidEquipmentPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphOperationIndex</key>
+	<string>commandStyleVisibility</string>
+	<key>gridCycleEdge</key>
+	<string>boxshadowOutsideAction</string>
+	<key>hardInteractorBound</key>
+	<string>handlerFromShape</string>
+	<key>inactiveGrainOffset</key>
+	<string>interactorAboutPlatform</string>
+	<key>loopOutsideFramework</key>
+	<string>animatedcontainerParameterSpeed</string>
+	<key>managerAmongTask</key>
+	<string>queryAtTier</string>
+	<key>serviceInSystem</key>
+	<string>stackAmongPrototype</string>
+	<key>smartSpecifierDuration</key>
+	<string>mediaAtJob</string>
+</dict>
+</plist>

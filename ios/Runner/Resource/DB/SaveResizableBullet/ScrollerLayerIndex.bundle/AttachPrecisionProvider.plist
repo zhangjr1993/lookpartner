@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAdapterAcceleration</key>
+	<string>boxSinceCommand</string>
+	<key>eventPrototypeBorder</key>
+	<string>cupertinoInteractorVisibility</string>
+	<key>finalHandlerResponse</key>
+	<string>singletonStateSize</string>
+	<key>histogramChainFlags</key>
+	<string>durationFunctionName</string>
+	<key>inactiveStackSize</key>
+	<string>tabviewJobBound</string>
+	<key>masterDespitePattern</key>
+	<string>hashNearFunction</string>
+	<key>methodPrototypeDepth</key>
+	<string>skinJobStatus</string>
+	<key>subsequentHandlerMargin</key>
+	<string>errorChainInteraction</string>
+</dict>
+</plist>

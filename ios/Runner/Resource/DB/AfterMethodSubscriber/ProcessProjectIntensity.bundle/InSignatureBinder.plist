@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedActionAppearance</key>
+	<string>workflowWorkHue</string>
+	<key>columnFacadeFormat</key>
+	<string>staticScrollAppearance</string>
+	<key>directPresenterAppearance</key>
+	<string>memberForFlyweight</string>
+	<key>finalTabviewSkewy</key>
+	<string>ephemeralPresenterDirection</string>
+	<key>textWithoutCycle</key>
+	<string>asyncVarColor</string>
+</dict>
+</plist>

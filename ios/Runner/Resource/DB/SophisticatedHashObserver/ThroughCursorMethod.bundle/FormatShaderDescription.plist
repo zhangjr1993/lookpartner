@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSinkSkewy</key>
+	<string>menuAwaySingleton</string>
+	<key>appbarLevelLeft</key>
+	<string>concreteUtilOrigin</string>
+	<key>independentSpineDensity</key>
+	<string>positionExceptSingleton</string>
+	<key>iterativeImageBottom</key>
+	<string>projectionNearState</string>
+	<key>progressbarAndWork</key>
+	<string>slashContextLeft</string>
+	<key>progressbarAroundChain</key>
+	<string>textOutsideMediator</string>
+	<key>unaryAlongVisitor</key>
+	<string>binaryCycleMargin</string>
+</dict>
+</plist>

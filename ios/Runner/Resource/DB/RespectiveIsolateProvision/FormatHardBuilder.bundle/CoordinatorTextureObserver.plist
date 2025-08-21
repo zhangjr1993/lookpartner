@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondParameter</key>
+	<string>notifierFunctionFlags</string>
+	<key>elasticBaseValidation</key>
+	<string>originalThreadOrigin</string>
+	<key>fragmentInsideBridge</key>
+	<string>primaryFutureRate</string>
+	<key>labelFromStrategy</key>
+	<string>unsortedAlertBehavior</string>
+	<key>rapidLossDelay</key>
+	<string>nodeShapeColor</string>
+	<key>zoneObserverFrequency</key>
+	<string>completerStrategyResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNodeOpacity</key>
+	<string>publicAssetValidation</string>
+	<key>geometricSizedboxPosition</key>
+	<string>easySizeAppearance</string>
+	<key>observerOutsideScope</key>
+	<string>independentCoordinatorRight</string>
+	<key>sliderFromPlatform</key>
+	<string>statelessTweenSpacing</string>
+</dict>
+</plist>

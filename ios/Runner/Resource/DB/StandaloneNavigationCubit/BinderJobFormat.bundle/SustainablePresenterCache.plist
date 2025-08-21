@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromActivity</key>
+	<string>builderWorkTop</string>
+	<key>buttonParamStyle</key>
+	<string>sceneForCycle</string>
+	<key>factoryAsSystem</key>
+	<string>firstIntensityInteraction</string>
+	<key>interactorNumberPosition</key>
+	<string>isolateModeRight</string>
+	<key>notifierPlatformHue</key>
+	<string>prismaticRouteAcceleration</string>
+	<key>pointMediatorStatus</key>
+	<string>fixedNotificationBrightness</string>
+	<key>profileLayerHead</key>
+	<string>boxContextEdge</string>
+	<key>scaleContainForm</key>
+	<string>anchorProcessScale</string>
+	<key>standaloneTextResponse</key>
+	<string>functionalTangentKind</string>
+</dict>
+</plist>

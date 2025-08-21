@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalTabviewName</key>
+	<string>featureDecoratorContrast</string>
+	<key>offsetEnvironmentShade</key>
+	<string>notifierLayerContrast</string>
+	<key>overlayWithFlyweight</key>
+	<string>widgetStateBound</string>
+	<key>previewSinceKind</key>
+	<string>mobileConfigurationName</string>
+	<key>scrollDespiteKind</key>
+	<string>assetContextVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFactoryTint</key>
+	<string>bufferForVariable</string>
+	<key>controllerAboutComposite</key>
+	<string>semanticPlaybackTail</string>
+	<key>navigatorObserverTint</key>
+	<string>globalCubitTail</string>
+</dict>
+</plist>

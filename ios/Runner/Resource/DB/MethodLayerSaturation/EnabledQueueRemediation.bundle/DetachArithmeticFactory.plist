@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCycleLeft</key>
+	<string>constInstructionDepth</string>
+	<key>entropyAsInterpreter</key>
+	<string>timerKindFormat</string>
+	<key>overlayValueFormat</key>
+	<string>frameDuringStage</string>
+	<key>positionParameterFrequency</key>
+	<string>vectorThroughParam</string>
+	<key>resizableBoxshadowBrightness</key>
+	<string>declarativePreviewScale</string>
+	<key>standaloneSegmentKind</key>
+	<string>metadataWithoutWork</string>
+	<key>titleAmongChain</key>
+	<string>graphParamInteraction</string>
+	<key>tweenStateHead</key>
+	<string>blocCommandLeft</string>
+</dict>
+</plist>

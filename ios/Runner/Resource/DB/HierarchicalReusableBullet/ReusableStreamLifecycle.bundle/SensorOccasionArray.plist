@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorContextPadding</key>
+	<string>hashWithProxy</string>
+	<key>cacheFacadeInset</key>
+	<string>controllerUntilComposite</string>
+	<key>desktopTickerColor</key>
+	<string>tensorCubitBound</string>
+	<key>dialogsBridgeRate</key>
+	<string>dynamicResolverCount</string>
+	<key>graphicModeFlags</key>
+	<string>basicEffectBorder</string>
+	<key>methodContextValidation</key>
+	<string>mediaqueryInsideChain</string>
+	<key>modelBeyondCommand</key>
+	<string>animatedWidgetForce</string>
+	<key>semanticOverlayTag</key>
+	<string>persistentOptionValidation</string>
+	<key>synchronousBoxshadowShade</key>
+	<string>smartInterpolationDirection</string>
+	<key>tensorButtonCoord</key>
+	<string>listviewFrameworkHue</string>
+</dict>
+</plist>

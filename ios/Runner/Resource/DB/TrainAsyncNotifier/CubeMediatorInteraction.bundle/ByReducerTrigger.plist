@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOperationDepth</key>
+	<string>awaitOrDecorator</string>
+	<key>currentCurveSkewy</key>
+	<string>consumerThroughFlyweight</string>
+	<key>dedicatedStreamSkewy</key>
+	<string>clipperTypeTint</string>
+	<key>themeUntilPhase</key>
+	<string>lastContainerType</string>
+</dict>
+</plist>

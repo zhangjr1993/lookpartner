@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTempleInteraction</key>
+	<string>checkboxOfStage</string>
+	<key>cycleAsFramework</key>
+	<string>normVarTheme</string>
+	<key>lazyBufferSpacing</key>
+	<string>heroOrStyle</string>
+	<key>modelValueRotation</key>
+	<string>interactorStageInterval</string>
+	<key>titleOrMode</key>
+	<string>seamlessCompleterIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVariableTail</key>
+	<string>delicateSpriteBorder</string>
+	<key>callbackBridgeVisible</key>
+	<string>controllerIncludeMemento</string>
+	<key>completerCycleShape</key>
+	<string>clipperChainTheme</string>
+	<key>configurationOutsideObserver</key>
+	<string>durationFrameworkOpacity</string>
+	<key>ephemeralSwiftDelay</key>
+	<string>entropyForShape</string>
+	<key>lostLayerBehavior</key>
+	<string>vectorIncludeForm</string>
+	<key>statelessGridSkewy</key>
+	<string>providerCompositeVisibility</string>
+</dict>
+</plist>

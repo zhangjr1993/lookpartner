@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBaseFlags</key>
+	<string>currentEffectName</string>
+	<key>builderVarVisible</key>
+	<string>layoutExceptComposite</string>
+	<key>cubitMediatorFrequency</key>
+	<string>grainActivityType</string>
+	<key>exceptionProcessBottom</key>
+	<string>cubitModeTint</string>
+	<key>materialAsyncAlignment</key>
+	<string>descriptionThanAdapter</string>
+	<key>widgetActionSaturation</key>
+	<string>gramPerNumber</string>
+</dict>
+</plist>

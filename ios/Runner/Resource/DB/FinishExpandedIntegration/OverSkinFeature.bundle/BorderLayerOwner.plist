@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughStructure</key>
+	<string>customizedContainerTag</string>
+	<key>channelBridgeStyle</key>
+	<string>textfieldByStructure</string>
+	<key>controllerKindFormat</key>
+	<string>blocDecoratorType</string>
+	<key>diffableMarginSkewx</key>
+	<string>protectedStateShade</string>
+	<key>gestureShapeScale</key>
+	<string>sequentialPopupEdge</string>
+	<key>playbackAboutContext</key>
+	<string>binaryUntilScope</string>
+	<key>queueInsideProcess</key>
+	<string>viewEnvironmentContrast</string>
+	<key>zoneNearEnvironment</key>
+	<string>interactorThanChain</string>
+</dict>
+</plist>

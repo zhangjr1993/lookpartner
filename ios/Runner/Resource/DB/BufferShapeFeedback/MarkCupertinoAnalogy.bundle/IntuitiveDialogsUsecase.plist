@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitScopeDirection</key>
+	<string>behaviorChainMode</string>
+	<key>firstTextKind</key>
+	<string>reactiveSampleFrequency</string>
+	<key>fixedBitrateDirection</key>
+	<string>radiusModeCenter</string>
+	<key>largeAnimationOrientation</key>
+	<string>handlerAlongStructure</string>
+	<key>operationLikeStructure</key>
+	<string>curveProxyScale</string>
+	<key>resourcePatternContrast</key>
+	<string>cubitObserverPressure</string>
+	<key>stateAlongShape</key>
+	<string>entityOfDecorator</string>
+	<key>techniquePrototypeTop</key>
+	<string>newestStoreContrast</string>
+</dict>
+</plist>

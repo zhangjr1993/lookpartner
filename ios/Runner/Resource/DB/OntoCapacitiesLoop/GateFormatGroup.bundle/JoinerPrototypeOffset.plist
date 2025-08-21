@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDelegateAlignment</key>
+	<string>awaitPerType</string>
+	<key>bufferExceptJob</key>
+	<string>extensionMethodColor</string>
+	<key>hardExpandedSpacing</key>
+	<string>dedicatedProviderLocation</string>
+	<key>pivotalErrorEdge</key>
+	<string>currentShaderSize</string>
+	<key>profileVersusProcess</key>
+	<string>greatSliderBound</string>
+	<key>providerCycleVelocity</key>
+	<string>zoneAroundCycle</string>
+	<key>shaderSingletonBrightness</key>
+	<string>euclideanTabbarMargin</string>
+	<key>unactivatedPresenterInset</key>
+	<string>immutableInjectionResponse</string>
+	<key>zoneProcessBehavior</key>
+	<string>configurationInsideStage</string>
+</dict>
+</plist>

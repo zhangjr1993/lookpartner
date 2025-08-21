@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorViaLayer</key>
+	<string>builderAroundContext</string>
+	<key>callbackOfComposite</key>
+	<string>effectBufferRight</string>
+	<key>gridSingletonBrightness</key>
+	<string>hardSwitchAcceleration</string>
+	<key>kernelPrototypeStyle</key>
+	<string>labelAmongDecorator</string>
+	<key>priorRectOrigin</key>
+	<string>managerProxyVelocity</string>
+	<key>sortedEqualizationMomentum</key>
+	<string>oldTransitionTheme</string>
+	<key>ternaryOperationSkewx</key>
+	<string>usecaseChainDistance</string>
+	<key>webInterpolationBorder</key>
+	<string>callbackNumberRate</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorActivityResponse</key>
+	<string>pageviewVersusObserver</string>
+	<key>stackContextDensity</key>
+	<string>containerByStyle</string>
+	<key>storageAgainstFramework</key>
+	<string>boxAtForm</string>
+</dict>
+</plist>

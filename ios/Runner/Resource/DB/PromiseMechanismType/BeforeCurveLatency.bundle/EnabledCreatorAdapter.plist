@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFutureFlags</key>
+	<string>profileAsComposite</string>
+	<key>draggableResolverMode</key>
+	<string>labelFormMode</string>
+	<key>layerOperationLocation</key>
+	<string>mediaqueryLayerEdge</string>
+	<key>providerContextState</key>
+	<string>routerFrameworkName</string>
+	<key>resizableGraphRotation</key>
+	<string>lazyReferenceOrigin</string>
+	<key>responseVariableHead</key>
+	<string>callbackExceptLayer</string>
+	<key>responsiveProgressbarTag</key>
+	<string>gridAlongWork</string>
+	<key>richtextSinceWork</key>
+	<string>assetTempleTint</string>
+	<key>sessionFunctionRotation</key>
+	<string>scaleAboutDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAwaitStyle</key>
+	<string>protocolInsideVar</string>
+	<key>reactiveIsolateDuration</key>
+	<string>durationBesideShape</string>
+	<key>skirtLayerBottom</key>
+	<string>lazySinkRate</string>
+	<key>slashFromStrategy</key>
+	<string>responseSingletonPadding</string>
+</dict>
+</plist>

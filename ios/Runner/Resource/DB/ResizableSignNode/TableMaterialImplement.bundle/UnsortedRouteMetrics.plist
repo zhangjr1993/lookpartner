@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFromVisitor</key>
+	<string>uniqueStateAcceleration</string>
+	<key>ignoredCompositionBehavior</key>
+	<string>channelSingletonSpeed</string>
+	<key>immediateCubeOffset</key>
+	<string>unactivatedIsolateFlags</string>
+	<key>normVisitorRotation</key>
+	<string>sessionUntilSystem</string>
+	<key>roleAdapterDepth</key>
+	<string>radiusInsideActivity</string>
+	<key>routeContainVisitor</key>
+	<string>controllerFromLevel</string>
+	<key>toolOrType</key>
+	<string>sortedLoopStatus</string>
+	<key>typicalMetadataPosition</key>
+	<string>stampActivityLeft</string>
+</dict>
+</plist>

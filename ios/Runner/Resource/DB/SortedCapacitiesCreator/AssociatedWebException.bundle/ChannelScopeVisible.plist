@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferThanFacade</key>
+	<string>sineNearMode</string>
+	<key>cartesianConstraintName</key>
+	<string>radiusContextOffset</string>
+	<key>cubitChainBrightness</key>
+	<string>sharedTextDistance</string>
+	<key>gesturedetectorThroughStage</key>
+	<string>projectBeyondWork</string>
+	<key>indicatorThroughAction</key>
+	<string>containerOutsideVisitor</string>
+	<key>listviewContainVisitor</key>
+	<string>reducerBesideStage</string>
+	<key>zoneAroundStyle</key>
+	<string>arithmeticViewDelay</string>
+</dict>
+</plist>

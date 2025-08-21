@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerParameterTransparency</key>
+	<string>tweenStageTheme</string>
+	<key>cycleAwayFunction</key>
+	<string>multiStackSkewx</string>
+	<key>gradientShapeHue</key>
+	<string>storyboardContextColor</string>
+	<key>requiredAspectFlags</key>
+	<string>secondGraphCenter</string>
+	<key>routeAlongValue</key>
+	<string>mediaqueryUntilValue</string>
+	<key>semanticStatelessTheme</key>
+	<string>topicWithoutMediator</string>
+	<key>vectorAndLevel</key>
+	<string>immutableActionBrightness</string>
+</dict>
+</plist>

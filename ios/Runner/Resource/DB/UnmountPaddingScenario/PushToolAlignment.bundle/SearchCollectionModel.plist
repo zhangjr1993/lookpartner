@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicViewSpeed</key>
+	<string>textAwayDecorator</string>
+	<key>interpolationAndScope</key>
+	<string>listviewThroughNumber</string>
+	<key>mobxJobRate</key>
+	<string>lastChecklistFeedback</string>
+	<key>nodeBufferTint</key>
+	<string>awaitInsideVisitor</string>
+	<key>respectiveLabelVisible</key>
+	<string>gridviewSincePhase</string>
+	<key>routerProxyTop</key>
+	<string>priorMomentumTension</string>
+</dict>
+</plist>

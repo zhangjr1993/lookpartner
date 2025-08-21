@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceFunction</key>
+	<string>matrixAsPlatform</string>
+	<key>capsuleOutsideKind</key>
+	<string>cacheInsideSingleton</string>
+	<key>contractionPrototypeInterval</key>
+	<string>modalActionAcceleration</string>
+	<key>denseStackSkewx</key>
+	<string>serviceValueOrigin</string>
+	<key>inactiveRouteAlignment</key>
+	<string>diffableEventCoord</string>
+	<key>overlayScopeAppearance</key>
+	<string>transformerExceptStructure</string>
+	<key>popupWithMethod</key>
+	<string>matrixUntilChain</string>
+	<key>seguePatternFormat</key>
+	<string>semanticPromiseSkewy</string>
+	<key>typicalManagerValidation</key>
+	<string>greatPointTail</string>
+</dict>
+</plist>

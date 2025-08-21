@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDependencyMargin</key>
+	<string>canvasLevelPosition</string>
+	<key>gestureWithAction</key>
+	<string>riverpodVariableColor</string>
+	<key>mediaqueryEnvironmentDirection</key>
+	<string>stackNearPlatform</string>
+	<key>nextStreamBorder</key>
+	<string>movementPatternSkewy</string>
+	<key>roleAtParam</key>
+	<string>fixedNavigatorCount</string>
+	<key>routeAroundStage</key>
+	<string>sharedRemainderInset</string>
+</dict>
+</plist>

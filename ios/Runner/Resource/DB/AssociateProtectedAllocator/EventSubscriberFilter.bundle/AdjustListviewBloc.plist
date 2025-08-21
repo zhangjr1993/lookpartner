@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constProviderAcceleration</key>
+	<string>intensityThroughBuffer</string>
+	<key>loopForBridge</key>
+	<string>symmetricControllerSpeed</string>
+	<key>lostSpotHue</key>
+	<string>kernelDecoratorSkewx</string>
+	<key>particleAsSystem</key>
+	<string>catalystUntilMethod</string>
+	<key>resilientSemanticsPressure</key>
+	<string>newestSceneFeedback</string>
+	<key>responsivePreviewSkewy</key>
+	<string>titleLayerState</string>
+	<key>sineFlyweightSpeed</key>
+	<string>interfaceNearJob</string>
+	<key>transitionAlongNumber</key>
+	<string>firstBrushAcceleration</string>
+</dict>
+</plist>

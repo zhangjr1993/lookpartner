@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTickerFeedback</key>
+	<string>mutableQueryBorder</string>
+	<key>controllerStyleColor</key>
+	<string>directInteractorStyle</string>
+	<key>decorationObserverRate</key>
+	<string>gateNearAction</string>
+	<key>enabledBulletKind</key>
+	<string>skinOfBridge</string>
+	<key>groupOfForm</key>
+	<string>sortedCurveFlags</string>
+	<key>interfaceOperationColor</key>
+	<string>invisibleMenuPosition</string>
+	<key>reducerSinceComposite</key>
+	<string>decorationOrState</string>
+	<key>tickerAsPrototype</key>
+	<string>actionBesideValue</string>
+</dict>
+</plist>

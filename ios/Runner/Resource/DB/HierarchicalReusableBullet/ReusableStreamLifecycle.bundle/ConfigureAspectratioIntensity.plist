@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorLevelOrientation</key>
+	<string>alignmentIncludeCommand</string>
+	<key>decorationBridgeResponse</key>
+	<string>responsiveFutureOpacity</string>
+	<key>flexibleOffsetDepth</key>
+	<string>vectorViaFramework</string>
+	<key>gateOrLevel</key>
+	<string>progressbarWorkVisible</string>
+	<key>granularTouchBehavior</key>
+	<string>durationValueSkewx</string>
+	<key>graphStrategyOpacity</key>
+	<string>hardInteractorDensity</string>
+	<key>providerBeyondFlyweight</key>
+	<string>asyncBufferInterval</string>
+	<key>responsiveTernaryLocation</key>
+	<string>queueActionLeft</string>
+	<key>subtleWorkflowRight</key>
+	<string>batchForParameter</string>
+</dict>
+</plist>

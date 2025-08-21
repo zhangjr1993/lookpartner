@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioByFacade</key>
+	<string>routerAdapterFormat</string>
+	<key>associatedDelegateInset</key>
+	<string>routerMediatorLeft</string>
+	<key>captionSingletonOrigin</key>
+	<string>customizedStoryboardHue</string>
+	<key>decorationProxyContrast</key>
+	<string>blocInsideValue</string>
+	<key>presenterDuringTask</key>
+	<string>criticalHistogramTop</string>
+	<key>sceneOrWork</key>
+	<string>discardedAsyncHue</string>
+	<key>usecasePerPattern</key>
+	<string>ignoredIconSize</string>
+</dict>
+</plist>

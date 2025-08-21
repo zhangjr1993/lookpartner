@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInsideStrategy</key>
+	<string>asyncEnvironmentRotation</string>
+	<key>aspectChainDelay</key>
+	<string>immediateCoordinatorState</string>
+	<key>chartStageAlignment</key>
+	<string>completionWithBridge</string>
+	<key>flexibleSymbolSkewy</key>
+	<string>singleBlocSaturation</string>
+	<key>lostSpecifierIndex</key>
+	<string>dynamicResultBound</string>
+	<key>previewNumberIndex</key>
+	<string>compositionalRouteHead</string>
+	<key>seguePerSingleton</key>
+	<string>symmetricAssetShade</string>
+	<key>storageOperationCenter</key>
+	<string>transformerProcessScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCurveVelocity</key>
+	<string>originalMethodVelocity</string>
+	<key>cosineFromLayer</key>
+	<string>dependencyPerPlatform</string>
+	<key>mediaqueryViaStructure</key>
+	<string>keyResolverHue</string>
+	<key>painterAmongProxy</key>
+	<string>apertureAtForm</string>
+	<key>skinObserverStyle</key>
+	<string>ternaryStrategyTheme</string>
+	<key>transitionPrototypeTheme</key>
+	<string>storyboardOrBridge</string>
+</dict>
+</plist>

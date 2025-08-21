@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaMemento</key>
+	<string>semanticAlignmentHead</string>
+	<key>customRadiusBorder</key>
+	<string>presenterIncludeComposite</string>
+	<key>inkwellOfSingleton</key>
+	<string>featureByState</string>
+	<key>interactiveRowInteraction</key>
+	<string>draggableRepositoryMode</string>
+	<key>navigatorContainCycle</key>
+	<string>decorationInsideStage</string>
+	<key>particleBeyondVariable</key>
+	<string>offsetViaStructure</string>
+	<key>storeInFacade</key>
+	<string>methodNumberMomentum</string>
+	<key>widgetFlyweightMomentum</key>
+	<string>reducerDuringCycle</string>
+</dict>
+</plist>

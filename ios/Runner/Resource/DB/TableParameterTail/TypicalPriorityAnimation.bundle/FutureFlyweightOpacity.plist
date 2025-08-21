@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchParamMargin</key>
+	<string>controllerContainSingleton</string>
+	<key>bulletExceptType</key>
+	<string>navigationVersusTemple</string>
+	<key>constraintPerDecorator</key>
+	<string>usecaseAwaySingleton</string>
+	<key>controllerOrAdapter</key>
+	<string>alignmentProcessStatus</string>
+	<key>grayscaleFormIndex</key>
+	<string>unsortedDelegateInset</string>
+	<key>listviewProxyRight</key>
+	<string>riverpodLikeAdapter</string>
+</dict>
+</plist>

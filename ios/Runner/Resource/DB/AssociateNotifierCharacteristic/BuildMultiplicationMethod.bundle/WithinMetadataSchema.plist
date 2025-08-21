@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByFacade</key>
+	<string>deferredSliderFrequency</string>
+	<key>kernelInterpreterTransparency</key>
+	<string>localizationMethodInset</string>
+	<key>singleTabviewRate</key>
+	<string>capacitiesActivityType</string>
+	<key>spriteNumberDelay</key>
+	<string>managerSystemScale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGradientTransparency</key>
+	<string>semanticsAtParameter</string>
+	<key>appbarFacadeShape</key>
+	<string>loopNearActivity</string>
+	<key>displayableSwitchShade</key>
+	<string>multiCaptionPadding</string>
+	<key>durationVarLocation</key>
+	<string>precisionFlyweightDistance</string>
+	<key>pinchableGridSkewx</key>
+	<string>viewWithoutInterpreter</string>
+	<key>rapidDurationTop</key>
+	<string>sliderPerLayer</string>
+	<key>streamExceptStructure</key>
+	<string>usedTextureTheme</string>
+</dict>
+</plist>

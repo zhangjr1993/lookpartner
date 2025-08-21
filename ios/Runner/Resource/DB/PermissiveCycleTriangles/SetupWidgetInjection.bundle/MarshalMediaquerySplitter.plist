@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTimerVisibility</key>
+	<string>sustainableBlocValidation</string>
+	<key>frameLevelOrientation</key>
+	<string>cursorOperationLocation</string>
+	<key>lastLossStyle</key>
+	<string>bufferTaskLocation</string>
+	<key>mobileOperationOffset</key>
+	<string>storeScopeName</string>
+	<key>screenAboutWork</key>
+	<string>ephemeralFactoryBorder</string>
+	<key>spotExceptWork</key>
+	<string>asyncMultiplicationRotation</string>
+	<key>stampBufferInset</key>
+	<string>queueDespiteBridge</string>
+	<key>tableActivityRotation</key>
+	<string>progressbarDespiteLevel</string>
+	<key>viewActionShade</key>
+	<string>featureBesideVar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTempleTension</key>
+	<string>graphAwayLevel</string>
+	<key>callbackOfNumber</key>
+	<string>controllerSinceActivity</string>
+	<key>curveVersusValue</key>
+	<string>containerObserverSize</string>
+	<key>cycleAroundPhase</key>
+	<string>offsetOperationRate</string>
+	<key>labelKindBehavior</key>
+	<string>providerVarFormat</string>
+	<key>sortedHashAcceleration</key>
+	<string>statefulInsideActivity</string>
+</dict>
+</plist>

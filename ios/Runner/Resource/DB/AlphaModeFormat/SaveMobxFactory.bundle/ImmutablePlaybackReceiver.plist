@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureLikeFlyweight</key>
+	<string>activeAppbarBorder</string>
+	<key>heroLayerSpeed</key>
+	<string>gestureViaScope</string>
+	<key>menuExceptType</key>
+	<string>similarNavigatorMargin</string>
+	<key>subscriptionSystemOpacity</key>
+	<string>batchOutsideInterpreter</string>
+</dict>
+</plist>

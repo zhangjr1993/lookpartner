@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionJobAppearance</key>
+	<string>widgetUntilState</string>
+	<key>crudeObserverTheme</key>
+	<string>parallelResponseTail</string>
+	<key>decorationShapeBorder</key>
+	<string>reactiveSizeRight</string>
+	<key>sliderDecoratorDepth</key>
+	<string>futureAboutBridge</string>
+	<key>usecaseNumberSkewx</key>
+	<string>observerPerProxy</string>
+</dict>
+</plist>

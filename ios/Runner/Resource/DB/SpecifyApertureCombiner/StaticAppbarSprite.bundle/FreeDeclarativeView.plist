@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOrOperation</key>
+	<string>rectVersusMethod</string>
+	<key>exponentFunctionOrientation</key>
+	<string>singleExponentFormat</string>
+	<key>getxModeStatus</key>
+	<string>gestureCommandResponse</string>
+	<key>grainDecoratorDistance</key>
+	<string>menuInsideStage</string>
+	<key>gridChainFormat</key>
+	<string>boxshadowScopeRotation</string>
+	<key>intuitiveAspectratioResponse</key>
+	<string>protectedQueryTag</string>
+	<key>localizationVariableScale</key>
+	<string>presenterDespiteVar</string>
+	<key>viewVariableBound</key>
+	<string>basicTextBehavior</string>
+</dict>
+</plist>

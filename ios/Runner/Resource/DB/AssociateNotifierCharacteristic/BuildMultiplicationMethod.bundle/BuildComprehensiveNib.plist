@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePlatformOrientation</key>
+	<string>previewFlyweightOrientation</string>
+	<key>baselineStyleType</key>
+	<string>actionSingletonCount</string>
+	<key>cellUntilPlatform</key>
+	<string>labelProxyShape</string>
+	<key>chapterExceptForm</key>
+	<string>singlePresenterRate</string>
+	<key>finalCacheShape</key>
+	<string>mediaqueryFacadeInset</string>
+	<key>labelTierDelay</key>
+	<string>constraintAtType</string>
+	<key>mobileInteractorVisible</key>
+	<string>rapidScreenInset</string>
+	<key>tweenExceptMemento</key>
+	<string>mapLayerFrequency</string>
+	<key>unaryWorkPressure</key>
+	<string>advancedStoreLeft</string>
+</dict>
+</plist>

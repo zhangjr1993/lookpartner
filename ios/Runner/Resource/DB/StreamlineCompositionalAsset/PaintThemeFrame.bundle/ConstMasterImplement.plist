@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerBeyondTier</key>
+	<string>nativeOffsetCoord</string>
+	<key>notifierWithShape</key>
+	<string>riverpodProcessTop</string>
+	<key>reusableBuilderFrequency</key>
+	<string>textfieldAtFacade</string>
+	<key>tweenInsideType</key>
+	<string>shaderFlyweightPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsSingleton</key>
+	<string>hardTextKind</string>
+	<key>asyncExceptKind</key>
+	<string>lossAroundStage</string>
+	<key>delegateCycleFormat</key>
+	<string>composableCubitRotation</string>
+	<key>displayableProgressbarTheme</key>
+	<string>logDecoratorScale</string>
+	<key>durationWithProcess</key>
+	<string>permissiveGrainSkewx</string>
+	<key>materialForForm</key>
+	<string>substantialConvolutionTail</string>
+	<key>modalFunctionTint</key>
+	<string>independentAllocatorHead</string>
+	<key>spriteAwaySingleton</key>
+	<string>requestAwayStage</string>
+	<key>viewPhaseBound</key>
+	<string>marginStrategyRotation</string>
+</dict>
+</plist>

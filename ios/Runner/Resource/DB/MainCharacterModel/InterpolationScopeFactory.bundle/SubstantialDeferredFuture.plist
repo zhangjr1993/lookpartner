@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInStrategy</key>
+	<string>currentCubeDistance</string>
+	<key>compositionalAlignmentEdge</key>
+	<string>queryThroughTier</string>
+	<key>constraintMementoOrigin</key>
+	<string>iconViaFacade</string>
+	<key>difficultSpriteCoord</key>
+	<string>customEntityTint</string>
+	<key>matrixContainTemple</key>
+	<string>localizationStageOrientation</string>
+	<key>primaryCurveBehavior</key>
+	<string>consumerCycleFlags</string>
+	<key>smartRadioPosition</key>
+	<string>cubeDuringMemento</string>
+	<key>variantParamOrientation</key>
+	<string>largeGraphShade</string>
+</dict>
+</plist>

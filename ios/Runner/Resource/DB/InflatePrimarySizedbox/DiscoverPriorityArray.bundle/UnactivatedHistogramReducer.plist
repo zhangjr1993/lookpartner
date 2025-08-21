@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCallbackSpacing</key>
+	<string>graphAlongSystem</string>
+	<key>bulletPrototypeIndex</key>
+	<string>pageviewLayerFeedback</string>
+	<key>nodeAtDecorator</key>
+	<string>storeByVar</string>
+	<key>pinchableStreamRate</key>
+	<string>profileExceptParameter</string>
+	<key>progressbarUntilTask</key>
+	<string>particleShapeCoord</string>
+	<key>streamCompositeTheme</key>
+	<string>mobileDurationSkewy</string>
+	<key>swiftOrPlatform</key>
+	<string>deferredPaddingDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesidePlatform</key>
+	<string>statelessStreamPressure</string>
+	<key>chartSystemColor</key>
+	<string>equalizationFacadeFeedback</string>
+	<key>cubitCommandValidation</key>
+	<string>capacitiesPhaseMomentum</string>
+	<key>fusedChecklistContrast</key>
+	<string>finalNodeDistance</string>
+	<key>immutableChannelsDistance</key>
+	<string>metadataAdapterOrigin</string>
+	<key>immutableViewTransparency</key>
+	<string>graphNearPattern</string>
+	<key>interactorFunctionSpeed</key>
+	<string>progressbarAlongProcess</string>
+	<key>optimizerOutsideProxy</key>
+	<string>relationalRadiusFeedback</string>
+	<key>painterCompositeFrequency</key>
+	<string>injectionWorkMomentum</string>
+</dict>
+</plist>

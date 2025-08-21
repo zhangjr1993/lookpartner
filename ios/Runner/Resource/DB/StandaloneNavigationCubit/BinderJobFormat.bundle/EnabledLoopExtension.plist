@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVarDirection</key>
+	<string>desktopMusicPadding</string>
+	<key>directTransitionKind</key>
+	<string>symbolPerChain</string>
+	<key>presenterFromState</key>
+	<string>signatureOutsideStage</string>
+	<key>similarResolverRate</key>
+	<string>alphaStrategyShade</string>
+</dict>
+</plist>

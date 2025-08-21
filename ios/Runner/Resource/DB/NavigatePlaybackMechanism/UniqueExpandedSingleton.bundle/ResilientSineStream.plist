@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDuringMethod</key>
+	<string>activatedPainterVelocity</string>
+	<key>effectMementoBorder</key>
+	<string>declarativeCubitContrast</string>
+	<key>featureNumberOrigin</key>
+	<string>builderCycleBrightness</string>
+	<key>imageThroughVariable</key>
+	<string>resolverAlongStage</string>
+	<key>publicMethodDepth</key>
+	<string>singleResolverAcceleration</string>
+	<key>queueContextRotation</key>
+	<string>pivotalAwaitDepth</string>
+</dict>
+</plist>

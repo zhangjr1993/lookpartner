@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateByPrototype</key>
+	<string>chapterDespiteEnvironment</string>
+	<key>chapterPlatformLocation</key>
+	<string>autoGateStyle</string>
+	<key>deferredRectVisibility</key>
+	<string>firstScaffoldTransparency</string>
+	<key>easyBitrateStyle</key>
+	<string>desktopCompletionTheme</string>
+	<key>immutableInteractorHue</key>
+	<string>basicObserverVisibility</string>
+	<key>positionMediatorMode</key>
+	<string>beginnerCompletionCenter</string>
+	<key>uniqueSkinBehavior</key>
+	<string>timerAndPhase</string>
+</dict>
+</plist>

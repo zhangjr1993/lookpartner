@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainContext</key>
+	<string>declarativeDescriptionHue</string>
+	<key>dimensionMementoSpacing</key>
+	<string>tabbarBesideFacade</string>
+	<key>indicatorByTier</key>
+	<string>ignoredProfileTint</string>
+	<key>inkwellBesideCommand</key>
+	<string>loopVariableOrigin</string>
+	<key>opaquePetFeedback</key>
+	<string>bufferStageIndex</string>
+	<key>sortedCubitFeedback</key>
+	<string>techniqueModeVelocity</string>
+	<key>specifyCheckboxDirection</key>
+	<string>sceneAndStrategy</string>
+	<key>synchronousAlphaFormat</key>
+	<string>resolverWorkEdge</string>
+	<key>tabviewSystemDelay</key>
+	<string>localizationStageCount</string>
+	<key>zoneFromProcess</key>
+	<string>subsequentFrameMode</string>
+</dict>
+</plist>

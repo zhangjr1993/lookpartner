@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrainTheme</key>
+	<string>fusedFactoryPadding</string>
+	<key>customizedContractionShade</key>
+	<string>pivotalStampTransparency</string>
+	<key>durationOrEnvironment</key>
+	<string>activeWidgetKind</string>
+	<key>largeAssetDirection</key>
+	<string>sceneInterpreterFlags</string>
+	<key>metadataPlatformDuration</key>
+	<string>localConstraintFlags</string>
+	<key>nextPromiseFlags</key>
+	<string>declarativeExtensionBound</string>
+	<key>spineAndChain</key>
+	<string>challengeScopeRotation</string>
+	<key>textfieldBufferShade</key>
+	<string>stackFrameworkVisibility</string>
+</dict>
+</plist>

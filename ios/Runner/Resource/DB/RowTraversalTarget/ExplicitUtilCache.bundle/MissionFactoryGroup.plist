@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackJobDistance</key>
+	<string>concreteCoordinatorRate</string>
+	<key>completerFlyweightLeft</key>
+	<string>controllerInsideInterpreter</string>
+	<key>graphVersusMemento</key>
+	<string>positionForAction</string>
+	<key>platePlatformRotation</key>
+	<string>sharedCursorDistance</string>
+</dict>
+</plist>

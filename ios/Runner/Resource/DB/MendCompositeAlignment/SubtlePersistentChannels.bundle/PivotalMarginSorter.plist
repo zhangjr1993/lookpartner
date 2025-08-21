@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveContextOrigin</key>
+	<string>symmetricOverlaySaturation</string>
+	<key>descriptorObserverFrequency</key>
+	<string>flexibleQueryAppearance</string>
+	<key>queueOperationAppearance</key>
+	<string>toolStageVisible</string>
+</dict>
+</plist>

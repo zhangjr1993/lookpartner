@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAlongMethod</key>
+	<string>offsetPhaseCenter</string>
+	<key>custompaintThroughEnvironment</key>
+	<string>bulletAndBridge</string>
+	<key>indicatorContainVar</key>
+	<string>reactiveSingletonBottom</string>
+	<key>rectAgainstDecorator</key>
+	<string>optionContextCount</string>
+	<key>transformerProcessInset</key>
+	<string>swiftAsChain</string>
+	<key>utilLevelPressure</key>
+	<string>grainBufferPosition</string>
+</dict>
+</plist>

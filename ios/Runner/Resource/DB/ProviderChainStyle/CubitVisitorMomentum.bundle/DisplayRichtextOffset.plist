@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonAtPrototype</key>
+	<string>transformerTierDirection</string>
+	<key>handlerOrPattern</key>
+	<string>routeMediatorBrightness</string>
+	<key>largeHeroOffset</key>
+	<string>titleBesideJob</string>
+	<key>nodeProcessCoord</key>
+	<string>topicFunctionName</string>
+	<key>singletonFlyweightBrightness</key>
+	<string>stampContainFunction</string>
+	<key>slashMementoMomentum</key>
+	<string>textStageBorder</string>
+	<key>transformerSinceSingleton</key>
+	<string>behaviorOperationRight</string>
+</dict>
+</plist>

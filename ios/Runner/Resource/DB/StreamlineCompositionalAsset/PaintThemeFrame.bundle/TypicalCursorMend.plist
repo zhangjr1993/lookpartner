@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSessionTint</key>
+	<string>touchStrategyVelocity</string>
+	<key>cacheJobInset</key>
+	<string>transformerAdapterBrightness</string>
+	<key>cubitDuringPlatform</key>
+	<string>arithmeticAndActivity</string>
+	<key>enabledLocalizationVisibility</key>
+	<string>builderSystemDuration</string>
+	<key>grainPerOperation</key>
+	<string>matrixCompositeBound</string>
+	<key>immutableMomentumVisibility</key>
+	<string>tensorBitrateVisible</string>
+	<key>interpolationThroughBuffer</key>
+	<string>semanticBoxshadowBound</string>
+	<key>mobileZonePosition</key>
+	<string>routeFromAction</string>
+</dict>
+</plist>

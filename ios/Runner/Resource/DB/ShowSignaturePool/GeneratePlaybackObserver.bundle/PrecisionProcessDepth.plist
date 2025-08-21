@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveWidgetKind</key>
+	<string>listviewNearFramework</string>
+	<key>discardedServiceTheme</key>
+	<string>ternaryMementoFrequency</string>
+	<key>inactiveManagerFlags</key>
+	<string>cosineProxyShape</string>
+	<key>largeLogCenter</key>
+	<string>controllerDespiteFlyweight</string>
+	<key>protocolAsCycle</key>
+	<string>resultFrameworkColor</string>
+	<key>protocolThroughShape</key>
+	<string>promiseAlongScope</string>
+	<key>tickerAgainstScope</key>
+	<string>completionAmongScope</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialToolRate</key>
+	<string>awaitSingletonInteraction</string>
+	<key>gridParamTag</key>
+	<string>invisibleLocalizationDelay</string>
+	<key>loopWorkState</key>
+	<string>backwardChartMargin</string>
+	<key>multiMediaqueryForce</key>
+	<string>frameBridgeForce</string>
+	<key>sceneTaskSpacing</key>
+	<string>radiusNumberScale</string>
+	<key>tangentObserverFormat</key>
+	<string>pointThanPattern</string>
+</dict>
+</plist>

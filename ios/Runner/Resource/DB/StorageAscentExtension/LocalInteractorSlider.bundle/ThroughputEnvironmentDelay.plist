@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorKindPosition</key>
+	<string>graphicFormBehavior</string>
+	<key>directlyCheckboxState</key>
+	<string>publicHandlerFrequency</string>
+	<key>masterActivityAlignment</key>
+	<string>bulletTierBehavior</string>
+	<key>transitionNumberLocation</key>
+	<string>crudeWidgetMargin</string>
+</dict>
+</plist>

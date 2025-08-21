@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastModelRotation</key>
+	<string>intuitiveMomentumTheme</string>
+	<key>otherQueueStyle</key>
+	<string>accessibleSwitchValidation</string>
+	<key>routeOutsidePlatform</key>
+	<string>metadataSingletonRate</string>
+</dict>
+</plist>

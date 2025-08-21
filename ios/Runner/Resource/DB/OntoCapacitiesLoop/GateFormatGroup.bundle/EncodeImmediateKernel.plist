@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAmongStrategy</key>
+	<string>operationContainTier</string>
+	<key>callbackAsScope</key>
+	<string>relationalResourceCoord</string>
+	<key>iconOutsideActivity</key>
+	<string>bitrateVarAppearance</string>
+	<key>interactiveConstraintTransparency</key>
+	<string>metadataInterpreterVisible</string>
+	<key>intuitivePageviewVisibility</key>
+	<string>overlayStageTag</string>
+	<key>navigatorAmongType</key>
+	<string>functionalHashType</string>
+	<key>opaqueModulusKind</key>
+	<string>localizationOrTier</string>
+	<key>semanticsAgainstStyle</key>
+	<string>hyperbolicHandlerMargin</string>
+	<key>signatureBeyondForm</key>
+	<string>behaviorOfState</string>
+</dict>
+</plist>

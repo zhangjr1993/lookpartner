@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFromStyle</key>
+	<string>intensityChainCoord</string>
+	<key>criticalTickerOpacity</key>
+	<string>seamlessNodeAppearance</string>
+	<key>descriptorByBridge</key>
+	<string>consultativeWidgetBorder</string>
+	<key>normalCurveStatus</key>
+	<string>largeCompleterShade</string>
+	<key>numericalAxisVisible</key>
+	<string>backwardTextfieldInset</string>
+	<key>paddingMediatorSkewx</key>
+	<string>commonHeroCount</string>
+	<key>painterBeyondActivity</key>
+	<string>columnLevelPressure</string>
+</dict>
+</plist>

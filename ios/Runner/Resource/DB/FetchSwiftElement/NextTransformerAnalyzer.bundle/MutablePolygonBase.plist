@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBlocDuration</key>
+	<string>histogramCycleTheme</string>
+	<key>cycleByMode</key>
+	<string>segmentMediatorBorder</string>
+	<key>deferredSubpixelForce</key>
+	<string>labelContextTheme</string>
+	<key>directlyRowName</key>
+	<string>iconForProxy</string>
+	<key>projectionNearChain</key>
+	<string>asynchronousAllocatorInteraction</string>
+	<key>spriteFacadeInteraction</key>
+	<string>isolateFrameworkVisible</string>
+	<key>streamAndParameter</key>
+	<string>checklistAmongTemple</string>
+</dict>
+</plist>

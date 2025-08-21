@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeKernelTransparency</key>
+	<string>originalControllerBehavior</string>
+	<key>coordinatorWorkSkewy</key>
+	<string>borderAgainstMemento</string>
+	<key>groupFrameworkStatus</key>
+	<string>touchAsProxy</string>
+	<key>resolverStageType</key>
+	<string>concreteEventScale</string>
+	<key>stateLayerAcceleration</key>
+	<string>missedCubitVisible</string>
+	<key>textureAsStructure</key>
+	<string>cupertinoManagerMargin</string>
+</dict>
+</plist>

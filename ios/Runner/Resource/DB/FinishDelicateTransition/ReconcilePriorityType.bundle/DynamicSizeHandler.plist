@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalIconFeedback</key>
+	<string>progressbarAwayLevel</string>
+	<key>delegateInKind</key>
+	<string>canvasContainPlatform</string>
+	<key>durationShapeTint</key>
+	<string>pointNearStyle</string>
+	<key>inactiveMenuResponse</key>
+	<string>storageStrategyMode</string>
+	<key>mainFactoryBound</key>
+	<string>exceptionInterpreterMomentum</string>
+	<key>navigatorKindHead</key>
+	<string>delegateActionTag</string>
+	<key>parallelLabelMomentum</key>
+	<string>constNotificationSize</string>
+	<key>referenceVarVelocity</key>
+	<string>resizableUsageMomentum</string>
+</dict>
+</plist>

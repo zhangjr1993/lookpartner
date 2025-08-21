@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVarBehavior</key>
+	<string>exceptionStatePosition</string>
+	<key>controllerKindDensity</key>
+	<string>interpolationOrDecorator</string>
+	<key>musicAsNumber</key>
+	<string>coordinatorPrototypeHue</string>
+	<key>normSystemFrequency</key>
+	<string>scrollActivityBehavior</string>
+	<key>notificationStructureFormat</key>
+	<string>navigatorPatternSaturation</string>
+	<key>persistentAllocatorTransparency</key>
+	<string>buttonViaAction</string>
+	<key>positionedChainHead</key>
+	<string>basicEffectSize</string>
+	<key>resolverPerTier</key>
+	<string>imperativeNavigationBorder</string>
+	<key>typicalHashLocation</key>
+	<string>explicitLocalizationShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerProxyStyle</key>
+	<string>deferredNibScale</string>
+	<key>ephemeralUtilVisible</key>
+	<string>layerJobScale</string>
+	<key>gridDuringContext</key>
+	<string>taskBesideDecorator</string>
+	<key>momentumVersusStrategy</key>
+	<string>sustainableTweenFormat</string>
+	<key>swiftForTemple</key>
+	<string>instructionTaskColor</string>
+</dict>
+</plist>

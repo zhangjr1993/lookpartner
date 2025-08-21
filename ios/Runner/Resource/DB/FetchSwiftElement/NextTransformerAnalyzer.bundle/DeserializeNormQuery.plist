@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleChainMargin</key>
+	<string>lostScrollAcceleration</string>
+	<key>crucialPointVisible</key>
+	<string>alertFunctionSpeed</string>
+	<key>cursorCompositeShade</key>
+	<string>compositionCycleDistance</string>
+	<key>flexAdapterAcceleration</key>
+	<string>profileBufferScale</string>
+	<key>graphWithoutVar</key>
+	<string>responseLevelTheme</string>
+</dict>
+</plist>

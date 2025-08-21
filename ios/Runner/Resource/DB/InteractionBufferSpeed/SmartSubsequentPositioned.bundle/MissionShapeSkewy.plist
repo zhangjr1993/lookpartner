@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFormMode</key>
+	<string>collectionTierOrigin</string>
+	<key>bufferLayerPadding</key>
+	<string>blocSingletonBottom</string>
+	<key>eagerStatefulAlignment</key>
+	<string>loopAlongVisitor</string>
+	<key>pivotalAnimationScale</key>
+	<string>uniqueEntropyCenter</string>
+	<key>sinkAlongContext</key>
+	<string>heapPerComposite</string>
+	<key>stepProcessMomentum</key>
+	<string>mediumConsumerSpeed</string>
+	<key>symbolAgainstState</key>
+	<string>mediaqueryForScope</string>
+</dict>
+</plist>

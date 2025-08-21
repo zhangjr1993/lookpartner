@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOutsideFunction</key>
+	<string>invisibleMapMode</string>
+	<key>controllerFormFeedback</key>
+	<string>iterativeContractionPadding</string>
+	<key>curveParameterBorder</key>
+	<string>immediateThreadHue</string>
+	<key>frameAgainstPattern</key>
+	<string>screenValueAlignment</string>
+	<key>functionalStreamTag</key>
+	<string>usecasePlatformOffset</string>
+	<key>hierarchicalEffectOffset</key>
+	<string>timerViaProxy</string>
+	<key>injectionAdapterKind</key>
+	<string>liteCaptionDuration</string>
+	<key>pinchableResourceMargin</key>
+	<string>rowStylePadding</string>
+	<key>taskOperationTop</key>
+	<string>greatBrushBound</string>
+</dict>
+</plist>

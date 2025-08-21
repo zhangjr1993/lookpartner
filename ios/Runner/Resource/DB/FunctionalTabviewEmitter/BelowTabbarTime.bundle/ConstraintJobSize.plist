@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorModeDelay</key>
+	<string>explicitSkirtCenter</string>
+	<key>curveTypePressure</key>
+	<string>mediocrePrecisionTail</string>
+	<key>customizedSubscriptionFrequency</key>
+	<string>discardedDialogsPadding</string>
+	<key>hierarchicalDependencyBottom</key>
+	<string>missedNavigationInteraction</string>
+	<key>newestBuilderMomentum</key>
+	<string>elasticPainterFeedback</string>
+	<key>parallelProgressbarSize</key>
+	<string>resolverDuringFramework</string>
+	<key>signNumberInset</key>
+	<string>isolateProcessCount</string>
+	<key>signatureDuringCommand</key>
+	<string>sustainableLoopTheme</string>
+	<key>swiftJobDistance</key>
+	<string>sizedboxInSingleton</string>
+	<key>visibleGraphRotation</key>
+	<string>permissiveGradientInset</string>
+</dict>
+</plist>

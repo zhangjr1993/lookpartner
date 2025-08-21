@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaParamVisible</key>
+	<string>providerFlyweightEdge</string>
+	<key>delegateAndSingleton</key>
+	<string>presenterBridgeName</string>
+	<key>directlyProgressbarSpacing</key>
+	<string>popupOfJob</string>
+	<key>indicatorAmongInterpreter</key>
+	<string>nextInstructionPosition</string>
+	<key>intuitiveSceneCount</key>
+	<string>permissiveTouchCenter</string>
+	<key>lazyActivityDuration</key>
+	<string>animatedTaskAppearance</string>
+	<key>mediaqueryOutsideTask</key>
+	<string>crucialOffsetTail</string>
+	<key>numericalCubitAcceleration</key>
+	<string>builderStageBottom</string>
+	<key>singletonVarDensity</key>
+	<string>subscriptionShapeBottom</string>
+</dict>
+</plist>

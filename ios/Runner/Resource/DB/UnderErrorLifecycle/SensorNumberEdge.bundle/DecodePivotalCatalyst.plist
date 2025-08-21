@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMetadataVelocity</key>
+	<string>seamlessGrainTransparency</string>
+	<key>globalLossOffset</key>
+	<string>grainSinceMode</string>
+	<key>granularPageviewName</key>
+	<string>activityLayerForce</string>
+	<key>lazyLayerVelocity</key>
+	<string>gemOutsideCycle</string>
+</dict>
+</plist>

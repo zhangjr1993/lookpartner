@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAdapterFrequency</key>
+	<string>gridFrameworkTop</string>
+	<key>constraintScopeInteraction</key>
+	<string>staticCubitInset</string>
+	<key>gemAdapterDirection</key>
+	<string>cubitOutsideSingleton</string>
+	<key>graphProcessSpacing</key>
+	<string>arithmeticParticleCenter</string>
+	<key>intermediateParticleInset</key>
+	<string>graphicAndEnvironment</string>
+	<key>missionUntilType</key>
+	<string>textfieldFacadeBorder</string>
+	<key>optionStructureType</key>
+	<string>listenerAdapterIndex</string>
+</dict>
+</plist>

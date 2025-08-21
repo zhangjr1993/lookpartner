@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSinceWork</key>
+	<string>responsiveMediaqueryRate</string>
+	<key>injectionActivityDelay</key>
+	<string>asyncFormShade</string>
+	<key>integerThroughDecorator</key>
+	<string>localNotifierType</string>
+	<key>mutablePreviewRight</key>
+	<string>symmetricPrecisionShade</string>
+	<key>pinchableAspectratioOffset</key>
+	<string>sequentialWidgetDelay</string>
+	<key>respectiveDurationSpacing</key>
+	<string>disabledInstructionBorder</string>
+	<key>scaffoldAlongForm</key>
+	<string>synchronousDelegateFrequency</string>
+	<key>semanticPointDuration</key>
+	<string>zoneExceptMemento</string>
+	<key>topicCommandShade</key>
+	<string>histogramTempleAppearance</string>
+</dict>
+</plist>

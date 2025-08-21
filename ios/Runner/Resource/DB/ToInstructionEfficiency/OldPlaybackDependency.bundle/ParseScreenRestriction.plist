@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAsProxy</key>
+	<string>explicitDrawerTail</string>
+	<key>constraintUntilAdapter</key>
+	<string>batchProxyCenter</string>
+	<key>customAnimationBrightness</key>
+	<string>accessoryAtFramework</string>
+	<key>fusedGrayscaleBehavior</key>
+	<string>delegateBufferBrightness</string>
+	<key>lastNavigatorInteraction</key>
+	<string>independentAnimatedcontainerDistance</string>
+	<key>managerFormPosition</key>
+	<string>routeDespiteWork</string>
+	<key>shaderTierAppearance</key>
+	<string>isolateDecoratorName</string>
+	<key>usecaseBufferOrientation</key>
+	<string>ternaryContextFrequency</string>
+</dict>
+</plist>

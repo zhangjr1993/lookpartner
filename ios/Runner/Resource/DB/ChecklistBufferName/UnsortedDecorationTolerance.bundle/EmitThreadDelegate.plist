@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentModulusDirection</key>
+	<string>layoutUntilForm</string>
+	<key>containerExceptStrategy</key>
+	<string>paddingPerOperation</string>
+	<key>cursorCommandFormat</key>
+	<string>themeThanBuffer</string>
+	<key>decorationFunctionDistance</key>
+	<string>loopThroughMode</string>
+	<key>errorInterpreterFormat</key>
+	<string>reductionBesideComposite</string>
+	<key>graphicTaskMargin</key>
+	<string>nodeContainCommand</string>
+	<key>imperativeFragmentFormat</key>
+	<string>opaqueGraphicFlags</string>
+	<key>kernelForTier</key>
+	<string>radiusBridgeFeedback</string>
+	<key>projectTypePosition</key>
+	<string>allocatorFunctionAppearance</string>
+	<key>usecaseCompositeLeft</key>
+	<string>layoutSingletonTransparency</string>
+</dict>
+</plist>

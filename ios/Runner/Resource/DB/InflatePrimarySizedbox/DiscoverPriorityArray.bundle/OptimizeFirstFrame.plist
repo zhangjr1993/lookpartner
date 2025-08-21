@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensorEdge</key>
+	<string>dynamicAssetBrightness</string>
+	<key>advancedSwiftBorder</key>
+	<string>grainPhaseInteraction</string>
+	<key>appbarObserverCenter</key>
+	<string>specifyObserverContrast</string>
+	<key>configurationStyleInterval</key>
+	<string>handlerEnvironmentInset</string>
+	<key>getxOutsideFramework</key>
+	<string>transitionViaContext</string>
+	<key>pivotalAnimationOrigin</key>
+	<string>originalDrawerBorder</string>
+	<key>visibleCallbackTransparency</key>
+	<string>exceptionVarEdge</string>
+</dict>
+</plist>

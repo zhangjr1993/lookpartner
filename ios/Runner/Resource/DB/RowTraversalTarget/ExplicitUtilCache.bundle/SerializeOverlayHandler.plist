@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTaskInterval</key>
+	<string>specifierEnvironmentCenter</string>
+	<key>cubitFacadeStyle</key>
+	<string>textLevelDelay</string>
+	<key>enabledTitleBehavior</key>
+	<string>gradientChainTint</string>
+	<key>gridLevelPressure</key>
+	<string>durationSystemInterval</string>
+	<key>inactiveBinaryDelay</key>
+	<string>immutableManagerEdge</string>
+	<key>utilStrategyDensity</key>
+	<string>accordionButtonInset</string>
+</dict>
+</plist>

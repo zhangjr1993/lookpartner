@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCommandVisible</key>
+	<string>listenerOfVariable</string>
+	<key>disabledQueueInterval</key>
+	<string>commonAspectBrightness</string>
+	<key>listenerAtVariable</key>
+	<string>segueOutsidePlatform</string>
+	<key>resourceScopeDistance</key>
+	<string>layoutNearState</string>
+	<key>semanticModelTop</key>
+	<string>commonParticleName</string>
+</dict>
+</plist>

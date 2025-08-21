@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAsEnvironment</key>
+	<string>errorTaskAcceleration</string>
+	<key>boxshadowContextPadding</key>
+	<string>mobxTierCoord</string>
+	<key>buttonDecoratorAcceleration</key>
+	<string>baseAsTier</string>
+	<key>directListenerRotation</key>
+	<string>sizeTierRight</string>
+	<key>ephemeralDialogsFlags</key>
+	<string>channelExceptShape</string>
+	<key>spineMethodType</key>
+	<string>decorationForActivity</string>
+	<key>tickerProxyState</key>
+	<string>activeGestureVisible</string>
+</dict>
+</plist>

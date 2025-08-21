@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDuringFlyweight</key>
+	<string>singletonWithoutType</string>
+	<key>dedicatedPreviewFlags</key>
+	<string>decorationAdapterShape</string>
+	<key>errorWorkSkewy</key>
+	<string>observerVersusTemple</string>
+	<key>richtextOutsideBridge</key>
+	<string>cupertinoInState</string>
+	<key>widgetInsideBuffer</key>
+	<string>modalUntilVariable</string>
+</dict>
+</plist>

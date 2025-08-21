@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedAlignmentTheme</key>
+	<string>behaviorAndTask</string>
+	<key>menuInterpreterDepth</key>
+	<string>asynchronousBrushSkewx</string>
+	<key>mobileAlongTask</key>
+	<string>cupertinoActionVelocity</string>
+	<key>modelAsKind</key>
+	<string>mobileBitrateDelay</string>
+	<key>singleErrorDuration</key>
+	<string>aspectWithSingleton</string>
+	<key>singletonStyleStatus</key>
+	<string>monsterStateMargin</string>
+	<key>techniqueContainInterpreter</key>
+	<string>presenterMementoAcceleration</string>
+</dict>
+</plist>

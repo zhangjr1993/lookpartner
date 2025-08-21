@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureExceptValue</key>
+	<string>draggableSlashRight</string>
+	<key>buttonCommandKind</key>
+	<string>cellAtKind</string>
+	<key>criticalAwaitMargin</key>
+	<string>futureMethodLeft</string>
+	<key>customZoneAlignment</key>
+	<string>stateScopeEdge</string>
+	<key>deferredGestureTransparency</key>
+	<string>factoryValueIndex</string>
+	<key>hierarchicalDelegateTheme</key>
+	<string>statelessEntityFlags</string>
+	<key>prevCurveMomentum</key>
+	<string>activatedSwiftOpacity</string>
+	<key>routeViaEnvironment</key>
+	<string>desktopQueryType</string>
+	<key>tableDuringStyle</key>
+	<string>sharedSubscriptionSpeed</string>
+</dict>
+</plist>

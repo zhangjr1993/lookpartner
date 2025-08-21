@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionSingletonSaturation</key>
+	<string>mobileBufferTheme</string>
+	<key>managerProcessIndex</key>
+	<string>containerExceptNumber</string>
+	<key>movementPlatformOpacity</key>
+	<string>previewAsMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOfParameter</key>
+	<string>overlayChainResponse</string>
+	<key>crudeLayerPadding</key>
+	<string>priorHandlerOffset</string>
+	<key>durationContainContext</key>
+	<string>lazyClipperAlignment</string>
+	<key>newestFramePadding</key>
+	<string>sharedFragmentDirection</string>
+	<key>optionFrameworkMargin</key>
+	<string>spineStateSize</string>
+	<key>primaryDurationAcceleration</key>
+	<string>plateForContext</string>
+	<key>taskLevelMargin</key>
+	<string>resourceProxyCoord</string>
+</dict>
+</plist>

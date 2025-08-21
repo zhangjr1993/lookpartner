@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonKindFeedback</key>
+	<string>imageUntilProxy</string>
+	<key>certificateTypeOpacity</key>
+	<string>popupByBuffer</string>
+	<key>difficultHashStyle</key>
+	<string>granularConfigurationRate</string>
+	<key>staticIconInterval</key>
+	<string>nextStoreSaturation</string>
+	<key>storeActionPadding</key>
+	<string>stepWorkBehavior</string>
+	<key>touchBeyondLevel</key>
+	<string>grayscaleStructureTheme</string>
+</dict>
+</plist>

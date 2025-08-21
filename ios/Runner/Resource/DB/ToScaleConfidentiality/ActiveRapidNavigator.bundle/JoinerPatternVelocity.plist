@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAmongJob</key>
+	<string>cubeOrStructure</string>
+	<key>bufferNumberState</key>
+	<string>storeContainWork</string>
+	<key>collectionStyleRight</key>
+	<string>navigatorThroughParam</string>
+	<key>customizedCoordinatorSaturation</key>
+	<string>basicDialogsDepth</string>
+	<key>listviewCompositeTail</key>
+	<string>fixedErrorShade</string>
+	<key>mediaEnvironmentAlignment</key>
+	<string>tappableGateBorder</string>
+	<key>projectScopeTop</key>
+	<string>immutableLabelBorder</string>
+	<key>repositoryInScope</key>
+	<string>mediaqueryFromVar</string>
+	<key>responsiveBufferFrequency</key>
+	<string>vectorOperationContrast</string>
+	<key>timerThroughVariable</key>
+	<string>euclideanBufferColor</string>
+</dict>
+</plist>

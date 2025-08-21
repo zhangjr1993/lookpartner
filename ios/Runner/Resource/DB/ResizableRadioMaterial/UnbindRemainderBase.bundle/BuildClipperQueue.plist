@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPageviewDensity</key>
+	<string>autoResultLocation</string>
+	<key>commandThroughOperation</key>
+	<string>notificationForValue</string>
+	<key>gesturedetectorChainState</key>
+	<string>descriptionFlyweightDistance</string>
+	<key>lazyDrawerDuration</key>
+	<string>frameExceptAdapter</string>
+	<key>lossPrototypePosition</key>
+	<string>decorationPerCommand</string>
+	<key>newestResourceStyle</key>
+	<string>bufferPlatformForce</string>
+	<key>pageviewAsComposite</key>
+	<string>requiredMetadataBottom</string>
+	<key>subscriptionMethodFeedback</key>
+	<string>timerStageFrequency</string>
+	<key>textAwayActivity</key>
+	<string>providerModeMode</string>
+</dict>
+</plist>

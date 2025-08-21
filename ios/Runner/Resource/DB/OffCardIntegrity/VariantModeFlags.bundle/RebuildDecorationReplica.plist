@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlongPhase</key>
+	<string>commandVersusComposite</string>
+	<key>blocByActivity</key>
+	<string>mutableSpriteMode</string>
+	<key>commonAppbarLocation</key>
+	<string>repositoryDecoratorStatus</string>
+	<key>grainBridgeFormat</key>
+	<string>dependencyFromSingleton</string>
+	<key>interpolationJobAlignment</key>
+	<string>binaryAsLevel</string>
+	<key>rectPatternBound</key>
+	<string>finalResourceVisible</string>
+	<key>resourceForStructure</key>
+	<string>scaffoldFromTask</string>
+	<key>sineAsMemento</key>
+	<string>channelContainComposite</string>
+	<key>viewCycleFeedback</key>
+	<string>resilientIndicatorPadding</string>
+</dict>
+</plist>

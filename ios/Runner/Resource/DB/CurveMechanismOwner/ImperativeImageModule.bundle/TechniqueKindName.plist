@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTypeFormat</key>
+	<string>materialTierFrequency</string>
+	<key>draggableColumnOrientation</key>
+	<string>spotVarStatus</string>
+	<key>granularCardTint</key>
+	<string>retainedAnimatedcontainerMode</string>
+	<key>momentumAgainstStage</key>
+	<string>reusableTextureDepth</string>
+	<key>oldResourceBehavior</key>
+	<string>currentVectorFeedback</string>
+</dict>
+</plist>

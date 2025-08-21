@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndLayer</key>
+	<string>resourceFromCommand</string>
+	<key>greatChartTheme</key>
+	<string>staticInteractorTransparency</string>
+	<key>isolateLevelTail</key>
+	<string>lossWorkMode</string>
+	<key>sliderEnvironmentRight</key>
+	<string>bufferDuringLayer</string>
+	<key>statelessPreviewPressure</key>
+	<string>displayableCursorFlags</string>
+	<key>statelessQueueVelocity</key>
+	<string>curveAdapterSaturation</string>
+	<key>vectorVariableIndex</key>
+	<string>popupProcessAlignment</string>
+</dict>
+</plist>

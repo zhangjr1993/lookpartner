@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePopupVelocity</key>
+	<string>exponentStageRight</string>
+	<key>disabledStoryboardBorder</key>
+	<string>invisibleGrayscaleOffset</string>
+	<key>euclideanInteractorFlags</key>
+	<string>draggablePositionBound</string>
+	<key>nativeImageAcceleration</key>
+	<string>logStrategyOpacity</string>
+	<key>overlayAboutStage</key>
+	<string>cubitAlongPlatform</string>
+</dict>
+</plist>

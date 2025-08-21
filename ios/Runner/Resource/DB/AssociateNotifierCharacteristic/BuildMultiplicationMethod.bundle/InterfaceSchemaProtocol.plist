@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyProcessOffset</key>
+	<string>methodBeyondPrototype</string>
+	<key>difficultParticleAlignment</key>
+	<string>mapWorkPressure</string>
+	<key>immutableLayoutCount</key>
+	<string>normalPreviewBrightness</string>
+	<key>liteMatrixBrightness</key>
+	<string>associatedEntityTint</string>
+	<key>textureParameterHue</key>
+	<string>layerStageAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAspectAlignment</key>
+	<string>containerWorkStatus</string>
+	<key>bitrateStyleCount</key>
+	<string>finalResultBehavior</string>
+	<key>imageVarMargin</key>
+	<string>commonContainerOffset</string>
+	<key>interfaceAboutMemento</key>
+	<string>autoGemLocation</string>
+	<key>sliderStrategyDuration</key>
+	<string>singleFutureDuration</string>
+	<key>tabviewPlatformScale</key>
+	<string>actionInMemento</string>
+	<key>tickerPrototypeName</key>
+	<string>uniformPreviewRate</string>
+</dict>
+</plist>

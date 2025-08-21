@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnByVar</key>
+	<string>aspectratioWorkBehavior</string>
+	<key>hashAlongFlyweight</key>
+	<string>delegateByMemento</string>
+	<key>permissiveNavigatorPadding</key>
+	<string>grainStateTheme</string>
+	<key>promiseAdapterDepth</key>
+	<string>remainderJobSaturation</string>
+	<key>smallListviewType</key>
+	<string>opaqueAllocatorLocation</string>
+	<key>smartUtilLeft</key>
+	<string>frameUntilVariable</string>
+	<key>utilAmongObserver</key>
+	<string>positionViaKind</string>
+</dict>
+</plist>

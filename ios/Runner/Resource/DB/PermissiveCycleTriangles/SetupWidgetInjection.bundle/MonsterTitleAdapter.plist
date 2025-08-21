@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAndDecorator</key>
+	<string>cartesianProjectTag</string>
+	<key>inheritedCoordinatorFeedback</key>
+	<string>handlerWorkVelocity</string>
+	<key>materialOfComposite</key>
+	<string>directPopupDirection</string>
+	<key>nodeFrameworkInterval</key>
+	<string>hierarchicalButtonDepth</string>
+	<key>resourceAsFlyweight</key>
+	<string>dependencyFlyweightValidation</string>
+	<key>standaloneSliderState</key>
+	<string>positionIncludePhase</string>
+	<key>symbolInKind</key>
+	<string>iterativeStatefulVelocity</string>
+	<key>tappableEquipmentTint</key>
+	<string>primaryWidgetVelocity</string>
+</dict>
+</plist>

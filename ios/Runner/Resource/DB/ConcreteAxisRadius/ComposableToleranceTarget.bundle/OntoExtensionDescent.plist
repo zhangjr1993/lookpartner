@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>routeAndContext</key>
+	<string>futureSinceFacade</string>
+	<key>sessionActivityTail</key>
+	<string>allocatorWithTier</string>
+	<key>sortedZoneInterval</key>
+	<string>subscriptionByOperation</string>
+	<key>taskAboutMemento</key>
+	<string>stackOfValue</string>
+	<key>workflowPerMode</key>
+	<string>spotProxyDepth</string>
+</dict>
+</plist>

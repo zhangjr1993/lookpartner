@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorObserverBehavior</key>
+	<string>spriteBridgeCenter</string>
+	<key>basicRouteFlags</key>
+	<string>intermediateInjectionDensity</string>
+	<key>instructionIncludeOperation</key>
+	<string>webWidgetBrightness</string>
+	<key>nodeOrProcess</key>
+	<string>vectorInMode</string>
+	<key>presenterInterpreterLocation</key>
+	<string>iterativeSpotVisible</string>
+</dict>
+</plist>

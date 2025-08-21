@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceCompositeValidation</key>
+	<string>lossViaComposite</string>
+	<key>particleNumberDepth</key>
+	<string>granularCellKind</string>
+	<key>queryFlyweightSize</key>
+	<string>resultViaParameter</string>
+	<key>sineFunctionDensity</key>
+	<string>crucialInkwellFeedback</string>
+	<key>webActivityAlignment</key>
+	<string>resilientCubePadding</string>
+</dict>
+</plist>

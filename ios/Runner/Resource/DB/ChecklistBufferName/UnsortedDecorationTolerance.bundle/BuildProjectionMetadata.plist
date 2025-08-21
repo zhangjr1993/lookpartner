@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentStrategySaturation</key>
+	<string>flexibleSkinHue</string>
+	<key>hierarchicalPetBorder</key>
+	<string>backwardLabelFormat</string>
+	<key>nextQueryTransparency</key>
+	<string>parallelResolverCenter</string>
+	<key>presenterDuringComposite</key>
+	<string>cycleMementoType</string>
+	<key>rectMediatorFormat</key>
+	<string>ignoredTitleIndex</string>
+</dict>
+</plist>

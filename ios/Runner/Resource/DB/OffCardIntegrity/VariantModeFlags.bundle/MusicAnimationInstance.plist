@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFrameworkAcceleration</key>
+	<string>actionPhasePressure</string>
+	<key>coordinatorBufferSize</key>
+	<string>appbarObserverVisible</string>
+	<key>pivotalErrorRate</key>
+	<string>largeContainerBottom</string>
+	<key>positionAtTier</key>
+	<string>labelNearChain</string>
+	<key>queryChainOrigin</key>
+	<string>basePatternLeft</string>
+	<key>reductionAmongCycle</key>
+	<string>similarScaffoldMargin</string>
+	<key>referenceCompositeDuration</key>
+	<string>cubitActivityTint</string>
+	<key>seamlessWidgetMode</key>
+	<string>lossAmongCycle</string>
+	<key>smartConfigurationHead</key>
+	<string>resilientLabelResponse</string>
+	<key>titleStructurePadding</key>
+	<string>radioNearDecorator</string>
+</dict>
+</plist>

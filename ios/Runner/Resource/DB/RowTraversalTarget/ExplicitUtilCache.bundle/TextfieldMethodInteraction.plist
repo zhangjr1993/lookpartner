@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellTierMode</key>
+	<string>resourceIncludeMode</string>
+	<key>cupertinoNearValue</key>
+	<string>constraintScopeTint</string>
+	<key>singleQueueTop</key>
+	<string>flexibleGridInterval</string>
+	<key>transformerFormAcceleration</key>
+	<string>convolutionOfPrototype</string>
+</dict>
+</plist>

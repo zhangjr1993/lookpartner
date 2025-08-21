@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForAdapter</key>
+	<string>mobxTierDuration</string>
+	<key>cacheBesideFunction</key>
+	<string>delegateProcessBrightness</string>
+	<key>delegateInterpreterStyle</key>
+	<string>taskAtStage</string>
+	<key>errorLevelBottom</key>
+	<string>sessionShapeAppearance</string>
+	<key>loopActivityRotation</key>
+	<string>viewActionLeft</string>
+	<key>priorityStageBottom</key>
+	<string>gridviewScopeEdge</string>
+	<key>protectedDrawerMode</key>
+	<string>delegateAndFramework</string>
+	<key>routerOutsideMediator</key>
+	<string>containerTierLeft</string>
+	<key>singleStorageVisibility</key>
+	<string>publicPetCoord</string>
+	<key>uniformStateFrequency</key>
+	<string>routerAdapterDepth</string>
+</dict>
+</plist>

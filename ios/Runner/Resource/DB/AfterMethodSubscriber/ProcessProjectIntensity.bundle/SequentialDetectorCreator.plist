@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchActionAcceleration</key>
+	<string>effectViaMethod</string>
+	<key>crudeGesturedetectorBehavior</key>
+	<string>techniqueNumberState</string>
+	<key>desktopLocalizationAcceleration</key>
+	<string>respectiveMediaDelay</string>
+	<key>euclideanDocumentLocation</key>
+	<string>previewCycleEdge</string>
+	<key>labelMementoInteraction</key>
+	<string>textAsJob</string>
+	<key>managerAndBridge</key>
+	<string>plateContainPrototype</string>
+	<key>overlayThroughSingleton</key>
+	<string>controllerAndStyle</string>
+	<key>precisionContextTension</key>
+	<string>capacitiesOperationSpacing</string>
+	<key>storeDespiteDecorator</key>
+	<string>lostResourceScale</string>
+</dict>
+</plist>

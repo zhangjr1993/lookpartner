@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedQueryBottom</key>
+	<string>sampleOfVar</string>
+	<key>completionDuringScope</key>
+	<string>heroModeStatus</string>
+	<key>loopAdapterAcceleration</key>
+	<string>giftWorkVelocity</string>
+	<key>nativeControllerScale</key>
+	<string>subpixelWorkFeedback</string>
+	<key>overlayVersusLevel</key>
+	<string>mutablePreviewMode</string>
+</dict>
+</plist>

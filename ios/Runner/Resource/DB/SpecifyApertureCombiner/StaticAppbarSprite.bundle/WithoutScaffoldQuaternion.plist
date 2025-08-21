@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDespiteInterpreter</key>
+	<string>channelNumberSkewx</string>
+	<key>constViewEdge</key>
+	<string>rowViaBuffer</string>
+	<key>eventBufferDirection</key>
+	<string>curveDuringPlatform</string>
+	<key>fixedSineSaturation</key>
+	<string>borderBeyondProcess</string>
+	<key>inactiveFutureSaturation</key>
+	<string>symbolUntilFacade</string>
+	<key>parallelLocalizationTail</key>
+	<string>cartesianCubitFrequency</string>
+	<key>pinchableTransformerAppearance</key>
+	<string>utilJobKind</string>
+	<key>sensorInParam</key>
+	<string>frameBesideInterpreter</string>
+	<key>singletonFacadeHue</key>
+	<string>swiftViaContext</string>
+	<key>widgetInsideFacade</key>
+	<string>semanticsAsContext</string>
+</dict>
+</plist>

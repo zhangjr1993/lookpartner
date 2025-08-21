@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInComposite</key>
+	<string>secondRowBrightness</string>
+	<key>crucialBaseSkewx</key>
+	<string>actionForPhase</string>
+	<key>groupOrChain</key>
+	<string>builderFormDepth</string>
+	<key>spriteOutsideCycle</key>
+	<string>similarRouteOffset</string>
+</dict>
+</plist>

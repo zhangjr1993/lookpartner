@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSingletonPadding</key>
+	<string>resourceModeOpacity</string>
+	<key>desktopActionInteraction</key>
+	<string>routerViaFacade</string>
+	<key>handlerWithStyle</key>
+	<string>metadataParamVelocity</string>
+	<key>isolateAgainstFlyweight</key>
+	<string>transitionValueLeft</string>
+</dict>
+</plist>

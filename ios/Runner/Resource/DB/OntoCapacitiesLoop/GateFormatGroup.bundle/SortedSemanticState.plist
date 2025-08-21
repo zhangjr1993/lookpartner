@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAndContext</key>
+	<string>stepForMode</string>
+	<key>featureCommandKind</key>
+	<string>resilientDialogsSkewx</string>
+	<key>firstTextureDirection</key>
+	<string>assetOrActivity</string>
+	<key>gestureCycleSpacing</key>
+	<string>metadataOutsideProcess</string>
+	<key>originalBinaryVisible</key>
+	<string>sceneFromLevel</string>
+	<key>semanticGroupSaturation</key>
+	<string>asyncBufferLocation</string>
+	<key>similarVariantVisibility</key>
+	<string>scaffoldActionSaturation</string>
+	<key>tableVisitorPadding</key>
+	<string>deferredFlexInterval</string>
+	<key>ternaryIncludeEnvironment</key>
+	<string>descriptorOutsideWork</string>
+	<key>transformerPatternSkewx</key>
+	<string>mobileStoreType</string>
+</dict>
+</plist>

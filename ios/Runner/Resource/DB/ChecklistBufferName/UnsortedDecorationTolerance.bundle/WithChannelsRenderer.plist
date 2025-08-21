@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseChartFeedback</key>
+	<string>heapSystemColor</string>
+	<key>exceptionNearWork</key>
+	<string>intermediateSinkInteraction</string>
+	<key>interpolationViaStructure</key>
+	<string>singlePositionedPadding</string>
+	<key>persistentGridviewSaturation</key>
+	<string>layoutDespiteShape</string>
+	<key>presenterViaSystem</key>
+	<string>queryThroughScope</string>
+	<key>previewBufferForce</key>
+	<string>layoutSingletonScale</string>
+	<key>subscriptionDuringPattern</key>
+	<string>lostProjectionMomentum</string>
+	<key>timerWithPlatform</key>
+	<string>overlayContextTag</string>
+</dict>
+</plist>

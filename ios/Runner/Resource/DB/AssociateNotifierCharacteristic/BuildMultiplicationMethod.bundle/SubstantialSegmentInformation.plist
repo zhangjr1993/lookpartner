@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeAdapter</key>
+	<string>inactiveMonsterCenter</string>
+	<key>builderContainState</key>
+	<string>equalizationPatternColor</string>
+	<key>largeControllerIndex</key>
+	<string>textForTier</string>
+	<key>playbackVarEdge</key>
+	<string>statelessSizeMargin</string>
+	<key>switchMethodFormat</key>
+	<string>storyboardWorkSaturation</string>
+</dict>
+</plist>

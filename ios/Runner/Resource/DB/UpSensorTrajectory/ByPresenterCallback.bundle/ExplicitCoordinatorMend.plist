@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedShaderName</key>
+	<string>inkwellPhaseMode</string>
+	<key>activePositionFlags</key>
+	<string>richtextDuringBridge</string>
+	<key>bufferNearComposite</key>
+	<string>grainViaProxy</string>
+	<key>delegateStateVelocity</key>
+	<string>eventParamDirection</string>
+	<key>inheritedWidgetSize</key>
+	<string>dedicatedSpineVisibility</string>
+	<key>interactorOutsideNumber</key>
+	<string>activeBorderSpeed</string>
+	<key>localizationAsProxy</key>
+	<string>entityParamTag</string>
+	<key>streamWithoutPattern</key>
+	<string>exceptionAroundCycle</string>
+</dict>
+</plist>

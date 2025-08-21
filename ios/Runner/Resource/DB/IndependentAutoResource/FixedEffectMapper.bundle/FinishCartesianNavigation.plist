@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutVar</key>
+	<string>heapByBuffer</string>
+	<key>multiResolverIndex</key>
+	<string>ephemeralServiceOffset</string>
+	<key>musicContextState</key>
+	<string>sortedControllerRate</string>
+	<key>reactiveDialogsLocation</key>
+	<string>animationMediatorBehavior</string>
+	<key>resilientResolverVisible</key>
+	<string>particleWorkSkewy</string>
+	<key>sessionAgainstFlyweight</key>
+	<string>dedicatedStreamHead</string>
+	<key>subscriptionPlatformVelocity</key>
+	<string>assetPatternTag</string>
+</dict>
+</plist>

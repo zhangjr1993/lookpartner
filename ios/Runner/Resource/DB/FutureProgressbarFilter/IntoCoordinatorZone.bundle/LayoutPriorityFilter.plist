@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAwayProcess</key>
+	<string>consumerForStage</string>
+	<key>configurationDecoratorFeedback</key>
+	<string>chapterStateBorder</string>
+	<key>descriptionActivityCenter</key>
+	<string>permanentBoxOpacity</string>
+	<key>modelActionHead</key>
+	<string>rowStyleInset</string>
+	<key>modelAdapterPadding</key>
+	<string>tensorScrollMargin</string>
+	<key>rectPrototypeValidation</key>
+	<string>asyncOperationSaturation</string>
+	<key>riverpodParamShape</key>
+	<string>activityOrShape</string>
+	<key>robustInjectionBound</key>
+	<string>momentumSinceInterpreter</string>
+</dict>
+</plist>

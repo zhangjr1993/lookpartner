@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePageviewBehavior</key>
+	<string>taskByCycle</string>
+	<key>exceptionByWork</key>
+	<string>heapVersusMode</string>
+	<key>optimizerStructureSpacing</key>
+	<string>customAlignmentDensity</string>
+	<key>persistentSingletonDistance</key>
+	<string>progressbarProxyHead</string>
+	<key>prismaticResolverAcceleration</key>
+	<string>remainderViaStructure</string>
+</dict>
+</plist>

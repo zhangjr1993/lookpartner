@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateKind</key>
+	<string>cursorBridgeBottom</string>
+	<key>bulletOutsideTask</key>
+	<string>mapInsideLayer</string>
+	<key>deferredConfigurationFormat</key>
+	<string>animatedBlocVisible</string>
+	<key>effectOperationVisible</key>
+	<string>immutableIntensitySkewx</string>
+	<key>imageByOperation</key>
+	<string>dedicatedSinkOrigin</string>
+	<key>sophisticatedAppbarShape</key>
+	<string>euclideanMasterHue</string>
+	<key>viewInsideMemento</key>
+	<string>granularOptimizerSize</string>
+</dict>
+</plist>

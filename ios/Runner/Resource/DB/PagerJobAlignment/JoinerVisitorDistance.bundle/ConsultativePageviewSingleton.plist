@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionMediatorMode</key>
+	<string>arithmeticDecoratorForce</string>
+	<key>discardedOptimizerSkewy</key>
+	<string>multiStorageSaturation</string>
+	<key>fixedScrollDelay</key>
+	<string>graphicAgainstState</string>
+	<key>queueBridgeSize</key>
+	<string>containerSingletonFormat</string>
+	<key>semanticSignShape</key>
+	<string>bufferEnvironmentOrigin</string>
+	<key>transformerTierInset</key>
+	<string>sliderParameterVelocity</string>
+</dict>
+</plist>

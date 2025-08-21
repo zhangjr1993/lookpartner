@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostCursorDelay</key>
+	<string>animationThroughParam</string>
+	<key>seamlessRectBehavior</key>
+	<string>liteRouteDepth</string>
+	<key>symmetricCompletionTop</key>
+	<string>promiseShapeState</string>
+</dict>
+</plist>

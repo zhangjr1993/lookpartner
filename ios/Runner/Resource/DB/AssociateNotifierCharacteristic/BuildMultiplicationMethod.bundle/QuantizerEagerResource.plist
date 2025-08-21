@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStyleDistance</key>
+	<string>spineAtSystem</string>
+	<key>descriptionThroughMethod</key>
+	<string>smartVectorContrast</string>
+	<key>draggableSubpixelAcceleration</key>
+	<string>primaryProjectionContrast</string>
+	<key>eagerCoordinatorState</key>
+	<string>hashTaskAppearance</string>
+	<key>offsetIncludeValue</key>
+	<string>radiusPerTask</string>
+	<key>particleStyleRate</key>
+	<string>characterAwayAction</string>
+	<key>similarSinkFormat</key>
+	<string>durationFunctionAcceleration</string>
+	<key>uniqueActivityBrightness</key>
+	<string>alignmentBeyondParameter</string>
+</dict>
+</plist>

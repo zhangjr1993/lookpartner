@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionMementoHue</key>
+	<string>spriteTaskAcceleration</string>
+	<key>geometricNibTheme</key>
+	<string>zoneLayerPadding</string>
+	<key>mapBesideMemento</key>
+	<string>textAlongTask</string>
+	<key>projectAwayMemento</key>
+	<string>groupAndTemple</string>
+	<key>semanticsStyleScale</key>
+	<string>overlayMementoCenter</string>
+	<key>specifyProfileDirection</key>
+	<string>storePhaseAcceleration</string>
+</dict>
+</plist>

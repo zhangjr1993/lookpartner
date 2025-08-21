@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapStageFeedback</key>
+	<string>scaleSystemFeedback</string>
+	<key>materialMultiplicationPadding</key>
+	<string>loopCycleDepth</string>
+	<key>modulusAndVisitor</key>
+	<string>routeOrVar</string>
+	<key>otherProfileBrightness</key>
+	<string>denseGraphFormat</string>
+	<key>signatureBesideCycle</key>
+	<string>constraintActivitySpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContainBuffer</key>
+	<string>controllerMediatorIndex</string>
+	<key>appbarPhaseSpacing</key>
+	<string>screenOrScope</string>
+	<key>elasticSliderDepth</key>
+	<string>groupCommandShape</string>
+	<key>resizableFactoryFlags</key>
+	<string>curveParamOrientation</string>
+	<key>sliderFrameworkSaturation</key>
+	<string>mediocreTextureBottom</string>
+	<key>transitionAsForm</key>
+	<string>exponentBridgeSpeed</string>
+</dict>
+</plist>

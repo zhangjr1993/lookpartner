@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customArithmeticLeft</key>
+	<string>factoryInPrototype</string>
+	<key>firstHashSkewy</key>
+	<string>cupertinoScaffoldSpacing</string>
+	<key>intuitiveDependencyAlignment</key>
+	<string>errorMementoContrast</string>
+	<key>labelFrameworkName</key>
+	<string>liteThreadDistance</string>
+	<key>opaqueMethodRate</key>
+	<string>cupertinoDelegateTop</string>
+	<key>robustSegueDelay</key>
+	<string>commonPopupAlignment</string>
+	<key>routerParameterColor</key>
+	<string>protectedProgressbarInterval</string>
+	<key>secondMapName</key>
+	<string>queueThroughKind</string>
+	<key>stateFunctionInteraction</key>
+	<string>transformerSingletonRate</string>
+	<key>statefulSwiftContrast</key>
+	<string>elasticNotificationVisibility</string>
+</dict>
+</plist>

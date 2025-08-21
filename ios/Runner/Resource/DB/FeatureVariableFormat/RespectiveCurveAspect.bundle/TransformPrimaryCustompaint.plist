@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerJob</key>
+	<string>layoutUntilSingleton</string>
+	<key>deferredContainerBehavior</key>
+	<string>firstRepositoryInterval</string>
+	<key>listenerBesideChain</key>
+	<string>popupProcessForce</string>
+	<key>navigatorOutsideDecorator</key>
+	<string>descriptionThanFlyweight</string>
+	<key>sortedAssetSize</key>
+	<string>textureStrategyScale</string>
+</dict>
+</plist>

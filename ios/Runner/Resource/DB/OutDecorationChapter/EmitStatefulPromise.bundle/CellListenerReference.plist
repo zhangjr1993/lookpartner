@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDespiteSingleton</key>
+	<string>queueActivityDepth</string>
+	<key>convolutionByFlyweight</key>
+	<string>pointTierInteraction</string>
+	<key>lazySkinOffset</key>
+	<string>injectionLayerSaturation</string>
+	<key>sequentialMissionShade</key>
+	<string>catalystLikeCommand</string>
+	<key>textStyleDirection</key>
+	<string>dimensionAdapterDensity</string>
+	<key>utilContainStage</key>
+	<string>errorContainLayer</string>
+	<key>zoneAtSingleton</key>
+	<string>entityStructureFlags</string>
+</dict>
+</plist>

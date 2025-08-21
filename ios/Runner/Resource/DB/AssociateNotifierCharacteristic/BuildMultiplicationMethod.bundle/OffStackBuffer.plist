@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDelegateIndex</key>
+	<string>resultBufferContrast</string>
+	<key>descriptorAtMode</key>
+	<string>spotAboutStyle</string>
+	<key>effectNearState</key>
+	<string>subpixelActionStatus</string>
+	<key>graphicProxyFeedback</key>
+	<string>graphicCycleForce</string>
+	<key>lostCubitAppearance</key>
+	<string>stateFlyweightMomentum</string>
+	<key>responsiveChannelColor</key>
+	<string>interfaceVarPressure</string>
+	<key>textNearNumber</key>
+	<string>difficultTouchForce</string>
+</dict>
+</plist>

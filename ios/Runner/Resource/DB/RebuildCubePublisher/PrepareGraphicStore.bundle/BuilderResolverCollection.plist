@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStrategySkewx</key>
+	<string>rapidOverlayFeedback</string>
+	<key>cartesianEffectOrientation</key>
+	<string>inkwellCycleSpacing</string>
+	<key>customizedCanvasSpacing</key>
+	<string>publicInteractorIndex</string>
+	<key>gemParamBottom</key>
+	<string>semanticWidgetFeedback</string>
+	<key>injectionBridgeBorder</key>
+	<string>groupDespiteBuffer</string>
+	<key>storeForStrategy</key>
+	<string>activeProjectCount</string>
+</dict>
+</plist>

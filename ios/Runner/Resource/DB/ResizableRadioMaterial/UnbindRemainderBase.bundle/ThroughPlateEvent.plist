@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLossRate</key>
+	<string>inactiveObserverShade</string>
+	<key>descriptionPerStage</key>
+	<string>permissiveRectAppearance</string>
+	<key>enabledQueueInteraction</key>
+	<string>tensorFeatureMargin</string>
+	<key>spriteActivityPadding</key>
+	<string>localizationStateBehavior</string>
+	<key>usecaseAtAdapter</key>
+	<string>resizableCoordinatorSkewy</string>
+</dict>
+</plist>

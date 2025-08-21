@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnInterpreterOpacity</key>
+	<string>characterCompositeSize</string>
+	<key>compositionAndFacade</key>
+	<string>tweenScopeRate</string>
+	<key>standaloneLabelKind</key>
+	<string>statelessStreamVelocity</string>
+	<key>viewInFacade</key>
+	<string>permissiveKernelVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveImageHead</key>
+	<string>ignoredDrawerPosition</string>
+	<key>cubitParameterAlignment</key>
+	<string>nativeHandlerPressure</string>
+	<key>extensionDuringStage</key>
+	<string>mobilePlaybackPosition</string>
+	<key>localizationStructureInterval</key>
+	<string>resizableGetxCenter</string>
+	<key>mutablePageviewOrigin</key>
+	<string>sliderChainBound</string>
+	<key>mutableParticleDirection</key>
+	<string>variantProcessLeft</string>
+	<key>queueDuringStrategy</key>
+	<string>extensionIncludeVisitor</string>
+	<key>remainderCycleOrigin</key>
+	<string>multiplicationAmongState</string>
+	<key>sequentialObserverSaturation</key>
+	<string>cubitOrWork</string>
+</dict>
+</plist>

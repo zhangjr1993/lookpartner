@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionBridgeLeft</key>
+	<string>stampFrameworkBrightness</string>
+	<key>movementDuringChain</key>
+	<string>primaryOperationFrequency</string>
+	<key>screenDuringPrototype</key>
+	<string>lazyChallengeOpacity</string>
+	<key>sessionFlyweightDensity</key>
+	<string>toolShapeBrightness</string>
+</dict>
+</plist>

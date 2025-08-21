@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDialogsCenter</key>
+	<string>masterFrameworkIndex</string>
+	<key>layoutBridgeRight</key>
+	<string>sceneUntilLayer</string>
+	<key>navigatorAndLayer</key>
+	<string>advancedCubeVisibility</string>
+	<key>presenterPatternHue</key>
+	<string>matrixIncludeStage</string>
+	<key>publicBoxshadowStatus</key>
+	<string>shaderOrLayer</string>
+	<key>secondDecorationOpacity</key>
+	<string>intermediateMatrixSkewx</string>
+	<key>sortedSegueInterval</key>
+	<string>sophisticatedSkirtInterval</string>
+	<key>textAlongObserver</key>
+	<string>retainedNodeTop</string>
+	<key>usedChannelSkewx</key>
+	<string>uniformPointHead</string>
+</dict>
+</plist>

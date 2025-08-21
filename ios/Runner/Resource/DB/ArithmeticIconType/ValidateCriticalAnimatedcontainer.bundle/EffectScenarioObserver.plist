@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRadiusBehavior</key>
+	<string>cubitUntilFlyweight</string>
+	<key>dedicatedResourceRate</key>
+	<string>localizationContainStyle</string>
+	<key>eventEnvironmentDuration</key>
+	<string>usageFunctionBrightness</string>
+	<key>primaryPresenterFlags</key>
+	<string>controllerStyleSize</string>
+	<key>rectPhaseCount</key>
+	<string>segueFormValidation</string>
+	<key>streamEnvironmentInteraction</key>
+	<string>immutableChannelSpeed</string>
+	<key>textDecoratorBorder</key>
+	<string>comprehensiveNavigatorVisibility</string>
+	<key>tickerAdapterResponse</key>
+	<string>compositionThroughBuffer</string>
+	<key>vectorAboutMode</key>
+	<string>intensityNearPlatform</string>
+</dict>
+</plist>

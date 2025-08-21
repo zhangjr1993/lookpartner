@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineStateFlags</key>
+	<string>deferredTextSkewy</string>
+	<key>deferredConstraintShape</key>
+	<string>scaleBeyondValue</string>
+	<key>firstProgressbarVisibility</key>
+	<string>responsiveCompositionScale</string>
+	<key>grainNearMode</key>
+	<string>listenerContainComposite</string>
+	<key>intuitiveRectInteraction</key>
+	<string>queueProcessColor</string>
+	<key>mutableMapStyle</key>
+	<string>spriteUntilStage</string>
+	<key>optionOrFacade</key>
+	<string>mobileValueOffset</string>
+	<key>particleWorkLocation</key>
+	<string>grainParameterBrightness</string>
+	<key>relationalBlocStyle</key>
+	<string>primaryRowInterval</string>
+	<key>rowNearMemento</key>
+	<string>certificateAsMode</string>
+</dict>
+</plist>

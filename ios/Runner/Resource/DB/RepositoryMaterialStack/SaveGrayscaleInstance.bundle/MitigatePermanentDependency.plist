@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTaskFrequency</key>
+	<string>adaptiveHashVisible</string>
+	<key>catalystStructureSpacing</key>
+	<string>constAnimatedcontainerOffset</string>
+	<key>chartAndWork</key>
+	<string>pinchableLocalizationSaturation</string>
+	<key>crucialResultVelocity</key>
+	<string>independentScreenScale</string>
+	<key>rowStyleTension</key>
+	<string>stepContextVelocity</string>
+	<key>sequentialProfileSkewy</key>
+	<string>containerWorkAcceleration</string>
+	<key>swiftBridgeAlignment</key>
+	<string>mobileLevelTransparency</string>
+	<key>viewCycleOpacity</key>
+	<string>presenterViaMode</string>
+	<key>zonePhaseTension</key>
+	<string>projectAndParameter</string>
+	<key>zoneScopeTransparency</key>
+	<string>smartPositionedForce</string>
+</dict>
+</plist>

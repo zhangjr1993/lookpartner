@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMapVelocity</key>
+	<string>graphViaTask</string>
+	<key>significantConstraintValidation</key>
+	<string>scaleActivityValidation</string>
+	<key>smallMovementShade</key>
+	<string>futureProcessFeedback</string>
+	<key>transitionAlongLayer</key>
+	<string>normActionBound</string>
+	<key>unaryByType</key>
+	<string>bulletBesideStructure</string>
+</dict>
+</plist>

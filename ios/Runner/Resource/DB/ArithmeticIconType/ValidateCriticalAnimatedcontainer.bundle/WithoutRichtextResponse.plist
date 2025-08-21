@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureOperationValidation</key>
+	<string>columnBesideFunction</string>
+	<key>builderAgainstScope</key>
+	<string>popupIncludeChain</string>
+	<key>movementByFacade</key>
+	<string>sessionContextVisible</string>
+	<key>navigatorBridgeBottom</key>
+	<string>constraintPrototypeSize</string>
+	<key>projectVersusBridge</key>
+	<string>capsuleStyleInteraction</string>
+	<key>rectEnvironmentBorder</key>
+	<string>dimensionFormCenter</string>
+	<key>roleIncludeJob</key>
+	<string>advancedMethodOrigin</string>
+</dict>
+</plist>

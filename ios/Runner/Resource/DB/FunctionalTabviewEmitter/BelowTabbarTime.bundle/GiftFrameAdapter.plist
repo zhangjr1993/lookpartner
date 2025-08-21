@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionJobBottom</key>
+	<string>beginnerSubpixelScale</string>
+	<key>concurrentConstraintAlignment</key>
+	<string>momentumAwayAdapter</string>
+	<key>equalizationFlyweightColor</key>
+	<string>groupVersusJob</string>
+	<key>iterativeObserverOrientation</key>
+	<string>opaqueScrollScale</string>
+	<key>liteDelegateOrientation</key>
+	<string>cupertinoRectBorder</string>
+	<key>pageviewStateHue</key>
+	<string>characterIncludeEnvironment</string>
+	<key>seamlessViewTop</key>
+	<string>deferredCaptionRate</string>
+	<key>synchronousPromiseDistance</key>
+	<string>configurationContextDistance</string>
+</dict>
+</plist>

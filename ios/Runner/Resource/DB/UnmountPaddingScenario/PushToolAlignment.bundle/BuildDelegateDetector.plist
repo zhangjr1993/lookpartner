@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAlphaOpacity</key>
+	<string>sensorOutsideJob</string>
+	<key>factoryAboutScope</key>
+	<string>logarithmExceptPrototype</string>
+	<key>hierarchicalToolFormat</key>
+	<string>intermediateSingletonInset</string>
+	<key>lazyImageDuration</key>
+	<string>nodeLikePrototype</string>
+	<key>observerAboutPattern</key>
+	<string>sessionCompositeTheme</string>
+	<key>particleAsPrototype</key>
+	<string>entropyInsideDecorator</string>
+</dict>
+</plist>

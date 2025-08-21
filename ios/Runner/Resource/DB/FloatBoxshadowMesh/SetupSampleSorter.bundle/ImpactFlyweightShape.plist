@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaMediatorBottom</key>
+	<string>getxOfTask</string>
+	<key>routeStrategyRotation</key>
+	<string>semanticUtilState</string>
+	<key>sliderForPlatform</key>
+	<string>adaptiveIntensityIndex</string>
+	<key>tickerCycleMode</key>
+	<string>baseCycleShade</string>
+	<key>timerTypeDensity</key>
+	<string>localizationViaOperation</string>
+</dict>
+</plist>

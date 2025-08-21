@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardNearLayer</key>
+	<string>instructionKindVisible</string>
+	<key>compositionOfInterpreter</key>
+	<string>sensorVersusTier</string>
+	<key>hardProviderDensity</key>
+	<string>autoSegueDistance</string>
+	<key>resizableProviderTint</key>
+	<string>callbackBySingleton</string>
+	<key>storageTierName</key>
+	<string>cursorAsFacade</string>
+	<key>unactivatedObserverSkewx</key>
+	<string>multiplicationOfTier</string>
+</dict>
+</plist>

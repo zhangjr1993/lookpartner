@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyUtilForce</key>
+	<string>subscriptionByOperation</string>
+	<key>displayableIsolateFlags</key>
+	<string>descriptorContainType</string>
+	<key>grainAndCycle</key>
+	<string>interfaceContextOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonCycleCoord</key>
+	<string>spotPerBridge</string>
+	<key>handlerAdapterBorder</key>
+	<string>grainCompositeOrientation</string>
+	<key>observerLevelBound</key>
+	<string>toolProxyOpacity</string>
+	<key>subtleEntityTheme</key>
+	<string>numericalInstructionMargin</string>
+	<key>swiftLikeFacade</key>
+	<string>normalDelegateDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorProxyDuration</key>
+	<string>asyncChannelBrightness</string>
+	<key>cacheNumberTint</key>
+	<string>diffableStatefulInteraction</string>
+	<key>cursorVarPressure</key>
+	<string>spotFromFacade</string>
+	<key>indicatorFormType</key>
+	<string>alertTempleTheme</string>
+	<key>navigationSingletonDelay</key>
+	<string>titleStrategyDuration</string>
+	<key>prevTaskSaturation</key>
+	<string>grainViaPattern</string>
+	<key>uniqueObserverOrientation</key>
+	<string>borderTempleVisible</string>
+	<key>utilCompositeVisibility</key>
+	<string>animatedcontainerStructureDuration</string>
+</dict>
+</plist>

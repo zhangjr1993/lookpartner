@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpriteScale</key>
+	<string>uniqueBaseFormat</string>
+	<key>deferredGramInterval</key>
+	<string>loopStrategyScale</string>
+	<key>grainInsideFunction</key>
+	<string>challengeAroundBuffer</string>
+	<key>integerVarShade</key>
+	<string>equalizationStateTop</string>
+	<key>precisionTierBrightness</key>
+	<string>intensityChainScale</string>
+	<key>resolverThroughFacade</key>
+	<string>secondBufferCount</string>
+	<key>smallStepInteraction</key>
+	<string>sizeUntilPhase</string>
+	<key>storeBridgeAcceleration</key>
+	<string>advancedWidgetOffset</string>
+	<key>toolAgainstFramework</key>
+	<string>cubitFlyweightStatus</string>
+</dict>
+</plist>

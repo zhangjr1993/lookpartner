@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPrototypeInset</key>
+	<string>loopAboutMediator</string>
+	<key>bitrateAndOperation</key>
+	<string>unsortedCubitInset</string>
+	<key>controllerOutsideSingleton</key>
+	<string>controllerAndTask</string>
+	<key>documentIncludeScope</key>
+	<string>easyGridIndex</string>
+	<key>fusedPageviewState</key>
+	<string>autoLayoutHue</string>
+	<key>observerBesideSystem</key>
+	<string>materialErrorName</string>
+	<key>requestFlyweightInset</key>
+	<string>resourceBridgeTop</string>
+	<key>scrollableNavigationTheme</key>
+	<string>concurrentResolverInteraction</string>
+	<key>timerLevelInset</key>
+	<string>normLevelVelocity</string>
+	<key>widgetVersusCommand</key>
+	<string>asyncReducerInterval</string>
+</dict>
+</plist>

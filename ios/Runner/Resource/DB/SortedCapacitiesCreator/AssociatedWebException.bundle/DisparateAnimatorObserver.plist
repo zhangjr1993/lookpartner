@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAdapterTheme</key>
+	<string>granularLoopHue</string>
+	<key>containerAgainstAdapter</key>
+	<string>multiCurveSkewy</string>
+	<key>desktopMenuPosition</key>
+	<string>disabledTickerLeft</string>
+	<key>localizationShapeColor</key>
+	<string>queryNumberDensity</string>
+	<key>semanticDescriptionCenter</key>
+	<string>hierarchicalTimerCenter</string>
+	<key>sizedboxInsideVariable</key>
+	<string>notifierStateMode</string>
+	<key>standaloneEffectPadding</key>
+	<string>beginnerLoopSkewx</string>
+</dict>
+</plist>
