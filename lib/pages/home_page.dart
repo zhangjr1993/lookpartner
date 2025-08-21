@@ -52,12 +52,41 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
       // 初始化用户信息
       await _initializeUserInfo();
       
-      // 强制清空本地缓存，确保从assets重新加载
-      await ActivityService.clearLocalCache();
-      print('HomePage: 已清空本地缓存');
+      List<ActivityModel> list = [];
       
-      final list = await ActivityService.loadFromAssets();
-      print('HomePage: 从assets加载到 ${list.length} 个活动');
+      // 首先尝试从assets加载数据
+      try {
+        print('HomePage: 尝试从assets加载数据...');
+        list = await ActivityService.loadFromAssets();
+        print('HomePage: 从assets成功加载到 ${list.length} 个活动');
+        
+        // 如果从assets加载成功，尝试保存到本地缓存（但不强制要求成功）
+        if (list.isNotEmpty) {
+          try {
+            await ActivityService.saveAllToLocal(list);
+            print('HomePage: 数据已保存到本地缓存');
+          } catch (cacheError) {
+            print('HomePage: 保存到本地缓存失败，但不影响数据使用: $cacheError');
+            // 缓存保存失败不影响数据使用，继续执行
+          }
+        }
+      } catch (assetsError) {
+        print('HomePage: 从assets加载数据失败: $assetsError');
+        
+        // 如果assets加载失败，尝试从本地缓存恢复
+        try {
+          print('HomePage: 尝试从本地缓存恢复数据...');
+          list = await ActivityService.readAllFromLocal();
+          print('HomePage: 从本地缓存恢复 ${list.length} 个活动');
+          
+          if (list.isEmpty) {
+            print('HomePage: 本地缓存也没有数据，显示空状态');
+          }
+        } catch (localError) {
+          print('HomePage: 从本地缓存恢复数据也失败: $localError');
+          list = [];
+        }
+      }
       
       // 检查音频文件字段
       for (var activity in list) {
@@ -66,10 +95,9 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
         }
       }
       
-      await ActivityService.saveAllToLocal(list);
-      print('HomePage: 数据已保存到本地');
       _activities = list;
-      print('HomePage: 设置_activities为 ${_activities.length} 个活动');
+      print('HomePage: 最终设置_activities为 ${_activities.length} 个活动');
+      
     } catch (e) {
       print('HomePage: 加载数据出错: $e');
       _activities = [];
@@ -271,23 +299,23 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
   void _handleMenuSelection(String selection) {
     switch (selection) {
       case 'profile':
-        // TODO: 导航到个人资料页面
+        // 导航到个人资料页面
         print('个人资料页面');
         break;
       case 'settings':
-        // TODO: 导航到设置页面
+        // 导航到设置页面
         print('设置页面');
         break;
       case 'music':
-        // TODO: 导航到我的音乐页面
+        // 导航到我的音乐页面
         print('我的音乐页面');
         break;
       case 'help':
-        // TODO: 导航到帮助页面
+        // 导航到帮助页面
         print('帮助页面');
         break;
       case 'about':
-        // TODO: 导航到关于我们页面
+        // 导航到关于我们页面
         print('关于我们页面');
         break;
     }

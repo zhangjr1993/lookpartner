@@ -75,7 +75,7 @@ class DiamondService {
     return balance ~/ _messageCost; // 整除
   }
   
-  // 重置钻石余额（用于测试）
+  // 重置钻石余额
   static Future<void> resetDiamondBalance() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.remove(_diamondBalanceKey);

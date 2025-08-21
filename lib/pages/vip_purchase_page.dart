@@ -172,9 +172,9 @@ class _VipPurchasePageState extends State<VipPurchasePage> {
   }
 
   Widget _buildPurchaseOptions() {
-    final vipProduct = _purchaseService.vipProduct;
+    final vipProducts = _purchaseService.vipProducts;
     
-    if (vipProduct == null) {
+    if (vipProducts.isEmpty) {
       return const Center(
         child: Text(
           '暂无可用产品',
@@ -198,7 +198,7 @@ class _VipPurchasePageState extends State<VipPurchasePage> {
           ),
         ),
         const SizedBox(height: 16),
-        _buildPurchaseCard(vipProduct),
+        _buildPurchaseCard(vipProducts.first),
       ],
     );
   }

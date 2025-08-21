@@ -111,7 +111,7 @@ class UserInfoService {
     return '$age岁 / $location';
   }
   
-  // 重置用户信息（用于测试）
+  // 重置用户信息
   static Future<void> resetUserInfo() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.remove(_userInfoKey);

@@ -39,26 +39,19 @@ class _NormalDetailPageState extends State<NormalDetailPage> {
   }
 
   void _setupAudio() {
-    print('NormalDetailPage: 设置音频，活动ID: ${widget.activity.id}');
-    print('NormalDetailPage: 音频文件: ${widget.activity.audioFile}');
-    
     // 检查是否有音频文件
     if (_audioService.hasAudioFile(widget.activity.audioFile)) {
-      print('NormalDetailPage: 开始自动播放音频: ${widget.activity.audioFile}');
       // 自动播放音频
       _audioService.playAudio(widget.activity.audioFile!);
       
       // 监听播放状态
       _audioService.playingStateStream.listen((isPlaying) {
-        print('NormalDetailPage: 播放状态变化: $isPlaying');
         if (mounted) {
           setState(() {
             _isPlaying = isPlaying;
           });
         }
       });
-    } else {
-      print('NormalDetailPage: 没有音频文件或音频文件为空');
     }
   }
 
@@ -133,13 +126,6 @@ class _NormalDetailPageState extends State<NormalDetailPage> {
       _audioService.pauseAudio();
     }
     
-    // 调试打印发布者头像信息
-    print('NormalDetailPage: 发布者头像信息:');
-    print('  - publisherAvatar: ${widget.activity.publisherAvatar}');
-    print('  - 完整路径: assets/images/discoverAssets/${widget.activity.publisherAvatar}');
-    print('  - publisherId: ${widget.activity.publisherId}');
-    print('  - publisherNickname: ${widget.activity.publisherNickname}');
-    
     Navigator.push(
       context,
       MaterialPageRoute(
@@ -167,13 +153,6 @@ class _NormalDetailPageState extends State<NormalDetailPage> {
     if (_isPlaying) {
       _audioService.pauseAudio();
     }
-    
-    // 调试打印发布者头像信息
-    print('NormalDetailPage: 发布者头像信息(带活动):');
-    print('  - publisherAvatar: ${widget.activity.publisherAvatar}');
-    print('  - 完整路径: assets/images/discoverAssets/${widget.activity.publisherAvatar}');
-    print('  - publisherId: ${widget.activity.publisherId}');
-    print('  - publisherNickname: ${widget.activity.publisherNickname}');
     
     Navigator.push(
       context,

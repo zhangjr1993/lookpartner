@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'constants/app_colors.dart';
-import 'services/current_user_service.dart';
-import 'services/diamond_service.dart';
 import 'pages/splash_page.dart';
 import 'pages/home_page.dart';
 import 'pages/login_page.dart';

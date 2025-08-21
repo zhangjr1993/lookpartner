@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:permission_handler/permission_handler.dart';
-import 'package:image_gallery_saver/image_gallery_saver.dart';
-import '../services/native_permission_service.dart';
 import 'buddy_detail_page.dart';
 import 'normal_detail_page.dart';
 import 'my_activities_page.dart';
@@ -13,16 +9,11 @@ import 'feedback_page.dart';
 import 'draft_page.dart';
 import 'blacklist_page.dart';
 import 'report_history_page.dart';
-import 'chat_detail_page.dart';
 import 'package:lookpartner/constants/app_colors.dart';
 import 'package:lookpartner/constants/app_sizes.dart';
 import 'package:lookpartner/models/activity.dart';
-import 'package:lookpartner/services/signup_service.dart';
-import 'package:lookpartner/services/current_user_service.dart';
-import 'package:lookpartner/services/signup_limit_service.dart';
 import 'package:lookpartner/services/keychain_service.dart';
 import 'package:card_swiper/card_swiper.dart';
-import 'dart:math';
 
 class DiscoverPage extends StatefulWidget {
   final List<ActivityModel> activities;
@@ -111,9 +102,6 @@ class _DiscoverPageState extends State<DiscoverPage>
 
   @override
   Widget build(BuildContext context) {
-    print('DiscoverPage build: activities count = ${widget.activities.length}');
-    print('DiscoverPage build: currentIndex = $_currentIndex');
-    
     if (widget.activities.isEmpty) {
       return Container(
         color: Colors.white,
@@ -459,11 +447,6 @@ class _DiscoverPageState extends State<DiscoverPage>
     final user = await KeychainService.getUser();
     final userName = user?.nickname;
     final userAvatar = (user != null && user.avatar.isNotEmpty) ? 'assets/images/${user.avatar}' : null;
-    
-    print('DiscoverPage: 侧边栏菜单用户信息:');
-    print('  - userName: $userName');
-    print('  - userAvatar: $userAvatar');
-    print('  - 完整user: $user');
     
     showGeneralDialog(
       context: context,

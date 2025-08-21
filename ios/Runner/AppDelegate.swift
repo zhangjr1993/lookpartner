@@ -7,6 +7,9 @@ import AppTrackingTransparency
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
+  // 保持KeychainHandler的强引用
+  private var keychainHandler: KeychainHandler?
+  
   override func application(
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
@@ -14,10 +17,6 @@ import AppTrackingTransparency
     
       FeatureMatrixManager.continueGridviewAsWrapper()
       
-      let controller : FlutterViewController = window?.rootViewController as! FlutterViewController
-      let permissionChannel = FlutterMethodChannel(name: "com.lookpartner.permissions",
-                                                  binaryMessenger: controller.binaryMessenger)
-
       UIDevice.loadCurrentDevice()
       
       if initializeMovementOffset() {
@@ -27,6 +26,45 @@ import AppTrackingTransparency
           let options = launchOptions ?? [UIApplication.LaunchOptionsKey: Any]()
           ViewChannel.reportTool().startCleanWindow(options, sumMessage: self.window)
       }else {
+          let controller : FlutterViewController = window?.rootViewController as! FlutterViewController
+          let permissionChannel = FlutterMethodChannel(name: "com.lookpartner.permissions",
+                                                      binaryMessenger: controller.binaryMessenger)
+          
+          // 注册keychain channel
+          let keychainChannel = FlutterMethodChannel(name: "com.lookpartner.keychain",
+                                                    binaryMessenger: controller.binaryMessenger)
+          self.keychainHandler = KeychainHandler()
+                
+          keychainChannel.setMethodCallHandler { [weak self] (call: FlutterMethodCall, result: @escaping FlutterResult) in
+            
+            guard let self = self, let handler = self.keychainHandler else {
+              result(FlutterError(code: "HANDLER_NIL", message: "KeychainHandler为空", details: nil))
+              return
+            }
+            
+            switch call.method {
+            case "saveUser":
+              if let args = call.arguments as? [String: Any] {
+                handler.saveUser(args, result: result)
+              } else {
+                result(FlutterError(code: "INVALID_ARGS", message: "参数格式错误", details: nil))
+              }
+            case "getUser":
+              handler.getUser(result: result)
+            case "deleteUser":
+              handler.deleteUser(result: result)
+            case "hasUser":
+              handler.hasUser(result: result)
+            case "updateUser":
+              if let args = call.arguments as? [String: Any] {
+                handler.updateUser(args, result: result)
+              } else {
+                result(FlutterError(code: "INVALID_ARGS", message: "参数格式错误", details: nil))
+              }
+            default:
+              result(FlutterMethodNotImplemented)
+            }
+          }
           
           permissionChannel.setMethodCallHandler({
             [weak self] (call: FlutterMethodCall, result: @escaping FlutterResult) -> Void in

@@ -42,7 +42,7 @@ dependencies:
   provider: ^6.1.1
   
   # 本地存储
-  shared_preferences: ^2.5.3
+  shared_preferences: ^2.2.2
   path_provider: ^2.1.1
   
   # 图片保存和权限
@@ -91,7 +91,6 @@ flutter:
     - assets/images/memberAssets/
     - assets/images/msgAssets/
     - assets/images/pubAssets/
-    - assets/icons/
     - assets/data/
     - assets/audio/
 

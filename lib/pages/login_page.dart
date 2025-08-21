@@ -78,14 +78,14 @@ class _LoginPageState extends State<LoginPage> with TickerProviderStateMixin {
     }
   }
 
-  void _onUserAgreementTap() {
-    // TODO: 打开用户协议网页
-    _openWebPage('用户协议');
+  void _openUserAgreement() {
+    // 打开用户协议网页
+    print('打开用户协议');
   }
 
-  void _onPrivacyAgreementTap() {
-    // TODO: 打开隐私授权协议网页
-    _openWebPage('隐私授权协议');
+  void _openPrivacyPolicy() {
+    // 打开隐私授权协议网页
+    print('打开隐私政策');
   }
 
   void _openWebPage(String title) {
@@ -254,7 +254,7 @@ class _LoginPageState extends State<LoginPage> with TickerProviderStateMixin {
                                       color: AppColors.primaryTextHighlight,
                                     ),
                                     recognizer: TapGestureRecognizer()
-                                      ..onTap = _onUserAgreementTap,
+                                      ..onTap = _openUserAgreement,
                                   ),
                                   const TextSpan(text: '和'),
                                   TextSpan(
@@ -263,7 +263,7 @@ class _LoginPageState extends State<LoginPage> with TickerProviderStateMixin {
                                       color: AppColors.primaryTextHighlight,
                                     ),
                                     recognizer: TapGestureRecognizer()
-                                      ..onTap = _onPrivacyAgreementTap,
+                                      ..onTap = _openPrivacyPolicy,
                                   ),
                                 ],
                               ),

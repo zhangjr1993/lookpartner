@@ -85,7 +85,7 @@ class SignupLimitService {
     return currentCount;
   }
   
-  // 重置报名计数（用于测试）
+  // 重置报名计数
   static Future<void> resetSignupCount() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.remove(_dailySignupKey);
