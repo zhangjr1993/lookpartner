@@ -1,0 +1,23 @@
+{
+  "name": "MJCorePod",
+  "version": "1.0.0",
+  "summary": "A collection of iOS Module.",
+  "authors": {
+    "xxxxx": "xxxxx.me"
+  },
+  "homepage": "xxxxx",
+  "source": {
+    "git": "http://xxxxx.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "static_framework": true,
+  "requires_arc": true,
+  "resources": "Resources/*.bundle",
+  "vendored_libraries": "Resources/**/*.a",
+  "vendored_frameworks": "Resources/**/*.framework",
+  "libraries": "stdc++",
+  "prefix_header_contents": "#import <Foundation/Foundation.h>\n    #import <Availability.h>\n    #import <ReactiveObjC/ReactiveObjC.h>\n    #import <Masonry/Masonry.h>\n    #import <MJRefresh/MJRefresh.h>\n    #import <TXLiteAVSDK_Professional/TXLiteAVSDK.h>\n    #import <ImSDK_Plus/ImSDK_Plus.h>\n    #import <YYKit.h>\n\n    #import \"OffUtil.h\"\n    #import \"ChannelRequest.h\"\n    #import \"GiftTool.h\"\n    #import \"ErrorCode.h\"\n    #import \"ManagerTool.h\"\n    #import \"ViewVoice.h\"\n    #import \"LineManager.h\"\n    #import \"CircleBank.h\"\n    #import \"FamilyMenuCache.h\"\n    #import \"ActionGifts.h\"\n    #import \"VoiceVideo.h\"\n    \n    #import \"ActionChatMe.h\"\n    #import \"CoreSocial.h\"\n    #import \"TalkHelper.h\"\n    #import \"HistoryList.h\"\n    #import \"ModelSheet.h\"\n    #import \"SignHelper.h\"\n    #import \"SquareList.h\"\n    #import \"EditorIcon.h\"\n\n\n    #import \"DisplayColor.h\"\n    #import \"HouseholdImage.h\"\n\n    #import \"CellHelper.h\"\n    #import \"Cadre.h\"\n    #import \"ModeConfig.h\"\n    #import \"InfoStatistical.h\"\n    #import \"FamilyNucleusBaseModel.h\"\n    #import \"ChiefResponse.h\"\n    #import \"ViewChannel.h\"\n    #import \"MJCoreLogHeader.h\"\n\n#pragma mark - 自定义View\n    #import \"PtolemaicSystemView.h\"\n    #import \"ChannelView.h\"\n    #import \"ViewControl.h\"\n    #import \"TransfusionView.h\"\n#pragma mark - 宏定义\n    #import \"ResMacro.h\"\n    #import \"ModelDef.h\"\n    #import \"AngelCoreGift.h\"\n    #import \"ChannelIconDef.h\"\n    #import \"MJCoreDataTaskConst.h\"\n    #import \"BlueprintView.h\"\n    #import \"FallInPackage.h\"\n    #import \"TipDerangement.h\"\n    #import \"ViewDef.h\"\n\n\n#pragma mark - Category\n    #import \"UIApplication+View.h\"\n    #import \"NSObject+Clank.h\"\n    #import \"UIDevice+View.h\"\n    #import \"UIView+View.h\"\n    #import \"UIImageView+WebCache.h\"\n    #import \"UIButton+WebCache.h\"\n    #import \"UIImage+View.h\"\n    #import \"UIFont+View.h\"\n    #import \"NSString+View.h\"\n    #import \"NSUserDefaults+Account.h\"\n    #import \"LineManager+Info.h\"\n    #import <NSObject+YYModel.h>\n    #import <NSAttributedString+YYText.h>\n    #import \"LineManager+WindowNavigation.h\"\n    #import \"LineManager+Crash.h\"\n    #import \"NSObject+View.h\""
+}
